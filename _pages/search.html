@@ -1,0 +1,15 @@
+---
+layout: page
+title: Search
+---
+
+<form id="site_search">
+<div>This is a simple search system. It will match most non-grammatical words.
+  Not all results will be highlighted on the page.</div>
+<br>
+<input id="search" type="text"/></form>
+
+<div id="results"></div>
+<ul id="search_results"></ul>
+<script src="{{site.baseurl}}/assets/js/elasticlunr.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/search.js"></script>
