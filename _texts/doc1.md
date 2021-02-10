@@ -3,7 +3,7 @@ layout: narrative
 title: 65 Graduate In Exercise Wednesday
 author: Anonymous
 editor: Raff Viglianti
-permalink: /article1/
+permalink: /article3/
 ---
 
 > Commentary, contextualization, editor's notes, etc.
@@ -17,6 +17,7 @@ Agriculture Auditorium, when a sur­
 prise speaker will address the sixty­
 five Marylanders to receive their
 diplomas.
+
 Rev. Humphrey Beckett of Hyatts­
 ville will pronounce the invocation
 and the benediction. "My Maryland"
@@ -33,6 +34,7 @@ and Walter Sanderlin, receiving
 master of arts degrees; and Edward
 Reed and Alfred Myers, masters of
 science.
+
 Receiving their bachelor of arts
 degrees at this time will be Janet
 Andreae, Helen Broome, Faith Far­
