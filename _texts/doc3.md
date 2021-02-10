@@ -6,18 +6,18 @@ editor: Raff Viglianti
 permalink: /article3/
 ---
 
-During one of the coldest n:
-war games in the hills behind
-night from 7 ’til 11.
+> This is one of the articles more closely related to battle blah blah.
+
+## During one of the coldest nights this year, the ROTC held war games in the hills behind the dairy buildings Wednesday night from 7 ’til 11. 
+
 Selected sections carried out the
 lessons learned in military classes
 this quarter. Those classes which
 took up the theories of scouting and
 patrolling figured most prominently
-In the maneuvers, acting as the at­
-tacking force.
-The problem consisted of two com­
-panies and a section of tanks. The
+In the maneuvers, acting as the attacking force.
+
+The problem consisted of two companies and a section of tanks. The
 attacking company, composed of
 about 125 men under the leadership
 of Bill Gordon, had the assignment
