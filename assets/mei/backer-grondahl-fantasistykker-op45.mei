@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Fantasistykker. Vals</title>
+            <title type="subordinate">op. 45</title>
+            <respStmt>
+               <persName role="composer">Agathe Backer-Grondahl</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2020-12-01" type="encoding-date">2020-12-01</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000873397970">
+         <appInfo xml:id="appinfo-0000000985702224">
+            <application xml:id="application-0000001452197873" isodate="2021-02-23T14:47:11" version="3.3.0-dev-a6663a7">
+               <name xml:id="name-0000002090901017">Verovio</name>
+               <p xml:id="p-0000001249052435">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000735275903">
+            <score xml:id="score-0000001890064936">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000001265813133">
+                     <rend xml:id="rend-0000001144518597" halign="center" valign="top">Fantasistykker Op. 45 - Vals</rend>
+                     <rend xml:id="rend-0000002082326847" halign="right" valign="bottom">Agathe Backer-Grøndahl</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000001246019543">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="label-0000000219976782">Piano</label>
+                        <labelAbbr xml:id="labelAbbr-0000001109361594">Pno.</labelAbbr>
+                        <instrDef xml:id="instrdef-0000001459062282" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000000579894585" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000002023794977" sig="1f" />
+                        <meterSig xml:id="msig-0000000731892826" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000000350065347">
+                  <pb xml:id="pb-0000001022646212" />
+                  <measure xml:id="measure-0000001474653644" n="1">
+                     <staff xml:id="staff-0000000621840684" n="1">
+                        <layer xml:id="layer-0000001471452250" n="1">
+                           <note xml:id="note-0000002099315841" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
+                              <artic xml:id="artic-0000000855345990" artic="stacc" />
+                           </note>
+                           <beam xml:id="beam-0000000913043931">
+                              <note xml:id="note-0000000403228649" dur.ppq="1" dur="8" oct="3" pname="b" stem.dir="up">
+                                 <accid xml:id="accid-0000001790808424" accid="n" />
+                              </note>
+                              <note xml:id="note-0000001906033793" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" />
+                           </beam>
+                           <note xml:id="note-0000000814266155" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000001735652903" place="above" staff="1" tstamp="1.000000" midi.bpm="288" mm="96.000000" mm.unit="2" mm.dots="1">
+                        <rend xml:id="rend-0000000752106335" fontname="VerovioText"></rend> = 96</tempo>
+                     <dir xml:id="dir-0000000810730971" place="above" staff="1" tstamp="1.000000" vgrp="200">Molto con anima </dir>
+                     <dir xml:id="dir-0000001355234243" place="below" staff="1" tstamp="1.000000" vgrp="55">
+                        <rend xml:id="rend-0000000613227086" rend="none" fontstyle="italic">leggiero</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="measure-0000001209456266" n="2">
+                     <staff xml:id="staff-0000001383176531" n="1">
+                        <layer xml:id="layer-0000000096601285" n="1">
+                           <beam xml:id="beam-0000000585037733">
+                              <note xml:id="note-0000000603994278" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <accid xml:id="accid-0000001410763391" accid="s" accid.ges="s" />
+                              </note>
+                              <note xml:id="note-0000000012577227" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" />
+                              <note xml:id="note-0000001587610470" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="note-0000000503054274" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f" />
+                           </beam>
+                           <note xml:id="note-0000000159363182" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000001808019663" n="3">
+                     <staff xml:id="staff-0000001663342967" n="1">
+                        <layer xml:id="layer-0000000614760649" n="1">
+                           <beam xml:id="beam-0000000023265362">
+                              <note xml:id="note-0000000577001958" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="note-0000001918641429" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="down" />
+                              <note xml:id="note-0000000090325726" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                              <note xml:id="note-0000000623527429" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" />
+                           </beam>
+                           <chord xml:id="chord-0000001173181325" dur.ppq="2" dur="4" stem.dir="down">
+                              <note xml:id="note-0000001434061100" oct="5" pname="d" />
+                              <note xml:id="note-0000000190085979" oct="5" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <tie xml:id="tie-0000000380456974" startid="#note-0000000577001958" endid="#note-0000001434061100" />
+                  </measure>
+                  <measure xml:id="measure-0000002021802467" right="end" n="4">
+                     <staff xml:id="staff-0000002033481804" n="1">
+                        <layer xml:id="layer-0000000164698393" n="1">
+                           <beam xml:id="beam-0000000959975350">
+                              <note xml:id="note-0000001647915098" dur.ppq="1" dur="8" oct="5" pname="a" stem.dir="up" />
+                              <note xml:id="note-0000002135560372" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="up" />
+                              <note xml:id="note-0000001414799761" dur.ppq="1" dur="8" oct="5" pname="f" stem.dir="up" />
+                              <note xml:id="note-0000001629621944" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="up" />
+                              <note xml:id="note-0000001979526283" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="note-0000001160271314" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f" />
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
