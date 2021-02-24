@@ -1,8 +1,8 @@
 ---
 layout: mei
-title: An example MEI document
+title: Music Incipits
 permalink: /mei/
 document: backer-grondahl-fantasistykker-op45.mei
 ---
 
-<div>Introductory text goes here.</div>
+<div>This is a test page for rendering MEI XML.</div>
