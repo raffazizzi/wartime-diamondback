@@ -13,15 +13,12 @@ The list of compositions and composers that will be encoded is drawn from the MT
 ## Process
 Data will be extracted from music scores (PDF) using optical music recognition (OMR) tools, it will be edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files will be created according to the MEI guidelines. Within each corpus, our data will be organized into three buckets: Extracted Data, Corrected Data, Encoded Data. Documentation about the process will be added to the repository.
 
-### Extracted Data
-- contains Music XML files extracted directly from music notation software (SmartScore X2 Pro)
-- these files are not corrected
+### [Corpus 1](https://github.com/annakijas1/Test-Music-Incipits/tree/main/assets/corpus1)
+- Extracted Data: contains Music XML files extracted directly from music notation software (SmartScore X2 Pro). These files are not corrected
 
-### Corrected Data
-- contains corrected and reviewed Music XML files
+- Corrected Data: contains corrected and reviewed Music XML files
 
-### Encoded Data
-- contains MEI XML files based on the corrected Music XML files
+Encoded Data: contains MEI XML files based on the corrected Music XML files
 
 ### contributors
 - Gina Chun, Boston College Undergraduate student, 2018-19 (Digital Studio)
