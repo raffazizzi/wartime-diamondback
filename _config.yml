@@ -22,7 +22,7 @@ baseurl: "/Test-Music-Incipits" # the subpath of your site, e.g. /blog
 url: "https://github.com/annakijas1/Test-Music-Incipits/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: red
+color-scheme: blue
 
 # Permalinks
 permalink: pretty
