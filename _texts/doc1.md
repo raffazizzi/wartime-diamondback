@@ -1,91 +1,20 @@
 ---
 layout: narrative
-title: 65 Graduate In Exercise Wednesday
-author: Anonymous
-editor: Raff Viglianti
-permalink: /article3/
+title: Background about original project
+author: 
+editor: 
+permalink: /background/
 ---
 
-> Commentary, contextualization, editor's notes, etc.
+## Process
+Data will be extracted from music scores (PDF) using optical music recognition (OMR) tools, it will be edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files will be created according to the MEI guidelines. Within each corpus, our data will be organized into three buckets: Extracted Data, Corrected Data, Encoded Data. Documentation about the process will be added to the repository.
 
-## Washington Banquet Given For Seniors
+### Extracted Data
+- contains Music XML files extracted directly from music notation software (SmartScore X2 Pro)
+- these files are not corrected
 
-Commencement rites of the first
-winter quarter graduating class take
-place Wednesday at 8 p.m. in the
-Agriculture Auditorium, when a sur­
-prise speaker will address the sixty­
-five Marylanders to receive their
-diplomas.
+### Corrected Data
+- contains corrected and reviewed Music XML files
 
-Rev. Humphrey Beckett of Hyatts­
-ville will pronounce the invocation
-and the benediction. "My Maryland"
-will be sung by Harlan Randall.
-Those who are tentatively expected
-to receive masters degrees, according
-to the lis4 released by Miss Alma
-Preinkert, registrar, include Eunice
-Burdette, Esther Burnside, Edith
-Grove, Francis Hartzell and Ann
-Rowell, from the College of Educa­
-tion; Charles Eckenrode, Mary Kahl
-and Walter Sanderlin, receiving
-master of arts degrees; and Edward
-Reed and Alfred Myers, masters of
-science.
-
-Receiving their bachelor of arts
-degrees at this time will be Janet
-Andreae, Helen Broome, Faith Far­
-quhar, Clarice Glickman, Beryl
-Compers, Muriel Horrowitz, Dorothy
-Kells, Roberta Leighton, Kathryn
-Mac Morris, Evelyn Mendum, Ruth
-Osann, Marcelle O’Shaughnessy, Mar­
-garet Sherman, Eleanor Splckard,
-Elsie Stevens, Frances Whyte and
-Jane Woodring.
-Bachelors of science to receive di­
-plomas were announced: Gladys
-Allen, Leslie Bailey, William Carri­
-gan, Ann Chadeayne, Clifton Currln,
-Elizabeth Fell, Daniel Harbaugh, Nat­
-alie Higbie, Elizabeth Hobbs, Norman
-Horn, Virginia Hutchinson, Winifred
-Jeffers, William Keller, Robert Kien­
-hofer. James Kinsman, Millard Kirk,
-Beverly Ladd, Patricia McAnallen
-and Gene Melton.
-Others receiving bachelor of science
-degrees are Raymond Mueller, George
-Nlkolopoulos, Paul Noland, Henry
-Price, James Rea, Barbara Reed,
-Bolling Robertson, Robert Senser,
-Heino Statfel, Hannah Stevens, John
-Stidman, Ralph Stine, William Tar­
-bert, Vera Tompkins, Edward Turner,
-James Turner, Elizabeth Uhler and
-Albert Wolman.
-All graduating seniors are invited
-to the senior banquet which will be
-held on Monday, December 20, at
-7:30 p.m., in the Broadmoor Hotel,
-located on Connecticut avenue in
-Washington.
-Bobbie Reed is committee chair­
-man for the banquet, Les Bailey is
-in charge of the entertainment, and
-Marcelle O’Shaughnessy is handling
-the guest list, bids, and invitations.
-In order to bring a guest, seniors
-will be charged a fee of |2.50, and
-all guest’s names must be register­
-ed with Dean Reid and money turn­
-ed in to him by 4:10 today.
-Letters have been sent out to all
-seniors concerned. A return answer,
-indicating whether or not the invita­
-tion has been accepted should be
-turned in to Bobbie Reed, Box 2597,
-not later than this evening
+### Encoded Data
+- contains MEI XML files based on the corrected Music XML files
