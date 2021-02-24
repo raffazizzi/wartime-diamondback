@@ -5,6 +5,7 @@ permalink: /contributors/
 ---
 
 ### 2020-Present, Tufts University
+Undergraduate students
 - Ismenia Ginebra
 - Chelsea Hong
 - Delilah Righter
@@ -13,5 +14,6 @@ permalink: /contributors/
 
 
 ### 2018-2019, Boston College
-- Gina Chun, Boston College, Undergraduate
-- Emma Grimm, Boston College, Undergraduate
+Undergraduate students
+- Gina Chun
+- Emma Grimm
