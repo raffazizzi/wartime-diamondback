@@ -18,7 +18,7 @@ Data will be extracted from music scores (PDF) using optical music recognition (
 
 - Corrected Data: contains corrected and reviewed Music XML files
 
-Encoded Data: contains MEI XML files based on the corrected Music XML files
+- Encoded Data: contains MEI XML files based on the corrected Music XML files
 
 ### contributors
 - Gina Chun, Boston College Undergraduate student, 2018-19 (Digital Studio)
