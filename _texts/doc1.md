@@ -20,9 +20,5 @@ Data will be extracted from music scores (PDF) using optical music recognition (
 
 - Encoded Data: contains MEI XML files based on the corrected Music XML files
 
-### contributors
-- Gina Chun, Boston College Undergraduate student, 2018-19 (Digital Studio)
-- Emma Grimm, Boston College Undergraduate student 2018-19 (Digital Studio)
-
 ### acknowledgements
 Ben Parsell and Molly Murdock of the Music Theory Examples by Women project were kind enough to share the music score PDFs that make up this initial corpus.
