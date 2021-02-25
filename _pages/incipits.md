@@ -6,3 +6,33 @@ permalink: /incipits/
 
 ## Needs updating
 
+<div class="toc">
+  <h2>Music Incipits</h2>
+  <ul class="post">
+    
+    <li class="text-title">
+      <a href="/ed/texts/page-name">
+        Insert author/title of music incipit
+      </a>
+    </li>
+    
+    <li class="text-title">
+       <a href="/ed/texts/page-name">
+        Insert author/title of music incipit
+      </a>
+    </li>
+    
+    <li class="text-title">
+      <a href="/ed/texts/page-name">
+        Insert author/title of music incipit
+      </a>
+    </li>
+    
+    <li class="text-title">
+       <a href="/ed/texts/page-name">
+        Insert author/title of music incipit
+      </a>
+    </li>
+  
+  </ul>
+</div>
