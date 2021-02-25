@@ -13,3 +13,4 @@ In addition to making the data open and accessible, we will include a documented
 - [Donne Women in Music](http://www.drama-musica.com/Donne.html) founded by Gabriella Di Laccio
 - [Music by Black Composers](https://www.musicbyblackcomposers.org/) project of the Rachel Barton Pine Foundation
 - [Women in Music Resources](https://musictheoryexamplesbywomen.com/women-in-music-resources/) compiled by the Music Theory Examples by Women team
+
