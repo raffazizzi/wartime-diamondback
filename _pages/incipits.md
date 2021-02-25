@@ -8,15 +8,9 @@ permalink: /incipits/
   <ul class="post">
     
     <li class="text-title">
-      <a "href=/ed/texts/mei">
+      <a "href=/_texts/fantasistykker-op39.md">
         Backer-Grøndahl, Agathe, 1847-1907
       </a>
-    </li>
-    
-    <li class="text-title">
-       <a href="/ed/texts/fantasistykker-op39.md">
-       Backer-Grøndahl, Agathe, 1847-1907
-       </a>
     </li>
     
     <li class="text-title">
