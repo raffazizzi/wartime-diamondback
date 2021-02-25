@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Music Incipits
+title: Music Incipits Index
 permalink: /incipits/
 ---
 
 <div class="toc">
-  <h2>Index of Music Incipits</h2>
   <ul class="post">
     
     <li class="text-title">
