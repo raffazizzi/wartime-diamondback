@@ -8,13 +8,13 @@ permalink: /incipits/
   <ul class="post">
     
     <li class="text-title">
-      <a href="/texts/backer-grondahl-39">
+      <a href="/ed/texts/mei-BG39">
         Backer-Grøndahl, Agathe, 1847-1907
       </a>
     </li>
     
     <li class="text-title">
-      <a href="/ed/texts/page-name">
+      <a href="/ed/texts/mei-BG39">
         Insert author/title of music incipit
       </a>
     </li>
