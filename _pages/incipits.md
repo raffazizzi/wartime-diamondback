@@ -4,10 +4,8 @@ title: Music Incipits
 permalink: /incipits/
 ---
 
-## Needs updating
-
 <div class="toc">
-  <h2>Music Incipits</h2>
+  <h2>Index of Music Incipits</h2>
   <ul class="post">
     
     <li class="text-title">
