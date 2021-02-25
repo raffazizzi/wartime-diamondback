@@ -14,13 +14,3 @@ In addition to making the data open and accessible, we will include a documented
 - [Music by Black Composers](https://www.musicbyblackcomposers.org/) project of the Rachel Barton Pine Foundation
 - [Women in Music Resources](https://musictheoryexamplesbywomen.com/women-in-music-resources/) compiled by the Music Theory Examples by Women team
 
-<div>
-{% assign texts_list = site.texts | sort:"url" %}
-<ul>
-{% for node in texts_list %}
-  {% if node.title != null and node.url != "/404.html" %}
-    <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
-</div>
