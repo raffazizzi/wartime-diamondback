@@ -8,7 +8,7 @@ permalink: /incipits/
   <ul class="post">
     
     <li class="text-title">
-      <a "/texts/mei>
+      <a "/ed/texts/mei>
         Backer-Grøndahl, Agathe, 1847-1907
       </a>
     </li>
