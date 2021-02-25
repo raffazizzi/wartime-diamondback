@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Backer-Grøndahl, Agathe, 1847-1907
-permalink: /mei-BG39/
+permalink: /mei/
 document: Backer-Grondahl_Fantasistykker_op39_no1_Souvenir_mei
 ---
 
