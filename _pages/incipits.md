@@ -8,7 +8,7 @@ permalink: /incipits/
   <ul class="post">
     
     <li class="text-title">
-      <a href="/ed/texts/fantasistykker-op39.md">
+      <a "https://github.com/annakijas1/Test-Music-Incipits/blob/main/_texts/fantasistykker-op39.md">
         Backer-Grøndahl, Agathe, 1847-1907
       </a>
     </li>
