@@ -1,8 +1,6 @@
 ---
 layout: narrative
 title: Incipit Index
-author:
-editor: 
 permalink: /article3/
 ---
 
