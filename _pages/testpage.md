@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Music Incipits Index
-permalink: /incipits/
+title: test-page
+permalink: /test-page/
 ---
 
 <div class="toc">
