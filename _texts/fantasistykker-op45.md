@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Backer-Grøndahl, Agathe, 1847-1907, Fantasistykker, op. 45, Vals
-permalink: /bg-45/
+permalink: /backer-grondahl-45/
 document: backer-grondahl-fantasistykker-op45.mei
 ---
 
