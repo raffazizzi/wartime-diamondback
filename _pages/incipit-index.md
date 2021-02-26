@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Index
-permalink: /index/
+title: Incipit Index
+permalink: /incipit-index/
 ---
 
 
