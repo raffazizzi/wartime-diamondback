@@ -6,9 +6,9 @@ permalink: /incipit-index/
 
 
 <div>
-{% assign backer-grondahl_list = site.texts | sort:"url" %}
+{% assign text_list = site.texts | sort:"url" %}
 <ul>
-{% for node in backer-grondahl_list %}
+{% for node in text_list %}
   {% if node.title != null and node.url != "/404.html" %}
     <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
   {% endif %}
