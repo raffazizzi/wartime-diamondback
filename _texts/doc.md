@@ -1,7 +1,7 @@
 ---
 layout: narrative
-title: title
-author: Anonymous
+title: Incipit Index
+author:
 editor: 
 permalink: /article3/
 ---
