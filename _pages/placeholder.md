@@ -1,7 +1,7 @@
 ---
 layout: page
-title: placeholder
-permalink: /placeholder/
+title: Index
+permalink: /index/
 ---
 
 
