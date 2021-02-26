@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Backer-Grøndahl, Agathe, 1847-1907
-permalink: /sommernat/
+permalink: /bg-39.2/
 document: Backer-Grondahl_Fantasistykker_op39_no2_Sommernat_mei
 ---
 
