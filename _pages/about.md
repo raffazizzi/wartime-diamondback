@@ -21,7 +21,18 @@ Data was extracted from music scores (PDF) using optical music recognition (OMR)
 
 - Encoded Data: contains MEI XML files based on the corrected Music XML files
 
+### 2020-Present, Tufts University
+Undergraduate students
+- Ismenia Ginebra
+- Chelsea Hong
+- Delilah Righter
+- Sebastian Tringale
+- Hailing Wang
+
+### 2018-2019, Boston College
+Undergraduate students
+- Gina Chun
+- Emma Grimm
+
 #### Acknowledgements
 Ben Parsell and Molly Murdock of the Music Theory Examples by Women project were kind enough to share the music score PDFs during the initial project.
-
-
