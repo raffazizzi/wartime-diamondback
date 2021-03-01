@@ -11,7 +11,7 @@ The project repository will contain a dataset of music incipits and excerpts fro
 
 - <a href="http://afrovoices.com/collections/" target="_blank">Afrocentric Voices in “Classical” Music</a> curated by Randye Jones
 - <a href="https://composerdiversity.com" target="_blank">Composer Diversity Database</a> founded by Dr. Rob Deemer
-- <a href="http://www.drama-musica.com/Donne.html" target="_blank">Donne Women in Music</a> founded by Gabriella Di Laccio
+- <a href="https://donne-uk.org/" target="_blank">Donne Women in Music</a> founded by Gabriella Di Laccio
 - <a href="https://www.musicbyblackcomposers.org/" target="_blank">Music by Black Composers</a> project of the Rachel Barton Pine Foundation
 - <a href="https://musictheoryexamplesbywomen.com/women-in-music-resources/" target="_blank">Women in Music Resources</a> compiled by the Music Theory Examples by Women team
 
