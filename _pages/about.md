@@ -16,6 +16,7 @@ A group of students who work at the Lilly Music Library are transcribing these i
 - Sebastian Tringale (Spring 2020-current), undergraduate
 - Hailing Wang (Spring 2020), undergraduate
 
+---
 
 ## 2017-2019
 The initial project began with a goal of transcribing and encoding a selection of 
