@@ -4,6 +4,7 @@ title: Incipit Index
 permalink: /incipit-index/
 ---
 
+This page is under development. Incipits will be added here over time and we will be testing out organization and layout.
 
 <div>
 {% assign text_list = site.texts | sort:"url" %}
