@@ -25,7 +25,7 @@ musical works from the <a href="https://musictheoryexamplesbywomen.com/" target=
 The list of compositions and composers that we worked with is drawn from the MTEW project and can be viewed in this <a href="https://docs.google.com/spreadsheets/d/10BWNZQ0e5EduUB_UBJpDdROjY3VetWvAucYGhnGXaGo/edit#gid=970050992" target="_blank">spreadsheet</a>. The extracted data was checked against the score listed in the spreadsheet and can be found as a PDF on the MTEW site. We do not store the score PDFs in this repository.
 
 #### Process
-Data was extracted from music scores (PDF) using optical music recognition (OMR) tools, edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files were created according to the MEI guidelines. The music data was organized into three buckets: Extracted Data, Corrected Data, Encoded Data. This corpus can be found on this [page](https://github.com/annakijas1/Test-Music-Incipits/tree/main/assets/corpus1).
+Data was extracted from music scores (PDF) using optical music recognition (OMR) tools, edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files were created according to the MEI guidelines. The music data was organized into three buckets: Extracted Data, Corrected Data, Encoded Data. The data can be accessed in the [repository](https://github.com/annakijas1/Test-Music-Incipits/tree/main/assets/corpus1).
 
 ### Student Contributors at Boston College
 - Gina Chun (2018-2019), undergraduate
