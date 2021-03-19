@@ -1,5 +1,5 @@
 ---
-layout: mei
+layout: default
 title: Code Test
 permalink: /code-test/
 ---
