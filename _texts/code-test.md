@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mei
 title: Code Test
 permalink: /code-test/
 ---
