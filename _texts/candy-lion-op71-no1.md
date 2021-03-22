@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: The Candy Lion, Op. 75, No. 1
+title: Beach, Amy Marcy Cheney Beach, 1867-1944, The Candy Lion, Op. 75, No. 1
 permalink: /beach-75.1/
 document: beach_candy_lion_op75_no1.mei
 ---
