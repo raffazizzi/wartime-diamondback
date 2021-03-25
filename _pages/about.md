@@ -12,9 +12,13 @@ A group of students who work at the Lilly Music Library are transcribing these i
 ### Student Contributors at Tufts University
 - Ismenia Ginebra (Spring 2020-current), undergraduate
 - Chelsea Hong (Spring 2020), undergraduate
+- Simon K. Perry (Spring 2021), undergraduate
 - Delilah Righter (Spring 2020-current), undergraduate
+- Victoria K. Rose (Spring 2021-current), undergraduate
+- Joanna Strogatz (Spring 2021-current), undergraduate
 - Sebastian Tringale (Spring 2020-current), undergraduate
 - Hailing Wang (Spring 2020), undergraduate
+- Phillip G. Wright (Spring 2021), graduate
 
 ---
 
