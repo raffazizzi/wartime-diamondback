@@ -2,9 +2,9 @@
 layout: page
 ---
 
-Backer-Grøndahl, Agathe, 1847-1907
+Amy Marcy Cheney Beach
 <div>
-{% assign text_list = site.texts | sort:"url" %}
+{% assign text_list = site.texts1 | sort:"url" %}
 <ul>
 {% for node in text_list %}
   {% if node.title != null and node.url != "/404.html" %}
