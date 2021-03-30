@@ -18,9 +18,9 @@ This page is under development. Incipits will be added here over time and we wil
 </div>
 
 <div class="toc">
-  <h2>sample texts</h2>
+  <h2>Incipit Index</h2>
   <ul class="texts">
-  {% for item in site.texts %}
+  {% for item in site.texts1 %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
