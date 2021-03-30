@@ -16,3 +16,18 @@ This page is under development. Incipits will be added here over time and we wil
 {% endfor %}
 </ul>
 </div>
+
+<div class="toc">
+  <h2>sample texts</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
