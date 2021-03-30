@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Amy Marcy Cheney Beach
+Beach, Amy Marcy Cheney (1867-1944)
 <div>
 {% assign text_list = site.texts1 | sort:"url" %}
 <ul>
