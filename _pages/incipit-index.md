@@ -4,10 +4,9 @@ title: Incipit Index
 permalink: /incipit-index/
 ---
 
-This page is under development. Incipits will be added here over time and we will be testing out organization and layout.
-
 <div class="toc">
   <h2>Incipit Index</h2>
+  <p>This page is under development. Incipits will be added here over time and we will be testing out organization and layout.</p>
   <ul class="texts">
   {% for item in site.texts %}
 
