@@ -11,11 +11,7 @@ permalink: /incipit-index-02/
 <ul class="texts">
     {% for item in site.texts %}
       {% if item.title == "Backer-Grøndahl" %}
-        <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
       {% endif %}
     {% endfor %}
 </ul>
