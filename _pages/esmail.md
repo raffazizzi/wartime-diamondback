@@ -2,7 +2,7 @@
 layout: page
 title: Esmail, Reena
 category: incipits
-permalink: /esmail-incipits/
+permalink: /esmail/
 ---
 
 <ul class="texts">
