@@ -10,9 +10,9 @@ permalink: /incipit-index-02/
 
 <h3>Getting Started</h3>
 <ul>
-    {% for item in site.texts %}
-      {% if item.title == "Backer-Grøndahl" %}
-        <li><a href="{{ site.url }}">{{ item.title }}</a></li>
+    {% for texts in site.texts %}
+      {% if text.title == "Backer-Grøndahl" %}
+        <li><a href="{{ site.url }}">{{ text.title }}</a></li>
       {% endif %}
     {% endfor %}
 </ul>
