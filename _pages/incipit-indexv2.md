@@ -11,8 +11,8 @@ permalink: /incipit-index-02/
 <h3>Getting Started</h3>
 <ul>
     {% for texts in site.texts %}
-      {% if text.title == "Backer-Grøndahl" %}
-        <li><a href="{{ site.url }}">{{ text.title }}</a></li>
+      {% if texts.title == "Backer-Grøndahl" %}
+        <li><a href="{{ site.url }}">{{ texts.title }}</a></li>
       {% endif %}
     {% endfor %}
 </ul>
