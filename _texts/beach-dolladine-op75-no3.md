@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Beach, Amy Marcy Cheney (1867-1944), *Dolladine, Op. 75, No. 3*
+title: Beach, Amy Marcy Cheney (1867-1944), Dolladine, Op. 75, No. 3
 permalink: /beach-75.3/
 document: beach_dolladine_op75_no3.mei
 ---
