@@ -9,7 +9,7 @@ permalink: /incipit-index-02/
   <p>This page is under development. Incipits will be added here over time and we will be testing out organization and layout.</p>
   <ul class="texts">
  {% for item in site.texts %}
-    {% if item.title == Backer-Grøndahl %}
+    {% if item.title contains Backer-Grøndahl %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
@@ -19,5 +19,3 @@ permalink: /incipit-index-02/
   {% endfor %}
   </ul>
 </div>
-
-
