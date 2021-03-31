@@ -10,7 +10,7 @@ permalink: /incipit-index-02/
 
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.title == "Backer-Grøndahl" %}
+      {% if item.author == "Beach, Amy Marcy Cheney" %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
       {% endif %}
     {% endfor %}
