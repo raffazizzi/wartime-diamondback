@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Incipit Index"
+title: Main Index
 permanlink: /main-index/
 ---
 
@@ -10,7 +10,11 @@ permanlink: /main-index/
 <ul>
     {% for item in site.pages %}
       {% if item.category == "incipits" %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
       {% endif %}
     {% endfor %}
 </ul>
