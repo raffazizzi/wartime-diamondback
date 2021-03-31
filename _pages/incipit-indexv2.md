@@ -10,7 +10,7 @@ permalink: /incipit-index-02/
 
 <ul class="texts">
     {% for item in site.texts %}
-      {% if texts.title == "Backer-Grøndahl" %}
+      {% if item.title == "Backer-Grøndahl" %}
         <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -20,4 +20,3 @@ permalink: /incipit-index-02/
     {% endfor %}
 </ul>
 </div>
-
