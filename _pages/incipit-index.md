@@ -9,11 +9,11 @@ permanlink: /incipit-index/
   <p>This page is under development. Incipits will be added here over time and we will be testing out organization and layout.</p>
 
 <ul>
-    {% for doc in site.docs %}
-      {% if doc.category == "incipits" %}
+    {% for item in site.docs %}
+      {% if item.category == "incipits" %}
         <li class="text-title">
-          <a href="{{ site.baseurl }}{{ doc.url }}">
-        {{ doc.title }}
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
               </a>
     </li>
       {% endif %}
