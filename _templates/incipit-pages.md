@@ -1,6 +1,7 @@
 ---
 layout: mei
-title: Composer Last Name, First Name (Dates if available), Title of Composition
+title: Title of Composition
+author: Composer Last Name, First Name
 permalink: /last-name-short-title or opus/number/
 document: mei filename
 ---
