@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Esmail, Reena, Saans
+title: Esmail, Reena
 permalink: /esmail-incipits/
 ---
 
