@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Backer-Grøndahl, Agathe, 1847-1907, Fantasistykker, op. 39, no. 5 - I Baaden
+title: Backer-Grøndahl, Agathe, 1847-1907, *Fantasistykker, op. 39, no. 5 - I Baaden*
 permalink: /backer-grondahl-39.5/
 document: backer-grondahl_fantasistykker_op39_no5.mei
 ---
