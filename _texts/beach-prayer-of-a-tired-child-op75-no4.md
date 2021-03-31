@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Beach, Amy Marcy Cheney (1867-1944), *Prayer of a Tired Child, Op. 75, No. 4*
+title: Beach, Amy Marcy Cheney (1867-1944), Prayer of a Tired Child, Op. 75, No. 4
 permalink: /beach-75.4/
 document: beach_prayer_of_a_tired_child_op75_no4.mei
 ---
