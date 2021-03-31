@@ -15,8 +15,6 @@ permalink: /incipit-index-02/
   </a>
 </li>
   {% endfor %}
- 
-
 
   </ul>
 </div>
