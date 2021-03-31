@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Backer-Grøndahl, Agathe (1847-1907), *Fantasistykker, op. 39, no. 2 - Sommernat*
+title: Backer-Grøndahl, Agathe (1847-1907), Fantasistykker, op. 39, no. 2 - Sommernat
 permalink: /backer-grondahl-39.2/
 document: backer-grondahl_fantasistykker_op39_no2.mei 
 ---
