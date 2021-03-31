@@ -4,17 +4,16 @@ title: Incipit Index
 permanlink: /incipit-index/
 ---
 
-<div class="toc">
   <p>Composer's last names appear in alphabetical order. All of the current incipits are transcribed from scores housed in the Lilly Music Library.</p>
   <p>This page is under development. Incipits will be added here over time and we will be testing out organization and layout.</p>
 
 <ul>
-    {% for item in site.docs %}
+    {% for doc in site.docs %}
       {% if item.category == "incipits" %}
-        <li><a href="{{ item.url }}">{{ item.title }}
+        <li><a href="{{ doc.url }}">{{ doc.title }}
               </a>
     </li>
       {% endif %}
     {% endfor %}
 </ul>
-</div>
+
