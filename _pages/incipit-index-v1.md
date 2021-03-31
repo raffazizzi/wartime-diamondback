@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Incipit Index
-permalink: /incipit-index/
+title: Incipit Index-old
+permalink: /incipit-indexv1/
 ---
 
 <div class="toc">
