@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Backer-Grøndahl, Agathe (1847-1907)
-permalink: /backer-grondahl-incipits/
+category: incipits
+permalink: /backer-grondahl/
 ---
 
 <ul class="texts">
