@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Simon, Carlos
-permalink: /simon-incipits/
+category: incipits
+permalink: /simon/
 ---
 
 <ul class="texts">
