@@ -11,7 +11,7 @@ permalink: /incipit-index-02/
  {% for item in site.texts %} 
     <li class="text-title">
   <a href="{{ site.baseurl }}{{ item.url }}">
-     {{ item.title | where_exp: "title", "item.title == Backer-Grøndahl" }}
+     {{ item.title | where: "item.title","Backer-Grøndahl" }}
   </a>
 </li>
   {% endfor %}
