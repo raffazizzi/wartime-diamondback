@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Barraine, Elsa, 1910-1999, Hommage à Paul Dukas
+title: Barraine, Elsa (1910-1999), Hommage à Paul Dukas
 permalink: /barraine-homage/
 document: barraine_homage_à_paul_dukas.mei 
 ---
