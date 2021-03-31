@@ -15,7 +15,7 @@ permalink: /incipit-index-02/
         {{ item.title }}
       </a>
     </li>
-  {% endfor %}
+  {% endif %}
   </ul>
 </div>
 
