@@ -1,6 +1,7 @@
 ---
 layout: mei
-title: Simon, Carlos, be still and know
+title: be still and know
+author: Simon, Carlos
 permalink: /simon-be-still/
 document: simon_be_still_and_know.mei
 ---
