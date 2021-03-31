@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Barraine, Elsa (1910-1999)
-permalink: /barraine-incipits/
+category: incipits
+permalink: /barraine/
 ---
 
 <ul class="texts">
