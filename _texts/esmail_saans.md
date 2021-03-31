@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Esmail, Reena, *Saans (Breathe)*
+title: Esmail, Reena, Saans (Breathe)
 permalink: /esmail-saans/
 document: esmail_saans.mei 
 ---
