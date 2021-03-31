@@ -1,6 +1,7 @@
 ---
 layout: mei
-title: Beach, Amy Marcy Cheney (1867-1944), Thanksgiving Fable, Op. 75, No. 2
+title: Thanksgiving Fable, Op. 75, No. 2
+author: Beach, Amy Marcy Cheney
 permalink: /beach-75.2/
 document: beach_thanksgiving_fable_op75_no2.mei
 ---
