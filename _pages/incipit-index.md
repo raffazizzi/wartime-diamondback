@@ -11,8 +11,7 @@ permanlink: /incipit-index/
 <ul>
     {% for item in site.docs %}
       {% if item.category == "incipits" %}
-        <li><a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
+        <li><a href="{{ item.url }}">{{ item.title }}
               </a>
     </li>
       {% endif %}
