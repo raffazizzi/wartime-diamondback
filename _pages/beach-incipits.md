@@ -7,8 +7,11 @@ permalink: /beach-incipits/
 <ul class="texts">
     {% for item in site.texts %}
       {% if item.author == "Beach, Amy Marcy Cheney" %}
-          <li><a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}</a></li>
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
       {% endif %}
     {% endfor %}
 </ul>
