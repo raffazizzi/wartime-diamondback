@@ -1,6 +1,7 @@
 ---
 layout: mei
-title: Simon, Carlos, Let America Be America Again
+title: Let America Be America Again
+author: Simon, Carlos
 permalink: /simon-america/
 document: simon_let_america_be_america_again.mei
 ---
