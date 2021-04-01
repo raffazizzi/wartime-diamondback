@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simon, Carlos
+title: Simon, Carlos (1984-)
 category: incipits
 permalink: /simon/
 ---
