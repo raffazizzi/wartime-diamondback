@@ -2,7 +2,7 @@
 layout: page
 title: Backer-Grøndahl, Agathe (1847-1907)
 category: incipits
-time-period: 19th century | 20th century
+century: 19th | 20th
 permalink: /backer-grondahl/
 ---
 
