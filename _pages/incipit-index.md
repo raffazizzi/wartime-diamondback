@@ -3,9 +3,9 @@ layout: page
 title: Incipit Index
 permanlink: /incipit-index/
 ---
+<p>This index is being developed. Additional composers and works will be added.</p>
 
-  <p>Composer's last names appear in alphabetical order. All of the current incipits are transcribed from scores housed in the Lilly Music Library.</p>
-  <p>This page is under development. Incipits will be added here over time and we will be testing out organization and layout.</p>
+  <p>Composer's namees appear in alphabetical order and chronologically under the century when they were born. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. </p>
 
 <div class="toc">
   <h3>Composers born in the 19th-century</h3>
