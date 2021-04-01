@@ -2,7 +2,7 @@
 layout: page
 title: Esmail, Reena (1983-)
 category: incipits
-century: 20th | 21st
+century: 20th
 permalink: /esmail/
 ---
 
