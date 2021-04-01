@@ -11,7 +11,7 @@ permanlink: /incipit-index/
   <h3>Composers born in the 19th-century</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.category == "19th" %}
+      {% if item.century == "19th" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -24,7 +24,7 @@ permanlink: /incipit-index/
   <h3>Composers born in the 20th-century</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.category == "20th" %}
+      {% if item.century == "20th" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
