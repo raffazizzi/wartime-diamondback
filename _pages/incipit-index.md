@@ -8,9 +8,23 @@ permanlink: /incipit-index/
   <p>This page is under development. Incipits will be added here over time and we will be testing out organization and layout.</p>
 
 <div class="toc">
+  <h3>Composers born in the 19th-century</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.category == "incipits" %}
+      {% if item.category == "19th" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+  <h3>Composers born in the 20th-century</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.category == "20th" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -20,4 +34,3 @@ permanlink: /incipit-index/
     {% endfor %}
 </ul>
 </div>
-
