@@ -2,7 +2,7 @@
 layout: page
 title: Simon, Carlos (1984-)
 category: incipits
-time-period: 21st century
+century: 20th | 21st
 permalink: /simon/
 ---
 
