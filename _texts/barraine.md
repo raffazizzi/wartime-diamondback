@@ -2,7 +2,7 @@
 layout: page
 title: Barraine, Elsa (1910-1999)
 category: incipits
-time-period: 20th century
+century: 20th
 permalink: /barraine/
 ---
 
