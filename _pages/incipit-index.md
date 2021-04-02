@@ -3,12 +3,12 @@ layout: page
 title: Incipit Index
 permanlink: /incipit-index/
 ---
-<p>This index is being developed. Additional composers and works will be added.</p>
+<p>This index is under development and additional composers and works will be added.</p>
 
-  <p>Composer's namees appear in alphabetical order and chronologically under the century when they were born. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. </p>
+  <p>Composer's names appear in alphabetical order and are organized chronologically under the century of their birth. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. </p>
 
 <div class="toc">
-  <h3>Composers born in the 19th-century</h3>
+  <h3>19th-century</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.century == "19th" %}
@@ -21,7 +21,7 @@ permanlink: /incipit-index/
     {% endfor %}
 </ul>
 
-  <h3>Composers born in the 20th-century</h3>
+  <h3>20th-century</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.century == "20th" %}
