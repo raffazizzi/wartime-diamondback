@@ -3,9 +3,9 @@ layout: page
 title: Incipit Index
 permanlink: /incipit-index/
 ---
-<p>This index is under development and additional composers and works will be added. Details about this project are available on this [page](https://annakijas1.github.io/rebalancing-music-canon/about/).</p>
+This index is under development and additional composers and works will be added. Details about this project are available on this [page](https://annakijas1.github.io/rebalancing-music-canon/about/).
 
-  <p>Composer's names appear in alphabetical order and are organized chronologically under the century of their birth. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. </p>
+Composer's names appear in alphabetical order and are organized chronologically under the century of their birth. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. 
 
 <div class="toc">
   <h3>19th-century</h3>
