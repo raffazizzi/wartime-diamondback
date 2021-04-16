@@ -32,6 +32,15 @@ index.addDoc({
 });{% assign count = count | plus: 1 %}{% endfor %}
 
 // Builds reference data (maybe not necessary for us, to check)
+var store = [{% for text in site.pages %}{
+  "title": {{text.title | jsonify}},
+  "author": {{text.author | jsonify}},
+  "layout": {{ text.layout | jsonify }},
+  "link": {{text.url | jsonify}},
+}
+             
+{% unless forloop.last %},{% endunless %}{% endfor %}]
+
 var store = [{% for text in site.texts %}{
   "title": {{text.title | jsonify}},
   "author": {{text.author | jsonify}},
