@@ -13,7 +13,7 @@ var index = elasticlunr(function () {
 });
 
 // Add to this index the proper metadata from the Jekyll content
-{% assign count = 0 %}{% for text in site.pages %}
+{% assign count = 0 %}{% for text in site.texts %}
 index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
@@ -23,12 +23,13 @@ index.addDoc({
 });{% assign count = count | plus: 1 %}{% endfor %}
 
 // Builds reference data (maybe not necessary for us, to check)
-var store = [{% for text in site.pages %}{
+var store = [{% for text in site.texts %}{
   "title": {{text.title | jsonify}},
   "author": {{text.author | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
 }
+             
 {% unless forloop.last %},{% endunless %}{% endfor %}]
 
 // Query
