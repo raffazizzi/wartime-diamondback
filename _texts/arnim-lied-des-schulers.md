@@ -3,7 +3,7 @@ layout: mei
 title: Lied des Schülers
 author: Arnim, Bettina von
 permalink: /arnim-lied-des-schulers/
-document: arnim_lied-des-schulers.mei
+document: arnim_lied_des_schulers.mei
 ---
 
 - In Arnim, Bettina von, and Moering, Renate. *Lieder und Duette: Für Singstimme und Klavier Handschriften, Drucke, Bearbeitungen.* Kassel: Furore Edition, 1996. 
