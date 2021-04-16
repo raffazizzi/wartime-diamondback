@@ -17,3 +17,5 @@ permalink: /agnesi/
       {% endif %}
     {% endfor %}
 </ul>
+
+<a title="Sailko, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Anonimo,_ritratto_della_compositrice_e_clavicembalista_maria_teresa_agnesi.jpg"><img width="512" alt="Anonimo, ritratto della compositrice e clavicembalista maria teresa agnesi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Anonimo%2C_ritratto_della_compositrice_e_clavicembalista_maria_teresa_agnesi.jpg/512px-Anonimo%2C_ritratto_della_compositrice_e_clavicembalista_maria_teresa_agnesi.jpg"></a>
