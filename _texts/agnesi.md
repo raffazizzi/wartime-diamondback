@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agnesi, Maria Teresa (1720 – 1795)
+title: Agnesi, Maria Teresa (1720-1795)
 category: incipits
 century: 18th
 permalink: /agnesi/
