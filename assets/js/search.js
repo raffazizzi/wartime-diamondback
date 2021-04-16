@@ -13,6 +13,15 @@ var index = elasticlunr(function () {
 });
 
 // Add to this index the proper metadata from the Jekyll content
+{% assign count = 0 %}{% for text in site.pages %}
+index.addDoc({
+  title: {{text.title | jsonify}},
+  author: {{text.author | jsonify}},
+  layout: {{text.layout | jsonify}},
+  content: {{text.content | jsonify | strip_html}},
+  id: {{count}}
+});{% assign count = count | plus: 1 %}{% endfor %}
+
 {% assign count = 0 %}{% for text in site.texts %}
 index.addDoc({
   title: {{text.title | jsonify}},
