@@ -3,7 +3,7 @@ layout: mei
 title: Romanze
 author: Arnim, Bettina von
 permalink: /arnim-romanze/
-document: von_arnim_romanze.mei
+document: arnim_romanze.mei
 ---
 
 - In Arnim, Bettina Von, and Moering, Renate. *Lieder Und Duette: Für Singstimme Und Klavier  Handschriften, Drucke, Bearbeitungen.* Kassel: Furore Edition, 1996. 
