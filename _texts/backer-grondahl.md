@@ -11,7 +11,7 @@ permalink: /backer-grondahl/
       {% if item.author == "Backer-Grøndahl, Agathe" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.number }}
+        {{ item.title }}
               </a>
     </li>
       {% endif %}
