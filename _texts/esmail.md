@@ -6,6 +6,10 @@ century: 20th
 permalink: /esmail/
 ---
 
+*Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Reena_Esmail" target="_blank">https://en.wikipedia.org/wiki/Reena_Esmail</a>*
+<br/>
+
+### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
       {% if item.author == "Esmail, Reena" %}
