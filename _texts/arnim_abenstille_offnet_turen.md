@@ -3,7 +3,7 @@ layout: mei
 title: Abendstille öffnet Türen
 author: Arnim, Bettina von
 permalink: /arnim-abendstille/
-document: von_arnim_abenstille_offnet_turen.mei
+document: arnim_abenstille_offnet_turen.mei
 ---
 
 - In Arnim, Bettina Von, and Moering, Renate. *Lieder Und Duette: Für Singstimme Und Klavier Handschriften, Drucke, Bearbeitungen.* Kassel: Furore Edition, 1996. 
