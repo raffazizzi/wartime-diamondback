@@ -21,7 +21,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
     {% endfor %}
 </ul>
   
-   <h3>18-19th century</h3>
+   <h3>18-19th centuries</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.century == "18-19th" %}
@@ -47,7 +47,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
     {% endfor %}
 </ul>
 
- <h3>19-20th century</h3>
+ <h3>19-20th centuries</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.century == "19-20th" %}
@@ -73,7 +73,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
     {% endfor %}
 </ul>
 
- <h3>20th-21st century</h3>
+ <h3>20th-21st centuries</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.century == "20th-21st" %}
