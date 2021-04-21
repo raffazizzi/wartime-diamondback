@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Piano Trio G Major, Andante con Espressione, Mvt. 2</title>
+            <title>Piano Trio G Minor, Andante con Espressione, Mvt. 2</title>
             <respStmt>
                <persName role="composer">Elfrida Andrée</persName>
                <persName role="transcriber">Taite Pierson</persName>
@@ -30,7 +30,7 @@
             <score xml:id="score-0000000907729032">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000092625705">
-                     <rend xml:id="rend-0000000625243133" halign="center" valign="top">Piano Trio G Major, Andante con Espressione, Mvt. 2</rend>
+                     <rend xml:id="rend-0000000625243133" halign="center" valign="top">Piano Trio G Minor, Andante con Espressione, Mvt. 2</rend>
                      <rend xml:id="rend-0000001627903427" halign="right" valign="top">Andrée, Elfrida</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000904366639">
