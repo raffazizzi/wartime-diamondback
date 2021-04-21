@@ -2,7 +2,7 @@
 layout: page
 title: Arnim, Bettina von (1785-1859)
 category: incipits
-century: 18th
+century: 18-19th
 permalink: /arnim/
 ---
 <a title="Ludwig Emil Grimm, † 4. April 1863, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bettina-von-arnim-grimm.jpg"><img width="256" alt="Bettina-von-arnim-grimm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bettina-von-arnim-grimm.jpg/256px-Bettina-von-arnim-grimm.jpg"></a>
