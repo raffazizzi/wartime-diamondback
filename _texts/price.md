@@ -2,7 +2,7 @@
 layout: page
 title: Price, Florence (1887-1953)
 category: incipits
-century: 19th
+century: 19-20th
 permalink: /price/
 ---
 *Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Florence_Price" target="_blank">https://en.wikipedia.org/wiki/Florence_Price/a>*
