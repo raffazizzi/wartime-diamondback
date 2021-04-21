@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Vom Nachen getragen</title>
+            <respStmt>
+               <persName role="composer">Achim von Arnim</persName>
+               <persName role="transcriber">Joanna Strogatz</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-04-21" type="encoding-date">2021-04-21</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000001014332419">
+         <appInfo xml:id="appinfo-0000001009693312">
+            <application xml:id="application-0000000732160689" isodate="2021-04-21T12:21:21" version="3.4.0-dev-6ef936f">
+               <name xml:id="name-0000000648995209">Verovio</name>
+               <p xml:id="p-0000000572319287">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000426094344">
+            <score xml:id="score-0000001789016772">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000000920913527">
+                     <rend xml:id="rend-0000000473518983" halign="center" valign="top">Vom Nachen getragen</rend>
+                     <rend xml:id="rend-0000000268858337" halign="right" valign="bottom">Bettina von Arnim</rend>
+                     <rend xml:id="rend-0000000216110201" halign="left" valign="bottom">Achim von Arnim</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000002093388963">
+                     <staffGrp xml:id="staffgrp-0000002027032015">
+                        <grpSym xml:id="grpsym-0000000576167488" symbol="bracket" />
+                        <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                           <label xml:id="label-0000000985315630">Mezzo-soprano</label>
+                           <labelAbbr xml:id="labelAbbr-0000001155397569">Mzs.</labelAbbr>
+                           <instrDef xml:id="instrdef-0000001087326861" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                           <clef xml:id="clef-0000000688365937" shape="G" line="2" />
+                           <keySig xml:id="keysig-0000001455521293" sig="4f" />
+                           <meterSig xml:id="msig-0000000108241160" count="4" sym="common" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="P2" n="2" lines="5" ppq="2">
+                           <label xml:id="label-0000000537184961">Tenor</label>
+                           <labelAbbr xml:id="labelAbbr-0000001883737240">T.</labelAbbr>
+                           <instrDef xml:id="instrdef-0000001985949691" midi.channel="1" midi.instrnum="52" midi.volume="78.00%" />
+                           <clef xml:id="clef-0000000112775106" shape="G" line="2" dis="8" dis.place="below" />
+                           <keySig xml:id="keysig-0000000348424075" sig="4f" />
+                           <meterSig xml:id="msig-0000001977755125" count="4" sym="common" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000000557253410">
+                  <pb xml:id="pb-0000001780700363" />
+                  <measure xml:id="measure-0000000973630378" n="1">
+                     <staff xml:id="staff-0000001578309063" n="1">
+                        <layer xml:id="layer-0000000625243133" n="1">
+                           <mRest xml:id="mrest-0000001175628993" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000000473177626" n="2">
+                        <layer xml:id="layer-0000000183309905" n="1">
+                           <mRest xml:id="mrest-0000002014079449" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000092625705" n="2">
+                     <staff xml:id="staff-0000000644308604" n="1">
+                        <layer xml:id="layer-0000001118655359" n="1">
+                           <mRest xml:id="mrest-0000000216303584" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000001226418232" n="2">
+                        <layer xml:id="layer-0000001020424087" n="1">
+                           <mRest xml:id="mrest-0000001909336715" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000054829688" n="3">
+                     <staff xml:id="staff-0000001438921750" n="1">
+                        <layer xml:id="layer-0000001037012619" n="1">
+                           <mRest xml:id="mrest-0000000847924224" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000000386157941" n="2">
+                        <layer xml:id="layer-0000001548142777" n="1">
+                           <mRest xml:id="mrest-0000002122801348" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000606754492" n="4">
+                     <staff xml:id="staff-0000001948093945" n="1">
+                        <layer xml:id="layer-0000000437838765" n="1">
+                           <mRest xml:id="mrest-0000001430505301" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000000954455855" n="2">
+                        <layer xml:id="layer-0000002023948353" n="1">
+                           <mRest xml:id="mrest-0000001857495097" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000002132246393" n="5">
+                     <staff xml:id="staff-0000001352105535" n="1">
+                        <layer xml:id="layer-0000001712323930" n="1">
+                           <mRest xml:id="mrest-0000001103505768" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000001579265975" n="2">
+                        <layer xml:id="layer-0000000372705998" n="1">
+                           <mRest xml:id="mrest-0000001339627057" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000002000293136" n="6">
+                     <staff xml:id="staff-0000000085198211" n="1">
+                        <layer xml:id="layer-0000000188363639" n="1">
+                           <mRest xml:id="mrest-0000000266352791" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000001751340887" n="2">
+                        <layer xml:id="layer-0000001785924688" n="1">
+                           <mRest xml:id="mrest-0000000165875289" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000241975970" n="7">
+                     <staff xml:id="staff-0000000667964378" n="1">
+                        <layer xml:id="layer-0000000248338949" n="1">
+                           <mRest xml:id="mrest-0000001722059416" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000002063529933" n="2">
+                        <layer xml:id="layer-0000000691323895" n="1">
+                           <mRest xml:id="mrest-0000000516574008" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000443013635" n="8">
+                     <staff xml:id="staff-0000001570823141" n="1">
+                        <layer xml:id="layer-0000000686281901" n="1">
+                           <rest xml:id="rest-0000001173456676" dur.ppq="4" dur="2" />
+                           <rest xml:id="rest-0000001165447749" dur.ppq="2" dur="4" />
+                           <note xml:id="note-0000002100126970" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000001624115492" n="1">
+                                 <syl xml:id="syl-0000000729736643" con="s" wordpos="s">Vom</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000000735275903" n="2">
+                        <layer xml:id="layer-0000001890064936" n="1">
+                           <rest xml:id="rest-0000000350065347" dur.ppq="4" dur="2" />
+                           <rest xml:id="rest-0000001022646212" dur.ppq="2" dur="4" />
+                           <note xml:id="note-0000002082326847" dur.ppq="2" dur="4" oct="3" pname="e" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001246019543" n="1">
+                                 <syl xml:id="syl-0000000219976782" con="s" wordpos="s">Vom</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fermata-0000001494997612" staff="1" startid="#rest-0000001165447749" form="norm" place="above" />
+                     <dynam xml:id="dynam-0000000281820593" place="above" staff="1" tstamp="4.000000" val="49">p</dynam>
+                     <fermata xml:id="fermata-0000001144518597" staff="2" startid="#rest-0000001022646212" form="norm" place="above" />
+                     <dynam xml:id="dynam-0000001009045241" place="above" staff="2" tstamp="4.000000" val="49">p</dynam>
+                  </measure>
+                  <measure xml:id="measure-0000000600412257" n="9">
+                     <staff xml:id="staff-0000000811456044" n="1">
+                        <layer xml:id="layer-0000001257519621" n="1">
+                           <note xml:id="note-0000000958564548" dur.ppq="4" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000000728295135" n="1">
+                                 <syl xml:id="syl-0000001083649408" con="d" wordpos="i">Na</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000001817854923" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001784680396" n="1">
+                                 <syl xml:id="syl-0000001715171119" con="s" wordpos="t">chen</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000001315399295" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001639721616" n="1">
+                                 <syl xml:id="syl-0000001351228775" con="d" wordpos="i">ge</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000000579894585" n="2">
+                        <layer xml:id="layer-0000002023794977" n="1">
+                           <note xml:id="note-0000000731892826" dur.ppq="4" dur="2" oct="3" pname="a" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001443051023" n="1">
+                                 <syl xml:id="syl-0000000092983622" con="d" wordpos="i">Na</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000001892638776" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="down">
+                              <verse xml:id="verse-0000000707758061" n="1">
+                                 <syl xml:id="syl-0000000515253288" con="s" wordpos="t">chen</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000002004440114" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000001735652903" n="1">
+                                 <syl xml:id="syl-0000000752106335" con="d" wordpos="i">ge</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000001818368228" place="above" staff="1" tstamp="1.000000" vgrp="200">getragen</dir>
+                  </measure>
+                  <sb xml:id="sb-0000000583411062" />
+                  <measure xml:id="measure-0000001231476396" n="10">
+                     <staff xml:id="staff-0000001882112312" n="1">
+                        <layer xml:id="layer-0000000666442041" n="1">
+                           <note xml:id="note-0000001958781713" dots="1" dur.ppq="3" dur="4" oct="5" pname="d" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000001557697675" n="1">
+                                 <syl xml:id="syl-0000001551183221" con="d" wordpos="m">tra</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000366006978" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                           <note xml:id="note-0000001720040584" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="verse-0000001086132311" n="1">
+                                 <syl xml:id="syl-0000001531259472" con="s" wordpos="t">gen,</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000001778601282" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000000914824663" n="1">
+                                 <syl xml:id="syl-0000000223971922" con="s" wordpos="s">mein</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000000913043931" n="2">
+                        <layer xml:id="layer-0000000403228649" n="1">
+                           <note xml:id="note-0000001790808424" dur.ppq="4" dur="2" oct="4" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000000776757999" n="1">
+                                 <syl xml:id="syl-0000000814266155" con="d" wordpos="m">tra</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000813235936" dur.ppq="2" dur="4" oct="3" pname="e" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001563338482" n="1">
+                                 <syl xml:id="syl-0000000481657571" con="s" wordpos="t">gen,</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000508097337" dur.ppq="2" dur="4" oct="3" pname="e" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001477793338" n="1">
+                                 <syl xml:id="syl-0000001383176531" con="s" wordpos="s">mein</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000002121034553" startid="#note-0000001958781713" endid="#note-0000000366006978" curvedir="above" />
+                  </measure>
+                  <measure xml:id="measure-0000000770318467" n="11">
+                     <staff xml:id="staff-0000001322992453" n="1">
+                        <layer xml:id="layer-0000001638748985" n="1">
+                           <note xml:id="note-0000000452638939" dots="1" dur.ppq="3" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000000276288853" n="1">
+                                 <syl xml:id="syl-0000000197585369" con="d" wordpos="i">Na</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000751288959" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000000532594667" dots="1" dur.ppq="3" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000000023950376" n="1">
+                                 <syl xml:id="syl-0000001684514228" con="s" wordpos="t">chen</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000348776167" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000000801364560" n="1">
+                                 <syl xml:id="syl-0000000446545453" con="d" wordpos="i">ver</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000001808019663" n="2">
+                        <layer xml:id="layer-0000001693114178" n="1">
+                           <note xml:id="note-0000001114737751" dur.ppq="4" dur="2" oct="3" pname="g" stem.dir="up">
+                              <verse xml:id="verse-0000002079587357" n="1">
+                                 <syl xml:id="syl-0000001676509960" con="d" wordpos="i">Na</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000001196935524" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000001584703606" n="1">
+                                 <syl xml:id="syl-0000001663342967" con="s" wordpos="t">chen</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000023265362" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000000380456974" n="1">
+                                 <syl xml:id="syl-0000001918641429" con="d" wordpos="i">ver</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000001331249885" startid="#note-0000000452638939" endid="#note-0000000751288959" curvedir="above" />
+                  </measure>
+                  <measure xml:id="measure-0000000076100840" right="end" n="12">
+                     <staff xml:id="staff-0000000357141663" n="1">
+                        <layer xml:id="layer-0000001202257845" n="1">
+                           <note xml:id="note-0000001593144261" dots="1" dur.ppq="3" dur="4" oct="4" pname="d" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001210126352" n="1">
+                                 <syl xml:id="syl-0000001059913455" con="d" wordpos="m">sen</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000915339236" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="note-0000000733189405" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
+                              <verse xml:id="verse-0000001768064207" n="1">
+                                 <syl xml:id="syl-0000001702749235" con="s" wordpos="t">ket,</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000000279662537" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000002082051725" n="1">
+                                 <syl xml:id="syl-0000001275642985" con="s" wordpos="s">mein</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-0000001723891325" n="2">
+                        <layer xml:id="layer-0000001068844941" n="1">
+                           <note xml:id="note-0000001334735816" dur.ppq="4" dur="2" oct="4" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="verse-0000001995905729" n="1">
+                                 <syl xml:id="syl-0000001157444545" con="d" wordpos="m">sen</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000002033481804" dur.ppq="2" dur="4" oct="3" pname="e" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000000959975350" n="1">
+                                 <syl xml:id="syl-0000001647915098" con="s" wordpos="t">ket,</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="note-0000001414799761" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" accid.ges="f">
+                              <verse xml:id="verse-0000001979526283" n="1">
+                                 <syl xml:id="syl-0000001160271314" con="s" wordpos="s">mein</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000000549522480" startid="#note-0000001593144261" endid="#note-0000000915339236" curvedir="below" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
