@@ -3,7 +3,7 @@ layout: mei
 title: Hommage à Paul Dukas
 author: Barraine, Elsa
 permalink: /barraine-homage/
-document: barraine_homage_à_paul_dukas.mei 
+document: barraine_homage_a_paul_dukas.mei 
 ---
 
 - Barraine, Elsa, and Backes, Dieter Michael. *Hommage à Paul Dukas (1936): Für Klavier.* Klein-Winternheim: Certosa Verlag, 2011.
