@@ -5,7 +5,7 @@ category: incipits
 century: 19-20th
 permalink: /price/
 ---
-*Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Florence_Price" target="_blank">https://en.wikipedia.org/wiki/Florence_Price/</a>*
+*Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Florence_Price" target="_blank">https://en.wikipedia.org/wiki/Florence_Price</a>*
 <br/>
 
 ### Works with Incipits
