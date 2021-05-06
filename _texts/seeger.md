@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Crawford Seeger, Ruth (1901-1953)
+title: Seeger, Ruth Crawford (1901-1953)
 category: incipits
 century: 20th
-permalink: /crawford-seeger/
+permalink: /seeger/
 ---
 <a title="Unknown authorUnknown author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Ruth_Crawford_Seeger.jpg"><img width="128" alt="Ruth Crawford Seeger" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Ruth_Crawford_Seeger.jpg"></a>
 
@@ -13,7 +13,7 @@ permalink: /crawford-seeger/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Crawford Seeger, Ruth" %}
+      {% if item.author == "Seeger, Ruth Crawford" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
