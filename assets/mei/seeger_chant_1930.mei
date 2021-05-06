@@ -7,7 +7,7 @@
          <titleStmt>
             <title>Chant, 1930</title>
             <respStmt>
-               <persName role="composer">Ruth Crawford-Seeger</persName>
+               <persName role="composer">Ruth Crawford Seeger</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
                <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
@@ -31,7 +31,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000980498234">
                      <rend xml:id="rend-0000001990615332" halign="center" valign="top">Chant, 1930</rend>
-                     <rend xml:id="rend-0000001314460281" halign="right" valign="bottom">Ruth Crawford-Seeger</rend>
+                     <rend xml:id="rend-0000001314460281" halign="right" valign="bottom">Ruth Crawford Seeger</rend>
                      <rend xml:id="rend-0000000454092503" halign="left" valign="top">Soprano</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000002074003118">
