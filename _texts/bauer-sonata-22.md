@@ -2,7 +2,7 @@
 layout: mei
 title: Sonata for Viola (or Clarinet) and Piano, Opus 22
 author: Bauer, Marion
-permalink: /bauer-22
+permalink: /bauer-22/
 document: bauer_sonata_for_viola_and_piano_op22.mei  
 ---
 
