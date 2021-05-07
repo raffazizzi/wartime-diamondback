@@ -3,7 +3,7 @@ layout: mei
 title: Improvisation, No. 2, Allegretto grazioso e capriccioso 
 author: Beach, Amy Marcy Cheney
 permalink: /beach-148.2
-document: beach_five_improvisations_for_piano_no2.mei  
+document: beach_five_improvisations_op148_no2.mei  
 ---
 
 - In Beach, Amy. *Five Improvisations for Piano, Op. 148.* Rev. ed. New York: Seesaw Music, 1997.
