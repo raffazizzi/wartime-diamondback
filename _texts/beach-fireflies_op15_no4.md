@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Fireflies, Op. 15, No. 4
-author: Beach, Amy
+author: Beach, Amy Marcy Cheney
 permalink: /beach-15-4/
 document: beach_fireflies_op15_no4.mei
 ---
