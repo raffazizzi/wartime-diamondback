@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Fantasistykker, op. 39, no. 3 - Svalernes flugt
+title: Fantasistykker, Op. 39, No. 3 - Svalernes flugt
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-39.3/
 document: backer-grondahl_fantasistykker_op39_no3.mei
