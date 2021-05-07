@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Improvisation, No. 5, Largo maestoso  
+title: Improvisations, Op. 148, No. 5, Largo maestoso  
 author: Beach, Amy Marcy Cheney
 permalink: /beach-148.5/
 document: beach_five_improvisations_op148_no5.mei
