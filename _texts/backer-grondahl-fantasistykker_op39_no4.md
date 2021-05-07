@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Fantasistykker, op. 39, no. 4 - Rosernes sang
+title: Fantasistykker, Op. 39, No. 4 - Rosernes sang
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-39.4/
 document: backer-grondahl_fantasistykker_op39_no4.mei
