@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Etude de concert, op. 11, no. 2
+title: Etude de concert, Op. 11, No. 2
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-11.2/
 document: backer-grondahl_etude_de_concert_op11_no2.mei
