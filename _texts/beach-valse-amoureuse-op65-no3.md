@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Valse amoureuse, Op. 65, No. 3 
+title: Valse amoureuse, No. 3 in Les Rêves de Colombine, Op.65
 author: Beach, Amy Marcy Cheney
 permalink: /beach-65.3/
 document: beach_valse_amoureuse_op65_no3.mei
