@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Fantasistykker, op. 39, no. 1 - Souvenir
+title: Fantasistykker, Op. 39, No. 1 - Souvenir
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-39.1/
 document: backer-grondahl_fantasistykker_op39_no1.mei
