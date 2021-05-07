@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Scottish legend, Op. 54, No. 1
-author: Beach, Amy
+author: Beach, Amy Marcy Cheney
 permalink: /beach-54-1/
 document: beach_scottish_legend_op54_no1.mei
 ---
