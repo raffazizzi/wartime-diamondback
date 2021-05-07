@@ -5,20 +5,19 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Gavotte, op. 20, no. 3</title>
+            <title>Gavotte</title>
             <respStmt>
                <persName role="composer">Agathe Backer-Grøndahl</persName>
                <persName role="transcriber">Delilah Righter</persName>
-               <persName role="transcriber">Simon K. Perry</persName>
                <persName role="reviewer">Simon K. Perry</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2021-04-16" type="encoding-date">2021-04-16</date>
+         <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000487207374">
          <appInfo xml:id="appinfo-0000000079094986">
-            <application xml:id="application-0000001425235527" isodate="2021-04-16T13:20:16" version="3.4.0-dev-eddc50e">
+            <application xml:id="application-0000001425235527" isodate="2021-05-07T16:01:23" version="3.5.0-dev-6858d78">
                <name xml:id="name-0000002109810578">Verovio</name>
                <p xml:id="p-0000001369825657">Transcoded from MusicXML</p>
             </application>
@@ -32,7 +31,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001454483614">
                      <rend xml:id="rend-0000001348516569" halign="center" valign="top">Gavotte</rend>
-                     <rend xml:id="rend-0000001955441688" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
+                     <rend xml:id="rend-0000001955441688" halign="right" valign="top">Agathe Backer-Grøndahl, Op. 20, Nr. 3</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001489208659">
                      <staffGrp xml:id="P1" bar.thru="true">
