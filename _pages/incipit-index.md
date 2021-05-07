@@ -21,7 +21,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
     {% endfor %}
 </ul>
   
-  <h3>17th centuries</h3>
+  <h3>17th century</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.century == "17th" %}
