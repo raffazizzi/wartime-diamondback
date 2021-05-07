@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Fantasistykker, op. 45, no. 2 - Zephyr
+title: Fantasistykker, Op. 45, No. 2 - Zephyr
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-45.2/
 document: backer-grondahl_fantasistykker_op45_no2_zephyr.mei
