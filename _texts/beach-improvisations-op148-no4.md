@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Improvisation, No. 4, Molto lento e tranquillo 
+title: Improvisations, Op. 148, No. 4, Molto lento e tranquillo 
 author: Beach, Amy Marcy Cheney
 permalink: /beach-148.4/
 document: beach_five_improvisations_op148_no4.mei
