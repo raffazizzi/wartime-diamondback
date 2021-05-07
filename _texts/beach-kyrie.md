@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Kyrie, Grand Mass in E-flat major, Opus 5 
-author: Beach, Amy
+author: Beach, Amy Marcy Cheney
 permalink: /beach-5/
 document: beach_grand_mass_in_e_flat_major_op5_kyrie.mei
 ---
