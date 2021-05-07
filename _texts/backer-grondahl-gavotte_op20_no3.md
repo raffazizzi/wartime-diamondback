@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Gavotte, op. 20, no. 3
+title: Gavotte, Op. 20, No. 3
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-29.3/
 document: backer-grondahl_gavotte_op20_no3.mei
