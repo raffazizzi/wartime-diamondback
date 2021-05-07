@@ -8,7 +8,33 @@ This index is under development and additional composers and works will be added
 Composer's names appear in alphabetical order and are organized chronologically by century. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. 
 
 <div class="toc">
-  <h3>18th-century</h3>
+  <h3>16-17th centuries</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.century == "16-17th" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+  
+  <h3>17th centuries</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.century == "17th" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<h3>18th-century</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.century == "18th" %}
