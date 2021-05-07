@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Le prince gracieux, Op. 65, No. 2
-author: Beach, Amy
+author: Beach, Amy Marcy Cheney
 permalink: /beach-65-2/
 document: beach_prince_gracieux_op65_no2.mei
 ---
