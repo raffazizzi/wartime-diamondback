@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Etude, op. 32, no. 3
+title: Etude, Op. 32, No. 3
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-32.3/
 document: backer-grondahl_etude_de_concert_op32_no3.mei
