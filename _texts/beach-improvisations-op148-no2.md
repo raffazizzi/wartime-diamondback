@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Improvisation, No. 2, Allegretto grazioso e capriccioso 
+title: Improvisations, Op. 148, No. 2, Allegretto grazioso e capriccioso 
 author: Beach, Amy Marcy Cheney
 permalink: /beach-148.2/
 document: beach_five_improvisations_op148_no2.mei  
