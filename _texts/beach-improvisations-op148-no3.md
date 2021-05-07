@@ -3,7 +3,7 @@ layout: mei
 title: Improvisation, No. 3, Allegro con delicatezza 
 author: Beach, Amy Marcy Cheney
 permalink: /beach-148.3
-document: beach_five_improvisations_no3.mei
+document: beach_five_improvisations_op148_no3.mei
 ---
 
 - In Beach, Amy. *Five Improvisations for Piano, Op. 148.* Rev. ed. New York: Seesaw Music, 1997.
