@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Last Name, First Name (Dates0
+title: Last Name, First Name (Dates)
 category: incipits
 century: number
 permalink: /lastname/
