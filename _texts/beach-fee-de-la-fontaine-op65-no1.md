@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: La fée de la fontaine, No. 1 in Les Rêves de Colombine, Op.65
+title: La fée de la fontaine, Op. 65, No. 1
 author: Beach, Amy Marcy Cheney
 permalink: /beach-65.1/
 document: beach_fee_de_la_fontaine_op65_no1.mei
