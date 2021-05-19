@@ -3,7 +3,7 @@ layout: mei
 title: Quatre Chants, Le retour
 author: Boulanger, Lili
 permalink: /boulanger-retour/
-document: boulanger_quatre_chants_ le_retour
+document: boulanger_quatre_chants_ le_retour.mei
 ---
 
 - In Boulanger, Lili, and May, Jane. *Quatre Chants: Pour Voix et Piano.* 1979.
