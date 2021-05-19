@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Price, Florence (1887-1953)
+title: Price, Florence B. (1887-1953)
 category: incipits
 century: 19-20th
 permalink: /price/
@@ -11,7 +11,7 @@ permalink: /price/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Price, Florence" %}
+      {% if item.author == "Price, Florence B." %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
