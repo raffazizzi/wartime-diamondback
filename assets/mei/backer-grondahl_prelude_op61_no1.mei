@@ -8,6 +8,8 @@
             <title>Prelude</title>
             <respStmt>
                <persName role="composer">Agathe Backer-Grøndahl</persName>
+               <persName role="transcriber">Chelsea Hong</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-05-19" type="encoding-date">2021-05-19</date>
