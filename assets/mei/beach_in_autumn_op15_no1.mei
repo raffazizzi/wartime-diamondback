@@ -8,6 +8,9 @@
             <title>In Autumn</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Sebastian Tringale</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-05-27" type="encoding-date">2021-05-27</date>
