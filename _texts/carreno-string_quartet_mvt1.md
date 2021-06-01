@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: String Quartet in C minor, Mvt. I, Allegro
+title: String Quartet in C minor, Mvt. 1, Allegro
 author: Carreño, Teresa
 permalink: /carreno-string_quartet_mvt1/
 document: carreno_string_quartet_mvt1.mei
