@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Esquisses italiennes, Op. 33, No. 1, Venise
 author: Carreño, Teresa
 permalink: /carreno-33.1/
-document: carreno_esquisses_italiennes_op33_no1.mei
+image: carreno_esquisses_italiennes_no1_venise-1.png
 ---
 
 - In Carreño, Teresa, and Rodriguez-Peralta, Carmen. *Music for Piano.* Bryn Mawr, Pa.: Hildegard Pub., 1996.
