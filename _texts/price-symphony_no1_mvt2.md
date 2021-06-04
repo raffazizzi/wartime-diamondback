@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Symphony no. 1 in E Minor, Mvt. 2
 author: Price, Florence B.
 permalink: /price-symphony_no1_mvt2/
-image: price_symphony_no1_mvt2.png
+image: price_symphony_no1_mvt2.mei
 ---
 
 - In Price, Florence, Brown, Rae Linda, and Shirley, Wayne D. *Symphonies Nos. 1 and 3.* Recent Researches in American Music; v. 66. Middleton, Wis.: Published for the American Musicological Society by A-R Editions, 2008.
