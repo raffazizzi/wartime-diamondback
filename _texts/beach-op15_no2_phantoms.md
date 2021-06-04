@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Phantoms, Op. 15, No. 2
 author: Beach, Amy Marcy Cheney
 permalink: /beach-15.2/
-document: beach_phantoms_op15_no2.mei
+document: beach_phantoms_op15_no2-1.png
 ---
 
 - In Beach, Amy, and Glickman, Sylvia. *Music for Piano. II.* Bryn Mawr, Pa.: Hildegard Pub., 1997.
