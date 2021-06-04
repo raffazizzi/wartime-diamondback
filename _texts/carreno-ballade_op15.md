@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: mei
 title: Ballade, Op. 15
 author: Carreño, Teresa
 permalink: /carreno-15/
-image: carreno_ballade_op15-1.png
+document:
 ---
 
 - In Carreño, Teresa. *Selected Works: Piano Pieces and String Quartet.* Women Composers Series; 15. New York: Da Capo Press, 1985.
