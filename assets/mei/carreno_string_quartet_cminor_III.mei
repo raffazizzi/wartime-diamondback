@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>String Quartet in C Minor</title>
+            <respStmt>
+               <persName role="composer">Teresa Carreno</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000082448546">
+         <appInfo xml:id="appinfo-0000001702764940">
+            <application xml:id="application-0000000239381110" isodate="2021-06-04T12:25:14" version="3.5.0-dev-5912336">
+               <name xml:id="name-0000001200901935">Verovio</name>
+               <p xml:id="p-0000000857924019">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000848029304">
+            <score xml:id="score-0000002077145550">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000001842492582">
+                     <rend xml:id="rend-0000001765112812" halign="center" valign="top">String Quartet in C Minor</rend>
+                     <rend xml:id="rend-0000000735820711" halign="center" valign="top">III</rend>
+                     <rend xml:id="rend-0000000471769352" halign="right" valign="bottom">Teresa Carreño</rend>
+                     <rend xml:id="rend-0000000930189675" halign="left" valign="top">Violin 1</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000001889650736">
+                     <staffGrp xml:id="staffgrp-0000001549907388">
+                        <grpSym xml:id="grpsym-0000000416216982" symbol="bracket" />
+                        <staffGrp xml:id="staffgrp-0000002125143537">
+                           <grpSym xml:id="grpsym-0000001055422082" symbol="bracketsq" />
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                              <label xml:id="label-0000000669697387">Violin 1</label>
+                              <labelAbbr xml:id="labelAbbr-0000000727622082">Vln. 1</labelAbbr>
+                              <instrDef xml:id="instrdef-0000000019148629" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                              <clef xml:id="clef-0000000841413802" shape="G" line="2" />
+                              <keySig xml:id="keysig-0000001408436049" sig="3s" />
+                              <meterSig xml:id="msig-0000000281052518" count="6" unit="8" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000000670894261">
+                  <pb xml:id="pb-0000000802160864" />
+                  <measure xml:id="measure-0000001014332419" n="1">
+                     <staff xml:id="staff-0000000473518983" n="1">
+                        <layer xml:id="layer-0000000920913527" n="1">
+                           <multiRest xml:id="multirest-0000001516301222" num="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000268858337" n="3">
+                     <staff xml:id="staff-0000001155397569" n="1">
+                        <layer xml:id="layer-0000000025556641" n="1">
+                           <rest xml:id="rest-0000001087326861" dur.ppq="1" dur="8" />
+                           <beam xml:id="beam-0000001969048543">
+                              <note xml:id="note-0000000309656644" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up" accid.ges="s">
+                                 <artic xml:id="artic-0000001694454087" artic="stacc" />
+                              </note>
+                              <note xml:id="note-0000001475141758" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                 <artic xml:id="artic-0000000907729032" artic="stacc" />
+                              </note>
+                           </beam>
+                           <beam xml:id="beam-0000002109038109">
+                              <note xml:id="note-0000001578309063" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                 <accid xml:id="accid-0000000625243133" accid="s" accid.ges="s" />
+                                 <artic xml:id="artic-0000001175628993" artic="stacc" />
+                              </note>
+                              <note xml:id="note-0000000092625705" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <artic xml:id="artic-0000001627903427" artic="stacc" />
+                              </note>
+                              <note xml:id="note-0000001318418697" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <accid xml:id="accid-0000000904366639" accid="s" accid.ges="s" />
+                                 <artic xml:id="artic-0000000427636485" artic="stacc" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000000817018380" place="below" staff="1" tstamp="2.000000" vgrp="51">
+                        <rend xml:id="rend-0000001130540495" rend="none" fontstyle="italic" fontweight="bold">pp </rend>
+                        <rend xml:id="rend-0000001627785340" rend="none" fontweight="normal">legg.</rend>
+                     </dir>
+                     <dir xml:id="dir-0000002138482983" place="above" staff="1" tstamp="2.000000" vgrp="219">
+                        <rend xml:id="rend-0000000688365937" rend="none" fontstyle="italic">spiritoso ed scherzando</rend>
+                        <rend xml:id="rend-0000000108241160" rend="none" fontstyle="normal">staccato</rend>
+                     </dir>
+                     <hairpin xml:id="hairpin-0000001741757252" staff="1" tstamp="3.000000" tstamp2="0m+6.5000" form="cres" place="below" vgrp="73" />
+                  </measure>
+                  <measure xml:id="measure-0000001560200729" n="4">
+                     <staff xml:id="staff-0000001510633480" n="1">
+                        <layer xml:id="layer-0000001660616298" n="1">
+                           <beam xml:id="beam-0000000314633358">
+                              <note xml:id="note-0000000741169178" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="s" />
+                              <note xml:id="note-0000001355857319" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s" />
+                              <note xml:id="note-0000000847924224" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                 <artic xml:id="artic-0000000606754492" artic="stacc" />
+                              </note>
+                           </beam>
+                           <beam xml:id="beam-0000000426976355">
+                              <note xml:id="note-0000000666516987" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                 <artic xml:id="artic-0000000395809410" artic="stacc" />
+                              </note>
+                              <note xml:id="note-0000001356899142" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                 <artic xml:id="artic-0000000299238164" artic="stacc" />
+                              </note>
+                              <note xml:id="note-0000002134469716" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                 <artic xml:id="artic-0000001103920070" artic="stacc" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000000460749927" startid="#note-0000000741169178" endid="#note-0000001355857319" curvedir="below" />
+                     <hairpin xml:id="hairpin-0000001037012619" staff="1" tstamp="3.000000" tstamp2="0m+6.5000" form="dim" place="below" vgrp="70" />
+                  </measure>
+                  <measure xml:id="measure-0000000704991133" right="end" n="5">
+                     <staff xml:id="staff-0000002116445122" n="1">
+                        <layer xml:id="layer-0000001213094868" n="1">
+                           <mRest xml:id="mrest-0000001332854591" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
