@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plainte!, First Elegie, Op. 17
+title: Plainte!, First Elegie, Op. 17 (Plaìntes au bord d'une tombe. Six melodies, No. 1)
 author: Carreño, Teresa
 permalink: /carreno-17/
 image: carreno_plainte_op17.png
