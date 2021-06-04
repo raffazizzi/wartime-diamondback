@@ -5,9 +5,12 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Une Revue À Prague</title>
+            <title>Une Revue à Prague</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
+               <persName role="transcriber">Sebastian Tringale</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
