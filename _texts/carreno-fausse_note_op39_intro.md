@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: page
 title: La fausse note, Op. 39, Introduction
 author: Carreño, Teresa
 permalink: /carreno-39.1/
-document: carreno_fausse_note_op39_intro.mei
+image: carreno_fausse_note_intro-1.png
 ---
 
 - In Carreño, Teresa. *Selected Works: Piano Pieces and String Quartet.* Women Composers Series; 15. New York: Da Capo Press, 1985.
