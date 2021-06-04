@@ -9,6 +9,9 @@
             <title type="subordinate">op. 34</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
+               <persName role="transcriber">Sebastian Tringale</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-01" type="encoding-date">2021-06-01</date>
