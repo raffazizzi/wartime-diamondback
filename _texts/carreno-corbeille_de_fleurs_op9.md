@@ -1,5 +1,5 @@
 ---
-layout: mei
+layout: page
 title: Le corbeille de fleurs, Op. 9
 author: Carreño, Teresa
 permalink: /carreno-9/
