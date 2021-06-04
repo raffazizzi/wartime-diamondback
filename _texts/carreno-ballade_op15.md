@@ -1,5 +1,5 @@
 ---
-layout: mei
+layout: page
 title: Ballade, Op. 15
 author: Carreño, Teresa
 permalink: /carreno-15/
