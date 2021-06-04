@@ -3,7 +3,7 @@ layout: page
 title: Ballade, Op. 15
 author: Carreño, Teresa
 permalink: /carreno-15/
-image: assets/images/carreno_ballade_op15-1.png
+image: 
 ---
 
 - In Carreño, Teresa. *Selected Works: Piano Pieces and String Quartet.* Women Composers Series; 15. New York: Da Capo Press, 1985.
@@ -11,4 +11,3 @@ image: assets/images/carreno_ballade_op15-1.png
 - Other editions available in <a href="https://imslp.org/wiki/Ballada%2C_Op.15_(Carre%C3%B1o%2C_Teresa)" target="_blank">IMSLP</a>
 
 <a title="incipit for Ballade, Op. 15"><img width="auto" alt="incipit for Ballade, Op. 15" img src="/assets/images/carreno_ballade_op15-1.png"></a>
-
