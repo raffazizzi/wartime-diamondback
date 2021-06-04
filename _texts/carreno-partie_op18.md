@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Partie, Op. 18
 author: Carreño, Teresa
 permalink: /carreno-18/
-document: carreno_partie_op18.mei
+image: carreno_partie_op18-1.png
 ---
 
 - In Carreño, Teresa. *Selected Works: Piano Pieces and String Quartet.* Women Composers Series; 15. New York: Da Capo Press, 1985.
