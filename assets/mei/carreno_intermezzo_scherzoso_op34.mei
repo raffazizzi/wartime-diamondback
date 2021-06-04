@@ -100,7 +100,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001677650388" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000000516761490" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
+                        <rend xml:id="rend-0000000516761490" rend="none" fontstyle="italic" fontweight="bold">pp </rend>
                         <rend xml:id="rend-0000002019002871" rend="none" fontweight="normal"> con sordina </rend>
                      </dir>
                      <dir xml:id="dir-0000001801570848" place="below" staff="1" tstamp="4.000000" vgrp="40">
