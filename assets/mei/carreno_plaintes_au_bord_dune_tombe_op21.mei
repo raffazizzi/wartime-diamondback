@@ -5,9 +5,12 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Plaintes au bord d'une tombe</title>
+            <title>Plaintes au bord d'une tombe, Op. 21</title>
             <respStmt>
-               <persName role="composer">Maria Carreño</persName>
+               <persName role="composer">Teresa Carreño</persName>
+               <persName role="transcriber">Sebastian Tringale</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
@@ -28,7 +31,7 @@
             <score xml:id="score-0000000223996112">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001014332419">
-                     <rend xml:id="rend-0000001408436049" halign="center" valign="top">Plaintes au bord d'une tombe</rend>
+                     <rend xml:id="rend-0000001408436049" halign="center" valign="top">Plaintes au bord d'une tombe, Op.21</rend>
                      <rend xml:id="rend-0000001009693312" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000648995209">
