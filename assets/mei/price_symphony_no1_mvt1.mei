@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Symphony no. 1 in E Minor</title>
+            <respStmt>
+               <persName role="composer">Florence Price</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000001533446853">
+         <appInfo xml:id="appinfo-0000000685343423">
+            <application xml:id="application-0000001437353613" isodate="2021-06-04T14:58:28" version="3.5.0-dev-5912336">
+               <name xml:id="name-0000000274620200">Verovio</name>
+               <p xml:id="p-0000000339374076">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000001434447268">
+            <score xml:id="score-0000000243611696">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000001230989989">
+                     <rend xml:id="rend-0000000642937173" halign="center" valign="top">Symphony no. 1 in E Minor</rend>
+                     <rend xml:id="rend-0000001553710553" halign="center" valign="top">I. Allegro [ma] non troppo</rend>
+                     <rend xml:id="rend-0000001574972124" halign="right" valign="bottom">Florence Price</rend>
+                     <rend xml:id="rend-0000002139286917" halign="left" valign="top">Violin 1</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000000028609627">
+                     <staffGrp xml:id="staffgrp-0000002112218494">
+                        <grpSym xml:id="grpsym-0000000328502706" symbol="bracket" />
+                        <staffGrp xml:id="staffgrp-0000001007556116">
+                           <grpSym xml:id="grpsym-0000000341198141" symbol="bracketsq" />
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                              <label xml:id="label-0000002074727790">Violin 1</label>
+                              <labelAbbr xml:id="labelAbbr-0000000043410911">Vln. 1</labelAbbr>
+                              <instrDef xml:id="instrdef-0000002123426645" midi.channel="1" midi.instrnum="40" midi.volume="78.00%" />
+                              <clef xml:id="clef-0000000426642587" shape="G" line="2" />
+                              <keySig xml:id="keysig-0000001836264526" sig="1s" />
+                              <meterSig xml:id="msig-0000001715857237" count="4" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000000530338313">
+                  <pb xml:id="pb-0000000122869464" />
+                  <measure xml:id="measure-0000000366815585" n="1">
+                     <staff xml:id="staff-0000001835168026" n="1">
+                        <layer xml:id="layer-0000000264903823" n="1">
+                           <bTrem xml:id="btrem-0000001081298551" form="meas">
+                              <note xml:id="note-0000000519445258" dur.ppq="8" dur="1" oct="4" pname="b" stem.mod="2slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000001403037185" place="above" staff="1" tstamp="1.000000" midi.bpm="144">
+                        <rend xml:id="rend-0000000082486845" rend="none" fontweight="bold">Allegro [ma] non troppo</rend>
+                     </tempo>
+                     <dir xml:id="dir-0000001013344376" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000001988696156" rend="none" fontstyle="italic" fontweight="bold">p</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="measure-0000001902729667" n="2">
+                     <staff xml:id="staff-0000001088111275" n="1">
+                        <layer xml:id="layer-0000001056169786" n="1">
+                           <bTrem xml:id="btrem-0000000607701189" form="meas">
+                              <note xml:id="note-0000000983555082" dur.ppq="8" dur="1" oct="4" pname="b" stem.mod="2slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000141716215" n="3">
+                     <staff xml:id="staff-0000000847305121" n="1">
+                        <layer xml:id="layer-0000000015753814" n="1">
+                           <bTrem xml:id="btrem-0000001180131062" form="meas">
+                              <note xml:id="note-0000001608771155" dur.ppq="8" dur="1" oct="4" pname="b" stem.mod="2slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hairpin-0000000584466097" staff="1" tstamp="1.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="63" />
+                  </measure>
+                  <measure xml:id="measure-0000000816802319" n="4">
+                     <staff xml:id="staff-0000000031826103" n="1">
+                        <layer xml:id="layer-0000001333985356" n="1">
+                           <bTrem xml:id="btrem-0000000935604639" form="meas">
+                              <note xml:id="note-0000001611645036" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" stem.mod="2slash" />
+                           </bTrem>
+                           <bTrem xml:id="btrem-0000001274560815" form="meas">
+                              <note xml:id="note-0000001000353782" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" stem.mod="2slash" />
+                           </bTrem>
+                           <beam xml:id="beam-0000000559480893">
+                              <bTrem xml:id="btrem-0000000758120082" form="meas">
+                                 <note xml:id="note-0000000829050758" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                              <bTrem xml:id="btrem-0000000229719073" form="meas">
+                                 <note xml:id="note-0000000679212072" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                              <bTrem xml:id="btrem-0000001949995157" form="meas">
+                                 <note xml:id="note-0000000390479518" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                              <bTrem xml:id="btrem-0000000718421294" form="meas">
+                                 <note xml:id="note-0000000443833347" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000000208202350" place="below" staff="1" tstamp="1.000000" vgrp="44">
+                        <rend xml:id="rend-0000000074149396" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
+                     </dir>
+                     <hairpin xml:id="hairpin-0000001177802563" staff="1" tstamp="2.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="75" />
+                  </measure>
+                  <measure xml:id="measure-0000000846299763" n="5">
+                     <staff xml:id="staff-0000002074653790" n="1">
+                        <layer xml:id="layer-0000001921417126" n="1">
+                           <bTrem xml:id="btrem-0000000566918440" form="meas">
+                              <note xml:id="note-0000000817855100" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="down" stem.mod="2slash" />
+                           </bTrem>
+                           <beam xml:id="beam-0000001835536333">
+                              <bTrem xml:id="btrem-0000000421316471" form="meas">
+                                 <note xml:id="note-0000000148146684" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                              <bTrem xml:id="btrem-0000001757179710" form="meas">
+                                 <note xml:id="note-0000000085199090" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                              <bTrem xml:id="btrem-0000000961309965" form="meas">
+                                 <note xml:id="note-0000002049053857" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                              <bTrem xml:id="btrem-0000000174547767" form="meas">
+                                 <note xml:id="note-0000001614614970" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" stem.mod="1slash" />
+                              </bTrem>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000001592407466" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000001257513377" rend="none" fontstyle="italic" fontweight="bold">p</rend>
+                     </dir>
+                     <tie xml:id="tie-0000000081036730" startid="#note-0000000817855100" endid="#note-0000000148146684" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
