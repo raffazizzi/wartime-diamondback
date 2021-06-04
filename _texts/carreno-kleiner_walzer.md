@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Kleiner Walzer
+title: Kleiner Walzer (Mi Teresita)
 author: Carreño, Teresa
 permalink: /carreno-kleiner_walzer/
 document: carreno_kleiner_walzer.mei
