@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Plainte!, First Elegie, Op. 17
 author: Carreño, Teresa
 permalink: /carreno-17/
-document: carreno_plainte_op17.mei
+image: carreno_plainte_op17
 ---
 
 - In Carreño, Teresa, and Rodriguez-Peralta, Carmen. *Music for Piano.* Bryn Mawr, Pa.: Hildegard Pub., 1996.
