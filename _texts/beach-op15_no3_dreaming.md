@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Dreaming, Op. 15, No. 3
 author: Beach, Amy Marcy Cheney
 permalink: /beach-15.3/
-document: beach_dreaming_op15_no3.mei
+image: beach_dreaming_op15_no3.png
 ---
 
 - In Beach, Amy, and Glickman, Sylvia. *Music for Piano. II.* Bryn Mawr, Pa.: Hildegard Pub., 1997.
