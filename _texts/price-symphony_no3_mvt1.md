@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Symphony no. 3 in C Minor, Mvt. 1
 author: Price, Florence B.
 permalink: /price-symphony_no3_mvt1/
-image: price_symphony_no3_mvt1.png
+document: price_symphony_no3_mvt1.mei
 ---
 
 - In Price, Florence, Brown, Rae Linda, and Shirley, Wayne D. *Symphonies Nos. 1 and 3.* Recent Researches in American Music; v. 66. Middleton, Wis.: Published for the American Musicological Society by A-R Editions, 2008.
