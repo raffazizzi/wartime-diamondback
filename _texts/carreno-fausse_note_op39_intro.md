@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: La fausse note, Op. 39, Introduction
 author: Carreño, Teresa
 permalink: /carreno-39.1/
