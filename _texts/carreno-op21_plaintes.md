@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Plaìntes au bord d'une tombe, Op. 21 in Six melodies, No. 5
+title: Plaìntes au bord d'une tombe, Op. 21. Six melodies, No. 5
 author: Carreño, Teresa
 permalink: /carreno-21/
 document: carreno_plaintes_au_bord_dune_tombe_op21.mei
