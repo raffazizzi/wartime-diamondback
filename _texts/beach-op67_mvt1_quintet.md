@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Quintet in F-sharp minor, for piano and strings, Op. 67, Adagio
 author: Beach, Amy Marcy Cheney
 permalink: /beach-67.mvt1/
-document: beach_quintet_op67_mvt1.mei
+image: beach_quintet_op67_mvt1-1.png
 ---
 
 - In Beach, Amy. *Quintet: In F-sharp Minor, for Piano and Strings, Op. 67.* Da Capo Press Music Reprint Series. 1979.
