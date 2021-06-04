@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Symphony no. 3 in C Minor</title>
+            <respStmt>
+               <persName role="composer">Florence Price</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000530264114">
+         <appInfo xml:id="appinfo-0000000216110201">
+            <application xml:id="application-0000000942821338" isodate="2021-06-04T15:23:14" version="3.5.0-dev-5912336">
+               <name xml:id="name-0000002093388963">Verovio</name>
+               <p xml:id="p-0000002027032015">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000576167488">
+            <score xml:id="score-0000000985315630">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000000817018380">
+                     <rend xml:id="rend-0000000025556641" halign="center" valign="top">Symphony no. 3 in C Minor</rend>
+                     <rend xml:id="rend-0000001130540495" halign="center" valign="top">I. Andante; Allegro</rend>
+                     <rend xml:id="rend-0000001627785340" halign="right" valign="bottom">Florence Price</rend>
+                     <rend xml:id="rend-0000002138482983" halign="left" valign="top">Horn in F 1</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000001455521293">
+                     <staffGrp xml:id="staffgrp-0000000108241160">
+                        <grpSym xml:id="grpsym-0000000973630378" symbol="bracket" />
+                        <staffGrp xml:id="staffgrp-0000001969048543">
+                           <grpSym xml:id="grpsym-0000000309656644" symbol="bracketsq" />
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="1" trans.diat="-4.000000" trans.semi="-7.000000">
+                              <label xml:id="label-0000001474679209">Horn in F 1, 2</label>
+                              <labelAbbr xml:id="labelAbbr-0000001741757252">F Hn. 1</labelAbbr>
+                              <instrDef xml:id="instrdef-0000000907729032" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
+                              <clef xml:id="clef-0000001318418697" shape="G" line="2" />
+                              <keySig xml:id="keysig-0000000904366639" sig="2f" />
+                              <meterSig xml:id="msig-0000000427636485" count="4" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000000375743163">
+                  <pb xml:id="pb-0000001155397569" />
+                  <measure xml:id="measure-0000001560200729" n="1">
+                     <staff xml:id="staff-0000001510633480" n="1">
+                        <layer xml:id="layer-0000000847924224" n="1">
+                           <note xml:id="note-0000000606754492" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000000395809410" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000001660616298" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000000314633358" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
+                     </dir>
+                     <dir xml:id="dir-0000001325319933" place="above" staff="1" tstamp="1.000000" vgrp="200">2</dir>
+                     <tempo xml:id="tempo-0000001355857319" place="above" staff="1" tstamp="1.000000" midi.bpm="92">
+                        <rend xml:id="rend-0000001438921750" rend="none" fontweight="bold">Andante</rend>
+                     </tempo>
+                     <slur xml:id="slur-0000000426976355" startid="#note-0000000606754492" endid="#note-0000001092122522" curvedir="above" />
+                     <hairpin xml:id="hairpin-0000000666516987" staff="1" tstamp="4.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="65" />
+                     <tie xml:id="tie-0000000299238164" startid="#note-0000000395809410" endid="#note-0000001212382649" />
+                  </measure>
+                  <measure xml:id="measure-0000002134469716" n="2">
+                     <staff xml:id="staff-0000001999217666" n="1">
+                        <layer xml:id="layer-0000001332854591" n="1">
+                           <note xml:id="note-0000001212382649" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                           <note xml:id="note-0000001103505768" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="down">
+                              <accid xml:id="accid-0000002000293136" accid="n" />
+                           </note>
+                           <note xml:id="note-0000000885216942" dur.ppq="1" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="note-0000001092122522" dur.ppq="1" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="accid-0000001885253112" accid="s" accid.ges="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000000344589507" place="below" staff="1" tstamp="1.000000" vgrp="44">
+                        <rend xml:id="rend-0000002116445122" rend="none" fontstyle="italic" fontweight="bold">mf</rend>
+                     </dir>
+                     <hairpin xml:id="hairpin-0000001712323930" staff="1" tstamp="2.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="65" />
+                  </measure>
+                  <measure xml:id="measure-0000000182890357" n="3">
+                     <staff xml:id="staff-0000001641917257" n="1">
+                        <layer xml:id="layer-0000001472362785" n="1">
+                           <note xml:id="note-0000000581218139" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000001722059416" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down">
+                              <accid xml:id="accid-0000000443013635" accid="f" accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000001778849597" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000000086613900" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
+                     </dir>
+                     <slur xml:id="slur-0000000842836522" startid="#note-0000000581218139" endid="#note-0000001624115492" curvedir="above" />
+                     <dynam xml:id="dynam-0000001500480442" place="below" staff="1" tstamp="4.000000" vgrp="40">
+                        <rend xml:id="rend-0000000667964378" rend="none" fontstyle="italic">cresc.</rend>
+                     </dynam>
+                     <tie xml:id="tie-0000002072045232" startid="#note-0000001722059416" endid="#note-0000001494997612" />
+                  </measure>
+                  <measure xml:id="measure-0000000800768996" n="4">
+                     <staff xml:id="staff-0000001173456676" n="1">
+                        <layer xml:id="layer-0000001165447749" n="1">
+                           <note xml:id="note-0000001494997612" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                           <note xml:id="note-0000000672041047" dur.ppq="1" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="note-0000002100126970" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="down">
+                              <accid xml:id="accid-0000000942048389" accid="n" />
+                           </note>
+                           <note xml:id="note-0000001624115492" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="down">
+                              <accid xml:id="accid-0000000729736643" accid="f" accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000694617309" right="end" n="5">
+                     <staff xml:id="staff-0000000204623587" n="1">
+                        <layer xml:id="layer-0000001257519621" n="1">
+                           <rest xml:id="rest-0000000958564548" dur.ppq="2" dur="2" />
+                           <note xml:id="note-0000001715171119" dur.ppq="2" dur="2" oct="5" pname="c" stem.dir="up">
+                              <accid xml:id="accid-0000001963205374" accid="s" accid.ges="s" />
+                           </note>
+                        </layer>
+                        <layer xml:id="layer-0000001315399295" n="2">
+                           <note xml:id="note-0000000560898676" dur.ppq="2" dur="2" oct="4" pname="g" stem.dir="down" />
+                           <rest xml:id="rest-0000001639721616" dur.ppq="2" dur="2" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000000811456044" place="below" staff="1" tstamp="1.000000" vgrp="52">
+                        <rend xml:id="rend-0000001818368228" rend="none" fontstyle="italic" fontweight="bold">mf</rend>
+                     </dir>
+                     <dir xml:id="dir-0000000518503784" place="above" staff="1" tstamp="3.000000" vgrp="249">
+                        <rend xml:id="rend-0000000728295135" rend="none" fontweight="bold">[</rend>
+                        <rend xml:id="rend-0000002061150443" rend="none" fontstyle="italic">mf</rend>
+                        <rend xml:id="rend-0000000435951241" rend="none" fontstyle="normal">]</rend>
+                     </dir>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
