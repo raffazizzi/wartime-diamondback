@@ -3,7 +3,7 @@ layout: mei
 title: Highland, Souvenir of Scotland, Op. 38
 author: Carreño, Teresa
 permalink: /carreno-38/
-document: carreno_highland_souvenir_of_scotland_op38.mei
+document: carreno_highland_op38.mei
 ---
 
 - In Carreño, Teresa, and Rodriguez-Peralta, Carmen. *Music for Piano.* Bryn Mawr, Pa.: Hildegard Pub., 1996.
