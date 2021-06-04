@@ -81,7 +81,7 @@
                      </staff>
                      <tempo xml:id="tempo-0000000813235936" place="above" staff="1" tstamp="1.000000" midi.bpm="120">
                         <rend xml:id="rend-0000000841600129" rend="none" fontweight="bold">Allegretto </rend>
-                        <rend xml:id="rend-0000000481657571" rend="none" fontweight="normal">(Tempo di Valse)</rend>
+                        <rend xml:id="rend-0000000481657571" rend="none" fontweight="normal"> (Tempo di Valse)</rend>
                      </tempo>
                      <dir xml:id="dir-0000000508097337" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000726250218" rend="none" fontstyle="italic" fontweight="bold">pp </rend>
