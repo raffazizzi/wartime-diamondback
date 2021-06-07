@@ -4,6 +4,7 @@ title: Piano 2 for solo piano (1986), Mvt. 1
 author: Eastman, Julius
 permalink: /eastman-piano_2_mvt1/
 image: eastman_piano_2_mvt1.png
+image: eastman_piano_2_mvt2.png
 ---
 
 - In Eastman, Julius. *Piano 2: For Solo Piano (1986).* New York: Schirmer Rental Dept., 2020.
