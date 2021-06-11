@@ -3,7 +3,7 @@ layout: mei
 title: Fantasistykker, Op. 36, No. 4 - Vuggevise
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-36.4/
-document: backer-grondahl_ballade_op36_no4.mei
+document: backer-grondahl_vuggevise_op36_no4.mei
 ---
 
 - In Backer-Grøndahl, Agathe, and Slater, Charles. *Piano Music.* Women Composers Series; 9. New York: Da Capo Press, 1982.
