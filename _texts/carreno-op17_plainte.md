@@ -3,7 +3,7 @@ layout: post
 title: Plainte! Op. 17 (Plaìntes au bord d'une tombe. Six melodies, No. 1)
 author: Carreño, Teresa
 permalink: /carreno-17/
-image: carreno_plaintes_op17.png
+image: carreno_plainte_op17.png
 ---
 
 - In Carreño, Teresa, and Rodriguez-Peralta, Carmen. *Music for Piano.* Bryn Mawr, Pa.: Hildegard Pub., 1996.
