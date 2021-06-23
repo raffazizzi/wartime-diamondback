@@ -5,9 +5,11 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Piano Trio in G Minor</title>
+            <title>Piano Trio in G Minor, Finale, Rondo, Mvt. 3</title>
             <respStmt>
-               <persName role="composer">Elfrida Andree</persName>
+               <persName role="composer">Elfrida Andrée</persName>
+               <persName role="transcriber">Sebastian Tringale</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-23" type="encoding-date">2021-06-23</date>
@@ -29,7 +31,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000002003068762">
                      <rend xml:id="rend-0000000191852846" halign="center" valign="top">Piano Trio in G Minor</rend>
-                     <rend xml:id="rend-0000000010203029" halign="center" valign="top">III. Finale, Rondo</rend>
+                     <rend xml:id="rend-0000000010203029" halign="center" valign="top">Finale, Rondo, Mvt. 3</rend>
                      <rend xml:id="rend-0000000304373385" halign="right" valign="bottom">Elfrida Andrée</rend>
                      <rend xml:id="rend-0000001703014070" halign="left" valign="top">Violin</rend>
                   </pgHead>
