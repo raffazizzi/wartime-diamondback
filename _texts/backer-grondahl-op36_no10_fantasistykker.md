@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fantasistykker, Op. 36, No. 10, Alfeleg
+title: Fantasistykker, Op. 36, No. 10 - Alfeleg
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-36.10/
 image: backer-grondahl_alfeleg_op36_no10.png
