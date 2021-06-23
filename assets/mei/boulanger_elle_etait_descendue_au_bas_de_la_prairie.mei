@@ -82,7 +82,7 @@
                      </staff>
                      <dir xml:id="dir-0000001598019734" place="above" staff="1" tstamp="3.500000" vgrp="234">
                         <rend xml:id="rend-0000002038921238" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000000223996112" rend="none" fontweight="normal">simple et songeur</rend>
+                        <rend xml:id="rend-0000000223996112" rend="none" fontweight="normal">  simple et songeur</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000002027032015" n="2">
