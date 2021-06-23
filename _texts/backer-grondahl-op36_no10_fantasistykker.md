@@ -1,9 +1,9 @@
 ---
-layout: mei
-title: Fantasistykker, Op. 36, No. 10 - Alfeleg
+layout: post
+title: Fantasistykker, Op. 36, No. 10, Alfeleg
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-36.10/
-document: backer-grondahl_alfeleg_op36_no10.mei
+image: backer-grondahl_alfeleg_op36_no10.png
 ---
 
 - In Backer-Grøndahl, Agathe, and Slater, Charles. *Piano Music.* Women Composers Series; 9. New York: Da Capo Press, 1982.
