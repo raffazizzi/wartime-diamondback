@@ -14,10 +14,9 @@
 
 title: Rebalancing the Music Canon
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  An open-access music data project to make works by un(der)-represented people more discoverable, decenter the musical canon, and make data-driven music scholarship more diverse and inclusive.
-baseurl: "/rebalancing-music-canon" # the subpath of your site, e.g. /blog
-url: "https://rebalancing-music-canon.com/" # the base hostname & protocol for your site, e.g. http://example.com
+description: An open-access music data project to make works by un(der)-represented people more discoverable, decenter the musical canon, and make data-driven music scholarship more diverse and inclusive.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://rebalancing-music-canon.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme: red
@@ -38,12 +37,12 @@ collections:
 
 # Exclude from processing.
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
+  - optional
+  - vendor
+  - ed..gemspec
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - vendor
+  - backstop_data
+  - backstop.json
 
 theme: "ed."
