@@ -37,8 +37,8 @@
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000085198211">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="3">
-                        <label xml:id="label-0000000188363639">Piano</label>
-                        <labelAbbr xml:id="labelAbbr-0000000241975970">Pno.</labelAbbr>
+                        <label xml:id="label-0000000188363639">Voice</label>
+                        <labelAbbr xml:id="labelAbbr-0000000241975970"></labelAbbr>
                         <instrDef xml:id="instrdef-0000001778849597" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
                         <clef xml:id="clef-0000000667964378" shape="G" line="2" />
                         <keySig xml:id="keysig-0000000248338949" sig="4s" />

@@ -9,6 +9,9 @@
             <respStmt>
                <persName role="composer">Lili Boulanger</persName>
                <persName role="lyricist">Francis Jammes</persName>
+               <persName role="transcriber">Chelsea Hong</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-23" type="encoding-date">2021-06-23</date>
@@ -37,8 +40,8 @@
                      <staffGrp xml:id="staffgrp-0000001052955155">
                         <grpSym xml:id="grpsym-0000000679913504" symbol="brace" />
                         <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                           <label xml:id="label-0000001497039130">Piano</label>
-                           <labelAbbr xml:id="labelAbbr-0000001104591732">Pno.</labelAbbr>
+                           <label xml:id="label-0000001497039130">Voice</label>
+                           <labelAbbr xml:id="labelAbbr-0000001104591732"></labelAbbr>
                            <instrDef xml:id="instrdef-0000000348424075" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
                            <clef xml:id="clef-0000000774616102" shape="G" line="2" />
                            <keySig xml:id="keysig-0000000267851314" sig="4s" />
