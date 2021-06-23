@@ -75,7 +75,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001083649408" place="above" staff="1" tstamp="4.000000" vgrp="239">
-                        <rend xml:id="rend-0000002061150443" rend="none" fontstyle="italic" fontweight="bold">p </rend>
+                        <rend xml:id="rend-0000002061150443" rend="none" fontstyle="italic" fontweight="bold">p  </rend>
                         <rend xml:id="rend-0000000435951241" rend="none" fontweight="normal">  recueilli</rend>
                      </dir>
                   </measure>
