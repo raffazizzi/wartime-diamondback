@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clarinet Quintet. Frenetic Memories for Clarinet in B-flat and String Quartet
+title: Frenetic Memories (Clarinet Quintet)
 author: Fung, Vivian
 permalink: /fung-frenetic-memories/
 image: fung_frenetic-memories.png
