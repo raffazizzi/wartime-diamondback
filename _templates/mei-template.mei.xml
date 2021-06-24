@@ -19,17 +19,14 @@
          </titleStmt>
          <pubStmt>
             <publisher>Rebalancing the Music Canon</publisher>
-            <!--insert final review date-->
-            <date>May 7, 2021</date>
+         <!--The date is automatically generated when file is exported from MuseScore-->
+            <date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
             <availability>
                <useRestrict>The incipits are provided for educational use only and are not to be used commercially.</useRestrict>
             </availability>
             <identifier>
             <ref target="https://rebalancing-music-canon.com/">
             </identifier>
-         </pubStmt>
-         <!--The date is automatically generated when file is exported from MuseScore-->
-         <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000614760649">
