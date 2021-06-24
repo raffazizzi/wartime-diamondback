@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In Distance
+author: Dun, Tan
 permalink: /dun-in-distance/
 image: dun_in-distance.png
 ---
