@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+         <!--Verify the title of the work and corresponding opus and number if available-->
+            <title>Ballade</title>
+            <title type="subordinate">Op. 36, No. 5</title>
+            <respStmt> 
+            <!--Verify the name of the composer-->
+               <persName role="composer">Agathe Backer-Grøndahl</persName>
+               <!--Add the name(s) of the transcriber and reviewer-->
+               <persName role="transcriber">Delilah Righter</persName>
+               <persName role="transcriber">Simon K. Perry</persName>
+               <persName role="reviewer">Simon K. Perry</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <publisher>Rebalancing the Music Canon</publisher>
+            <!--insert final review date-->
+            <date>May 7, 2021</date>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/">
+            </identifier>
+         </pubStmt>
+         <!--The date is automatically generated when file is exported from MuseScore-->
+         <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000614760649">
+         <appInfo xml:id="appinfo-0000000023265362">
+            <application xml:id="application-0000000577001958" isodate="2021-05-07T15:59:57" version="3.5.0-dev-6858d78">
+               <name xml:id="name-0000000380456974">Verovio</name>
+               <p xml:id="p-0000001918641429">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+        <score>
+        <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000000190085979">
+                              <!--Verify the name of the composer-->
+                     <rend xml:id="rend-0000001173181325" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
+         <!--Verify the title of the work and corresponding opus and number if available-->
+                     <rend xml:id="rend-0000001835101377" halign="center" valign="top">Ballade</rend>
+                     <rend xml:id="rend-0000000650322178" halign="center" valign="top">Op. 36, No. 5</rend>
+                  </pgHead>
+                  </scoreDef>
+                <!--encoded incipit will go in here; this is exported from MuseScore-->            
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
