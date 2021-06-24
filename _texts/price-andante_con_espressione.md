@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Andante Con Espressione
 author: Price, Florence B.
 permalink: /price-andante-con-espressione/
-document: price_andante-con-espressione.mei
+image: price_andante-con-espressione.png
 ---
 
 - In Price, Florence, and Cooper, John Michael. *Andante Con Espressione: For Violin and Piano.* 2019.
