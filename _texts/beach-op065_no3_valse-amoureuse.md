@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Valse amoureuse, Op. 65, No. 3
+title: Valse amoureuse, op. 65, no. 3
 author: Beach, Amy Marcy Cheney
 permalink: /beach-65.3/
 document: beach_valse_amoureuse_op65_no3.mei
