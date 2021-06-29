@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Dans l'immense tristesse (Quatre chants)
+title: Dans l'immense tristesse, (Quatre chants)
 author: Boulanger, Lili
 permalink: /boulanger-dans/
 document: boulanger_quatre_chants_dans_l'immense_tristesse.mei
