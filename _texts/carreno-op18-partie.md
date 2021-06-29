@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Partie! Op. 18 (Plaìntes au bord d'une tombe. Six melodies, No. 2)
+title: Partie! op. 18 (Plaìntes au bord d'une tombe. Six melodies, No. 2)
 author: Carreño, Teresa
 permalink: /carreno-18/
 image: carreno_partie_op18.png
