@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Hibiscus on the Sleeping Shores</title>
+            <title>Hibiscus on the sleeping shores</title>
             <respStmt>
                <persName role="composer">Louise Talma</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -30,7 +30,7 @@
             <score xml:id="score-0000001638748985">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000980984678">
-                     <rend xml:id="rend-0000000276288853" halign="center" valign="top">Hibiscus on the Sleeping Shores</rend>
+                     <rend xml:id="rend-0000000276288853" halign="center" valign="top">Hibiscus on the sleeping shores</rend>
                      <rend xml:id="rend-0000001331249885" halign="right" valign="bottom">Louise Talma</rend>
                      <rend xml:id="rend-0000000532594667" halign="left" valign="bottom">Wallace Stevens</rend>
                   </pgHead>

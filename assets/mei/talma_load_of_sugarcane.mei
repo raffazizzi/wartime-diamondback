@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>The Load of Sugarcane</title>
+            <title>The load of sugarcane</title>
             <respStmt>
                <persName role="composer">Louise Talma</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -30,7 +30,7 @@
             <score xml:id="score-0000000923103253">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001336063757">
-                     <rend xml:id="rend-0000001582876614" halign="center" valign="top">The Load of Sugarcane</rend>
+                     <rend xml:id="rend-0000001582876614" halign="center" valign="top">The load of sugarcane</rend>
                      <rend xml:id="rend-0000001632294250" halign="right" valign="bottom">Louise Talma</rend>
                      <rend xml:id="rend-0000000302770330" halign="left" valign="bottom">Wallace Stevens</rend>
                   </pgHead>
