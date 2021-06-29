@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Au Bal</title>
+            <title>Au bal</title>
             <respStmt>
                <persName role="composer">Agathe Backer-Grøndahl</persName>
                <persName role="transcriber">Delilah Righter</persName>
@@ -32,7 +32,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001020424087">
                      <rend xml:id="rend-0000000923080176" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
-                     <rend xml:id="rend-0000001909336715" halign="center" valign="top">Au Bal</rend>
+                     <rend xml:id="rend-0000001909336715" halign="center" valign="top">Au bal</rend>
                      <rend xml:id="rend-0000001433033527" halign="center" valign="top">Op. 15, No. 2</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000694323447">

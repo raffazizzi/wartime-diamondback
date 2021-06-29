@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Au Bal, Op. 15, No. 2
+title: Au bal, Op. 15, No. 2
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-15.2/
 document: backer-grondahl_au_bal_op15_no2.mei
