@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Fausse Note</title>
+            <title>La fausse note</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
                <persName role="transcriber">Sebastian Tringale</persName>
@@ -31,7 +31,7 @@
             <score xml:id="score-0000001920694182">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001265228955">
-                     <rend xml:id="rend-0000000694323447" halign="center" valign="top">La Fausse Note</rend>
+                     <rend xml:id="rend-0000000694323447" halign="center" valign="top">La fausse note</rend>
                      <rend xml:id="rend-0000001584650469" halign="center" valign="top">Valse</rend>
                      <rend xml:id="rend-0000000433319947" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>

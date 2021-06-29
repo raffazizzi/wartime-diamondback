@@ -5,9 +5,9 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Le Printemps</title>
+            <title>Le printemps, op. 25</title>
             <respStmt>
-               <persName role="composer">Teresa Carre</persName>
+               <persName role="composer">Teresa Carreño</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
@@ -28,7 +28,7 @@
             <score xml:id="score-0000001563338482">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001477793338">
-                     <rend xml:id="rend-0000000508097337" halign="center" valign="top">Le Printemps</rend>
+                     <rend xml:id="rend-0000000508097337" halign="center" valign="top">Le printemps</rend>
                      <rend xml:id="rend-0000001383176531" halign="center" valign="top">Valse</rend>
                      <rend xml:id="rend-0000000585037733" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
