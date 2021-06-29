@@ -5,9 +5,9 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Dolladine, Op. 75, No. 3</title>
+            <title>Dolladine, op. 75, no. 3</title>
             <respStmt>
-               <persName role="composer">Mrs.H.H.A.Beach</persName>
+               <persName role="composer">Amy Beach</persName>
                <persName role="transcriber">Hailing Wang</persName>
                <persName role="reviewer">Joanna Strogatz</persName>
             </respStmt>
@@ -30,8 +30,8 @@
             <score xml:id="score-0000001789016772">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000920913527">
-                     <rend xml:id="rend-0000000473518983" halign="right" valign="bottom">Mrs. H.H.A. Beach</rend>
-                     <rend xml:id="rend-0000000268858337" halign="center" valign="top">Dolladine, Op. 75, No. 3</rend>
+                     <rend xml:id="rend-0000000473518983" halign="right" valign="bottom">Amy Beach</rend>
+                     <rend xml:id="rend-0000000268858337" halign="center" valign="top">Dolladine, op. 75, no. 3</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000216110201">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">

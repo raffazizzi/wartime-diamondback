@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>In Autumn</title>
+            <title>In autumn, op. 15, no. 1</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
                <persName role="transcriber">Sebastian Tringale</persName>
@@ -31,7 +31,7 @@
             <score xml:id="score-0000000267851314">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000002014079449">
-                     <rend xml:id="rend-0000000473177626" halign="center" valign="top">In Autumn</rend>
+                     <rend xml:id="rend-0000000473177626" halign="center" valign="top">In autumn, op. 15, no. 1</rend>
                      <rend xml:id="rend-0000001431130809" halign="right" valign="bottom">Amy Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000232406695">

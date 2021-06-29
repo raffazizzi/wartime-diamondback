@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Scottish Legend, Op. 54, no. 1</title>
+            <title>Scottish legend, op. 54, no. 1</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
                <persName role="transcriber">Ismenia Ginebra</persName>
@@ -30,7 +30,7 @@
             <score xml:id="score-0000001284394151">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001250110893">
-                     <rend xml:id="rend-0000001635121290" halign="center" valign="top">Scottish Legend, Op. 54, no. 1</rend>
+                     <rend xml:id="rend-0000001635121290" halign="center" valign="top">Scottish legend, op. 54, no. 1</rend>
                      <rend xml:id="rend-0000001557769433" halign="right" valign="top">Amy Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001095620619">

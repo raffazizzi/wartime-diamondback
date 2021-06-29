@@ -5,9 +5,9 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>The Candy Lion, Op. 75, No. 1</title>
+            <title>The candy lion, op. 75, no. 1</title>
             <respStmt>
-               <persName role="composer">Mrs. H.H.A. Beach</persName>
+               <persName role="composer">Amy Beach</persName>
                <persName role="transcriber">Hailing Wang</persName>
                <persName role="reviewer">Joanna Strogatz</persName>
             </respStmt>
@@ -30,8 +30,8 @@
             <score xml:id="score-0000000195135968">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000416216982">
-                     <rend xml:id="rend-0000001889650736" halign="right" valign="bottom">Mrs. H.H.A. Beach</rend>
-                     <rend xml:id="rend-0000002125143537" halign="center" valign="top">The Candy Lion, Op. 75, No. 1</rend>
+                     <rend xml:id="rend-0000001889650736" halign="right" valign="bottom">Amy Beach</rend>
+                     <rend xml:id="rend-0000002125143537" halign="center" valign="top">The candy lion, op. 75, no. 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000669697387">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="4">
