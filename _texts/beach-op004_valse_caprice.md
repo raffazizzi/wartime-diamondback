@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Valse caprice, Op. 4
+title: Valse caprice, op. 4
 author: Beach, Amy Marcy Cheney
 permalink: /beach-4/
 document: beach_valse_caprice_op4.mei
