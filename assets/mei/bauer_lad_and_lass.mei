@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Lad and Lass</title>
+            <title>Lad and lass</title>
             <respStmt>
                <persName role="composer">Marion Bauer</persName>
                <persName role="lyricist">Cale Young Rice</persName>
@@ -31,7 +31,7 @@
             <score xml:id="score-0000001694454087">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001578309063">
-                     <rend xml:id="rend-0000000907729032" halign="center" valign="top">Lad and Lass</rend>
+                     <rend xml:id="rend-0000000907729032" halign="center" valign="top">Lad and lass</rend>
                      <rend xml:id="rend-0000000625243133" halign="right" valign="bottom">Marion Bauer</rend>
                      <rend xml:id="rend-0000000092625705" halign="left" valign="bottom">Cale Young Rice</rend>
                   </pgHead>

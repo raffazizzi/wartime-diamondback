@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Lad and Lass
+title: Lad and lass
 author: Bauer, Marion
 permalink: /bauer-lad-and-lass/
 document: bauer_lad_and_lass.mei
