@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Le Retour</title>
+            <title>Le retour</title>
             <respStmt>
                <persName role="composer">Lili Boulanger</persName>
                <persName role="lyricist">Georges Delaquys</persName>
@@ -31,7 +31,7 @@
             <score xml:id="score-0000001019371282">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000541012321">
-                     <rend xml:id="rend-0000000373769401" halign="center" valign="top">Le Retour</rend>
+                     <rend xml:id="rend-0000000373769401" halign="center" valign="top">Le retour</rend>
                      <rend xml:id="rend-0000000954455855" halign="right" valign="bottom">Lili Boulanger</rend>
                      <rend xml:id="rend-0000001857495097" halign="left" valign="bottom">Georges Delaquys</rend>
                   </pgHead>
