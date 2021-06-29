@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Saans (Breathe)
+title: Saans (breath)
 author: Esmail, Reena
 permalink: /esmail-saans/
 document: esmail_saans.mei 

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Let America Be America Again</title>
+            <title>Let America be America again</title>
             <respStmt>
                <persName role="composer">Carlos Simon</persName>
                <persName role="lyricist">Langston Hughes</persName>
@@ -31,7 +31,7 @@
             <score xml:id="score-0000001322732797">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001181695304">
-                     <rend xml:id="rend-0000000246005706" halign="center" valign="top">Let America Be America Again</rend>
+                     <rend xml:id="rend-0000000246005706" halign="center" valign="top">Let America be America again</rend>
                      <rend xml:id="rend-0000001229662389" halign="right" valign="top">Carlos Simon</rend>
                      <rend xml:id="rend-0000000776271432" halign="left" valign="top">Langston Hughes</rend>
                      <rend xml:id="rend-0000000380233170" halign="left" valign="top">Violin 1</rend>
