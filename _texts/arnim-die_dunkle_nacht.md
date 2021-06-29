@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Die Dunkle Nacht
+title: Die dunkle Nacht
 author: Arnim, Bettina von
 permalink: /arnim-die_dunkle_nacht/
 document: arnim_die_dunkle_nacht.mei

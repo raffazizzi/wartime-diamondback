@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Lass loss von der Welt
+title: Laß los von der Welt
 author: Arnim, Bettina von
 permalink: /arnim-lass_los_von_der_welt/
 document: arnim_lass_los_von_der_welt.mei
