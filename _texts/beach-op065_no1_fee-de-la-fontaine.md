@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: La fée de la fontaine, Op. 65, No. 1
+title: La fée de la fontaine, op. 65, no. 1
 author: Beach, Amy Marcy Cheney
 permalink: /beach-65.1/
 document: beach_fee_de_la_fontaine_op65_no1.mei

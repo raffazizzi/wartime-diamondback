@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Barcarolle, Op. 28, No. 1
+title: Barcarolle, op. 28, no. 1
 author: Beach, Amy Marcy Cheney
 permalink: /beach-28.1/
 document: beach_barcarolle_op28_no1.mei

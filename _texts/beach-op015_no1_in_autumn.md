@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: In Autumn, Op. 15, No. 1
+title: In autumn, op. 15, no. 1
 author: Beach, Amy Marcy Cheney
 permalink: /beach-15.1/
 document: beach_in_autumn_op15_no1.mei

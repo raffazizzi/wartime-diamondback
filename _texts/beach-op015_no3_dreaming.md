@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dreaming, Op. 15, No. 3
+title: Dreaming, op. 15, no. 3
 author: Beach, Amy Marcy Cheney
 permalink: /beach-15.3/
 image: beach_dreaming_op15_no3.png

@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Gavotte Fantastique, Op. 54, No. 2
+title: Gavotte fantastique, op. 54, no. 2
 author: Beach, Amy Marcy Cheney
 permalink: /beach-54.2/
 document: beach_gavotte_fantastique_op54_no2.mei

@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Variations on Balkan themes, Op. 60
+title: Variations on Balkan themes, op. 60
 author: Beach, Amy Marcy Cheney
 permalink: /beach-60/
-document: beach_variations_on_balkan_themes_op60.mei
+document: beach_balkan_themes_op60.mei
 ---
 
 - In Beach, Amy, and Glickman, Sylvia. *Music for Piano. II.* Bryn Mawr, Pa.: Hildegard Pub., 1997.

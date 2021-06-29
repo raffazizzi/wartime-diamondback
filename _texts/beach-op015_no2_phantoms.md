@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phantoms, Op. 15, No. 2
+title: Phantoms, op. 15, no. 2
 author: Beach, Amy Marcy Cheney
 permalink: /beach-15.2/
 image: beach_phantoms_op15_no2-1.png
