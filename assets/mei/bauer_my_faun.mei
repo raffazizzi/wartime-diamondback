@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>My Faun</title>
+            <title>My faun</title>
             <respStmt>
                <persName role="composer">Marion Bauer</persName>
                <persName role="lyricist">Oscar Wilde</persName>
@@ -31,7 +31,7 @@
             <score xml:id="score-0000000268858337">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000002027032015">
-                     <rend xml:id="rend-0000000942821338" halign="center" valign="top">My Faun</rend>
+                     <rend xml:id="rend-0000000942821338" halign="center" valign="top">My faun</rend>
                      <rend xml:id="rend-0000000576167488" halign="right" valign="bottom">Marion Bauer</rend>
                      <rend xml:id="rend-0000000375743163" halign="left" valign="bottom">Oscar Wilde</rend>
                   </pgHead>

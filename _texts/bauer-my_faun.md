@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: My Faun
+title: My faun
 author: Bauer, Marion
 permalink: /bauer-my_faun/
 document: bauer_my_faun.mei
