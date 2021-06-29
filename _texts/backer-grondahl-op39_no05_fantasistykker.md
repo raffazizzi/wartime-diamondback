@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Fantasistykker, Op. 39, No. 5 - I Baaden
+title: Fantasistykker, Op. 39, No. 5 - I baaden
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-39.5/
 document: backer-grondahl_fantasistykker_op39_no5.mei

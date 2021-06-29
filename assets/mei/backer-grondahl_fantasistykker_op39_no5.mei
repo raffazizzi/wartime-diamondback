@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Fantasistykker, Op. 39 - I Baaden</title>
+            <title>Fantasistykker, Op. 39 - I baaden</title>
             <title type="subordinate">No. 5</title>
             <respStmt>
                <persName role="composer">Agatha Backer-Grøndahl</persName>
@@ -32,7 +32,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001389019958">
                      <rend xml:id="rend-0000000023950376" halign="right" valign="bottom">Agathe Backer-Grøndahl</rend>
-                     <rend xml:id="rend-0000000348776167" halign="center" valign="top">Fantasistykker Op. 39, No. 5 - I Baaden</rend>
+                     <rend xml:id="rend-0000000348776167" halign="center" valign="top">Fantasistykker Op. 39, No. 5 - I baaden</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000801364560">
                      <staffGrp xml:id="P1" bar.thru="true">
