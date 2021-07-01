@@ -14,6 +14,13 @@
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-04-16" type="encoding-date">2021-04-16</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000001719816744">
@@ -204,7 +211,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="measure-0000001525494948" right="end" n="6">
+                  <measure xml:id="measure-0000001525494948" right="single" n="6">
                      <staff xml:id="staff-0000000462902369" n="1">
                         <layer xml:id="layer-0000001460565856" n="1">
                            <beam xml:id="beam-0000000373769401">
