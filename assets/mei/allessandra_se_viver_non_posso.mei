@@ -200,7 +200,7 @@
                      </staff>
                      <dynam xml:id="dynam-0000001889650736" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">p</dynam>
                   </measure>
-                  <measure xml:id="measure-0000002038921238" right="end" n="4">
+                  <measure xml:id="measure-0000002038921238" right="single" n="4">
                      <staff xml:id="staff-0000000732160689" n="1">
                         <layer xml:id="layer-0000000426094344" n="1">
                            <rest xml:id="rest-0000001789016772" dur.ppq="2" dur="16" />

@@ -141,7 +141,7 @@
                      <slur xml:id="slur-0000001817854923" startid="#note-0000002061150443" endid="#note-0000001963205374" curvedir="above" />
                      <slur xml:id="slur-0000001929053918" startid="#note-0000001351228775" endid="#note-0000001231476396" curvedir="above" />
                   </measure>
-                  <measure xml:id="measure-0000001719288096" right="end" n="21">
+                  <measure xml:id="measure-0000001719288096" right="single" n="21">
                      <staff xml:id="staff-0000001958781713" n="1">
                         <layer xml:id="layer-0000001824113999" n="1">
                            <note xml:id="note-0000001557697675" dur.ppq="8" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f" />
