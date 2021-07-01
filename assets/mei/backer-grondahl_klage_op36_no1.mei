@@ -15,6 +15,13 @@
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000694323447">
@@ -281,7 +288,7 @@
                      <slur xml:id="slur-0000001744189786" startid="#note-0000001364550821" endid="#note-0000001243131010" curvedir="above" />
                      <hairpin xml:id="hairpin-0000001629547470" staff="2" tstamp="1.750000" tstamp2="0m+2.7500" form="cres" place="above" vgrp="214" />
                   </measure>
-                  <measure xml:id="measure-0000000402703184" right="end" n="4">
+                  <measure xml:id="measure-0000000402703184" right="single" n="4">
                      <staff xml:id="staff-0000002142023487" n="1">
                         <layer xml:id="layer-0000000679639567" n="1">
                            <chord xml:id="chord-0000000987521289" dur.ppq="4" dur="4" stem.dir="up">
