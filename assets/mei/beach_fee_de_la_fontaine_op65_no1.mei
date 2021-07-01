@@ -12,7 +12,13 @@
                <persName role="reviewer">Joanna Strogatz</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
+         <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date> <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000817270077">
@@ -210,7 +216,7 @@
                      <dynam xml:id="dynam-0000000616852535" place="above" staff="2" tstamp="1.000000" val="49"> ]</dynam>
                      <slur xml:id="slur-0000000679964586" startid="#note-0000000694977375" endid="#note-0000000662197671" curvedir="below" />
                   </measure>
-                  <measure xml:id="measure-0000000818741950" right="end" n="4">
+                  <measure xml:id="measure-0000000818741950" right="single" n="4">
                      <staff xml:id="staff-0000001451544370" n="1">
                         <layer xml:id="layer-0000001283264665" n="1">
                            <note xml:id="note-0000001696735993" dur.ppq="32" dur="1" oct="5" pname="e">

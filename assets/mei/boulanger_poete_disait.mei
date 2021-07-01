@@ -14,7 +14,13 @@
                <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2021-06-23" type="encoding-date">2021-06-23</date>
+         <pubStmt><date isodate="2021-06-23" type="encoding-date">2021-06-23</date> <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000549522480">
@@ -159,7 +165,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="measure-0000000405400175" right="end" n="6">
+                  <measure xml:id="measure-0000000405400175" right="single" n="6">
                      <staff xml:id="staff-0000000913043931" n="1">
                         <layer xml:id="layer-0000000403228649" n="1">
                            <rest xml:id="rest-0000001790808424" dur.ppq="1" dur="8" />

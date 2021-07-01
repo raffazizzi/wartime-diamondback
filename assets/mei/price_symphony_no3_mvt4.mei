@@ -12,7 +12,13 @@
                <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
+         <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date> <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000188363639">
@@ -122,7 +128,7 @@
                      </staff>
                      <hairpin xml:id="hairpin-0000000801364560" staff="1" tstamp="1.000000" tstamp2="0m+5.5000" form="dim" place="below" vgrp="68" />
                   </measure>
-                  <measure xml:id="measure-0000000872872807" right="end" n="5">
+                  <measure xml:id="measure-0000000872872807" right="single" n="5">
                      <staff xml:id="staff-0000001790496533" n="1">
                         <layer xml:id="layer-0000001768064207" n="1">
                            <note xml:id="note-0000001702749235" dots="1" dur.ppq="3" dur="4" oct="5" pname="c" stem.dir="down" />
