@@ -178,7 +178,7 @@
                      </staff>
                   </measure>
                   <sb xml:id="sb-0000001510009997" />
-                  <measure xml:id="measure-0000000662197671" right="end" n="5">
+                  <measure xml:id="measure-0000000662197671" right="single" n="5">
                      <staff xml:id="staff-0000001034508618" n="1">
                         <layer xml:id="layer-0000001944083628" n="1">
                            <beam xml:id="beam-0000001991270282">
