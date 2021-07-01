@@ -184,7 +184,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="measure-0000001356175985" right="end" n="6">
+                  <measure xml:id="measure-0000001356175985" right="single" n="6">
                      <staff xml:id="staff-0000000950080076" n="1">
                         <layer xml:id="layer-0000001928277915" n="1">
                            <rest xml:id="rest-0000000173387737" dur.ppq="4" dur="4" />
