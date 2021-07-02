@@ -3,7 +3,7 @@ layout: mei
 title: I'm troubled in my mind
 author: Price, Florence B.
 permalink: /price-trouble-in-my-mind/
-document: price_trouble-in-my-mind.mei
+document: price_trouble_in_my_mind.mei
 ---
 
 - In *I'm troubled in my mind: for piano*, edited by John Michael Cooper. New York: G. Schirmer, Inc., 2019.
