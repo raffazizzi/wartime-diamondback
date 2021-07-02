@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esquisses italiennes, op. 33, no. 1, Venise
+title: Esquisses Italiennes, op. 33, no. 1, Venise
 author: Carreño, Teresa
 permalink: /carreno-33.1/
 image: carreno_esquisses_italiennes_no1_venise-1.png
