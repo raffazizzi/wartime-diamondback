@@ -7,7 +7,7 @@
          <titleStmt>
             <title>Weihe an Hellas</title>
             <respStmt>
-               <persName role="composer">Bettine von Arnim</persName>
+               <persName role="composer">Bettina von Arnim</persName>
                <persName role="lyricist">Amalie von Helvig</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
                <persName role="reviewer">Phillip G. Wright</persName>
@@ -45,7 +45,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001472362785">
                      <rend xml:id="rend-0000000086613900" halign="center" valign="top">Weihe an Hellas</rend>
-                     <rend xml:id="rend-0000000581218139" halign="right" valign="bottom">Bettine von Arnim</rend>
+                     <rend xml:id="rend-0000000581218139" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000001500480442" halign="left" valign="bottom">Amalie von Helvig</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000248338949">
