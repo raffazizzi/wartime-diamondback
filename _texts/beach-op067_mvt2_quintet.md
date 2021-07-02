@@ -1,5 +1,5 @@
 ---
-layout: poost
+layout: post
 title: Quintet in F-sharp minor, for piano and strings, op. 67, Adagio espressivo
 author: Beach, Amy Marcy Cheney
 permalink: /beach-67.mvt2/
