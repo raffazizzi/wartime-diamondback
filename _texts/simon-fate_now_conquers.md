@@ -3,7 +3,7 @@ layout: post
 title: Fate now conquers  
 author: Simon, Carlos
 permalink: /simon-fate-now-conquers/
-image: simon_fate-now-conquers.png
+image: simon_fate_now_conquers.png
 ---
 
 - In *Fate now conquers: for orchestra (2020).* New York, NY: Bill Holab, 2020.
