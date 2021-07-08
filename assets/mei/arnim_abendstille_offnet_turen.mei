@@ -238,13 +238,13 @@
                         <layer xml:id="layer-0000000448440389" n="1">
                            <note xml:id="note-0000001243131010" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
                               <verse xml:id="verse-0000001768898827" n="1">
-                                 <syl xml:id="syl-0000001438742157" con="s" wordpos="s">Tü</syl>
+                                 <syl xml:id="syl-0000001438742157" con="s" wordpos="i">Tü</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001974642412" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" accid.ges="f" />
                            <note xml:id="note-0000000805682387" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000000779278393" n="1">
-                                 <syl xml:id="syl-0000001642876582" con="s" wordpos="s">ren,</syl>
+                                 <syl xml:id="syl-0000001642876582" con="s" wordpos="t">ren,</syl>
                               </verse>
                            </note>
                            <rest xml:id="rest-0000000903185449" dur.ppq="2" dur="4" />
@@ -254,13 +254,13 @@
                         <layer xml:id="layer-0000000548904394" n="1">
                            <note xml:id="note-0000001782983383" dots="1" dur.ppq="3" dur="4" oct="4" pname="c" stem.dir="down">
                               <verse xml:id="verse-0000001453749511" n="1">
-                                 <syl xml:id="syl-0000001204893302" con="s" wordpos="s">Tü</syl>
+                                 <syl xml:id="syl-0000001204893302" con="s" wordpos="i">Tü</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001150523226" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="down" />
                            <note xml:id="note-0000001005298415" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="down">
                               <verse xml:id="verse-0000000147375567" n="1">
-                                 <syl xml:id="syl-0000000124289193" con="s" wordpos="s">ren,</syl>
+                                 <syl xml:id="syl-0000000124289193" con="s" wordpos="t">ren,</syl>
                               </verse>
                            </note>
                            <rest xml:id="rest-0000001204883671" dur.ppq="2" dur="4" />
