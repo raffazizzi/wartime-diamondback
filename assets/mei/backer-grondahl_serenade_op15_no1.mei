@@ -71,6 +71,9 @@
                <section xml:id="section-0000002079587357">
                   <pb xml:id="pb-0000001676509960" />
                   <measure xml:id="measure-0000002135560372" n="1">
+                    <tempo place="above" staff="1" tstamp="1"> Andantino M.M. </tempo>
+                    <tempo place= "above" staff="1" tstamp="2">   = 100</tempo>
+
                      <staff xml:id="staff-0000001644815921" n="1">
                         <layer xml:id="layer-0000001825754353" n="1">
                            <note xml:id="note-0000000650078346" dur.ppq="4" dur="4" oct="5" pname="c" stem.dir="down">
