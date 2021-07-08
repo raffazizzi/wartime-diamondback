@@ -238,7 +238,7 @@
                            </beam>
                            <note xml:id="note-0000001026258132" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="verse-0000001220288579" n="1">
-                                 <syl xml:id="syl-0000001579265975" con="u" wordpos="i">Geist;</syl>
+                                 <syl xml:id="syl-0000001579265975" con="u" wordpos="m">Geist;</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001433850735" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
