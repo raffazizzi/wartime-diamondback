@@ -103,7 +103,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000000040799085" place="above" staff="1" mm.unit="4">
+                     <tempo xml:id="tempo-0000000040799085" place="above" staff="1" tstamp="1.000000" midi.bpm="100" mm="100.000000" mm.unit="4">
                         <rend xml:id="rend-0000001412293770" rend="none" fontweight="bold">Andantino. M.M. </rend>
                         <rend xml:id="rend-0000000432019326" fontname="VerovioText"></rend> = 100</tempo>
                      <dir xml:id="dir-0000001036990045" place="below" staff="1" tstamp="1.000000" vgrp="64">
