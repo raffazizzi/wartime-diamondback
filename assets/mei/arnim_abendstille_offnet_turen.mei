@@ -204,12 +204,12 @@
                         <layer xml:id="layer-0000000991591761" n="1">
                            <note xml:id="note-0000000414697689" dur.ppq="4" dur="2" oct="4" pname="e" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001808154834" n="1">
-                                 <syl xml:id="syl-0000000475333521" con="d" wordpos="i">öff</syl>
+                                 <syl xml:id="syl-0000000475333521" con="s" wordpos="i">öff</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000950080076" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
                               <verse xml:id="verse-0000000323894195" n="1">
-                                 <syl xml:id="syl-0000001928277915" con="s" wordpos="t">net</syl>
+                                 <syl xml:id="syl-0000001928277915" con="d" wordpos="t">net</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000650078346" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
@@ -219,12 +219,12 @@
                         <layer xml:id="layer-0000001510009997" n="1">
                            <note xml:id="note-0000001944083628" dur.ppq="4" dur="2" oct="3" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001991270282" n="1">
-                                 <syl xml:id="syl-0000002071087956" con="d" wordpos="i">öff</syl>
+                                 <syl xml:id="syl-0000002071087956" con="s" wordpos="i">öff</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001769123044" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up">
                               <verse xml:id="verse-0000000430678685" n="1">
-                                 <syl xml:id="syl-0000000946822850" con="s" wordpos="t">net</syl>
+                                 <syl xml:id="syl-0000000946822850" con="d" wordpos="t">net</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000689691617" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="down" />
