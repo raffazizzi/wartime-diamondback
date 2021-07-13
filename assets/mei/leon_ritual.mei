@@ -5,12 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Ritual</title>
+            <title>Rituál</title>
             <respStmt>
                <persName role="composer">Tania León</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-07-13" type="encoding-date">2021-07-13</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000001722407204">
@@ -39,12 +48,10 @@
                         <staffDef xml:id="staffdef-0000000223971922" n="1" lines="5" ppq="2">
                            <clef xml:id="clef-0000001948050976" shape="G" line="2" />
                            <keySig xml:id="keysig-0000000494751321" sig="0" />
-                           <meterSig xml:id="msig-0000001477966836" count="14" unit="4" />
                         </staffDef>
                         <staffDef xml:id="staffdef-0000000219667627" n="2" lines="5" ppq="2">
                            <clef xml:id="clef-0000000276288853" shape="F" line="4" />
                            <keySig xml:id="keysig-0000000197585369" sig="0" />
-                           <meterSig xml:id="msig-0000000980984678" count="14" unit="4" />
                         </staffDef>
                         <grpSym xml:id="grpsym-0000001331249885" symbol="brace" />
                      </staffGrp>
