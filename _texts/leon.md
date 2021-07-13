@@ -13,7 +13,7 @@ permalink: /leon/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "León, Tania" %}
+      {% if item.author == "Leon, Tania" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
