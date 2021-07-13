@@ -45,4 +45,4 @@ exclude:
   - backstop_data
   - backstop.json
 
-theme: "ed."
+remote_theme: ed
