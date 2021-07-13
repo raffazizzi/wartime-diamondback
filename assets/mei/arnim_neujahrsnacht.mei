@@ -76,7 +76,7 @@
                            </note>
                            <note xml:id="note-0000001118655359" dur.ppq="1" dur="4" oct="4" pname="d" stem.dir="up">
                               <verse xml:id="verse-0000000216303584" n="1">
-                                 <syl xml:id="syl-0000000054829688" con="s" wordpos="s">im</syl>
+                                 <syl xml:id="syl-0000000054829688" con="s" wordpos="m">im</syl>
                               </verse>
                            </note>
                         </layer>
@@ -126,7 +126,7 @@
                         <layer xml:id="layer-0000001722059416" n="1">
                            <note xml:id="note-0000000443013635" dur.ppq="1" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000000800768996" n="1">
-                                 <syl xml:id="syl-0000002106057040" con="s" wordpos="s">Uhr,</syl>
+                                 <syl xml:id="syl-0000002106057040" con="s" wordpos="m">Uhr,</syl>
                               </verse>
                            </note>
                            <rest xml:id="rest-0000000064311565" dur.ppq="2" dur="2" />

@@ -99,12 +99,12 @@
                            <rest xml:id="rest-0000001627785340" dur.ppq="1" dur="8" />
                            <note xml:id="note-0000000240754902" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down">
                               <verse xml:id="verse-0000002138482983" n="1">
-                                 <syl xml:id="syl-0000000688365937" con="s" wordpos="s">je</syl>
+                                 <syl xml:id="syl-0000000688365937" con="s" wordpos="m">je</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001969048543" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down">
                               <verse xml:id="verse-0000000309656644" n="1">
-                                 <syl xml:id="syl-0000001474679209" con="s" wordpos="s">suis</syl>
+                                 <syl xml:id="syl-0000001474679209" con="s" wordpos="m">suis</syl>
                               </verse>
                            </note>
                         </layer>

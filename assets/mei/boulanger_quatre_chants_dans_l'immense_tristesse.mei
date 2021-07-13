@@ -75,7 +75,7 @@
                               <rest xml:id="rest-0000001200901935" dur.ppq="2" dur="8" />
                               <note xml:id="note-0000001765112812" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="up" accid.ges="f">
                                  <verse xml:id="verse-0000001842492582" n="1">
-                                    <syl xml:id="syl-0000000735820711" con="s" wordpos="s">Dans</syl>
+                                    <syl xml:id="syl-0000000735820711" con="s" wordpos="m">Dans</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000000471769352" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="up" accid.ges="f">
@@ -132,17 +132,17 @@
                            <rest xml:id="rest-0000000688365937" dur.ppq="6" dur="4" />
                            <note xml:id="note-0000001455521293" dur.ppq="6" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000000973630378" n="1">
-                                 <syl xml:id="syl-0000001969048543" con="s" wordpos="s">et</syl>
+                                 <syl xml:id="syl-0000001969048543" con="s" wordpos="m">et</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001474679209" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001694454087" n="1">
-                                 <syl xml:id="syl-0000001741757252" con="s" wordpos="s">dans</syl>
+                                 <syl xml:id="syl-0000001741757252" con="s" wordpos="m">dans</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000907729032" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001578309063" n="1">
-                                 <syl xml:id="syl-0000000625243133" con="s" wordpos="s">le</syl>
+                                 <syl xml:id="syl-0000000625243133" con="s" wordpos="m">le</syl>
                               </verse>
                            </note>
                         </layer>
@@ -153,7 +153,7 @@
                         <layer xml:id="layer-0000001118655359" n="1">
                            <note xml:id="note-0000000216303584" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001682084327" n="1">
-                                 <syl xml:id="syl-0000001510633480" con="s" wordpos="s">lourd</syl>
+                                 <syl xml:id="syl-0000001510633480" con="s" wordpos="m">lourd</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000314633358" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="f">

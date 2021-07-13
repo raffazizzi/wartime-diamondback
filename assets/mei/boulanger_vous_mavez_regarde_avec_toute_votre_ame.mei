@@ -75,7 +75,7 @@
                            <rest xml:id="rest-0000001052955155" dur.ppq="6" dur="8" />
                            <note xml:id="note-0000000348424075" dur.ppq="3" dur="16" oct="4" pname="b" stem.dir="down">
                               <verse xml:id="verse-0000001977755125" n="1">
-                                 <syl xml:id="syl-0000000314528034" con="s" wordpos="s">Vous</syl>
+                                 <syl xml:id="syl-0000000314528034" con="s" wordpos="m">Vous</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000614957745" dur.ppq="3" dur="16" oct="4" pname="b" stem.dir="down">
@@ -144,7 +144,7 @@
                               </note>
                               <note xml:id="note-0000001751340887" dur.ppq="4" dur="8" oct="5" pname="c" stem.dir="down" accid.ges="s">
                                  <verse xml:id="verse-0000000165875289" n="1">
-                                    <syl xml:id="syl-0000001048064768" con="s" wordpos="s">votre</syl>
+                                    <syl xml:id="syl-0000001048064768" con="s" wordpos="m">votre</syl>
                                  </verse>
                               </note>
                            </tuplet>

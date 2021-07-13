@@ -77,7 +77,7 @@
                            <beam xml:id="beam-0000000281820593">
                               <note xml:id="note-0000000672041047" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="up">
                                  <verse xml:id="verse-0000002100126970" n="1">
-                                    <syl xml:id="syl-0000000942048389" con="s" wordpos="s">It</syl>
+                                    <syl xml:id="syl-0000000942048389" con="s" wordpos="m">It</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000000694617309" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="up" accid.ges="f" />
@@ -93,12 +93,12 @@
                            <beam xml:id="beam-0000001257519621">
                               <note xml:id="note-0000000958564548" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="verse-0000000518503784" n="1">
-                                    <syl xml:id="syl-0000000728295135" con="s" wordpos="s">was</syl>
+                                    <syl xml:id="syl-0000000728295135" con="s" wordpos="m">was</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000002061150443" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="down">
                                  <verse xml:id="verse-0000001817854923" n="1">
-                                    <syl xml:id="syl-0000000435951241" con="s" wordpos="s">a</syl>
+                                    <syl xml:id="syl-0000000435951241" con="s" wordpos="m">a</syl>
                                  </verse>
                               </note>
                            </beam>
@@ -136,7 +136,7 @@
                            </beam>
                            <note xml:id="note-0000001313214628" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="verse-0000000914824663" n="1">
-                                 <syl xml:id="syl-0000000223971922" con="s" wordpos="s">cat</syl>
+                                 <syl xml:id="syl-0000000223971922" con="s" wordpos="m">cat</syl>
                               </verse>
                            </note>
                            <beam xml:id="beam-0000000770318467">
@@ -186,7 +186,7 @@
                         <layer xml:id="layer-0000001768064207" n="1">
                            <note xml:id="note-0000001702749235" dots="1" dur.ppq="6" dur="4" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="verse-0000000381572419" n="1">
-                                 <syl xml:id="syl-0000000279662537" con="s" wordpos="s">morn,</syl>
+                                 <syl xml:id="syl-0000000279662537" con="s" wordpos="m">morn,</syl>
                               </verse>
                            </note>
                            <rest xml:id="rest-0000002082051725" dur.ppq="2" dur="8" />

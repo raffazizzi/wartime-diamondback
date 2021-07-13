@@ -163,7 +163,7 @@
                            <rest xml:id="rest-0000001165447749" dur.ppq="2" dur="4" />
                            <note xml:id="note-0000002100126970" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000001624115492" n="1">
-                                 <syl xml:id="syl-0000000729736643" con="s" wordpos="s">Vom</syl>
+                                 <syl xml:id="syl-0000000729736643" con="s" wordpos="m">Vom</syl>
                               </verse>
                            </note>
                         </layer>
@@ -174,7 +174,7 @@
                            <rest xml:id="rest-0000001022646212" dur.ppq="2" dur="4" />
                            <note xml:id="note-0000002082326847" dur.ppq="2" dur="4" oct="3" pname="e" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001246019543" n="1">
-                                 <syl xml:id="syl-0000000219976782" con="s" wordpos="s">Vom</syl>
+                                 <syl xml:id="syl-0000000219976782" con="s" wordpos="m">Vom</syl>
                               </verse>
                            </note>
                         </layer>
@@ -242,7 +242,7 @@
                            </note>
                            <note xml:id="note-0000001778601282" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000000914824663" n="1">
-                                 <syl xml:id="syl-0000000223971922" con="s" wordpos="s">mein</syl>
+                                 <syl xml:id="syl-0000000223971922" con="s" wordpos="m">mein</syl>
                               </verse>
                            </note>
                         </layer>
@@ -261,7 +261,7 @@
                            </note>
                            <note xml:id="note-0000000508097337" dur.ppq="2" dur="4" oct="3" pname="e" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001477793338" n="1">
-                                 <syl xml:id="syl-0000001383176531" con="s" wordpos="s">mein</syl>
+                                 <syl xml:id="syl-0000001383176531" con="s" wordpos="m">mein</syl>
                               </verse>
                            </note>
                         </layer>
@@ -326,7 +326,7 @@
                            </note>
                            <note xml:id="note-0000000279662537" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000002082051725" n="1">
-                                 <syl xml:id="syl-0000001275642985" con="s" wordpos="s">mein</syl>
+                                 <syl xml:id="syl-0000001275642985" con="s" wordpos="m">mein</syl>
                               </verse>
                            </note>
                         </layer>
@@ -345,7 +345,7 @@
                            </note>
                            <note xml:id="note-0000001414799761" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001979526283" n="1">
-                                 <syl xml:id="syl-0000001160271314" con="s" wordpos="s">mein</syl>
+                                 <syl xml:id="syl-0000001160271314" con="s" wordpos="m">mein</syl>
                               </verse>
                            </note>
                         </layer>

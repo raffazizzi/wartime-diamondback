@@ -74,12 +74,12 @@
                            <rest xml:id="rest-0000000092625705" dur.ppq="1" dur="8" />
                            <note xml:id="note-0000001052142942" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001544294122" n="1">
-                                 <syl xml:id="syl-0000000644308604" con="s" wordpos="s">Nous</syl>
+                                 <syl xml:id="syl-0000000644308604" con="s" wordpos="m">Nous</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000054829688" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001682084327" n="1">
-                                 <syl xml:id="syl-0000001510633480" con="s" wordpos="s">nous</syl>
+                                 <syl xml:id="syl-0000001510633480" con="s" wordpos="m">nous</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000314633358" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="f">
@@ -111,17 +111,17 @@
                            <note xml:id="note-0000001213094868" dots="1" dur.ppq="3" dur="4" oct="5" pname="c" stem.dir="down">
                               <accid xml:id="accid-0000001332854591" accid="f" accid.ges="f" />
                               <verse xml:id="verse-0000001212382649" n="1">
-                                 <syl xml:id="syl-0000001352105535" con="s" wordpos="s">tant</syl>
+                                 <syl xml:id="syl-0000001352105535" con="s" wordpos="m">tant</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001103505768" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000000885216942" n="1">
-                                 <syl xml:id="syl-0000001092122522" con="s" wordpos="s">que</syl>
+                                 <syl xml:id="syl-0000001092122522" con="s" wordpos="m">que</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000357259924" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001608522080" n="1">
-                                 <syl xml:id="syl-0000000514854444" con="s" wordpos="s">nous</syl>
+                                 <syl xml:id="syl-0000000514854444" con="s" wordpos="m">nous</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000188363639" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="f">
@@ -144,7 +144,7 @@
                            </note>
                            <note xml:id="note-0000001357774916" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001570823141" n="1">
-                                 <syl xml:id="syl-0000000686281901" con="s" wordpos="s">nos</syl>
+                                 <syl xml:id="syl-0000000686281901" con="s" wordpos="m">nos</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001165447749" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
@@ -165,13 +165,13 @@
                            <note xml:id="note-0000001257519621" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up">
                               <accid xml:id="accid-0000000958564548" accid="n" />
                               <verse xml:id="verse-0000000518503784" n="1">
-                                 <syl xml:id="syl-0000000728295135" con="s" wordpos="s">en</syl>
+                                 <syl xml:id="syl-0000000728295135" con="s" wordpos="m">en</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000435951241" dur.ppq="1" dur="8" oct="3" pname="b" stem.dir="up">
                               <accid xml:id="accid-0000001784680396" accid="n" />
                               <verse xml:id="verse-0000001715171119" n="1">
-                                 <syl xml:id="syl-0000001963205374" con="s" wordpos="s">nous</syl>
+                                 <syl xml:id="syl-0000001963205374" con="s" wordpos="m">nous</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000560898676" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
@@ -188,7 +188,7 @@
                            <note xml:id="note-0000001722407204" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
                               <accid xml:id="accid-0000000775741348" accid="n" />
                               <verse xml:id="verse-0000001930742674" n="1">
-                                 <syl xml:id="syl-0000001882112312" con="s" wordpos="s">la</syl>
+                                 <syl xml:id="syl-0000001882112312" con="s" wordpos="m">la</syl>
                               </verse>
                            </note>
                         </layer>
@@ -203,7 +203,7 @@
                            <note xml:id="note-0000001531259472" dots="1" dur.ppq="6" dur="2" oct="4" pname="a" stem.dir="up">
                               <accid xml:id="accid-0000000849434074" accid="n" />
                               <verse xml:id="verse-0000001778601282" n="1">
-                                 <syl xml:id="syl-0000001313214628" con="s" wordpos="s">main,</syl>
+                                 <syl xml:id="syl-0000001313214628" con="s" wordpos="m">main,</syl>
                               </verse>
                            </note>
                         </layer>

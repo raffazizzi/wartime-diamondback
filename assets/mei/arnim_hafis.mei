@@ -134,12 +134,12 @@
                            </note>
                            <note xml:id="note-0000000360974050" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000002129722604" n="1">
-                                 <syl xml:id="syl-0000001109720924" con="s" wordpos="s">den</syl>
+                                 <syl xml:id="syl-0000001109720924" con="s" wordpos="m">den</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000351811673" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000000382633405" n="1">
-                                 <syl xml:id="syl-0000001599298029" con="s" wordpos="s">die</syl>
+                                 <syl xml:id="syl-0000001599298029" con="s" wordpos="m">die</syl>
                               </verse>
                            </note>
                         </layer>

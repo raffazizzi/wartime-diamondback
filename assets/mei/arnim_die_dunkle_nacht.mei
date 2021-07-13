@@ -88,7 +88,7 @@
                            </beam>
                            <note xml:id="note-0000001560200729" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="verse-0000001052142942" n="1">
-                                 <syl xml:id="syl-0000001249339395" con="s" wordpos="s">von</syl>
+                                 <syl xml:id="syl-0000001249339395" con="s" wordpos="m">von</syl>
                               </verse>
                            </note>
                         </layer>

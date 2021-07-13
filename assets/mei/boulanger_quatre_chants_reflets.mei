@@ -74,17 +74,17 @@
                            <rest xml:id="rest-0000001778849597" dur.ppq="2" dur="4" />
                            <note xml:id="note-0000001500480442" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000000248338949" n="1">
-                                 <syl xml:id="syl-0000001722059416" con="s" wordpos="s">Sous</syl>
+                                 <syl xml:id="syl-0000001722059416" con="s" wordpos="m">Sous</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000002072045232" dots="1" dur.ppq="3" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000002106057040" n="1">
-                                 <syl xml:id="syl-0000001357166373" con="s" wordpos="s">l'eau</syl>
+                                 <syl xml:id="syl-0000001357166373" con="s" wordpos="m">l'eau</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000802959622" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000001683854917" n="1">
-                                 <syl xml:id="syl-0000001570823141" con="s" wordpos="s">du</syl>
+                                 <syl xml:id="syl-0000001570823141" con="s" wordpos="m">du</syl>
                               </verse>
                            </note>
                         </layer>
@@ -110,7 +110,7 @@
                            </note>
                            <note xml:id="note-0000001257519621" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000000518503784" n="1">
-                                 <syl xml:id="syl-0000000728295135" con="s" wordpos="s">qui</syl>
+                                 <syl xml:id="syl-0000000728295135" con="s" wordpos="m">qui</syl>
                               </verse>
                               <artic xml:id="artic-0000002061150443" artic="ten" />
                            </note>

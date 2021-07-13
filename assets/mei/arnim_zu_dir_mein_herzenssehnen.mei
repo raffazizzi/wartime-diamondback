@@ -67,7 +67,7 @@
                         <layer xml:id="layer-0000001103920070" n="1">
                            <note xml:id="note-0000000704991133" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
                               <verse xml:id="verse-0000001948093945" n="1">
-                                 <syl xml:id="syl-0000000437838765" con="s" wordpos="s">Zu</syl>
+                                 <syl xml:id="syl-0000000437838765" con="s" wordpos="m">Zu</syl>
                               </verse>
                            </note>
                         </layer>
@@ -78,12 +78,12 @@
                         <layer xml:id="layer-0000001712323930" n="1">
                            <note xml:id="note-0000001103505768" dots="1" dur.ppq="3" dur="4" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000002000293136" n="1">
-                                 <syl xml:id="syl-0000000885216942" con="s" wordpos="s">dir,</syl>
+                                 <syl xml:id="syl-0000000885216942" con="s" wordpos="m">dir,</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001885253112" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000000182890357" n="1">
-                                 <syl xml:id="syl-0000000357259924" con="s" wordpos="s">mein</syl>
+                                 <syl xml:id="syl-0000000357259924" con="s" wordpos="m">mein</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001608522080" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up">
@@ -116,7 +116,7 @@
                            <rest xml:id="rest-0000001494997612" dur.ppq="1" dur="8" />
                            <note xml:id="note-0000000281820593" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
                               <verse xml:id="verse-0000000672041047" n="1">
-                                 <syl xml:id="syl-0000002100126970" con="s" wordpos="s">in</syl>
+                                 <syl xml:id="syl-0000002100126970" con="s" wordpos="m">in</syl>
                               </verse>
                            </note>
                         </layer>
@@ -127,12 +127,12 @@
                         <layer xml:id="layer-0000001973344216" n="1">
                            <note xml:id="note-0000000204623587" dots="1" dur.ppq="3" dur="4" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000000811456044" n="1">
-                                 <syl xml:id="syl-0000001818368228" con="s" wordpos="s">dir,</syl>
+                                 <syl xml:id="syl-0000001818368228" con="s" wordpos="m">dir,</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001257519621" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000000958564548" n="1">
-                                 <syl xml:id="syl-0000000518503784" con="s" wordpos="s">mein</syl>
+                                 <syl xml:id="syl-0000000518503784" con="s" wordpos="m">mein</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001083649408" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up">
@@ -165,7 +165,7 @@
                            <rest xml:id="rest-0000000366006978" dur.ppq="1" dur="8" />
                            <note xml:id="note-0000002032496587" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="verse-0000001720040584" n="1">
-                                 <syl xml:id="syl-0000001086132311" con="s" wordpos="s">in</syl>
+                                 <syl xml:id="syl-0000001086132311" con="s" wordpos="m">in</syl>
                               </verse>
                            </note>
                         </layer>

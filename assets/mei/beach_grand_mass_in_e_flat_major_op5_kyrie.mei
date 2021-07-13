@@ -89,7 +89,7 @@
                            <beam xml:id="beam-0000000164444084">
                               <note xml:id="note-0000001413552312" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="verse-0000000567190576" n="1">
-                                    <syl xml:id="syl-0000000458774416" con="s" wordpos="s">e</syl>
+                                    <syl xml:id="syl-0000000458774416" con="s" wordpos="m">e</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000001927194868" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />

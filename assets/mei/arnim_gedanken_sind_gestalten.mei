@@ -89,7 +89,7 @@
                            </note>
                            <note xml:id="note-0000000991591761" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000001036990045" n="1">
-                                 <syl xml:id="syl-0000001808154834" con="s" wordpos="s">sind</syl>
+                                 <syl xml:id="syl-0000001808154834" con="s" wordpos="m">sind</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001741671957" dur="8" oct="4" pname="b" grace="acc" stem.dir="up" />
@@ -122,7 +122,7 @@
                            </note>
                            <note xml:id="note-0000002053757600" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000000162373007" n="1">
-                                 <syl xml:id="syl-0000000159401410" con="s" wordpos="s">ich</syl>
+                                 <syl xml:id="syl-0000000159401410" con="s" wordpos="m">ich</syl>
                               </verse>
                            </note>
                         </layer>
@@ -146,12 +146,12 @@
                            </note>
                            <note xml:id="note-0000001192829046" dur.ppq="4" dur="4" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="verse-0000000326962582" n="1">
-                                 <syl xml:id="syl-0000002142023487" con="s" wordpos="s">sie</syl>
+                                 <syl xml:id="syl-0000002142023487" con="s" wordpos="m">sie</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000679639567" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000000987521289" n="1">
-                                 <syl xml:id="syl-0000000074152301" con="s" wordpos="s">euch</syl>
+                                 <syl xml:id="syl-0000000074152301" con="s" wordpos="m">euch</syl>
                               </verse>
                            </note>
                         </layer>
@@ -173,7 +173,7 @@
                            </note>
                            <note xml:id="note-0000000844745173" dur.ppq="4" dur="4" oct="3" pname="b" stem.dir="up">
                               <verse xml:id="verse-0000000200271843" n="1">
-                                 <syl xml:id="syl-0000000428656723" con="s" wordpos="s">doch</syl>
+                                 <syl xml:id="syl-0000000428656723" con="s" wordpos="m">doch</syl>
                               </verse>
                            </note>
                         </layer>
@@ -195,12 +195,12 @@
                            </note>
                            <note xml:id="note-0000000613490420" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <verse xml:id="verse-0000001419560839" n="1">
-                                 <syl xml:id="syl-0000001364927267" con="s" wordpos="s">wird</syl>
+                                 <syl xml:id="syl-0000001364927267" con="s" wordpos="m">wird</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001503896436" dur.ppq="4" dur="4" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="verse-0000000354269723" n="1">
-                                 <syl xml:id="syl-0000001184208683" con="s" wordpos="s">mich</syl>
+                                 <syl xml:id="syl-0000001184208683" con="s" wordpos="m">mich</syl>
                               </verse>
                            </note>
                         </layer>

@@ -75,7 +75,7 @@
                            <rest xml:id="rest-0000000728295135" dur.ppq="3" dur="4" />
                            <note xml:id="note-0000001715171119" dur.ppq="3" dur="4" oct="5" pname="c" stem.dir="down" accid.ges="s">
                               <verse xml:id="verse-0000001315399295" n="1">
-                                 <syl xml:id="syl-0000000560898676" con="s" wordpos="s">Elle</syl>
+                                 <syl xml:id="syl-0000000560898676" con="s" wordpos="m">Elle</syl>
                               </verse>
                            </note>
                         </layer>
@@ -90,7 +90,7 @@
                         <layer xml:id="layer-0000001930742674" n="1">
                            <note xml:id="note-0000001882112312" dur.ppq="6" dur="2" oct="5" pname="f" stem.dir="down" accid.ges="s">
                               <verse xml:id="verse-0000000666442041" n="1">
-                                 <syl xml:id="syl-0000001958781713" con="s" wordpos="s">est</syl>
+                                 <syl xml:id="syl-0000001958781713" con="s" wordpos="m">est</syl>
                               </verse>
                            </note>
                            <tuplet xml:id="tuplet-0000001557697675" num="3" numbase="2" bracket.visible="true">

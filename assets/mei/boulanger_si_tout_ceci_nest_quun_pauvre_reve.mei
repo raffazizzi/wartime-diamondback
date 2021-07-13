@@ -74,12 +74,12 @@
                            <rest xml:id="rest-0000001702283324" dur.ppq="2" dur="8" />
                            <note xml:id="note-0000001242120913" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000000880909333" n="1">
-                                 <syl xml:id="syl-0000000590109734" con="s" wordpos="s">Si</syl>
+                                 <syl xml:id="syl-0000000590109734" con="s" wordpos="m">Si</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000480801851" dots="1" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001333123555" n="1">
-                                 <syl xml:id="syl-0000000098075461" con="s" wordpos="s">tout</syl>
+                                 <syl xml:id="syl-0000000098075461" con="s" wordpos="m">tout</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000001505102270" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
@@ -112,12 +112,12 @@
                            <note xml:id="note-0000000727622082" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up" />
                            <note xml:id="note-0000001227980260" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000000019148629" n="1">
-                                 <syl xml:id="syl-0000001543238636" con="s" wordpos="s">n'est</syl>
+                                 <syl xml:id="syl-0000001543238636" con="s" wordpos="m">n'est</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000002038921238" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001069596888" n="1">
-                                 <syl xml:id="syl-0000000223996112" con="s" wordpos="s">qu'un</syl>
+                                 <syl xml:id="syl-0000000223996112" con="s" wordpos="m">qu'un</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000841413802" dots="1" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up">
