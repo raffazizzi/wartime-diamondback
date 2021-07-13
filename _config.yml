@@ -46,3 +46,5 @@ exclude:
   - backstop.json
 
 remote_theme: ed
+
+google_analytics: UA-202187079-1
