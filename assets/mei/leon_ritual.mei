@@ -119,8 +119,9 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000076100840" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
-                        <rend xml:id="rend-0000000586984535" fontweight="bold">Lento serioso e rubato</rend>(<rend xml:id="rend-0000002104100511" fontweight="bold">ca. 40)</rend>
-                        <rend xml:id="rend-0000000872872807" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rend-0000000586984535" fontweight="bold">Lento serioso e rubato</rend>
+                        <rend xml:id="rend-0000002104100511" fontweight="bold">(</rend>
+                        <rend xml:id="rend-0000000872872807" fontname="VerovioText"></rend> = ca. 40)</tempo>
                      <dir xml:id="dir-0000000607475861" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000001210126352" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
@@ -145,8 +146,7 @@
                      <pedal xml:id="pedal-0000000250916008" staff="2" tstamp="13.400000" dir="up" form="line" place="below" vgrp="200" />
                      <dir xml:id="dir-0000000994437979" place="below" staff="2" tstamp="13.500000" vgrp="200">f</dir>
                      <dir xml:id="dir-0000001433033527" place="below" staff="2" tstamp="14.500000" vgrp="40">
-                        <rend xml:id="rend-0000000144094004" fontstyle="italic" fontweight="bold">mp</rend>
-                        <rend xml:id="rend-0000000237954128" fontweight="normal">sub.</rend>
+                        <rend xml:id="rend-0000000144094004" fontstyle="italic" fontweight="bold">mp sup.</rend>
                      </dir>
                   </measure>
                </section>
