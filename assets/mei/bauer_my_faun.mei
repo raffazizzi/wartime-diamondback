@@ -121,12 +121,12 @@
                               <note xml:id="note-0000002100126970" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="up" accid.ges="f" />
                               <note xml:id="note-0000001624115492" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="up" accid.ges="f">
                                  <verse xml:id="verse-0000000694617309" n="1">
-                                    <syl xml:id="syl-0000000600412257" con="s" wordpos="s">of</syl>
+                                    <syl xml:id="syl-0000000600412257" con="s" wordpos="m">of</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000000023657028" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f">
                                  <verse xml:id="verse-0000000195690276" n="1">
-                                    <syl xml:id="syl-0000000937994944" con="s" wordpos="s">the</syl>
+                                    <syl xml:id="syl-0000000937994944" con="s" wordpos="m">the</syl>
                                  </verse>
                               </note>
                            </tuplet>
@@ -182,7 +182,7 @@
                               </note>
                               <note xml:id="note-0000001948050976" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up" accid.ges="f">
                                  <verse xml:id="verse-0000001477966836" n="1">
-                                    <syl xml:id="syl-0000000219667627" con="s" wordpos="s">the</syl>
+                                    <syl xml:id="syl-0000000219667627" con="s" wordpos="m">the</syl>
                                  </verse>
                               </note>
                            </tuplet>
@@ -205,7 +205,7 @@
                         <layer xml:id="layer-0000001162326463" n="1">
                            <note xml:id="note-0000002132879705" dots="1" dur.ppq="18" dur="2" oct="5" pname="c" stem.dir="down">
                               <verse xml:id="verse-0000002104100511" n="1">
-                                 <syl xml:id="syl-0000000274318135" con="s" wordpos="s">dawn,</syl>
+                                 <syl xml:id="syl-0000000274318135" con="s" wordpos="m">dawn,</syl>
                               </verse>
                            </note>
                            <rest xml:id="rest-0000000629113872" dur.ppq="6" dur="4" />
@@ -237,12 +237,12 @@
                            <note xml:id="note-0000000314528034" dots="1" dur.ppq="9" dur="4" oct="4" pname="a" stem.dir="up">
                               <accid xml:id="accid-0000001814670967" accid="n" />
                               <verse xml:id="verse-0000000614957745" n="1">
-                                 <syl xml:id="syl-0000001036918274" con="s" wordpos="s">limbed</syl>
+                                 <syl xml:id="syl-0000001036918274" con="s" wordpos="m">limbed</syl>
                               </verse>
                            </note>
                            <note xml:id="note-0000000774616102" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="verse-0000000267851314" n="1">
-                                 <syl xml:id="syl-0000000052067834" con="s" wordpos="s">and</syl>
+                                 <syl xml:id="syl-0000000052067834" con="s" wordpos="m">and</syl>
                               </verse>
                            </note>
                         </layer>
@@ -285,13 +285,13 @@
                               </note>
                               <note xml:id="note-0000001927194868" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down" accid.ges="f">
                                  <verse xml:id="verse-0000001220288579" n="1">
-                                    <syl xml:id="syl-0000001579265975" con="s" wordpos="s">my</syl>
+                                    <syl xml:id="syl-0000001579265975" con="s" wordpos="m">my</syl>
                                  </verse>
                               </note>
                            </tuplet>
                            <note xml:id="note-0000000070399441" dur.ppq="12" dur="2" oct="5" pname="f" stem.dir="down">
                               <verse xml:id="verse-0000001677650388" n="1">
-                                 <syl xml:id="syl-0000000516761490" con="s" wordpos="s">Faun!</syl>
+                                 <syl xml:id="syl-0000000516761490" con="s" wordpos="m">Faun!</syl>
                               </verse>
                            </note>
                         </layer>
