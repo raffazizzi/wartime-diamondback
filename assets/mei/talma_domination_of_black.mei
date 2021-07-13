@@ -88,23 +88,23 @@
                            <rest xml:id="rest-0000000152748029" dur.ppq="2" dur="8" />
                            <note xml:id="note-0000000042180532" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001623417287" n="1">
-                                 <syl xml:id="syl-0000001903534628" con="s" wordpos="s">At</syl>
+                                 <syl xml:id="syl-0000001903534628" con="s" wordpos="m">At</syl>
                               </verse>
                            </note>
                            <beam xml:id="beam-0000000212190143">
                               <note xml:id="note-0000001428848012" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="verse-0000000768778722" n="1">
-                                    <syl xml:id="syl-0000000103628684" con="s" wordpos="s">night</syl>
+                                    <syl xml:id="syl-0000000103628684" con="s" wordpos="m">night</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000000496111056" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
                                  <verse xml:id="verse-0000000787079803" n="1">
-                                    <syl xml:id="syl-0000001315225669" con="s" wordpos="s">by</syl>
+                                    <syl xml:id="syl-0000001315225669" con="s" wordpos="m">by</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000000007862502" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="verse-0000001696746147" n="1">
-                                    <syl xml:id="syl-0000001842652982" con="s" wordpos="s">the</syl>
+                                    <syl xml:id="syl-0000001842652982" con="s" wordpos="m">the</syl>
                                  </verse>
                               </note>
                            </beam>
@@ -135,7 +135,7 @@
                            <rest xml:id="rest-0000001673688990" dur.ppq="1" dur="16" />
                            <note xml:id="note-0000000489386412" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001206970265" n="1">
-                                 <syl xml:id="syl-0000000843518812" con="s" wordpos="s">The</syl>
+                                 <syl xml:id="syl-0000000843518812" con="s" wordpos="m">The</syl>
                               </verse>
                            </note>
                            <beam xml:id="beam-0000001837630660">
@@ -151,12 +151,12 @@
                               </note>
                               <note xml:id="note-0000001372803910" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
                                  <verse xml:id="verse-0000000910501630" n="1">
-                                    <syl xml:id="syl-0000002089900824" con="s" wordpos="s">of</syl>
+                                    <syl xml:id="syl-0000002089900824" con="s" wordpos="m">of</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000001993878578" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="verse-0000001149891478" n="1">
-                                    <syl xml:id="syl-0000001280182356" con="s" wordpos="s">the</syl>
+                                    <syl xml:id="syl-0000001280182356" con="s" wordpos="m">the</syl>
                                  </verse>
                               </note>
                            </beam>
@@ -187,18 +187,18 @@
                            <beam xml:id="beam-0000000295292128">
                               <note xml:id="note-0000000568289853" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
                                  <verse xml:id="verse-0000001926621620" n="1">
-                                    <syl xml:id="syl-0000001526635546" con="s" wordpos="s">And</syl>
+                                    <syl xml:id="syl-0000001526635546" con="s" wordpos="m">And</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000000516998151" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
                                  <accid xml:id="accid-0000001334916214" accid="f" accid.ges="f" />
                                  <verse xml:id="verse-0000002007623648" n="1">
-                                    <syl xml:id="syl-0000001133878551" con="s" wordpos="s">of</syl>
+                                    <syl xml:id="syl-0000001133878551" con="s" wordpos="m">of</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000001750073311" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
                                  <verse xml:id="verse-0000001043849004" n="1">
-                                    <syl xml:id="syl-0000000516119820" con="s" wordpos="s">the</syl>
+                                    <syl xml:id="syl-0000000516119820" con="s" wordpos="m">the</syl>
                                  </verse>
                               </note>
                            </beam>
@@ -226,7 +226,7 @@
                            <note xml:id="note-0000001384854716" dur.ppq="4" dur="4" oct="4" pname="e" stem.dir="up">
                               <accid xml:id="accid-0000000760730195" accid="f" accid.ges="f" />
                               <verse xml:id="verse-0000001167039302" n="1">
-                                 <syl xml:id="syl-0000000065612299" con="s" wordpos="s">leaves,</syl>
+                                 <syl xml:id="syl-0000000065612299" con="s" wordpos="m">leaves,</syl>
                               </verse>
                            </note>
                         </layer>
