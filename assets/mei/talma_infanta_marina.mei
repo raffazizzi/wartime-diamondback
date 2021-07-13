@@ -61,7 +61,7 @@
                            <note xml:id="note-0000001084598727" dur.ppq="6" dur="8" oct="4" pname="a" stem.dir="up">
                               <accid xml:id="accid-0000000708425266" accid="f" accid.ges="f" />
                               <verse xml:id="verse-0000001157181979" n="1">
-                                 <syl xml:id="syl-0000001980336347" con="s" wordpos="s">Her</syl>
+                                 <syl xml:id="syl-0000001980336347" con="s" wordpos="m">Her</syl>
                               </verse>
                            </note>
                         </layer>
@@ -92,32 +92,32 @@
                               <note xml:id="note-0000002115764521" dur.ppq="3" dur="16" oct="4" pname="a" stem.dir="down">
                                  <accid xml:id="accid-0000001281306404" accid="f" accid.ges="f" />
                                  <verse xml:id="verse-0000001010330433" n="1">
-                                    <syl xml:id="syl-0000000214337028" con="s" wordpos="s">was</syl>
+                                    <syl xml:id="syl-0000000214337028" con="s" wordpos="m">was</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000001739154224" dur.ppq="3" dur="16" oct="5" pname="c" stem.dir="down">
                                  <accid xml:id="accid-0000001600788766" accid="f" accid.ges="f" />
                                  <verse xml:id="verse-0000000073037956" n="1">
-                                    <syl xml:id="syl-0000000929826770" con="s" wordpos="s">the</syl>
+                                    <syl xml:id="syl-0000000929826770" con="s" wordpos="m">the</syl>
                                  </verse>
                               </note>
                            </beam>
                            <note xml:id="note-0000000619716782" dur.ppq="6" dur="8" oct="5" pname="d" stem.dir="down">
                               <accid xml:id="accid-0000000569636175" accid="f" accid.ges="f" />
                               <verse xml:id="verse-0000001107642900" n="1">
-                                 <syl xml:id="syl-0000000483441490" con="s" wordpos="s">sand</syl>
+                                 <syl xml:id="syl-0000000483441490" con="s" wordpos="m">sand</syl>
                               </verse>
                            </note>
                            <beam xml:id="beam-0000000499509736">
                               <note xml:id="note-0000000950891910" dur.ppq="3" dur="16" oct="4" pname="b" stem.dir="up" accid.ges="f">
                                  <verse xml:id="verse-0000001162461200" n="1">
-                                    <syl xml:id="syl-0000000854080754" con="s" wordpos="s">And</syl>
+                                    <syl xml:id="syl-0000000854080754" con="s" wordpos="m">And</syl>
                                  </verse>
                               </note>
                               <note xml:id="note-0000000244393486" dur.ppq="3" dur="16" oct="4" pname="a" stem.dir="up">
                                  <accid xml:id="accid-0000000693094816" accid="f" accid.ges="f" />
                                  <verse xml:id="verse-0000000374268505" n="1">
-                                    <syl xml:id="syl-0000001682453807" con="s" wordpos="s">the</syl>
+                                    <syl xml:id="syl-0000001682453807" con="s" wordpos="m">the</syl>
                                  </verse>
                               </note>
                            </beam>
@@ -139,13 +139,13 @@
                                  <note xml:id="note-0000001230989989" dur.ppq="4" dur="8" oct="4" pname="a" stem.dir="up">
                                     <accid xml:id="accid-0000001553710553" accid="f" accid.ges="f" />
                                     <verse xml:id="verse-0000000236252206" n="1">
-                                       <syl xml:id="syl-0000001574972124" con="s" wordpos="s">and</syl>
+                                       <syl xml:id="syl-0000001574972124" con="s" wordpos="m">and</syl>
                                     </verse>
                                  </note>
                                  <note xml:id="note-0000002139286917" dur.ppq="4" dur="8" oct="4" pname="b" stem.dir="up">
                                     <accid xml:id="accid-0000000300994273" accid="f" accid.ges="f" />
                                     <verse xml:id="verse-0000000028609627" n="1">
-                                       <syl xml:id="syl-0000002112218494" con="s" wordpos="s">the</syl>
+                                       <syl xml:id="syl-0000002112218494" con="s" wordpos="m">the</syl>
                                     </verse>
                                  </note>
                               </tuplet>
