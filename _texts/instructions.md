@@ -24,11 +24,13 @@ Additional editions information
 **Template for MEI Incipit Page**
 
 At the top of each incipit page you need to include these five elements:
-  layout: mei
-  title: Title of Composition
-  author: Composer Last Name, First Name
-  permalink: /last-name-short-title or opus/number/
-  document: mei filename
+--
+- layout: mei
+- title: Title of Composition
+- author: Composer Last Name, First Name
+- permalink: /last-name-short-title or opus/number/
+- document: mei filename
+--
 
 - Type in the citation details about this composition based on the exact score used to create the incipits. Start the citation with "In" and use an *around the title* to italicize it.
 - Add a link to Primo, the stacks location, and call number <a href="Primo Link" target="_blank"><Music Library Stacks Call Number</a>
@@ -41,11 +43,11 @@ View an [example](https://github.com/annakijas1/rebalancing-music-canon/blob/mai
 **Example of an MEI Incipit Page**
 
 ---
-layout: mei
-title: In Memoriam Zach Walker
-author: Anderson, T.J.
-permalink: /anderson-in-memoriam/
-document: anderson_in_memoriam_zach_walker.mei
+- layout: mei
+- title: In Memoriam Zach Walker
+- author: Anderson, T.J.
+- permalink: /anderson-in-memoriam/
+- document: anderson_in_memoriam_zach_walker.mei
 ---
 
 - In *In memoriam Zach Walker* New York: American Composers Alliance, 1968.
@@ -56,14 +58,14 @@ document: anderson_in_memoriam_zach_walker.mei
 When there is an editor of a volume, add editor's name following the title before the publisher info.
 - For example: In *Music for piano. II,* edited by Sylvia Glickman. Bryn Mawr, Pa.: Hildegard Pub., 1997.
 
-Filenaming
+**How to name files**
 - Use all lowercase letters (e.g. anderson_in_memoriam_zach_walker.md)
 - Do not include accents/diacritics (e.g. leon.md)
-- Use hyphens in the permalink in the MEI Incipit page (e.g. anderson-in-memoriam.md)
-- Use underscores in the mei filenames (e.g. anderson_in_memoriam_zach_walker.mei)
-- Use a hyphen after the last name followed by underscores in the filename for the MEI incipit page (e.g. anderson-in_memoriam_zach_walker.md)
-- If a title includes an opus number, work number (etc), include the numbers following the last name but before title in the filename. For example: beach-op015_no1_in_autumn.md
-- For png files use hyphens between last name and title (e.g. anderson-minstrel-man.png)
+- *Composer page* should use lowercase letters without any accents (e.g. carreno.md)
+- *MEI filename* should use underscores and end in .mei (e.g. anderson_in_memoriam_zach_walker.mei)
+- *MEI incipit page* should use a hyphen after the last name followed by underscores and end in .md (e.g. anderson-in_memoriam_zach_walker.md)
+  - If a title includes an opus number, work number (etc), include the numbers following the last name but before title in the filename. For example: beach-op015_no1_in_autumn.md
+- *PNG files* should use hyphens between last name and title (e.g. anderson-minstrel-man.png)
 
 **Where do files live?**
 - _texts: all composer page files and incipit page files go into the texts folder
