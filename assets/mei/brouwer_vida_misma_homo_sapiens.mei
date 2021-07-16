@@ -5,12 +5,20 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Vida Misma</title>
+            <title>La Vida Misma, II  Homo Sapiens</title>
             <respStmt>
                <persName role="composer">Leo Brouwer</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-07-16" type="encoding-date">2021-07-16</date>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000025556641">
@@ -71,7 +79,7 @@
                         <rend xml:id="rend-0000000666516987" fontweight="normal">quasi religioso</rend>
                      </dir>
                      <dir xml:id="dir-0000001356899142" place="above" staff="1" tstamp="1.000000" vgrp="201">con. sord.</dir>
-                     <tempo xml:id="tempo-0000002134469716" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="56.000000" mm="56.000000" mm.unit="4">
+                     <tempo xml:id="tempo-0000002134469716" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="56" mm="56" mm.unit="4">
                         <rend xml:id="rend-0000001103920070" fontweight="bold">Adagio </rend>
                         <rend xml:id="rend-0000001948093945" fontname="VerovioText"></rend> = 56</tempo>
                      <hairpin xml:id="hairpin-0000001212382649" staff="1" tstamp="4.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="60" />

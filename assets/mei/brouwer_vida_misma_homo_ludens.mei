@@ -5,12 +5,20 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Vida Misma</title>
+            <title>La Vida Misma, III  Homo Ludens</title>
             <respStmt>
                <persName role="composer">Leo Brouwer</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-07-16" type="encoding-date">2021-07-16</date>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000139657302">
@@ -62,7 +70,7 @@
                            </note>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000000090140701" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="160.000000" mm="160.000000" mm.unit="4">
+                     <tempo xml:id="tempo-0000000090140701" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="160" mm="160" mm.unit="4">
                         <rend xml:id="rend-0000000471769352" fontweight="bold">Vivace </rend>
                         <rend xml:id="rend-0000000930189675" fontweight="bold">-176</rend>
                         <rend xml:id="rend-0000001889650736" fontname="VerovioText"></rend> = 160</tempo>

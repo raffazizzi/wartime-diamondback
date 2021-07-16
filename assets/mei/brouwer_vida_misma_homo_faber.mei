@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Vida Misma, I Homo Faber</title>
+            <title>La Vida Misma, I  Homo Faber</title>
             <respStmt>
                <persName role="composer">Leo Brouwer</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -37,9 +37,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001121655598">
                      <rend xml:id="rend-0000000691323895" halign="center" valign="top">La Vida Misma</rend>
-                     <rend xml:id="rend-0000000648443881" halign="center" valign="top">I </rend>
-                     <rend xml:id="rend-0000000326764008" halign="center" valign="top" fontstyle="italic">Homo Faber</rend>
-
+                     <rend xml:id="rend-0000000648443881" halign="center" valign="top">I  Homo Faber</rend>
                      <rend xml:id="rend-0000001452197873" halign="right" valign="bottom">Leo Brouwer</rend>
                      <rend xml:id="rend-0000001249052435" halign="left" valign="top">Violin</rend>
                   </pgHead>
