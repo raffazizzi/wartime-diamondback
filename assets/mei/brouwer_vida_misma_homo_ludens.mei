@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>La Vida Misma</title>
+            <respStmt>
+               <persName role="composer">Leo Brouwer</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-07-16" type="encoding-date">2021-07-16</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000139657302">
+         <appInfo xml:id="appinfo-0000000430305240">
+            <application xml:id="application-0000002016418159" isodate="2021-07-16T16:53:11" version="3.5.0-dev-030147f">
+               <name xml:id="name-0000001573455313">Verovio</name>
+               <p xml:id="p-0000001222786182">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000001069022740">
+            <score xml:id="score-0000000876314340">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000001634987740">
+                     <rend xml:id="rend-0000001702283324" halign="center" valign="top">La Vida Misma</rend>
+                     <rend xml:id="rend-0000000332759234" halign="center" valign="top">III  Homo Ludens</rend>
+                     <rend xml:id="rend-0000000761005113" halign="right" valign="bottom">Leo Brouwer</rend>
+                     <rend xml:id="rend-0000000880909333" halign="left" valign="top">Percussion</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000000629703127">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="label-0000000480801851">Percussion</label>
+                        <instrDef xml:id="instrdef-0000000098075461" midi.channel="6" midi.instrnum="70" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000000082448546" shape="perc" />
+                        <keySig xml:id="keysig-0000001702764940" sig="0" />
+                        <meterSig xml:id="msig-0000000239381110" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000001515953719">
+                  <pb xml:id="pb-0000001063995887" />
+                  <measure xml:id="measure-0000001200901935" n="1">
+                     <staff xml:id="staff-0000000735820711" n="1">
+                        <layer xml:id="layer-0000000727622082" n="1">
+                           <note xml:id="note-0000001227980260" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000019148629" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000001543238636" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001598019734" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000002038921238" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001069596888" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000000223996112" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001132701937" artic="stacc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000000090140701" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="160.000000" mm="160.000000" mm.unit="4">
+                        <rend xml:id="rend-0000000471769352" fontweight="bold">Vivace </rend>
+                        <rend xml:id="rend-0000000930189675" fontweight="bold">-176</rend>
+                        <rend xml:id="rend-0000001889650736" fontname="VerovioText"></rend> = 160</tempo>
+                     <dir xml:id="dir-0000001055422082" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000000669697387" fontstyle="italic" fontweight="bold">pp</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="measure-0000000841413802" n="2">
+                     <staff xml:id="staff-0000001789016772" n="1">
+                        <layer xml:id="layer-0000000557253410" n="1">
+                           <note xml:id="note-0000001780700363" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000473518983" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000001516301222" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000920913527" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000000268858337" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000530264114" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000000216110201" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000942821338" artic="stacc" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000002093388963" n="3">
+                     <staff xml:id="staff-0000001130540495" n="1">
+                        <layer xml:id="layer-0000002014556172" n="1">
+                           <note xml:id="note-0000001627785340" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000240754902" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000002138482983" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000688365937" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000001455521293" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000108241160" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000000973630378" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001969048543" artic="stacc" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="scoredef-0000000092625705">
+                     <meterSig xml:id="msig-0000001627903427" count="12" unit="8" />
+                  </scoreDef>
+                  <measure xml:id="measure-0000000309656644" n="4">
+                     <staff xml:id="staff-0000001175628993" n="1">
+                        <layer xml:id="layer-0000001318418697" n="1">
+                           <note xml:id="note-0000000904366639" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000427636485" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000001560200729" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001052142942" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000001249339395" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001544294122" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000000644308604" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001118655359" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000000216303584" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000054829688" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000001682084327" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001510633480" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000001660616298" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000000314633358" artic="stacc" />
+                           </note>
+                           <note xml:id="note-0000000741169178" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="artic-0000001325319933" artic="stacc" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
