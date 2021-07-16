@@ -38,6 +38,7 @@ Include the following information
 View an [example](https://github.com/annakijas1/rebalancing-music-canon/blob/main/_texts/beach-op015_no1_in_autumn.md) of an MEI incipit page
 
 
+
 **Example of an MEI Incipit Page**
 
 - layout: mei
