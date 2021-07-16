@@ -8,9 +8,17 @@
             <title>In Memoriam Zach Walker </title>
             <respStmt>
                <persName role="composer">T. J. Anderson Jr.</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-07-16" type="encoding-date">2021-07-16</date>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000001249052435">
@@ -57,7 +65,7 @@
                            </note>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000001471452250" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
+                     <tempo xml:id="tempo-0000001471452250" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
                         <rend xml:id="rend-0000002099315841" fontweight="bold">( </rend>
                         <rend xml:id="rend-0000000913043931" fontweight="bold">c. 72 )</rend>
                         <rend xml:id="rend-0000001790808424" fontname="VerovioText"></rend> = </tempo>
