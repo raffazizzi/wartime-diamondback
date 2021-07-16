@@ -24,15 +24,17 @@ Additional editions information
 **Template for MEI Incipit Page**
 
 At the top of each incipit page you need to include these five elements:
-|| layout: mei
-|| title: Title of Composition
-|| author: Composer Last Name, First Name
-|| permalink: /last-name-short-title or opus/number/
-|| document: mei filename
+  layout: mei
+  title: Title of Composition
+  author: Composer Last Name, First Name
+  permalink: /last-name-short-title or opus/number/
+  document: mei filename
 
 - Type in the citation details about this composition based on the exact score used to create the incipits. Start the citation with "In" and use an *around the title* to italicize it.
-- Add the link to Primo, the stacks location, and call number <a href="Primo Link" target="_blank"><Music Library Stacks Call Number</a>
-- //If a digital edition is available link to it and identify website/name of site// Other editions available in <a href="external link" target="_blank">enter the name of the site here</a>
+- Add a link to Primo, the stacks location, and call number <a href="Primo Link" target="_blank"><Music Library Stacks Call Number</a>
+- If a digital edition is available link to it and identify website/name of site. Type in: "Other editions available in <a href="external link" target="_blank">enter the name of the site here</a>"
+
+View an [example](https://github.com/annakijas1/rebalancing-music-canon/blob/main/_texts/beach-op015_no1_in_autumn.md) of an MEI incipit page
 
 ---
 
