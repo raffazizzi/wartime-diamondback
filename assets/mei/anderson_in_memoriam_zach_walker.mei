@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>In Memoriam Zach Walker </title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson Jr.</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-07-16" type="encoding-date">2021-07-16</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000001249052435">
+         <appInfo xml:id="appinfo-0000000735275903">
+            <application xml:id="application-0000001890064936" isodate="2021-07-16T10:30:05" version="3.5.0-dev-f3ad695">
+               <name xml:id="name-0000000350065347">Verovio</name>
+               <p xml:id="p-0000001022646212">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000001144518597">
+            <score xml:id="score-0000001009045241">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000000219976782">
+                     <rend xml:id="rend-0000000524486945" halign="center" valign="top">In Memoriam Zach Walker </rend>
+                     <rend xml:id="rend-0000001729783771" halign="right" valign="bottom">T. J. Anderson Jr.</rend>
+                     <rend xml:id="rend-0000001045325538" halign="left" valign="top">B♭ Clarinet 1</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000001653035940">
+                     <staffGrp xml:id="staffgrp-0000001354129631">
+                        <grpSym xml:id="grpsym-0000001500925129" symbol="bracket" />
+                        <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-1.000000" trans.semi="-2.000000">
+                           <label xml:id="label-0000000131937862">B♭ Clarinet 1</label>
+                           <labelAbbr xml:id="labelAbbr-0000000538798457">B♭ Cl. 1</labelAbbr>
+                           <instrDef xml:id="instrdef-0000002023794977" midi.channel="4" midi.instrnum="71" midi.volume="78.00%" />
+                           <clef xml:id="clef-0000000515253288" shape="G" line="2" />
+                           <keySig xml:id="keysig-0000001239250464" sig="0" />
+                           <meterSig xml:id="msig-0000002004440114" count="4" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000001265813133">
+                  <pb xml:id="pb-0000002082326847" />
+                  <measure xml:id="measure-0000000621840684" n="1">
+                     <staff xml:id="staff-0000001070403365" n="1">
+                        <layer xml:id="layer-0000000814266155" n="1">
+                           <note xml:id="note-0000001209456266" dur="8" oct="6" pname="c" grace="unacc" stem.dir="down" stem.mod="1slash" />
+                           <note xml:id="note-0000000841600129" dur.ppq="8" dur="1" oct="5" pname="b">
+                              <accid xml:id="accid-0000001563338482" accid="f" accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000001471452250" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
+                        <rend xml:id="rend-0000002099315841" fontweight="bold">( </rend>
+                        <rend xml:id="rend-0000000913043931" fontweight="bold">c. 72 )</rend>
+                        <rend xml:id="rend-0000001790808424" fontname="VerovioText"></rend> = </tempo>
+                     <slur xml:id="slur-0000000813235936" startid="#note-0000001209456266" endid="#note-0000000841600129" curvedir="above" />
+                     <slur xml:id="slur-0000000481657571" startid="#note-0000000841600129" endid="#note-0000000503054274" curvedir="above" />
+                  </measure>
+                  <measure xml:id="measure-0000000506531739" n="2">
+                     <staff xml:id="staff-0000000012577227" n="1">
+                        <layer xml:id="layer-0000001587610470" n="1">
+                           <note xml:id="note-0000000503054274" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
+                           <rest xml:id="rest-0000000479699352" dur.ppq="1" dur="8" />
+                           <rest xml:id="rest-0000001970960469" dur.ppq="2" dur="4" />
+                           <rest xml:id="rest-0000000159363182" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000001808019663" n="3">
+                     <staff xml:id="staff-0000001663342967" n="1">
+                        <layer xml:id="layer-0000000023265362" n="1">
+                           <multiRest xml:id="multirest-0000000614760649" num="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000000577001958" n="5">
+                     <staff xml:id="staff-0000000190085979" n="1">
+                        <layer xml:id="layer-0000001723891325" n="1">
+                           <rest xml:id="rest-0000001068844941" dur.ppq="1" dur="8" />
+                           <beam xml:id="beam-0000001334735816">
+                              <note xml:id="note-0000001445222567" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="note-0000001995905729" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <accid xml:id="accid-0000001157444545" accid="f" accid.ges="f" />
+                              </note>
+                              <note xml:id="note-0000000435126885" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                           </beam>
+                           <note xml:id="note-0000000164698393" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000001835101377" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000002021802467" fontstyle="italic" fontweight="bold">f</rend>
+                     </dir>
+                     <tie xml:id="tie-0000002033481804" startid="#note-0000000435126885" endid="#note-0000000164698393" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
