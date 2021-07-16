@@ -5,12 +5,20 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Vida Misma</title>
+            <title>La Vida Misma, I Homo Faber</title>
             <respStmt>
                <persName role="composer">Leo Brouwer</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-07-16" type="encoding-date">2021-07-16</date>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000002106041415">
@@ -30,11 +38,12 @@
                   <pgHead xml:id="pghead-0000001121655598">
                      <rend xml:id="rend-0000000691323895" halign="center" valign="top">La Vida Misma</rend>
                      <rend xml:id="rend-0000000648443881" halign="center" valign="top">I </rend>
+                     <rend xml:id="rend-0000000326764008" halign="center" valign="top" fontstyle="italic">Homo Faber</rend>
+
                      <rend xml:id="rend-0000001452197873" halign="right" valign="bottom">Leo Brouwer</rend>
                      <rend xml:id="rend-0000001249052435" halign="left" valign="top">Violin</rend>
                   </pgHead>
                   <pgFoot xml:id="pgfoot-0000000985702224">
-                     <rend xml:id="rend-0000000326764008" fontstyle="italic">Homo Faber</rend>
                   </pgFoot>
                   <staffGrp xml:id="staffgrp-0000001890064936">
                      <staffGrp xml:id="staffgrp-0000000350065347">
