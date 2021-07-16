@@ -5,13 +5,20 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Seule Dans La Foret</title>
+            <title>Seule Dans La Forêt</title>
             <respStmt>
                <persName role="composer">Germaine Tailleferre</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-07-16" type="encoding-date">2021-07-16</date>
-         </pubStmt>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier></pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000795963156">
          <appInfo xml:id="appinfo-0000001475300970">
@@ -28,7 +35,7 @@
             <score xml:id="score-0000001121655598">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000985702224">
-                     <rend xml:id="rend-0000000326764008" halign="center" valign="top">Seule Dans La Foret</rend>
+                     <rend xml:id="rend-0000000326764008" halign="center" valign="top">Seule Dans La Forêt</rend>
                      <rend xml:id="rend-0000001452197873" halign="right" valign="bottom">Germaine Tailleferre</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001249052435">
@@ -74,7 +81,7 @@
                      <dir xml:id="dir-0000001524320522" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000405400175" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
-                     <tempo xml:id="tempo-0000000081751633" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000">
+                     <tempo xml:id="tempo-0000000081751633" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120">
                         <rend xml:id="rend-0000001355234243" fontweight="bold">Moderato</rend>
                      </tempo>
                      <slur xml:id="slur-0000001790808424" startid="#note-0000000403228649" endid="#note-0000001209456266" curvedir="below" />
