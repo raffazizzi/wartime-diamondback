@@ -57,3 +57,14 @@ Filenaming
 - Use underscores in the mei filenames (e.g. anderson_in_memoriam_zach_walker.mei)
 - Use a hyphen after the last name followed by underscores in the filename for the MEI incipit page (e.g. anderson-in_memoriam_zach_walker.md)
 - If a title includes an opus number, work number (etc), include the numbers following the last name but before title in the filename. For example: beach-op015_no1_in_autumn.md
+- For png files use hyphens between last name and title (e.g. anderson-minstrel-man.png)
+
+###Where do files live?###
+**_texts**
+- all composer page files and incipit page files go into the texts folder
+
+**assets/mei**
+- all mei incipit files go into the mei folder
+
+**assets/images**
+- all png files go into the images folder (when using image instead of mei file to render notation)
