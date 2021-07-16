@@ -1,3 +1,8 @@
+---
+layout: page
+title: Instructions
+permalink: /instructions/
+---
 #How to create an incipit page#
 
 Each incipit will need to have its own file within the texts folder in the repository.
