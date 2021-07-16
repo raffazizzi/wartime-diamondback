@@ -3,7 +3,7 @@ layout: page
 title: Instructions
 permalink: /instructions/
 ---
-#How to create an incipit page#
+**How to create an incipit page**
 
 Each incipit will need to have its own file within the texts folder in the repository.
 
@@ -21,7 +21,7 @@ Additional editions information
 - If there is a digitized edition available in IMSLP, HathiTrust, etc., add the link below the citation as shown in the template below.
 
 
-##Template for MEI Incipit Page##
+**Template for MEI Incipit Page**
 
 ---
 layout: mei
@@ -37,7 +37,7 @@ document: mei filename
 
 ---
 
-##Example of an MEI Incipit Page##
+**Example of an MEI Incipit Page**
 
 ---
 layout: mei
@@ -50,7 +50,7 @@ document: anderson_in_memoriam_zach_walker.mei
 - In *In memoriam Zach Walker* New York: American Composers Alliance, 1968.
 - <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21104821390003851" target="_blank">Music Library Oversize M1245.A52 I5 1968</a>
 
-##Tips##
+**Tips**
 
 When there is an editor of a volume, add editor's name following the title before the publisher info.
 - For example: In *Music for piano. II,* edited by Sylvia Glickman. Bryn Mawr, Pa.: Hildegard Pub., 1997.
@@ -64,12 +64,9 @@ Filenaming
 - If a title includes an opus number, work number (etc), include the numbers following the last name but before title in the filename. For example: beach-op015_no1_in_autumn.md
 - For png files use hyphens between last name and title (e.g. anderson-minstrel-man.png)
 
-###Where do files live?###
-**_texts**
-- all composer page files and incipit page files go into the texts folder
+**Where do files live?**
+- _texts: all composer page files and incipit page files go into the texts folder
 
-**assets/mei**
-- all mei incipit files go into the mei folder
+- assets/mei: all mei incipit files go into the mei folder
 
-**assets/images**
-- all png files go into the images folder (when using image instead of mei file to render notation)
+- assets/images: all png files go into the images folder (when using image instead of mei file to render notation)
