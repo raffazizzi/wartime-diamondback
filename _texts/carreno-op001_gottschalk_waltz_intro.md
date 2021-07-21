@@ -2,7 +2,7 @@
 layout: mei
 title: Gottschalk waltz, op. 1 I. Introduction
 author: Carreño, Teresa
-permalink: /carreno-gottschalk-waltz/
+permalink: /carreno-gottschalk-waltz-I/
 document: carreno_gottschalk_waltz_intro.mei
 ---
 

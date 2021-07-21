@@ -2,7 +2,7 @@
 layout: post
 title: Gottschalk waltz, op. 1 II. Waltz
 author: Carreño, Teresa
-permalink: /carreno-gottschalk-waltz/
+permalink: /carreno-gottschalk-waltz-II/
 document: carreno-gottschalk-waltz-waltz.png
 ---
 

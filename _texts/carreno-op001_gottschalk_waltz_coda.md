@@ -2,7 +2,7 @@
 layout: mei
 title: Gottschalk waltz, op. 1 III. Coda
 author: Carreño, Teresa
-permalink: /carreno-gottschalk-waltz/
+permalink: /carreno-gottschalk-waltz-III/
 document: carreno_gottschalk_waltz_coda.mei
 ---
 
