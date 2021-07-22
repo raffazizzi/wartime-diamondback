@@ -2,7 +2,7 @@
 layout: page
 title: Brouwer, Leo (1939-)
 category: incipits
-century: 21st
+century: 20th-21st
 permalink: /brouwer/
 ---
 
