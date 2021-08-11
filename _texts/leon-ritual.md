@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Rituál
-author: León, Tania
+author: Leon, Tania
 permalink: /leon-ritual/
 document: leon_ritual.mei
 ---
