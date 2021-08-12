@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Momentum: for solo piano
+title: Momentum
 author: León, Tania
 permalink: /leon-momentum/
 image: leon-momentum.png
