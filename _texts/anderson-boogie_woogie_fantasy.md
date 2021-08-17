@@ -1,0 +1,12 @@
+---
+layout: mei
+title: Boogie Woogie Fantasy
+author: Anderson, T.J.
+permalink: /anderson-boogie-woogie-fantasy/
+document: mei filename
+---
+
+- In *Boogie woogie fantasy: for solo piano: 1997.* New York, NY: American Composers Alliance Inc., 2019.
+- <a href="https://tufts-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01TUN_ALMA21276728520003851&context=L&vid=01TUN&lang=en_US&search_scope=EVERYTHING&adaptor=Local%20Search%20Engine&tab=everything&query=any,contains,anderson%20boogie%20woogie%20fantasy&offset=0" target="_blank">Music Library Stacks M25 .A52 B6 2019</a>
+
+---
