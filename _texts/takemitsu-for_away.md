@@ -2,7 +2,7 @@
 layout: post
 title: For Away
 author: Takemitsu, Tōru
-permalink: /akemitsu-for-away/
+permalink: /takemitsu-for-away/
 image: takemitsu-for-away.png
 ---
 
