@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Remembrance
-author: Price, Florence
+author: Price, Florence B.
 permalink: /price-remembrance/
 document: price_remembrance.mei
 ---
