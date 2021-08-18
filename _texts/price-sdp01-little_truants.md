@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Little truants, no. 1
+title: Seven descriptive pieces - Little truants, no. 1
 author: Price, Florence B.
 permalink: /price-little_truants/
 image: price_little_truants.png
