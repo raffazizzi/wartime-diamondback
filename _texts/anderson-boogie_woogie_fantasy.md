@@ -3,7 +3,7 @@ layout: post
 title: Boogie Woogie Fantasy
 author: Anderson, T.J.
 permalink: /anderson-boogie-woogie-fantasy/
-image: anderson=boogie-woogie-fantasy.png
+image: anderson-boogie-woogie-fantasy.png
 ---
 
 - In *Boogie woogie fantasy: for solo piano: 1997.* New York, NY: American Composers Alliance Inc., 2019.
