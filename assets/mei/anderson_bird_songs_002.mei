@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Bird Songs</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-08-19" type="encoding-date">2021-08-19</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000216110201">
+         <appInfo xml:id="appinfo-0000000942821338">
+            <application xml:id="application-0000002093388963" isodate="2021-08-19T14:34:01" version="3.6.0-dev-0d4b2e7">
+               <name xml:id="name-0000002027032015">Verovio</name>
+               <p xml:id="p-0000000576167488">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000985315630">
+            <score xml:id="score-0000000375743163">
+               <scoreDef xml:id="scoredef-0000001527545709">
+                  <pgHead xml:id="pghead-0000000817018380">
+                     <rend xml:id="rend-0000000025556641" halign="center" valign="top">Bird Songs</rend>
+                     <rend xml:id="rend-0000001130540495" halign="center" valign="top">II. Yardbird</rend>
+                     <rend xml:id="rend-0000001627785340" halign="right" valign="bottom">T. J. Anderson</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000002138482983">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="12" trans.diat="-5.000000" trans.semi="-9.000000">
+                        <label xml:id="label-0000000688365937">Alto Saxophone</label>
+                        <labelAbbr xml:id="labelAbbr-0000000108241160">A. Sax.</labelAbbr>
+                        <instrDef xml:id="instrdef-0000001969048543" midi.channel="0" midi.instrnum="65" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000001578309063" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000000625243133" sig="0" />
+                        <meterSig xml:id="msig-0000001175628993" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000001155397569">
+                  <measure xml:id="measure-0000000092625705" n="1">
+                     <staff xml:id="staff-0000000644308604" n="1">
+                        <layer xml:id="layer-0000001037012619" n="1">
+                           <beam xml:id="beam-0000000847924224">
+                              <note xml:id="note-0000000606754492" dur.ppq="6" dur="8" oct="5" pname="a" stem.dir="down">
+                                 <artic xml:id="artic-0000000426976355" artic="stacc" />
+                              </note>
+                              <note xml:id="note-0000000666516987" dur.ppq="6" dur="8" oct="5" pname="f" stem.dir="down">
+                                 <accid xml:id="accid-0000000395809410" accid="s" accid.ges="s" />
+                                 <artic xml:id="artic-0000001356899142" artic="stacc" />
+                              </note>
+                           </beam>
+                           <note xml:id="note-0000000299238164" dur.ppq="12" dur="4" oct="6" pname="c" stem.dir="down">
+                              <accid xml:id="accid-0000002134469716" accid="s" accid.ges="s" />
+                           </note>
+                           <beam xml:id="beam-0000000704991133">
+                              <note xml:id="note-0000001948093945" dur.ppq="6" dur="8" oct="6" pname="c" stem.dir="down" accid.ges="s" />
+                              <note xml:id="note-0000001430505301" dur.ppq="3" dur="16" oct="5" pname="b" stem.dir="down" />
+                              <note xml:id="note-0000001677366315" dur.ppq="3" dur="16" oct="5" pname="a" stem.dir="down" />
+                           </beam>
+                           <beam xml:id="beam-0000000139232141">
+                              <note xml:id="note-0000001999217666" dur.ppq="3" dur="16" oct="5" pname="b" stem.dir="down" />
+                              <note xml:id="note-0000000344589507" dur.ppq="3" dur="16" oct="6" pname="c" stem.dir="down" accid.ges="s" />
+                              <note xml:id="note-0000001213094868" dur.ppq="3" dur="16" oct="5" pname="b" stem.dir="down" />
+                              <note xml:id="note-0000001332854591" dur.ppq="3" dur="16" oct="5" pname="a" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000001118655359" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="80.000000" mm.unit="4">
+                        <rend xml:id="rend-0000000216303584" fontweight="bold">c. 60</rend>
+                        <rend xml:id="rend-0000001682084327" fontname="VerovioText"></rend> = </tempo>
+                     <dir xml:id="dir-0000000314633358" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000000741169178" fontstyle="italic" fontweight="bold">f </rend>
+                        <lb xml:id="lb-0000000460749927" />
+                        <rend xml:id="rend-0000001355857319" fontweight="normal">con brio</rend>
+                     </dir>
+                     <tie xml:id="tie-0000001103920070" startid="#note-0000000299238164" endid="#note-0000001948093945" />
+                     <slur xml:id="slur-0000002132246393" startid="#note-0000001430505301" endid="#note-0000000514854444" curvedir="above" />
+                  </measure>
+                  <measure xml:id="measure-0000001212382649" n="2">
+                     <staff xml:id="staff-0000000357259924" n="1">
+                        <layer xml:id="layer-0000001719816744" n="1">
+                           <beam xml:id="beam-0000001608522080">
+                              <note xml:id="note-0000000514854444" dur.ppq="6" dur="8" oct="6" pname="c" stem.dir="down">
+                                 <accid xml:id="accid-0000000085198211" accid="s" accid.ges="s" />
+                              </note>
+                              <rest xml:id="rest-0000000188363639" dur.ppq="3" dur="16" ploc="a" oloc="5" />
+                              <note xml:id="note-0000000266352791" dur.ppq="3" dur="16" oct="5" pname="a" stem.dir="down" />
+                           </beam>
+                           <note xml:id="note-0000001641917257" dur.ppq="24" dur="2" oct="5" pname="b" stem.dir="down" />
+                           <beam xml:id="beam-0000000086613900">
+                              <note xml:id="note-0000000341343581" dur.ppq="6" dur="8" oct="5" pname="b" stem.dir="down" />
+                              <note xml:id="note-0000001500480442" dur.ppq="6" dur="8" oct="6" pname="c" stem.dir="down" accid.ges="s" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000000241975970" startid="#note-0000000266352791" endid="#note-0000001641917257" curvedir="above" />
+                     <tie xml:id="tie-0000001778849597" startid="#note-0000001641917257" endid="#note-0000000341343581" />
+                     <dir xml:id="dir-0000001472362785" place="above" staff="1" tstamp="4.500000" vgrp="224">
+                        <rend xml:id="rend-0000000581218139" fontstyle="italic">gliss.</rend>
+                     </dir>
+                     <gliss xml:id="gliss-0000000248338949" type="slide" staff="1" startid="#note-0000001500480442" endid="#note-0000001173456676" lform="solid" n="1" />
+                  </measure>
+                  <measure xml:id="measure-0000001722059416" n="3">
+                     <staff xml:id="staff-0000001683854917" n="1">
+                        <layer xml:id="layer-0000001570823141" n="1">
+                           <tuplet xml:id="tuplet-0000000686281901" num="3" numbase="2" bracket.visible="true">
+                              <note xml:id="note-0000001173456676" dur.ppq="8" dur="4" oct="5" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000001165447749" dur.ppq="8" dur="4" oct="5" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000001494997612" dur.ppq="8" dur="4" oct="5" pname="e" stem.dir="down" />
+                           </tuplet>
+                           <beam xml:id="beam-0000000281820593">
+                              <note xml:id="note-0000000672041047" dur.ppq="6" dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000000942048389" dur.ppq="6" dur="8" oct="5" pname="c" stem.dir="down">
+                                 <accid xml:id="accid-0000001624115492" accid="s" accid.ges="s" />
+                              </note>
+                              <note xml:id="note-0000000729736643" dur.ppq="6" dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="note-0000000694617309" dur.ppq="6" dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000002100126970" startid="#note-0000000672041047" endid="#note-0000000518503784" curvedir="above" />
+                  </measure>
+                  <measure xml:id="measure-0000000600412257" n="4">
+                     <staff xml:id="staff-0000000811456044" n="1">
+                        <layer xml:id="layer-0000001818368228" n="1">
+                           <note xml:id="note-0000000403531176" dur.ppq="24" dur="2" oct="5" pname="g" stem.dir="down" />
+                           <note xml:id="note-0000000958564548" dur.ppq="6" dur="8" oct="5" pname="g" stem.dir="down" />
+                           <note xml:id="note-0000000518503784" dots="1" dur.ppq="18" dur="4" oct="5" pname="f" stem.dir="down">
+                              <accid xml:id="accid-0000000728295135" accid="n" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="tie-0000001257519621" startid="#note-0000000403531176" endid="#note-0000000958564548" />
+                  </measure>
+                  <measure xml:id="measure-0000001083649408" n="5">
+                     <staff xml:id="staff-0000001639721616" n="1">
+                        <layer xml:id="layer-0000001623750583" n="1">
+                           <note xml:id="note-0000001046720545" dur.ppq="12" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <beam xml:id="beam-0000001722407204">
+                              <tuplet xml:id="tuplet-0000000775741348" num="6" numbase="4" bracket.visible="false">
+                                 <note xml:id="note-0000001930742674" dur.ppq="2" dur="16" oct="5" pname="e" stem.dir="down" />
+                                 <note xml:id="note-0000001882112312" dur.ppq="2" dur="16" oct="5" pname="e" stem.dir="down">
+                                    <accid xml:id="accid-0000000583411062" accid="f" accid.ges="f" />
+                                 </note>
+                                 <note xml:id="note-0000000666442041" dur.ppq="2" dur="16" oct="5" pname="d" stem.dir="down" />
+                                 <note xml:id="note-0000001958781713" dur.ppq="2" dur="16" oct="5" pname="d" stem.dir="down">
+                                    <accid xml:id="accid-0000001824113999" accid="f" accid.ges="f" />
+                                 </note>
+                                 <note xml:id="note-0000001557697675" dur.ppq="2" dur="16" oct="5" pname="c" stem.dir="down" />
+                                 <note xml:id="note-0000001551183221" dur.ppq="2" dur="16" oct="4" pname="b" stem.dir="down" />
+                              </tuplet>
+                           </beam>
+                           <note xml:id="note-0000001074869664" dur.ppq="24" dur="2" oct="4" pname="b" stem.dir="down">
+                              <accid xml:id="accid-0000002121034553" accid="f" accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000001351228775" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000001929053918" fontstyle="italic">poco</rend>
+                     </dir>
+                     <slur xml:id="slur-0000001719288096" startid="#note-0000001046720545" endid="#note-0000001074869664" curvedir="above" />
+                     <tie xml:id="tie-0000001836066658" startid="#note-0000001046720545" endid="#note-0000001930742674" />
+                     <hairpin xml:id="hairpin-0000001764184995" staff="1" tstamp="2.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="79" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
