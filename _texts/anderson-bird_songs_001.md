@@ -3,7 +3,7 @@ layout: mei
 title: Bird songs, I. Birds of Prey
 author: Anderson, T.J.
 permalink: /anderson-bird-songs-I/
-document: anderson-bird_songs_001.mei
+document: anderson_bird_songs_001.mei
 ---
 
 - In *Bird songs: for soprano and rock band (2007).* United States: T. J. Anderson Music Publishing, 2008.
