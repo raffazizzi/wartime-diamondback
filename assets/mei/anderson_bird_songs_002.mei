@@ -34,7 +34,7 @@
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000002138482983">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="12" trans.diat="-5.000000" trans.semi="-9.000000">
-                        <label xml:id="label-0000000688365937">Alto Saxophone</label>
+                        <label xml:id="label-0000000688365937">Eb Alto Saxophone</label>
                         <labelAbbr xml:id="labelAbbr-0000000108241160">A. Sax.</labelAbbr>
                         <instrDef xml:id="instrdef-0000001969048543" midi.channel="0" midi.instrnum="65" midi.volume="78.00%" />
                         <clef xml:id="clef-0000001578309063" shape="G" line="2" />
@@ -73,8 +73,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000001118655359" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="80.000000" mm.unit="4">
-                        <rend xml:id="rend-0000000216303584" fontweight="bold">c. 60</rend>
-                        <rend xml:id="rend-0000001682084327" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rend-0000001682084327" fontname="VerovioText"></rend> = c. 60</tempo>
                      <dir xml:id="dir-0000000314633358" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000741169178" fontstyle="italic" fontweight="bold">f </rend>
                         <lb xml:id="lb-0000000460749927" />
