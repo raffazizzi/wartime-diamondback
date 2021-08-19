@@ -3,7 +3,7 @@ layout: mei
 title: Bird songs, II. Yardbird
 author: Anderson, T.J.
 permalink: /anderson-bird-songs-II/
-document: mei filename
+document: anderson_bird_songs_002.mei
 ---
 
 - In *Bird songs: for soprano and rock band (2007).* United States: T. J. Anderson Music Publishing, 2008.
