@@ -3,7 +3,7 @@ layout: post
 title: Bahia, Bahia
 author: Anderson, T.J.
 permalink: /anderson-bahia-bahia/
-document: anderson-bahia-bahia.png
+image: anderson-bahia-bahia.png
 ---
 
 - In *Bahia, Bahia: for chamber orchestra.* United States: T.J. Anderson Music Publishing; Verona, N.J.: Distributed by Subito, 2012.
