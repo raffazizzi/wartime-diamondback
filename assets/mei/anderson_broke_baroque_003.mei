@@ -57,8 +57,7 @@
                         <rend xml:id="rkxa8wr" fontweight="normal"> giocoso</rend>
                      </dir>
                      <tempo xml:id="tp88nfo" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="r75zjt7" fontweight="bold">c. 120</rend>
-                        <rend xml:id="rplq2m1" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rplq2m1" fontname="VerovioText"></rend> = c. 120</tempo>
                   </measure>
                   <measure xml:id="m7nllr5" n="1">
                      <staff xml:id="sndlby0" n="1">
