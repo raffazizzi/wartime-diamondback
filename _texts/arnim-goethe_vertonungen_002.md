@@ -3,7 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, O schaudre nicht (aus Faust)
 author: Arnim, Bettina von
 permalink: /arnim-goethe-vertonungen-o-schaudre-nicht/
-document: mei filename
+document: arnim_goethe_vertonungen_002.mei
 ---
 
 - In *Goethe-Vertonungen: für Singstimme und Klavier.* Kassel: Furore, 1999.

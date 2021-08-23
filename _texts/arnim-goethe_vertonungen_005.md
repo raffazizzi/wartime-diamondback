@@ -3,7 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, Suleika
 author: Arnim, Bettina von
 permalink: /arnim-goethe-vertonungen-suleika/
-document: mei filename
+document: arnim_goethe_vertonungen_005.mei
 ---
 
 - In *Goethe-Vertonungen: für Singstimme und Klavier.* Kassel: Furore, 1999.
