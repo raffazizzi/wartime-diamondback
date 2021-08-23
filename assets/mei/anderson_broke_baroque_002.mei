@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Broke Baroque</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-08-23" type="encoding-date">2021-08-23</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-prgel5">
+         <appInfo xml:id="appinfo-qeo839">
+            <application xml:id="application-i4aya3" isodate="2021-08-23T15:24:05" version="3.6.0-dev-aa4cee3">
+               <name xml:id="name-ay96zr">Verovio</name>
+               <p xml:id="p-2u9xhf">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body xml:id="p4u5kts">
+         <mdiv xml:id="mktg1pl">
+            <score xml:id="sxikfuf">
+               <scoreDef xml:id="smvisno">
+                  <pgHead xml:id="pcb608l">
+                     <rend xml:id="rcyeubw" halign="center" valign="top">Broke Baroque</rend>
+                     <rend xml:id="rh3x3yi" halign="center" valign="top">II. Alberti</rend>
+                     <rend xml:id="roz0r65" halign="right" valign="bottom">T. J. Anderson</rend>
+                  </pgHead>
+                  <staffGrp xml:id="swxjtze">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <label xml:id="ly92lp0">Piano</label>
+                        <labelAbbr xml:id="lt9ag2s">Pno.</labelAbbr>
+                        <instrDef xml:id="ifnpp6q" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                        <staffDef xml:id="st2jkin" n="1" lines="5" ppq="2">
+                           <clef xml:id="c2xhqfl" shape="G" line="2" />
+                           <keySig xml:id="k7v8h8f" sig="0" />
+                           <meterSig xml:id="mo07msy" count="4" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="swkaz3p" n="2" lines="5" ppq="2">
+                           <clef xml:id="cjxd1me" shape="F" line="4" />
+                           <keySig xml:id="k5j4c67" sig="0" />
+                           <meterSig xml:id="mlbi3ms" count="4" unit="4" />
+                        </staffDef>
+                        <grpSym xml:id="gj0zpei" symbol="brace" />
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sbkff8y">
+                  <measure xml:id="mgmj17z" n="1">
+                     <staff xml:id="snv0s67" n="1">
+                        <layer xml:id="lq0lt8h" n="1">
+                           <mRest xml:id="mommwr7" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s822jm6" n="2">
+                        <layer xml:id="lgksflu" n="5">
+                           <note xml:id="n1dqub1" dur.ppq="4" dur="2" oct="2" pname="a" stem.dir="up" />
+                           <beam xml:id="btkvkiu">
+                              <note xml:id="ndhd7u7" dur.ppq="1" dur="8" oct="2" pname="a" stem.dir="down" />
+                              <note xml:id="npfrcwb" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="down" />
+                           </beam>
+                           <note xml:id="ngbwgot" dur.ppq="2" dur="4" oct="2" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t1b3a2y" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
+                        <rend xml:id="rnkjqrr" fontweight="bold">c. 60</rend>
+                        <rend xml:id="rmnk48p" fontname="VerovioText"></rend> = </tempo>
+                     <dir xml:id="d8a2a75" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rzaahol" fontstyle="italic" fontweight="bold">p;</rend>
+                        <lb xml:id="lhdlmi7" />
+                        <rend xml:id="ro1ymqm" fontweight="normal"> dolciss. sempre</rend>
+                     </dir>
+                     <tie xml:id="tqfakv4" startid="#n1dqub1" endid="#ndhd7u7" />
+                  </measure>
+                  <measure xml:id="mpn9bfx" n="2">
+                     <staff xml:id="slqc7pd" n="1">
+                        <layer xml:id="lsbqvlm" n="1">
+                           <mRest xml:id="m4pkw49" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="swre0ha" n="2">
+                        <layer xml:id="lq3qenz" n="5">
+                           <note xml:id="nsr7wmr" dur.ppq="4" dur="2" oct="2" pname="g" stem.dir="up" />
+                           <beam xml:id="bf9j41m">
+                              <note xml:id="n3682lq" dur.ppq="1" dur="8" oct="2" pname="g" stem.dir="up" />
+                              <note xml:id="ndmr50g" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="up" />
+                           </beam>
+                           <note xml:id="nx4kpqy" dur.ppq="2" dur="4" oct="2" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="t7dx87d" startid="#nsr7wmr" endid="#n3682lq" />
+                  </measure>
+                  <measure xml:id="m62oph" n="3">
+                     <staff xml:id="sf3ff6p" n="1">
+                        <layer xml:id="llmwabc" n="1">
+                           <mRest xml:id="mprx4j4" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s4w7mwx" n="2">
+                        <layer xml:id="ldntliz" n="5">
+                           <note xml:id="ny6h3jd" dur.ppq="4" dur="2" oct="2" pname="f" stem.dir="up" />
+                           <beam xml:id="be4gcw6">
+                              <note xml:id="n24grfo" dur.ppq="1" dur="8" oct="2" pname="f" stem.dir="up" />
+                              <note xml:id="nma7irg" dur.ppq="1" dur="8" oct="3" pname="f" stem.dir="up" />
+                           </beam>
+                           <note xml:id="n70yay8" dur.ppq="2" dur="4" oct="2" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tu9f876" startid="#ny6h3jd" endid="#n24grfo" />
+                  </measure>
+                  <measure xml:id="mhdnm8i" n="4">
+                     <staff xml:id="s3hchca" n="1">
+                        <layer xml:id="lorn9f8" n="1">
+                           <mRest xml:id="mfxnggw" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="se249im" n="2">
+                        <layer xml:id="lf3ex1o" n="5">
+                           <note xml:id="nn2nn3n" dur.ppq="4" dur="2" oct="2" pname="e" stem.dir="up" />
+                           <note xml:id="n2upt57" dur.ppq="2" dur="4" oct="2" pname="f" stem.dir="up">
+                              <accid xml:id="auchbbr" accid="s" accid.ges="s" />
+                           </note>
+                           <note xml:id="nr8f0y6" dur.ppq="2" dur="4" oct="2" pname="g" stem.dir="up">
+                              <accid xml:id="ajt0yyi" accid="s" accid.ges="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
