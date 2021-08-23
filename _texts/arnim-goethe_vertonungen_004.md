@@ -3,7 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, Wanderers Nachtlied
 author: Arnim, Bettina von
 permalink: /arnim-goethe-vertonungen-wanderers-nachtlied/
-document: mei filename
+document: arnim_goethe_vertonungen_004.mei
 ---
 
 - In *Goethe-Vertonungen: für Singstimme und Klavier.* Kassel: Furore, 1999.
