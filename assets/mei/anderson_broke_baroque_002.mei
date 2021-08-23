@@ -69,8 +69,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t1b3a2y" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rnkjqrr" fontweight="bold">c. 60</rend>
-                        <rend xml:id="rmnk48p" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rmnk48p" fontname="VerovioText"></rend> = c. 60</tempo>
                      <dir xml:id="d8a2a75" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rzaahol" fontstyle="italic" fontweight="bold">p;</rend>
                         <lb xml:id="lhdlmi7" />
