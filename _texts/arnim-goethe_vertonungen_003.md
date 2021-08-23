@@ -3,7 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, Herbstgefühl
 author: Arnim, Bettina von
 permalink: /arnim-goethe-vertonungen-herbstgefuhl/
-document: mei filename
+document: arnim_goethe_vertonungen_003.mei
 ---
 
 - In *Goethe-Vertonungen: für Singstimme und Klavier.* Kassel: Furore, 1999.
