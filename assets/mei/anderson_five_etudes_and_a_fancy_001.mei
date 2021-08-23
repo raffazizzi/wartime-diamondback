@@ -72,8 +72,7 @@
                      </staff>
                      <tempo xml:id="trqns4r" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="r2aw87h" fontweight="bold">Moderato (</rend>
-                        <rend xml:id="rz02ria" fontweight="bold">c. 92)</rend>
-                        <rend xml:id="rm1jp6n" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rm1jp6n" fontname="VerovioText"></rend> = c. 92)</tempo>
                      <dir xml:id="dsbh1lm" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="ri8zyi0" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
