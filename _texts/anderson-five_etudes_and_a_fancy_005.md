@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Five Etudes and a Fancy, V. Recurrence
 author: Anderson, T.J.
 permalink: /anderson-five-etudes-V/
-document: anderson_five_etudes_and_a_fancy_005.mei
+image: anderson-five-etudes-and-fancy-005.png
 ---
 
 - In *Five Etudes and a Fancy: for woodwind quintet.* New York, NY: American Composers Alliance, Inc., 2018.
