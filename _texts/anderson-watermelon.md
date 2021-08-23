@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Watermelon
 author: Anderson, T.J.
 permalink: /anderson-watermelon/
-document: mei filename
+image: anderson-watermelon.png
 ---
 
 - In *Watermelon: for piano, 1971.* Berlin: Bote & Bock, 1978.
