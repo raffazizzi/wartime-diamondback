@@ -8,6 +8,8 @@
             <title>Deux Pieces pour Piano</title>
             <respStmt>
                <persName role="composer">Germaine Taileferre</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-08-13" type="encoding-date">2021-08-13</date>
