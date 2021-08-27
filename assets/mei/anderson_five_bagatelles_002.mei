@@ -115,9 +115,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tyb713y" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rqc2tgq" fontweight="bold">Lento </rend>
-                        <rend xml:id="rvrymxy" fontweight="bold">c. 50</rend>
-                        <rend xml:id="rdixh18" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rqc2tgq" fontweight="bold">Lento </rend>                        <rend xml:id="rdixh18" fontname="VerovioText"></rend> = c. 50</tempo>
                      <dir xml:id="dulprdp" place="below" staff="3" tstamp="1.000000" vgrp="40">
                         <rend xml:id="r4fxur3" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
