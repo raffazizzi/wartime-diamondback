@@ -161,9 +161,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tfo28sw" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rnc29be" fontweight="bold">Larghetto </rend>
-                        <rend xml:id="rds7s17" fontweight="bold">c. 69</rend>
-                        <rend xml:id="rsz843z" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rsz843z" fontname="VerovioText"> Larghetto </rend> = c. 69</tempo>
                      <dir xml:id="dmqm7jf" place="below" staff="1" tstamp="3.000000" vgrp="40">
                         <rend xml:id="rkipil7" fontstyle="italic" fontweight="bold">fp</rend>
                      </dir>
