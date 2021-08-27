@@ -137,9 +137,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tuqek3j" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="r6ij70a" fontweight="bold">Adagio </rend>
-                        <rend xml:id="r1an7ji" fontweight="bold">c. 66</rend>
-                        <rend xml:id="rhhv88" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rhhv88" fontname="VerovioText">Adagio </rend> = c.66</tempo>
                      <dir xml:id="dbzmdbi" place="below" staff="1" tstamp="2.000000" vgrp="54">
                         <rend xml:id="rkfaq25" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
@@ -151,14 +149,14 @@
                      <dir xml:id="dl9r3gz" place="below" staff="3" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rrq8uke" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
-                     <slur xml:id="ss5noxm" startid="#nukpyqp" endid="#n2gwmkx" curvedir="below" />
-                     <tie xml:id="t8k68hk" startid="#n2gwmkx" endid="#nhbt3np" />
+                     <slur xml:id="ss5noxm" startid="#nukpyqp" endid="#n2gwmkx" curvedir="above" />
+                     <tie xml:id="t8k68hk" startid="#n2gwmkx" endid="#nhbt3np" curvedir="below"/>
                      <trill xml:id="t4dlxxp" staff="3" startid="#n2gwmkx" tstamp2="0m+2.2500" extender="true" n="1" />
                      <dir xml:id="d1c5002" place="below" staff="3" tstamp="2.250000" vgrp="40">
                         <rend xml:id="rlzbj4k" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
                      <slur xml:id="sva1u25" startid="#nbgbjpg" endid="#nucdmp1" curvedir="below" />
-                     <slur xml:id="shwsbre" startid="#n4r4i7u" endid="#ng48wra" curvedir="below" />
+                     <slur xml:id="shwsbre" startid="#n4r4i7u" endid="#ng48wra" curvedir="above" />
                      <tie xml:id="tp6i9mg" startid="#ng48wra" endid="#ntvodxm" />
                      <trill xml:id="tb0x7bw" staff="4" startid="#ng48wra" tstamp2="0m+2.2500" extender="true" n="1" />
                      <slur xml:id="s6d47bc" startid="#nrxbsw9" endid="#nwsyw1t" curvedir="above" />
@@ -284,15 +282,16 @@
                         <rend xml:id="rdvc2d5" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
                      <slur xml:id="sag7his" startid="#nhx27ij" endid="#nee1zge" curvedir="below" />
+                     <slur startid="#nsl9qal" endid="#nxctjii" curvedir="above" />
                      <dir xml:id="dz86zum" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rrnzlw9" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
                      <slur xml:id="szh4m9d" startid="#n4c3xkl" endid="#nf843tc" curvedir="below" />
                      <slur xml:id="sadl8ny" startid="#nue5iyi" endid="#nbh7joh" curvedir="below" />
-                     <tie xml:id="twsve3p" startid="#nbh7joh" endid="#nkw5i3l" />
+                     <tie xml:id="twsve3p" startid="#nbh7joh" endid="#nkw5i3l" curvedir="above"/>
                      <trill xml:id="tk5tm4i" staff="3" startid="#nbh7joh" tstamp2="0m+1.7500" extender="true" n="1" />
                      <slur xml:id="sudvk0o" startid="#nfugz1z" endid="#nx6yh88" curvedir="below" />
-                     <tie xml:id="tyfau1f" startid="#nx6yh88" endid="#no4z5xy" />
+                     <tie xml:id="tyfau1f" startid="#nx6yh88" endid="#no4z5xy" curvedir="below" />
                      <trill xml:id="tmrvs9b" staff="4" startid="#nx6yh88" tstamp2="0m+1.7500" extender="true" n="1" />
                   </measure>
                   <scoreDef xml:id="s22s5sv">
@@ -348,7 +347,7 @@
                      <dir xml:id="dp961il" place="below" staff="1" tstamp="2.500000" vgrp="40">
                         <rend xml:id="rwem2g8" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
-                     <tie xml:id="ttyprq9" startid="#n26kzsm" endid="#nasmfbd" />
+                     <tie xml:id="ttyprq9" startid="#n26kzsm" endid="#nasmfbd" curvedir="below" />
                      <dir xml:id="dft626z" place="below" staff="3" tstamp="1.000000" vgrp="40">
                         <rend xml:id="ramyr0f" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
