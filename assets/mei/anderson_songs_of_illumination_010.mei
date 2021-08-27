@@ -85,15 +85,13 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tixf079" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="8">
-                        <rend xml:id="rgorcah" fontweight="bold">c. 60</rend>
-                        <rend xml:id="ryfrhof" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="ryfrhof" fontname="VerovioText"></rend> = c. 60</tempo>
                      <dir xml:id="dnpswmk" place="above" staff="2" tstamp="1.000000" vgrp="262">
-                        <rend xml:id="rjehci5" fontstyle="italic" fontweight="bold">pp</rend>
+                        <rend xml:id="rjehci5" fontstyle="italic" fontweight="bold">pp; dolce</rend>
                         <lb xml:id="l3567a3" />
-                        <rend xml:id="ruckla9" fontweight="normal">; dolce</rend>
-                     </dir>
+                                          </dir>
                      <slur xml:id="sj541xd" startid="#nsicz25" endid="#nwszpj5" curvedir="above" />
-                     <tie xml:id="tr94jfe" startid="#n772a1x" endid="#nnec2hd" />
+                     <tie xml:id="tr94jfe" startid="#n772a1x" endid="#nnec2hd" curvedir="below"/>
                      <tie xml:id="tw7vtlk" startid="#n84jlss" endid="#n7v01ox" />
                   </measure>
                   <measure xml:id="michgvu" n="2">
@@ -197,12 +195,11 @@
                         </layer>
                      </staff>
                      <dir xml:id="d6pd4rz" place="above" staff="1" tstamp="2.250000" vgrp="244">
-                        <rend xml:id="rdeos0r" fontstyle="italic" fontweight="bold">ppp</rend>
+                        <rend xml:id="rdeos0r" fontstyle="italic" fontweight="bold">ppp; sempre</rend>
                         <lb xml:id="lmevdfn" />
-                        <rend xml:id="ra53l1q" fontweight="normal">; sempre</rend>
                      </dir>
                      <tie xml:id="tvo69kg" startid="#nxk97qz" endid="#n3bxw9t" />
-                     <hairpin xml:id="hsap01q" staff="2" tstamp="2.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="60" />
+                     <hairpin xml:id="hsap01q" staff="2" tstamp="3.000000" tstamp2="0m+4.7000" form="dim" place="below" vgrp="60" />
                   </measure>
                </section>
             </score>
