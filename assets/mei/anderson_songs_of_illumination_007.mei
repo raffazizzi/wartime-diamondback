@@ -81,8 +81,7 @@
                         <rend xml:id="r3srodd" fontweight="normal">; dolciss.</rend>
                      </dir>
                      <tempo xml:id="tw8z5w5" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="r6ghbxa" fontweight="bold">c. 56</rend>
-                        <rend xml:id="r7c8w03" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="r7c8w03" fontname="VerovioText"></rend> = c. 56</tempo>
                      <slur xml:id="sqc2tgq" startid="#niq4d5n" endid="#nksovj5" curvedir="above" />
                      <slur xml:id="sdixh18" startid="#n9dj12g" endid="#n1c8wca" curvedir="above" />
                   </measure>
@@ -156,7 +155,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="svzvulf" startid="#nk2rupi" endid="#ngxlrqz" curvedir="below" />
-                     <octave xml:id="oydsy2o" staff="1" startid="#rdckgj6" endid="#rdckgj6" n="1" dis="8" dis.place="above" />
+                     <octave xml:id="oydsy2o" staff="1" startid="#n11aize" endid="#n11aize" n="1" dis="8" dis.place="above" />
                      <dir xml:id="dtuqwrn" place="below" staff="1" tstamp="8.000000" vgrp="40">
                         <rend xml:id="rn9okrj" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
