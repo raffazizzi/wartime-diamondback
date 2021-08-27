@@ -119,7 +119,7 @@
                         <rend xml:id="r1u1zhg" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
                      <tempo xml:id="tmkj46m" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="88.000000" mm="88.000000" mm.unit="4">
-                        <rend xml:id="rp2x3uh" fontweight="bold">Vivace </rend>(<rend xml:id="ry1673c" fontname="VerovioText"></rend> = 88)</tempo>
+                        <rend xml:id="ry1673c" fontname="VerovioText">Vivace (</rend> = 88)</tempo>
                   </measure>
                   <measure xml:id="m7fyfn3" n="2">
                      <staff xml:id="sfrcc9p" n="1">
@@ -199,8 +199,8 @@
                            <mRest xml:id="mstt2bm" />
                         </layer>
                      </staff>
-                     <dynam xml:id="d3v1jz6" place="below" staff="1" tstamp="1.000000" val="64" vgrp="40">mp</dynam>
-                     <dynam xml:id="d8q0pq3" place="below" staff="3" tstamp="1.000000" val="64" vgrp="40">mp</dynam>
+                     <dynam xml:id="d3v1jz6" place="below" staff="1" tstamp="3.000000" val="64" vgrp="40">mp</dynam>
+                     <dynam xml:id="d8q0pq3" place="below" staff="3" tstamp="3.000000" val="64" vgrp="40">mp</dynam>
                   </measure>
                   <scoreDef xml:id="svj3qr1">
                      <meterSig xml:id="mdos0mm" count="2" unit="4" />
