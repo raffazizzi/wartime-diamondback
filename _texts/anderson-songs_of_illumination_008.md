@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Songs of illumination, VIII. Corner Court
 author: Anderson, T.J.
 permalink: /anderson-songs-of-illumination-VIII/
-document: music-encoding/sample-encodings/blob/master/MEI_3.0/Music/Complete_examples/Aguado_Walzer_G-major.mei
+image: anderson-songs-of-illumination-008.png
 ---
 
 - In *Songs of illumination: for soprano, tenor and piano.* New York, N.Y.: American Composers Alliance, 1989.
