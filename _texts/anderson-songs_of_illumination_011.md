@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Songs of illumination, XI. Message of Fire
 author: Anderson, T.J.
 permalink: /anderson-songs-of-illumination-XI/
-document: mei filename
+image: anderson-songs-of-illumination-011.png
 ---
 
 - In *Songs of illumination: for soprano, tenor and piano.* New York, N.Y.: American Composers Alliance, 1989.
