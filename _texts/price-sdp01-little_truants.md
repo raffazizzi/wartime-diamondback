@@ -3,7 +3,7 @@ layout: post
 title: Seven descriptive pieces - Little truants, no. 1
 author: Price, Florence B.
 permalink: /price-little_truants/
-image: price_little_truants.png
+image: price_sdp01_little_truants.png
 ---
 
 - In *Seven descriptive pieces: for piano solo.* New York: Schirmer Rental Dept., 2021.
