@@ -3,7 +3,7 @@ layout: mei
 title: Dans l'immense tristesse, (Quatre chants)
 author: Boulanger, Lili
 permalink: /boulanger-dans/
-document: boulanger_quatre_chants_dans_l'immense_tristesse.mei
+document: boulanger_quatre_chants_dans_immense_tristesse.mei
 ---
 
 - In *Quatre chants: pour voix et piano*, edited by Jane May. 1979.
