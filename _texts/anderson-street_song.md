@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Street Song
+title: Street song
 author: Anderson, T.J.
 permalink: /anderson-street-song/
 image: anderson-street-song.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minstrel Man
+title: Minstrel man
 author: Anderson, T.J.
 permalink: /anderson-minstrel-man/
 image: anderson-minstrel-man.png
