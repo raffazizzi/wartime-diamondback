@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Songs of illumination, IX. Frankie, Dead
 author: Anderson, T.J.
 permalink: /anderson-songs-of-illumination-IX/
-document: mei filename
+image: anderson-songs-of-illumination-009.png
 ---
 
 - In *Songs of illumination: for soprano, tenor and piano.* New York, N.Y.: American Composers Alliance, 1989.
