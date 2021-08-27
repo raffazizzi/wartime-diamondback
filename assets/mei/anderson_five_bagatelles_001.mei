@@ -119,8 +119,7 @@
                      </dir>
                      <tempo xml:id="tn7byf5" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="r1d3z99" fontweight="bold">Recitando </rend>
-                        <rend xml:id="rww0nrw" fontweight="bold">c. 100</rend>
-                        <rend xml:id="r4dpt3j" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="r4dpt3j" fontname="VerovioText"></rend> = c. 100</tempo>
                      <tie xml:id="thgtdtm" startid="#nhzu017" endid="#ndiawpb" />
                      <tie xml:id="taxtzsn" startid="#ndcnrrb" endid="#n9hex7y" />
                   </measure>
