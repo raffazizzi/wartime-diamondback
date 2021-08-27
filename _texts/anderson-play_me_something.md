@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Play Me Something
+title: Play me something
 author: Anderson, T.J.
 permalink: /anderson-play-me-something/
 document: anderson_play_me_something.mei

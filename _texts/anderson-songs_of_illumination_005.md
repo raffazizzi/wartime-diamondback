@@ -1,9 +1,9 @@
 ---
-layout: mei
-title: Songs of illumination, V. Myself When I am Real 
+layout: post
+title: Songs of illumination, V. Myself When I am Real
 author: Anderson, T.J.
 permalink: /anderson-songs-of-illumination-V/
-document: mei filename
+image: anderson-songs-of-illumination-005.png
 ---
 
 - In *Songs of illumination: for soprano, tenor and piano.* New York, N.Y.: American Composers Alliance, 1989.

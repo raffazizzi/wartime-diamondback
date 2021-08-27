@@ -3,7 +3,7 @@ layout: mei
 title: Five bagatelles, I. Boea
 author: Anderson, T.J.
 permalink: /anderson-five-bagatelles-I/
-document: mei filename
+document: anderson_five_bagatelles_001.mei
 ---
 
 - In *Five bagatelles for oboe, violin and harpsichord: (1963).* New York, N.Y.: American Composers Alliance, 1987.

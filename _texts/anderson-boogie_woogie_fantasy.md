@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boogie Woogie Fantasy
+title: Boogie woogie fantasy
 author: Anderson, T.J.
 permalink: /anderson-boogie-woogie-fantasy/
 image: anderson-boogie-woogie-fantasy.png

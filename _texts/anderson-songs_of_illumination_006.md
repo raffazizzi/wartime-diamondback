@@ -1,9 +1,9 @@
 ---
-layout: mei
-title: Songs of illumination, VI. Confession 
+layout: post
+title: Songs of illumination, VI. Confession
 author: Anderson, T.J.
 permalink: /anderson-songs-of-illumination-VI/
-document: mei filename
+image: anderson-songs-of-illumination-006.png
 ---
 
 - In *Songs of illumination: for soprano, tenor and piano.* New York, N.Y.: American Composers Alliance, 1989.
