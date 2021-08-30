@@ -3,7 +3,7 @@ layout: post
 title: Chamber concerto (Remembrances)
 author: Anderson, T.J.
 permalink: /anderson-chamber-concerto-remembrances/
-image: anderson-chamber-concerto-remembrance.png
+image: anderson-chamber-concerto-remembrances.png
 ---
 
 - In *Chamber concerto: (Remembrances): for chamber orchestra.* United States: T.J. Anderson Music Publishing, 2019.
