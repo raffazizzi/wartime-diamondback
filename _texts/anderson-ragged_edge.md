@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post        
 title: Ragged edge (a ragtime reflection)
 author: Anderson, T.J.
 permalink: /anderson-ragged-edge/
-document: mei filename
+image: anderson-ragged-edge.png
 ---
 
 - In *Ragged edge: (a ragtime reflection): for chamber orchestra (2005).* United States: T.J. Anderson Music Publishing, 2019.
