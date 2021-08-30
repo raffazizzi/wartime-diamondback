@@ -29,7 +29,7 @@
             <score xml:id="sichgvu">
                <scoreDef xml:id="shacyci">
                   <pgHead xml:id="p26jvwm">
-                     <rend xml:id="rme7p3z" halign="center" valign="top">Fantasistykker op. 45, no. 4- Gyngende</rend>
+                     <rend xml:id="rme7p3z" halign="center" valign="top">Fantasistykker op. 45, no. 4 - Gyngende</rend>
                      <rend xml:id="rfd0oq4" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
                   </pgHead>
                   <staffGrp xml:id="s9l95ix">
@@ -83,9 +83,9 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t8eiaex" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="108.000000" mm="108.000000" mm.unit="4">
-                        <rend xml:id="rc0e296" fontweight="bold">Allegretto non troppo </rend>(<rend xml:id="r1lii11" fontname="VerovioText"></rend> = 108)</tempo>
+                        <rend xml:id="r1lii11" fontname="VerovioText"> Allegretto non troppo (</rend> = 108)</tempo>
                      <dynam xml:id="d7xlme0" place="above" staff="2" tstamp="1.000000" val="33">pp</dynam>
-                     <tie xml:id="tifop5j" startid="#ntwg4wf" endid="#nqy8gc8" />
+                     <tie xml:id="tifop5j" startid="#ntwg4wf" endid="#n9jj5k6" />
                   </measure>
                   <measure xml:id="mnpswmk" n="2">
                      <staff xml:id="sm2o0qw" n="1">

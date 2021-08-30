@@ -136,8 +136,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tnsl8jx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="176.000000" mm="176.000000" mm.unit="4">
-                        <rend xml:id="rjcukeh" fontweight="bold">Allegro M.M. </rend>
-                        <rend xml:id="rwnnfu4" fontname="VerovioText"></rend> = 176</tempo>
+                        <rend xml:id="rwnnfu4" fontname="VerovioText">Allegro M.M. </rend> = 176</tempo>
                      <dir xml:id="dcvyn21" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rr64jom" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
@@ -222,8 +221,8 @@
                            <mSpace xml:id="m74exst" />
                         </layer>
                      </staff>
-                     <slur xml:id="sprgel5" startid="#nkoa7ql" endid="#nqeo839" curvedir="above" />
-                     <slur xml:id="sq77zq6" startid="#ncyeubw" endid="#ncb608l" curvedir="above" />
+                     <slur xml:id="sprgel5" startid="#nkoa7ql" endid="#n2u9xhf" curvedir="above" />
+                     <slur xml:id="sq77zq6" startid="#ncyeubw" endid="#noz0r65" curvedir="above" />
                   </measure>
                   <sb xml:id="swkaz3p" />
                   <measure xml:id="mfnpp6q" n="3">
