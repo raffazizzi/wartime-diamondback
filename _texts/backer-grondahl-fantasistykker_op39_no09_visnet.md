@@ -1,8 +1,8 @@
 ---
 layout: mei
-title: Fantasistykker, op. 39, Visnet
+title: Fantasistykker, op. 39, no. 9 - Visnet
 author: Backer-Grøndahl, Agathe
-permalink: /backer-grondahl-fantasistykker-visnet/
+permalink: /backer-grondahl-39.9/
 document: mei filename
 ---
 
