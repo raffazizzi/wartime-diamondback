@@ -14,11 +14,11 @@ document: mei filename
 
 Example:
 ---
-  layout: mei
-  title: In Memoriam Zach Walker
-  author: Anderson, T.J.
-  permalink: /anderson-in-memoriam/
-  document: anderson_in_memoriam_zach_walker.mei
+layout: mei
+title: In Memoriam Zach Walker
+author: Anderson, T.J.
+permalink: /anderson-in-memoriam/
+document: anderson_in_memoriam_zach_walker.mei
 ---
 
 - In *In memoriam Zach Walker* New York: American Composers Alliance, 1968.
