@@ -118,7 +118,7 @@
                         <rend xml:id="rkqtl2q" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
                      <tempo xml:id="tmpby9y" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="29.000000" mm="58.000000" mm.unit="8">
-                        <rend xml:id="rf237jy" fontweight="bold">Adagio ciaccona </rend>(<rend xml:id="rwz3qk2" fontname="VerovioText"></rend> = 58)</tempo>
+                        <rend xml:id="rwz3qk2" fontname="VerovioText">Adagio ciaccona (</rend> = 58)</tempo>
                      <hairpin xml:id="hre4zr" staff="1" tstamp="2.500000" tstamp2="0m+3.5000" form="dim" place="below" vgrp="60" />
                      <dir xml:id="dlu3r95" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rpd235k" fontstyle="italic" fontweight="bold">pp</rend>

@@ -3,7 +3,7 @@ layout: post
 title: La fausse note, op. 39, Introduction
 author: Carreño, Teresa
 permalink: /carreno-39.1/
-image: carreno_fausse_note_intro-1.png
+image: carreno_fausse_note_op39_intro.png
 ---
 
 - In *Selected works: piano pieces and string quartet.* Women Composers Series; 15. New York: Da Capo Press, 1985.

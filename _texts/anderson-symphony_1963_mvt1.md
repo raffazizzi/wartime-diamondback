@@ -3,7 +3,7 @@ layout: mei
 title: Symphony in three movements, I. Allegro
 author: Anderson, T.J.
 permalink: /anderson-symphony-in-three-movements-I/
-document: mei filename
+document: anderson_symphony_in_three_movements_001.mei
 ---
 
 - In *Symphony in three movements: (1963).* New York, N.Y.: American Composers Alliance, 1966.

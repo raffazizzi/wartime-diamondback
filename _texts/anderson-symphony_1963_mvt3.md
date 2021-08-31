@@ -3,7 +3,7 @@ layout: mei
 title: Symphony in three movements, III. Vivace
 author: Anderson, T.J.
 permalink: /anderson-symphony-in-three-movements-III/
-document: mei filename
+document: anderson_symphony_in_three_movements_003.mei
 ---
 
 - In *Symphony in three movements: (1963).* New York, N.Y.: American Composers Alliance, 1966.
