@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sous les étoiles, Op. 65, #4</title>
+            <title>Sous les étoiles, op. 65, no. 4</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
             </respStmt>
@@ -28,7 +28,7 @@
             <score xml:id="sefzy6q">
                <scoreDef xml:id="sgav0pc">
                   <pgHead xml:id="pv9anfs">
-                     <rend xml:id="rknnj0z" halign="center" valign="top">Sous Les Étoiles, op. 65, no. 4</rend>
+                     <rend xml:id="rknnj0z" halign="center" valign="top">Sous les étoiles, op. 65, no. 4</rend>
                      <rend xml:id="r5sf45f" halign="right" valign="bottom">Amy Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="sixf079">
@@ -56,10 +56,10 @@
                      <staff xml:id="s1co7yp" n="1">
                         <layer xml:id="ldg6gv4" n="1">
                            <note xml:id="ndx2etd" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" accid.ges="f">
-                              <artic xml:id="a7yrlcz" artic="ten" />
+                              <artic xml:id="a7yrlcz" artic="ten" place="below" />
                            </note>
                            <note xml:id="n8dkqe3" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" accid.ges="f">
-                              <artic xml:id="ac0e296" artic="ten" />
+                              <artic xml:id="ac0e296" artic="ten" place="below" />
                            </note>
                            <beam xml:id="bofu8my">
                               <note xml:id="nmvi9ub" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="down" accid.ges="f" />
@@ -91,7 +91,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="da53l1q" place="below" staff="1" tstamp="1.000000" val="33" vgrp="40">pp</dynam>
-                     <dynam xml:id="doc2btm" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">[ p]</dynam>
+                     <dynam xml:id="doc2btm" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40"></dynam>
                      <dir xml:id="de5916u" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rf3lp7f" fontstyle="italic">legatissimo</rend>
                         <lb xml:id="ltm78mg" />     sopra</dir>
@@ -103,17 +103,17 @@
                      </dir>
                      <pedal xml:id="pq7hp4m" staff="2" tstamp="1.500000" dir="down" form="line" place="below" vgrp="87" />
                      <pedal xml:id="p6aiiha" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
-                     <slur xml:id="sikhpf5" startid="#nvqb579" endid="#nnpswmk" curvedir="above" />
+                     <slur xml:id="sikhpf5" startid="#nvqb579" endid="#nnpswmk" curvedir="below" />
                      <slur xml:id="sab8cud" startid="#nvqb579" endid="#nar6nsy" curvedir="above" />
                   </measure>
                   <measure xml:id="mnwg4vb" n="2">
                      <staff xml:id="snec2hd" n="1">
                         <layer xml:id="lwqk497" n="1">
                            <note xml:id="nj6sn2q" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" accid.ges="f">
-                              <artic xml:id="a7u4ulz" artic="ten" />
+                              <artic xml:id="a7u4ulz" artic="ten" place="below"/>
                            </note>
                            <note xml:id="nw7vtlk" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" accid.ges="f">
-                              <artic xml:id="ar7a435" artic="ten" />
+                              <artic xml:id="ar7a435" artic="ten" place="below"/>
                            </note>
                            <beam xml:id="ba1e1mt">
                               <note xml:id="noagrx" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="down" accid.ges="f" />
@@ -146,8 +146,8 @@
                      </staff>
                      <pedal xml:id="par1fnu" staff="2" tstamp="1.500000" dir="down" form="line" place="below" vgrp="69" />
                      <pedal xml:id="pwszpj5" staff="2" tstamp="2.400000" dir="up" form="line" place="below" vgrp="200" />
-                     <slur xml:id="ssug1ga" startid="#nb5vf7e" endid="#nyxddx1" curvedir="above" />
-                     <slur xml:id="sm8mamw" startid="#nb5vf7e" endid="#nyxddx1" curvedir="above" />
+                     <slur xml:id="ssug1ga" startid="#nb5vf7e" endid="#nlxyzjn" curvedir="above" />
+                     <slur xml:id="sm8mamw" startid="#nb5vf7e" endid="#nyxddx1" curvedir="below" />
                   </measure>
                   <measure xml:id="mok83uv" n="3">
                      <staff xml:id="s2oo7tb" n="1">
@@ -193,11 +193,11 @@
                            </beam>
                         </layer>
                      </staff>
-                     <slur xml:id="svo69kg" startid="#nx2yiyz" endid="#njdv1hx" curvedir="above" />
+                     <slur xml:id="svo69kg" startid="#nx2yiyz" endid="#n6nrbrk" curvedir="above" />
                      <pedal xml:id="p5enxxy" staff="2" tstamp="1.500000" dir="down" form="line" place="below" vgrp="69" />
                      <pedal xml:id="pgby0ax" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
                      <slur xml:id="sfi109x" startid="#nvhmu9j" endid="#nb8n18v" curvedir="above" />
-                     <slur xml:id="shol0ap" startid="#n6adpsi" endid="#nt50l5r" curvedir="above" />
+                     <slur xml:id="shol0ap" startid="#n6adpsi" endid="#nxk97qz" curvedir="above" />
                   </measure>
                   <sb xml:id="sg6j2jl" />
                   <measure xml:id="msfht6e" right="end" n="4">
@@ -253,10 +253,10 @@
                            <note xml:id="nh3x3yi" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="down" accid.ges="f" />
                         </layer>
                      </staff>
-                     <slur xml:id="sa5988k" startid="#nv89c84" endid="#n8yn81j" curvedir="above" />
+                     <slur xml:id="sa5988k" startid="#nv89c84" endid="#n912n6m" curvedir="above" />
                      <pedal xml:id="pbhrrz3" staff="2" tstamp="1.500000" dir="down" form="line" place="below" vgrp="69" />
                      <pedal xml:id="pkoa7ql" staff="2" tstamp="2.400000" dir="up" form="line" place="below" vgrp="200" />
-                     <slur xml:id="s2u9xhf" startid="#ni4aya3" endid="#nxikfuf" curvedir="above" />
+                     <slur xml:id="s2u9xhf" startid="#ni4aya3" endid="#nxikfuf" curvedir="below" />
                      <slur xml:id="sktg1pl" startid="#ni4aya3" endid="#nh3x3yi" curvedir="above" />
                   </measure>
                </section>
