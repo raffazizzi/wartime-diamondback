@@ -20,13 +20,6 @@
             <identifier>
             <ref target="https://rebalancing-music-canon.com/"/>
             </identifier>
-         <publisher>Rebalancing the Music Canon</publisher>
-            <availability>
-               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
-            </availability>
-            <identifier>
-            <ref target="https://rebalancing-music-canon.com/"/>
-            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000001220288579">
@@ -44,7 +37,7 @@
             <score xml:id="score-0000001677650388">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001752854348">
-                     <rend xml:id="rend-0000002019002871" halign="center" valign="top">Rosernes Sang</rend>
+                     <rend xml:id="rend-0000002019002871" halign="center" valign="top">Fantasistykker, op. 39, no. 4 - Rosernes Sang</rend>
                      <rend xml:id="rend-0000001957105033" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001785924688">

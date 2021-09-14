@@ -20,13 +20,6 @@
             <identifier>
             <ref target="https://rebalancing-music-canon.com/"/>
             </identifier>
-         <publisher>Rebalancing the Music Canon</publisher>
-            <availability>
-               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
-            </availability>
-            <identifier>
-            <ref target="https://rebalancing-music-canon.com/"/>
-            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000223423805">
@@ -44,9 +37,8 @@
             <score xml:id="score-0000000305616487">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000087942640">
-                     <rend xml:id="rend-0000001765533417" halign="center" valign="top">Etude de Concert</rend>
-                     <rend xml:id="rend-0000001004431761" halign="center" valign="top">Op. 32, Nr. 3</rend>
-                     <rend xml:id="rend-0000000412658134" halign="right" valign="top">Agathe Backer-Grøndahl, Op. 32, Nr. 3</rend>
+                     <rend xml:id="rend-0000001765533417" halign="center" valign="top">Etude de Concert, op. 32, no. 3</rend>
+                     <rend xml:id="rend-0000000412658134" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000229027525">
                      <staffGrp xml:id="P1" bar.thru="true">

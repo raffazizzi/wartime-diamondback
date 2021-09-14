@@ -20,13 +20,6 @@
             <identifier>
             <ref target="https://rebalancing-music-canon.com/"/>
             </identifier>
-         <publisher>Rebalancing the Music Canon</publisher>
-            <availability>
-               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
-            </availability>
-            <identifier>
-            <ref target="https://rebalancing-music-canon.com/"/>
-            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000001366229400">
@@ -45,7 +38,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000002125143537">
                      <rend xml:id="rend-0000001549907388" halign="right" valign="bottom">Agathe Backer-Grøndahl</rend>
-                     <rend xml:id="rend-0000001055422082" halign="center" valign="top">Fantasistykker Op. 39, No. 1 - Souvenir</rend>
+                     <rend xml:id="rend-0000001055422082" halign="center" valign="top">Fantasistykker, op. 39, no. 1 - Souvenir</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000794391702">
                      <staffGrp xml:id="P1" bar.thru="true">

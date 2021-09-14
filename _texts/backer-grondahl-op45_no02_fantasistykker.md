@@ -3,7 +3,7 @@ layout: mei
 title: Fantasistykker, op. 45, no. 2 - Zephyr
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-45.2/
-document: backer-grondahl_fantasistykker_op45_no2_zephyr.mei
+document: backer-grondahl_fantasistykker_op45_no2.mei
 ---
 
 - In *Piano music*, edited by Charles Slater. Women Composers Series; 9. New York: Da Capo Press, 1982.

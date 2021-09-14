@@ -21,13 +21,6 @@
             <identifier>
             <ref target="https://rebalancing-music-canon.com/"/>
             </identifier>
-         <publisher>Rebalancing the Music Canon</publisher>
-            <availability>
-               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
-            </availability>
-            <identifier>
-            <ref target="https://rebalancing-music-canon.com/"/>
-            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000650322178">
@@ -45,8 +38,8 @@
             <score xml:id="score-0000001157444545">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001647915098">
-                     <rend xml:id="rend-0000000164698393" halign="right" valign="top">Agathe Backer-Grøndahl, Op. 20, No. 1</rend>
-                     <rend xml:id="rend-0000002135560372" halign="center" valign="top">Prélude</rend>
+                     <rend xml:id="rend-0000000164698393" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
+                     <rend xml:id="rend-0000002135560372" halign="center" valign="top">Prélude, op. 20, no. 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001629621944">
                      <staffGrp xml:id="P1" bar.thru="true">
