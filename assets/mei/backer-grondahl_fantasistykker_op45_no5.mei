@@ -10,12 +10,12 @@
                <persName role="composer">Agathe Backer-Grondahl</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2021-08-30" type="encoding-date">2021-08-30</date>
+         <pubStmt><date isodate="2021-09-14" type="encoding-date">2021-09-14</date>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-ute8n2">
          <appInfo xml:id="appinfo-y7hcdu">
-            <application xml:id="application-vveh2s" isodate="2021-08-30T12:27:02" version="3.7.0-dev-81840cf">
+            <application xml:id="application-vveh2s" isodate="2021-09-14T13:22:29" version="3.7.0-dev-8bd7805">
                <name xml:id="name-gz09uc">Verovio</name>
                <p xml:id="p-k6j0oz">Transcoded from MusicXML</p>
             </application>
@@ -23,7 +23,7 @@
       </encodingDesc>
    </meiHead>
    <music>
-      <body xml:id="pwszpj5">
+      <body>
          <mdiv xml:id="mq495fb">
             <score xml:id="s65wdse">
                <scoreDef xml:id="sm5kuup">
