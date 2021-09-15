@@ -7,7 +7,7 @@
          <titleStmt>
          <!--Verify the title of the work and corresponding opus and number if available-->
             <title>Ballade</title>
-            <title type="subordinate">Op. 36, No. 5</title>
+            <title type="subordinate">op. 36, no. 5</title>
             <respStmt> 
             <!--Verify the name of the composer-->
                <persName role="composer">Agathe Backer-Grøndahl</persName>
@@ -51,7 +51,7 @@
                      <rend xml:id="rend-0000001173181325" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
          <!--Verify the title of the work and corresponding opus and number if available-->
                      <rend xml:id="rend-0000001835101377" halign="center" valign="top">Ballade</rend>
-                     <rend xml:id="rend-0000000650322178" halign="center" valign="top">Op. 36, No. 5</rend>
+                     <rend xml:id="rend-0000000650322178" halign="center" valign="top">op. 36, no. 5</rend>
                   </pgHead>
                   </scoreDef>
                 <!--encoded incipit will go in here; this is exported from MuseScore-->            
