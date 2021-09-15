@@ -18,10 +18,10 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-         <!--add the publisher info-->
-            <publisher>Rebalancing the Music Canon</publisher>
          <!--The date is automatically generated when file is exported from MuseScore-->
             <date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
+            <!--add the publisher info-->
+            <publisher>Rebalancing the Music Canon</publisher>
             <!--add the info about how the incipits can be used-->
             <availability>
                <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
