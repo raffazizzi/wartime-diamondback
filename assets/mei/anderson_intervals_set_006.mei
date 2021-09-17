@@ -72,9 +72,7 @@
                      <tempo xml:id="trtgwkn" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="r57boni" fontname="VerovioText"></rend> = c. 54</tempo>
                      <dir xml:id="dnsp34m" place="below" staff="1" tstamp="5.000000" vgrp="40">
-                        <rend xml:id="rh5es23" fontstyle="italic" fontweight="bold">p</rend>
-                        <lb xml:id="la18urg" />
-                        <rend xml:id="r727l2b" fontweight="normal">; sempre grave</rend>
+                        <rend xml:id="r727l2b" fontweight="normal">p; sempre grave</rend>
                      </dir>
                      <slur xml:id="smfv22u" startid="#n6jnkhu" endid="#n4y5pn8" curvedir="below" />
                      <slur xml:id="szat3dg" startid="#n4y5pn8" curvedir="below" />
