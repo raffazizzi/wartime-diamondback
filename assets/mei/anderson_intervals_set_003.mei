@@ -8,9 +8,18 @@
             <title>Intervals</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-09-17" type="encoding-date">2021-09-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+         <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-z5978x">
@@ -70,10 +79,8 @@
                      <dir xml:id="dbdu2k1" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="ro2kvf1" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
-                     <tempo xml:id="tg3oa0a" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rwkbjkv" fontweight="bold">Allegro (</rend>
-                        <rend xml:id="rs0u153" fontweight="bold">c. 80 to 120)</rend>
-                        <rend xml:id="roe9eny" fontname="VerovioText"></rend> = </tempo>
+                     <tempo xml:id="tg3oa0a" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
+                        <rend xml:id="roe9eny" fontname="VerovioText">Allegro (</rend> = c. 80 to 120)</tempo>
                   </measure>
                   <measure xml:id="manlrp8" n="2">
                      <staff xml:id="slx27el" n="1">
