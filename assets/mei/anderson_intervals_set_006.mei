@@ -8,9 +8,18 @@
             <title>Intervals</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-09-17" type="encoding-date">2021-09-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+         <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-p2rlie">
@@ -44,7 +53,7 @@
                               <instrDef xml:id="is0u153" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
                               <clef xml:id="c1j5ag9" shape="G" line="2" />
                               <keySig xml:id="kqx7mbn" sig="0" />
-                              <meterSig xml:id="mlsyadl" count="6" unit="4" />
+                              <meterSig xml:id="mlsyadl" count="0" unit="0" />
                            </staffDef>
                         </staffGrp>
                      </staffGrp>
@@ -61,8 +70,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="trtgwkn" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="roze494" fontweight="bold">c. 54</rend>
-                        <rend xml:id="r57boni" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="r57boni" fontname="VerovioText"></rend> = c. 54</tempo>
                      <dir xml:id="dnsp34m" place="below" staff="1" tstamp="5.000000" vgrp="40">
                         <rend xml:id="rh5es23" fontstyle="italic" fontweight="bold">p</rend>
                         <lb xml:id="la18urg" />
