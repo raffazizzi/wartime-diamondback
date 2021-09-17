@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Intervals</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-09-17" type="encoding-date">2021-09-17</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-p2rlie">
+         <appInfo xml:id="appinfo-f8adfb">
+            <application xml:id="application-4g2kf5" isodate="2021-09-17T14:19:56" version="3.7.0-dev-cd4c731">
+               <name xml:id="name-8rpeeq">Verovio</name>
+               <p xml:id="p-3knzp5">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mflbxlm">
+            <score xml:id="symcl9f">
+               <scoreDef xml:id="sxiubwv">
+                  <pgHead xml:id="pj3w6gx">
+                     <rend xml:id="rgamqem" halign="center" valign="top">Intervals</rend>
+                     <rend xml:id="rf7rmp" halign="center" valign="top">Set VI</rend>
+                     <rend xml:id="rdifjf0" halign="right" valign="bottom">T. J. Anderson</rend>
+                     <rend xml:id="rxbexho" halign="left" valign="top">Horn in F 1</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s3zc7o6">
+                     <staffGrp xml:id="szd7413">
+                        <grpSym xml:id="gbdu2k1" symbol="bracket" />
+                        <staffGrp xml:id="so2kvf1">
+                           <grpSym xml:id="g1sfzew" symbol="bracketsq" />
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-4.000000" trans.semi="-7.000000">
+                              <label xml:id="lg3oa0a">Horn in F 1</label>
+                              <labelAbbr xml:id="l54d0lg">F Hn. 1</labelAbbr>
+                              <instrDef xml:id="is0u153" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
+                              <clef xml:id="c1j5ag9" shape="G" line="2" />
+                              <keySig xml:id="kqx7mbn" sig="0" />
+                              <meterSig xml:id="mlsyadl" count="6" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s9j19og">
+                  <measure xml:id="meyfprj" right="dashed" n="1">
+                     <staff xml:id="swn6uw" n="1">
+                        <layer xml:id="l7mbgx3" n="1">
+                           <space xml:id="smf8q7b" dur.ppq="8" dur="1" />
+                           <note xml:id="n6jnkhu" dur.ppq="8" dur="1" oct="4" pname="a" />
+                           <note xml:id="n4y5pn8" dur.ppq="16" dur="breve" oct="4" pname="a" />
+                           <rest xml:id="ri98u6e" dur.ppq="1" dur="8" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="trtgwkn" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
+                        <rend xml:id="roze494" fontweight="bold">c. 54</rend>
+                        <rend xml:id="r57boni" fontname="VerovioText"></rend> = </tempo>
+                     <dir xml:id="dnsp34m" place="below" staff="1" tstamp="5.000000" vgrp="40">
+                        <rend xml:id="rh5es23" fontstyle="italic" fontweight="bold">p</rend>
+                        <lb xml:id="la18urg" />
+                        <rend xml:id="r727l2b" fontweight="normal">; sempre grave</rend>
+                     </dir>
+                     <slur xml:id="smfv22u" startid="#n6jnkhu" endid="#n4y5pn8" curvedir="below" />
+                     <slur xml:id="szat3dg" startid="#n4y5pn8" curvedir="below" />
+                  </measure>
+                  <measure xml:id="mbnqen1" right="dashed" n="2">
+                     <staff xml:id="sz02ria" n="1">
+                        <layer xml:id="lk28tzo" n="1">
+                           <note xml:id="nm1jp6n" dur.ppq="16" dur="breve" oct="4" pname="g" />
+                           <note xml:id="nmd0bb3" dur.ppq="16" dur="breve" oct="4" pname="g" />
+                           <rest xml:id="ri8zyi0" dur.ppq="1" dur="8" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="sk1tkft" startid="#nm1jp6n" endid="#nmd0bb3" curvedir="below" />
+                     <slur xml:id="ssbh1lm" startid="#nmd0bb3" curvedir="below" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
