@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Intervals</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-09-17" type="encoding-date">2021-09-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+         <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-e622i2">
+         <appInfo xml:id="appinfo-pyxdqv">
+            <application xml:id="application-7oicqb" isodate="2021-09-17T13:55:29" version="3.7.0-dev-cd4c731">
+               <name xml:id="name-2gu2ua">Verovio</name>
+               <p xml:id="p-9c0vtn">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mgb6hj2">
+            <score xml:id="swxm1us">
+               <scoreDef xml:id="sb632ud">
+                  <pgHead xml:id="pmy7zre">
+                     <rend xml:id="rkgv5yz" halign="center" valign="top">Intervals</rend>
+                     <rend xml:id="rbmbyem" halign="center" valign="top">Set II</rend>
+                     <rend xml:id="r4uall6" halign="right" valign="bottom">T. J. Anderson</rend>
+                     <rend xml:id="ra0ptqs" halign="left" valign="top">Tenor Drum</rend>
+                  </pgHead>
+                  <staffGrp xml:id="ssurc03">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l8jn5p5">Tenor Drum</label>
+                        <labelAbbr xml:id="lcw755">T.D.</labelAbbr>
+                        <instrDef xml:id="ifp6kak" midi.channel="3" midi.instrnum="70" midi.volume="78.00%" />
+                        <clef xml:id="cfu03nk" shape="F" line="4" />
+                        <keySig xml:id="kmjj56g" sig="0" />
+                        <meterSig xml:id="muuvzy5" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sgbdou0">
+                  <measure xml:id="mgs0g81" n="1">
+                     <staff xml:id="sone6t2" n="1">
+                        <layer xml:id="lmdpupi" n="1">
+                           <note xml:id="n5sne4q" dur.ppq="1" dur="8" oct="3" pname="d" stem.dir="down" />
+                           <space xml:id="snz8mc2" dur.ppq="1" dur="8" />
+                           <space xml:id="s8j0wpc" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="td1iyer" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
+                        <rend xml:id="rsup4f7" fontname="VerovioText"></rend> = c. 96</tempo>
+                     <dir xml:id="d28dovh" place="below" staff="1" tstamp="1.000000" vgrp="49">
+                        <rend xml:id="rhirmrw" fontstyle="italic" fontweight="bold">f</rend>
+                        <lb xml:id="le56ina" />
+                        <rend xml:id="riwoupr" fontweight="normal">; sempre</rend>
+                     </dir>
+                     <dir xml:id="dwnqfji" place="above" staff="1" tstamp="1.000000" vgrp="200">hard stick</dir>
+                  </measure>
+                  <measure xml:id="myyf6lo" n="2">
+                     <staff xml:id="sqtqsy6" n="1">
+                        <layer xml:id="ldotesn" n="1">
+                           <note xml:id="ng3cg1r" dur.ppq="1" dur="8" oct="3" pname="d" stem.dir="down" />
+                           <space xml:id="sj64iu8" dur.ppq="1" dur="8" />
+                           <space xml:id="scr65e8" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mojq673" n="3">
+                     <staff xml:id="smqw29g" n="1">
+                        <layer xml:id="lr0970w" n="1">
+                           <note xml:id="nesjqa9" dur.ppq="1" dur="8" oct="3" pname="d" stem.dir="down" />
+                           <space xml:id="s8fuaed" dur.ppq="1" dur="8" />
+                           <space xml:id="sxsaeea" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mvr1ubq" n="4">
+                     <staff xml:id="smrkgzn" n="1">
+                        <layer xml:id="l9qlxlx" n="1">
+                           <note xml:id="nkn12tu" dur.ppq="1" dur="8" oct="3" pname="d" stem.dir="down" />
+                           <space xml:id="sjz6tiv" dur.ppq="1" dur="8" />
+                           <space xml:id="sllfvge" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="ms3ak7p" n="5">
+                     <staff xml:id="s5vpnjp" n="1">
+                        <layer xml:id="ly7mpl8" n="1">
+                           <note xml:id="nop7v3e" dur.ppq="1" dur="8" oct="3" pname="d" stem.dir="down" />
+                           <space xml:id="scmc6vt" dur.ppq="1" dur="8" />
+                           <space xml:id="s3b7ofo" dur.ppq="2" dur="4" />
+                           <space xml:id="sckkob1" dur.ppq="1" dur="8" />
+                           <note xml:id="nb59pm6" dur.ppq="1" dur="8" oct="3" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

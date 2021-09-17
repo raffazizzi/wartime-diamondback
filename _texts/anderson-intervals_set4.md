@@ -3,7 +3,7 @@ layout: mei
 title: Intervals, set IV
 author: Anderson, T.J.
 permalink: /anderson-intervals-IV/
-document: mei filename
+document: anderson_intervals_set_004.mei
 ---
 
 - In *Intervals.* New York, N.Y.: American Composers Alliance, 1972.

@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Intervals, set VII
 author: Anderson, T.J.
 permalink: /anderson-intervals-VII/
-document: mei filename
+image: anderson-intervals-set-007.png
 ---
 
 - In *Intervals.* New York, N.Y.: American Composers Alliance, 1972.

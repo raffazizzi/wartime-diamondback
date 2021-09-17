@@ -3,7 +3,7 @@ layout: mei
 title: Intervals, set VI
 author: Anderson, T.J.
 permalink: /anderson-intervals-VI/
-document: mei filename
+document: anderson_intervals_set_006.mei
 ---
 
 - In *Intervals.* New York, N.Y.: American Composers Alliance, 1972.

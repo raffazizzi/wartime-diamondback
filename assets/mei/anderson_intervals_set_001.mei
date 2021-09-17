@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Intervals</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-09-17" type="encoding-date">2021-09-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+         <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-x0b6pt">
+         <appInfo xml:id="appinfo-j541xd">
+            <application xml:id="application-772a1x" isodate="2021-09-17T13:37:40" version="3.7.0-dev-cd4c731">
+               <name xml:id="name-xmoklo">Verovio</name>
+               <p xml:id="p-2q223d">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mfvjlpy">
+            <score xml:id="sr94jfe">
+               <scoreDef xml:id="szbggxg">
+                  <pgHead xml:id="pj6sn2q">
+                     <rend xml:id="rqy8gc8" halign="center" valign="top">Intervals</rend>
+                     <rend xml:id="r84jlss" halign="center" valign="top">Set I</rend>
+                     <rend xml:id="rw7vtlk" halign="right" valign="bottom">T. J. Anderson</rend>
+                     <rend xml:id="rr7a435" halign="left" valign="top">Violin 1</rend>
+                  </pgHead>
+                  <staffGrp xml:id="soagrx">
+                     <staffGrp xml:id="sncucui">
+                        <grpSym xml:id="gmffk35" symbol="bracket" />
+                        <staffGrp xml:id="s757o8u">
+                           <grpSym xml:id="gmt1og2" symbol="bracketsq" />
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                              <label xml:id="lged93l">Violin 1</label>
+                              <labelAbbr xml:id="lh5ean1">Vln. 1</labelAbbr>
+                              <instrDef xml:id="i7v01ox" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                              <clef xml:id="cjwa5ea" shape="G" line="2" />
+                              <keySig xml:id="krrzpp1" sig="0" />
+                              <meterSig xml:id="mwszpj5" count="3" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="snec2hd">
+                  <measure xml:id="mrr3smn" n="1">
+                     <staff xml:id="st95n2j" n="1">
+                        <layer xml:id="lr64jom" n="1">
+                           <chord xml:id="cj0vzy" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nqy6uvi" oct="6" pname="f">
+                                 <accid xml:id="aexqecp" accid="s" accid.ges="s" />
+                              </note>
+                              <note xml:id="nxyr5i8" oct="6" pname="b">
+                                 <accid xml:id="ae0n5zi" accid="f" accid.ges="f" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tnsl8jx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
+                        <rend xml:id="rwnnfu4" fontname="VerovioText">(</rend> = c. 60</tempo>
+                     <dir xml:id="dok83uv" place="above" staff="1" tstamp="1.000000" vgrp="254">div.</dir>
+                     <tie xml:id="tmvqywc" startid="#nqy6uvi" endid="#nvo69kg" />
+                     <tie xml:id="t2oo7tb" startid="#nxyr5i8" endid="#njdv1hx" />
+                  </measure>
+                  <measure xml:id="m2mwiwy" n="2">
+                     <staff xml:id="sfl5owf" n="1">
+                        <layer xml:id="l72yk84" n="1">
+                           <chord xml:id="c3bxw9t" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nvo69kg" oct="6" pname="f" accid.ges="s" />
+                              <note xml:id="njdv1hx" oct="6" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m6nrbrk" n="3">
+                     <staff xml:id="szfazwf" n="1">
+                        <layer xml:id="li939pi" n="1">
+                           <chord xml:id="cgby0ax" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nb8n18v" oct="6" pname="f" accid.ges="s" />
+                              <note xml:id="n185ca5" oct="6" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="myp9tll" n="4">
+                     <staff xml:id="sjjjtxk" n="1">
+                        <layer xml:id="lkc3xkl" n="1">
+                           <chord xml:id="ce5zabt" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="naioglq" oct="6" pname="f" accid.ges="s" />
+                              <note xml:id="n6adpsi" oct="6" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mt50l5r" n="5">
+                     <staff xml:id="s737ln7" n="1">
+                        <layer xml:id="lcjp3ro" n="1">
+                           <chord xml:id="cs8k04k" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nrmepk0" oct="6" pname="f" accid.ges="s" />
+                              <note xml:id="n9wm8ax" oct="6" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
