@@ -147,7 +147,8 @@
                         <lb xml:id="lskfde2" />
                      </dir>
                      <tempo xml:id="twudsl7" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="168.000000" mm="84.000000" mm.unit="2">
-                        <rend xml:id="rcvdj7r" fontweight="bold">Allegro </rend>(<rend xml:id="roraqsa" fontname="VerovioText"></rend> = 84)</tempo>
+                        <rend xml:id="rcvdj7r" fontweight="bold">Allegro </rend>
+                        <rend xml:id="roraqsa" fontname="VerovioText">(</rend> = 84)</tempo>
                      <dir xml:id="dduno2" place="below" staff="3" tstamp="1.000000" vgrp="40">
                         <rend xml:id="r9jj5k6" fontstyle="italic" fontweight="bold">f; robusto</rend>
                         <lb xml:id="lvqb579" />
