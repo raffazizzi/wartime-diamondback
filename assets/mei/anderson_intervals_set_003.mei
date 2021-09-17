@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Intervals</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-09-17" type="encoding-date">2021-09-17</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-z5978x">
+         <appInfo xml:id="appinfo-hgdcw2">
+            <application xml:id="application-b2pxt7" isodate="2021-09-17T14:04:41" version="3.7.0-dev-cd4c731">
+               <name xml:id="name-d4ykk6">Verovio</name>
+               <p xml:id="p-c17gsi">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mkb3vms">
+            <score xml:id="sbef6d">
+               <scoreDef xml:id="spisyjw">
+                  <pgHead xml:id="p3pd0i8">
+                     <rend xml:id="rxpx5p2" halign="center" valign="top">Intervals</rend>
+                     <rend xml:id="riqdqep" halign="center" valign="top">Set III</rend>
+                     <rend xml:id="rnajo7l" halign="right" valign="bottom">T. J. Anderson</rend>
+                     <rend xml:id="rgrwnwj" halign="left" valign="top">English Horn</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sc3wqsx">
+                     <staffGrp xml:id="saqe7wp">
+                        <grpSym xml:id="g9gqsdz" symbol="bracket" />
+                        <staffDef xml:id="P1" n="1" lines="5" ppq="4" trans.diat="-4.000000" trans.semi="-7.000000">
+                           <label xml:id="l71ooi0">English Horn</label>
+                           <labelAbbr xml:id="l97rvhe">E. Hn.</labelAbbr>
+                           <instrDef xml:id="i7tx5l3" midi.channel="0" midi.instrnum="69" midi.volume="78.00%" />
+                           <clef xml:id="cxiubwv" shape="G" line="2" />
+                           <keySig xml:id="k9j19og" sig="0" />
+                           <meterSig xml:id="mgamqem" count="4" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sqff3x2">
+                  <measure xml:id="m67pha3" left="rptstart" n="1">
+                     <staff xml:id="szd7413" n="1">
+                        <layer xml:id="lq3on2f" n="1">
+                           <rest xml:id="rac94ot" dur.ppq="2" dur="8" />
+                           <note xml:id="njfxt4x" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
+                           <beam xml:id="b1j5ag9">
+                              <note xml:id="nqx7mbn" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="nlsyadl" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="beyfprj">
+                              <note xml:id="n72lqf9" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="npswil5" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="bhef2ou">
+                              <note xml:id="nkntog3" dots="1" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="npjfkyy" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dbdu2k1" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="ro2kvf1" fontstyle="italic" fontweight="bold">f</rend>
+                     </dir>
+                     <tempo xml:id="tg3oa0a" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
+                        <rend xml:id="rwkbjkv" fontweight="bold">Allegro (</rend>
+                        <rend xml:id="rs0u153" fontweight="bold">c. 80 to 120)</rend>
+                        <rend xml:id="roe9eny" fontname="VerovioText"></rend> = </tempo>
+                  </measure>
+                  <measure xml:id="manlrp8" n="2">
+                     <staff xml:id="slx27el" n="1">
+                        <layer xml:id="l7mbgx3" n="1">
+                           <beam xml:id="bmf8q7b">
+                              <note xml:id="nnsp34m" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up" />
+                              <note xml:id="nh5es23" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="be0tyio">
+                              <note xml:id="na18urg" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="n727l2b" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up" />
+                           </beam>
+                           <note xml:id="nb0trsr" dots="1" dur.ppq="6" dur="4" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="n6jnkhu" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mmfv22u" right="rptend" n="3">
+                     <staff xml:id="srqns4r" n="1">
+                        <layer xml:id="l2aw87h" n="1">
+                           <note xml:id="nx2a682" dur.ppq="16" dur="1" oct="4" pname="c" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
