@@ -5,8 +5,12 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>op. 45, no. 4</title>
-            <respStmt />
+            <title>Fantasistykker, op. 45, no. 4 - Gyngende</title>
+            <respStmt>
+               <persName role="composer">Agathe Backer-Grøndahl</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
+            </respStmt>
          </titleStmt>
          <pubStmt>
             <date isodate="2021-09-21" type="encoding-date">2021-09-21</date>
@@ -163,7 +167,7 @@
                            <space xml:id="s5ywxcy" dur.ppq="4" dur="2" />
                         </layer>
                      </staff>
-                     <slur xml:id="sb1cgoy" startid="#n4p9ev2" curvedir="above" />
+                     <slur xml:id="sb1cgoy" startid="#n4p9ev2" endid="#nq8mav7" curvedir="above" />
                   </measure>
                </section>
             </score>
