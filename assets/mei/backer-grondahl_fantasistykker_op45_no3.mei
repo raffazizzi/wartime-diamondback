@@ -12,8 +12,16 @@
                <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2021-09-21" type="encoding-date">2021-09-21</date>
-         </pubStmt>
+         <pubStmt>
+               <publisher>Rebalancing the Music Canon</publisher>
+            <date isodate="2021-09-21" type="encoding-date">2021-09-21</date>
+            <availability>
+       <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+    </availability>
+    <identifier>
+    <ref target="https://rebalancing-music-canon.com/"/>
+    </identifier>
+      </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-856mdm">
          <appInfo xml:id="appinfo-guwnwy">
@@ -68,6 +76,8 @@
                            <space xml:id="s8o9kpt" dur.ppq="2" dur="8" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="1">
+                     <rend fontname="VerovioText">Andantino semplice M.M.  = 100</rend></tempo>
                      <dir xml:id="do0ln1t" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rykv9jt" rend="box" fontstyle="italic" fontweight="bold">mp</rend>
                         <lb xml:id="lc5riin" />
