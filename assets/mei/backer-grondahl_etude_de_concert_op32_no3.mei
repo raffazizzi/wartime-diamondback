@@ -158,11 +158,7 @@
                      <tempo xml:id="tempo-0000001739154224" place="above" staff="1" tstamp="2.750000" midi.bpm="152" mm="152.000000" mm.unit="4">
                         <rend xml:id="rend-0000001600788766" rend="none" fontweight="bold"> .  M.M.</rend>
                         <rend xml:id="rend-0000000929826770" fontname="VerovioText"></rend> = 152</tempo>
-                     <pedal xml:id="pedal-0000001413286695" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="119" />
-                     <pedal dir="down" staff="2" tstamp="0" />
-                     <pedal xml:id="pedal-0000001230989989" staff="2" tstamp="1.000000" dir="down" form="line" place="above" vgrp="481" />
-                     <pedal xml:id="pedal-0000001007556116" staff="2" tstamp="1.400000" dir="up" form="line" place="below" vgrp="200" />
-                     <pedal xml:id="pedal-0000000341198141" staff="2" tstamp="1.400000" dir="up" form="line" place="above" vgrp="200" />
+                     <pedal dir="down" staff="2" tstamp="1" />
                      <dir xml:id="dir-0000002074727790" place="below" staff="2" tstamp="1.500000" vgrp="40">
                         <rend xml:id="rend-0000002006931239" rend="none" fontstyle="italic">staccatiss.</rend>
                      </dir>
