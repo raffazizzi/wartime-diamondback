@@ -131,7 +131,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <pedal dir="up" staff="2" tstamp="2.9" />
+                     <pedal dir="up" staff="2" tstamp="2.5" />
                   </measure>
                   <measure xml:id="measure-0000001790808424" n="3">
                      <staff xml:id="staff-0000000506531739" n="1">
@@ -165,7 +165,7 @@
                         <rend xml:id="rend-0000000603994278" rend="none" fontstyle="italic">sempre</rend>
                      </dir>
                      <pedal dir="down" staff="2" tstamp="1" />
-                     <pedal dir="up" staff="2" tstamp="2.9" />
+                     <pedal dir="up" staff="2" tstamp="2.5" />
                   </measure>
                   <measure xml:id="measure-0000001434061100" n="4">
                      <staff xml:id="staff-0000001334735816" n="1">
@@ -199,7 +199,7 @@
                      </staff>
                      <slur xml:id="slur-0000002033481804" startid="#note-0000001157444545" endid="#note-0000000428656723" curvedir="above" />
                      <pedal dir="down" staff="2" tstamp="1" />
-                     <pedal dir="up" staff="2" tstamp="2.9" />
+                     <pedal dir="up" staff="2" tstamp="2.5" />
                   </measure>
                   <measure xml:id="measure-0000000323894195" n="5">
                      <staff xml:id="staff-0000001364550821" n="1">
@@ -232,7 +232,7 @@
                         </layer>
                      </staff>
                      <pedal dir="down" staff="2" tstamp="1" />
-                     <pedal dir="up" staff="2" tstamp="2.9" />
+                     <pedal dir="up" staff="2" tstamp="2.5" />
                   </measure>
                   <measure xml:id="measure-0000002029406075" n="6">
                      <staff xml:id="staff-0000001657561493" n="1">
