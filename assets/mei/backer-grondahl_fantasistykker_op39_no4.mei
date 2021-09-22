@@ -275,7 +275,7 @@
                         <rend xml:id="rend-0000001322732797" rend="none" fontstyle="italic">con tenerezza</rend>
                      </dir>
                      <slur xml:id="slur-0000000380233170" startid="#note-0000000856570889" endid="#note-0000001707423140" curvedir="above" />
-                     <dir xml:id="dir-0000000182442621" place="below" staff="1" tstamp="1.500000" vgrp="53">
+                     <dir xml:id="dir-0000000182442621" place="below" staff="1" tstamp="2.00000" vgrp="53">
                         <rend xml:id="rend-0000000652726873" rend="none" fontstyle="italic">cantando</rend>
                      </dir>
                      <slur xml:id="slur-0000001242510141" startid="#note-0000000046828173" endid="#note-0000001055617445" curvedir="above" />
@@ -283,7 +283,7 @@
                      <pedal dir="down" staff="1" tstamp="0" />
                      <pedal xml:id="pedal-0000000613490420" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
                      <pedal xml:id="pedal-0000000541919863" staff="2" tstamp="3.000000" dir="down" form="line" place="below" vgrp="65" />
-                     <pedal dir="down" staff="2" tstamp="0" />
+                     <pedal dir="down" staff="2" tstamp="3" />
                      <pedal xml:id="pedal-0000001503896436" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                </section>
