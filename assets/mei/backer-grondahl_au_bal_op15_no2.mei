@@ -107,6 +107,7 @@
                      </dir>
                      <pedal xml:id="pedal-0000001459062282" staff="2" tstamp="1" dir="down" form="line" place="below" vgrp="65" />
                      <pedal dir="down" staff="2" tstamp="0" />
+                     <pedal dir="up" staff="2" tstamp="2.5" />
                   </measure>
                   <measure xml:id="measure-0000001500925129" right="dbl" n="2">
                      <staff xml:id="staff-0000000092983622" n="1">
