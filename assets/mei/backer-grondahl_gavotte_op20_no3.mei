@@ -170,6 +170,7 @@
                      <slur xml:id="slur-0000001256342327" startid="#note-0000002127149755" endid="#note-0000001586598019" curvedir="above" />
                      <fing xml:id="fing-0000000284294270" staff="1" startid="#note-0000001657324896">5</fing>
                      <pedal xml:id="pedal-0000001024844655" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="95" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <pedal xml:id="pedal-0000000160354580" staff="2" tstamp="1.400000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                   <measure xml:id="measure-0000001765533417" n="2">
@@ -252,6 +253,7 @@
                      <fing xml:id="fing-0000000685006002" staff="1" startid="#note-0000001033514165">4</fing>
                      <fing xml:id="fing-0000001084598727" staff="1" startid="#note-0000002001008546">5</fing>
                      <pedal xml:id="pedal-0000001970844301" staff="2" tstamp="3.000000" dir="down" form="line" place="below" vgrp="84" />
+                     <pedal dir="down" staff="2" tstamp="3" />
                      <pedal xml:id="pedal-0000001739154224" staff="2" tstamp="4.400000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                   <sb xml:id="sb-0000000374268505" />

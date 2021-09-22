@@ -129,6 +129,7 @@
                      <slur xml:id="slur-0000000182442621" startid="#note-0000000380233170" endid="#note-0000001523324952" curvedir="above" />
                      <slur xml:id="slur-0000001670224608" startid="#note-0000000200271843" endid="#note-0000001707423140" curvedir="above" />
                      <pedal xml:id="pedal-0000001314380456" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="83" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <tie xml:id="tie-0000000284569113" startid="#note-0000000475794726" endid="#note-0000001897381880" />
                      <tie xml:id="tie-0000000472579710" startid="#note-0000001824004375" endid="#note-0000001518209385" />
                      <slur xml:id="slur-0000001943988742" startid="#note-0000001897381880" endid="#note-0000000431533293" curvedir="above" />
@@ -288,6 +289,7 @@
                      <tie xml:id="tie-0000000912727500" startid="#note-0000000850084654" endid="#note-0000001834948503" />
                      <tie xml:id="tie-0000000172525003" startid="#note-0000001395184307" endid="#note-0000000292513456" />
                      <pedal xml:id="pedal-0000001572931092" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="83" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <tie xml:id="tie-0000001417638084" startid="#note-0000001356083345" endid="#note-0000000460432613" />
                      <tie xml:id="tie-0000000638566488" startid="#note-0000001887090569" endid="#note-0000001508764558" />
                      <pedal xml:id="pedal-0000001490320508" staff="2" tstamp="8.900000" dir="up" form="line" place="below" vgrp="200" />
@@ -348,6 +350,7 @@
                      <slur xml:id="slur-0000001185180611" startid="#note-0000000636483886" endid="#note-0000000667389058" curvedir="above" />
                      <slur xml:id="slur-0000000360974050" startid="#note-0000001322974198" endid="#note-0000002129722604" curvedir="above" />
                      <pedal xml:id="pedal-0000000351811673" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="89" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <slur xml:id="slur-0000001106487045" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="above" />
                      <slur xml:id="slur-0000002082691600" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="below" />
                      <slur xml:id="slur-0000000840408821" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="above" />
