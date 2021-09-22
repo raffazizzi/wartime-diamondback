@@ -101,7 +101,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000001045325538" place="above" staff="1" tstamp="1.000000" midi.bpm="72" mm="72.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001459062282" fontname="VerovioText"></rend> = 72</tempo>
+                        <rend xml:id="rend-0000001459062282" fontname="VerovioText">Andante </rend> = 72</tempo>
                      <dir xml:id="dir-0000000131937862" place="above" staff="1" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rend-0000000928859692" rend="none" fontstyle="italic">appassionato</rend>
                      </dir>
@@ -110,7 +110,6 @@
                      </dir>
                      <dynam xml:id="dynam-0000001474653644" place="below" staff="1" tstamp="1.000000" val="112" vgrp="40">sfz</dynam>
                      <pedal xml:id="pedal-0000000092983622" staff="1" tstamp="1.000000" dir="down" form="line" place="below" vgrp="84" />
-                     <pedal dir="down" staff="1" tstamp="0" />
                      <arpeg xml:id="arpeg-0000000621840684" plist="#chord-0000000515253288" />
                      <arpeg xml:id="arpeg-0000001209456266" plist="#chord-0000001906033793" />
                      <pedal xml:id="pedal-0000001383176531" staff="1" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
@@ -280,10 +279,8 @@
                      </dir>
                      <slur xml:id="slur-0000001242510141" startid="#note-0000000046828173" endid="#note-0000001055617445" curvedir="above" />
                      <pedal xml:id="pedal-0000001943988742" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="65" />
-                     <pedal dir="down" staff="2" tstamp="0" />
                      <pedal xml:id="pedal-0000000613490420" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
                      <pedal xml:id="pedal-0000000541919863" staff="2" tstamp="3.000000" dir="down" form="line" place="below" vgrp="65" />
-                     <pedal dir="down" staff="2" tstamp="3" />
                      <pedal xml:id="pedal-0000001503896436" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                </section>

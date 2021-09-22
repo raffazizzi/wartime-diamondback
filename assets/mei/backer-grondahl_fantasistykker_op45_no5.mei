@@ -87,8 +87,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t3myv66" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="94.000200" mm="96.000000" mm.unit="2" mm.dots="1">
-                        <rend xml:id="rslv9p7" fontfam="Edwin" fontweight="bold">Molto con anima </rend>
-                        <rend xml:id="rhacyci" fontname="VerovioText"></rend> = 96</tempo>
+                        <rend xml:id="rhacyci" fontname="VerovioText">Molto con anima </rend> = 96</tempo>
                      <dir xml:id="d8wsbjt" place="below" staff="1" tstamp="2.000000" vgrp="40">
                         <rend xml:id="r9l95ix" fontstyle="italic">leggiero</rend>
                      </dir>
@@ -128,9 +127,8 @@
                         </layer>
                      </staff>
                      <slur xml:id="sdg6gv4" startid="#ndgsjsb" endid="#n8eiaex" curvedir="above" />
-                     <pedal xml:id="pc0e296" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="80" />
-                     <pedal dir="down" staff="2" tstamp="0" />
-                     <pedal xml:id="ptwg4wf" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="down" staff="2" tstamp="1" />
+                     <pedal dir="up" staff="2" tstamp="3" />
                   </measure>
                   <measure xml:id="ms01b9e" n="3">
                      <staff xml:id="sa60gcp" n="1">
@@ -160,10 +158,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="s1hrzry" startid="#nvqb579" endid="#ndikxml" curvedir="above" />
-                     <pedal xml:id="par6nsy" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="80" />
-                     <pedal dir="down" staff="2" tstamp="0" />
-                     <pedal xml:id="p2q223d" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
-                  </measure>
+                     <pedal dir="down" staff="2" tstamp="1" />
+                     <pedal dir="up" staff="2" tstamp="3.9" />
+                   </measure>
                   <measure xml:id="mfvjlpy" right="end" n="4">
                      <staff xml:id="sw7vtlk" n="1">
                         <layer xml:id="lr7a435" n="1">
@@ -192,10 +189,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="sncucui" startid="#noagrx" endid="#n6uwes9" curvedir="above" />
-                     <pedal xml:id="ptwj176" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="80" />
-                     <pedal dir="down" staff="2" tstamp="0" />
-                     <pedal xml:id="prrzpp1" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
-                  </measure>
+                     <pedal dir="down" staff="2" tstamp="1" />
+                     <pedal dir="up" staff="2" tstamp="3.9" />
+                   </measure>
                </section>
             </score>
          </mdiv>
