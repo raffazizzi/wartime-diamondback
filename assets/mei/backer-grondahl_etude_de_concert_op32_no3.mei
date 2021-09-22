@@ -159,6 +159,7 @@
                         <rend xml:id="rend-0000001600788766" rend="none" fontweight="bold"> .  M.M.</rend>
                         <rend xml:id="rend-0000000929826770" fontname="VerovioText"></rend> = 152</tempo>
                      <pedal xml:id="pedal-0000001413286695" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="119" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <pedal xml:id="pedal-0000001230989989" staff="2" tstamp="1.000000" dir="down" form="line" place="above" vgrp="481" />
                      <pedal xml:id="pedal-0000001007556116" staff="2" tstamp="1.400000" dir="up" form="line" place="below" vgrp="200" />
                      <pedal xml:id="pedal-0000000341198141" staff="2" tstamp="1.400000" dir="up" form="line" place="above" vgrp="200" />
