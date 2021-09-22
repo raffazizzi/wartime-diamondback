@@ -105,10 +105,8 @@
                      <dir xml:id="dir-0000001009045241" place="above" staff="1" tstamp="1.000000" vgrp="229">
                         <rend xml:id="rend-0000001265813133" rend="none" fontfam="FreeSerif" fontstyle="italic">ten.</rend>
                      </dir>
-                     <pedal xml:id="pedal-0000001892638776" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="75" />
                      <pedal dir="down" staff="2" tstamp="0" />
                      <slur xml:id="slur-0000000621840684" startid="#note-0000001239250464" endid="#note-0000001474653644" curvedir="above" />
-                     <pedal xml:id="pedal-0000001735652903" staff="2" tstamp="1.400000" dir="up" form="line" place="below" vgrp="200" />
                      <dir xml:id="dir-0000000752106335" place="above" staff="2" tstamp="1.500000" vgrp="200">
                         <rend xml:id="rend-0000001524320522" rend="none" fontfam="FreeSerif" fontstyle="italic">dolce</rend>
                      </dir>
