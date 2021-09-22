@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Prelude</title>
+            <title>Prelude, op. 61, no. 1</title>
             <respStmt>
                <persName role="composer">Agathe Backer-Grøndahl</persName>
                <persName role="transcriber">Chelsea Hong</persName>
@@ -113,9 +113,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000164444084" place="above" staff="1" tstamp="1.000000" midi.bpm="126" mm="126.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001413552312" rend="none" fontweight="bold">Tranquillo. M.M. </rend>
-                        <rend xml:id="rend-0000000458774416" rend="none" fontweight="bold">.</rend>
-                        <rend xml:id="rend-0000002068416498" fontname="VerovioText"></rend> = 126</tempo>
+                        <rend xml:id="rend-0000002068416498" fontname="VerovioText">Tranquillo M.M. </rend> = 126</tempo>
                   </measure>
                   <measure xml:id="measure-0000001459062282" n="2">
                      <staff xml:id="staff-0000000731892826" n="1">

@@ -5,8 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Ungdomssang</title>
-            <title type="subordinate">op. 36, no. 6</title>
+            <title>Fantasistykker, op. 36, no. 6 - Ungdomssang</title>
             <respStmt>
                <persName role="composer">Agathe Backer-Grøndahl</persName>
                <persName role="transcriber">Delilah Righter</persName>
@@ -39,8 +38,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001326849395">
                      <rend xml:id="rend-0000001438742157" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
-                     <rend xml:id="rend-0000001974642412" halign="center" valign="top">Ungdomssang, op. 36, no. 6
-</rend>
+                     <rend xml:id="rend-0000001974642412" halign="center" valign="top">Fantasistykker, op. 36, no. 6 - Ungdomssang</rend>
                   </pgHead>
                   <pgFoot xml:id="pgfoot-0000000779278393">
                      <rend xml:id="rend-0000000805682387">A song of youth.     Chant de la jeunesse.         Jugendsang</rend>

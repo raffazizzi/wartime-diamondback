@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>Ballade</title>
-            <title type="subordinate">Op. 36, No. 5</title>
+            <title type="subordinate">op. 36, no. 5</title>
             <respStmt>
                <persName role="composer">Agathe Backer-Grøndahl</persName>
                <persName role="transcriber">Delilah Righter</persName>
@@ -78,8 +78,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000001825754353" place="above" staff="1" tstamp="1.000000" midi.bpm="69" mm="69.000000" mm.unit="4">
-                        <rend xml:id="rend-0000000650078346" rend="none" fontweight="bold">Andante  M.M. </rend>
-                        <rend xml:id="rend-0000001679602645" fontname="VerovioText"></rend> = 69</tempo>
+                        <rend xml:id="rend-0000001679602645" fontname="VerovioText">Andante M.M. </rend> = 69</tempo>
                      <dynam xml:id="dynam-0000000674992058" place="below" staff="1" tstamp="1.000000" val="64" vgrp="40">mp</dynam>
                   </measure>
                   <measure xml:id="measure-0000001326849395" n="1">

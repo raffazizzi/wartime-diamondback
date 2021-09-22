@@ -3,7 +3,7 @@ layout: mei
 title: Fantasistykker, op. 36, no. 1 - Klage
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-36.1/
-document: backer-grondahl_ballade_op36_no1.mei
+document: backer-grondahl_fantasistykker_op36_no1.mei
 ---
 
 - In *Piano music*, edited by Charles Slater. Women Composers Series; 9. New York: Da Capo Press, 1982.

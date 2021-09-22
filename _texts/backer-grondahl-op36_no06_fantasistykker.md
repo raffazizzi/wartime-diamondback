@@ -3,7 +3,7 @@ layout: mei
 title: Fantasistykker, op. 36, no. 6 - Ungdomssang
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-36.6/
-document: backer-grondahl_ungdomssang_op36_no6.mei
+document: backer-grondahl_fantasistykker_op36_no6.mei
 ---
 
 - In *Piano music*, edited by Charles Slater. Women Composers Series; 9. New York: Da Capo Press, 1982.
