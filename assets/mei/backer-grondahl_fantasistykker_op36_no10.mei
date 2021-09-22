@@ -163,6 +163,7 @@
                         <rend xml:id="rsfht6e" fontstyle="italic">una corda</rend>
                      </dir>
                      <pedal xml:id="pchpjp0" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="65" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <pedal xml:id="pcjp3ro" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                   <measure xml:id="mrmepk0" n="2">
