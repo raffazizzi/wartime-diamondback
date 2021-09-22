@@ -106,7 +106,8 @@
                      <dir xml:id="dir-0000001729783771" place="below" staff="2" tstamp="1.000000" vgrp="60">
                         <rend xml:id="rend-0000001109361594" rend="none" fontstyle="italic">una corda</rend>
                      </dir>
-                     <pedal xml:id="pedal-0000001459062282" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="65" />
+                     <pedal xml:id="pedal-0000001459062282" staff="2" tstamp="1" dir="down" form="line" place="below" vgrp="65" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                   </measure>
                   <measure xml:id="measure-0000001500925129" right="dbl" n="2">
                      <staff xml:id="staff-0000000092983622" n="1">
@@ -133,6 +134,8 @@
                         </layer>
                      </staff>
                      <pedal xml:id="pedal-0000000403228649" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="up" staff="2" tstamp="0" />
+
                   </measure>
                   <measure xml:id="measure-0000001790808424" n="3">
                      <staff xml:id="staff-0000000506531739" n="1">
@@ -166,6 +169,7 @@
                         <rend xml:id="rend-0000000603994278" rend="none" fontstyle="italic">sempre</rend>
                      </dir>
                      <pedal xml:id="pedal-0000001693114178" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="84" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <pedal xml:id="pedal-0000000623527429" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                   <measure xml:id="measure-0000001434061100" n="4">
@@ -200,6 +204,7 @@
                      </staff>
                      <slur xml:id="slur-0000002033481804" startid="#note-0000001157444545" endid="#note-0000000428656723" curvedir="above" />
                      <pedal xml:id="pedal-0000000473878007" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="84" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <pedal xml:id="pedal-0000000950080076" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                   <measure xml:id="measure-0000000323894195" n="5">
@@ -233,6 +238,7 @@
                         </layer>
                      </staff>
                      <pedal xml:id="pedal-0000000805682387" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="84" />
+                     <pedal dir="down" staff="2" tstamp="0" />
                      <pedal xml:id="pedal-0000002017620213" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                   <measure xml:id="measure-0000002029406075" n="6">
