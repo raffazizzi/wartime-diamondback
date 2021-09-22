@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Fantasistykker, Op. 39, Svalernes Flugt</title>
+            <title>Fantasistykker, op. 39, no. 3 - Svalernes Flugt</title>
             <title type="subordinate">No. 3</title>
             <respStmt>
                <persName role="composer">Agathe Backer Grøndahl</persName>
@@ -79,7 +79,7 @@
                      </staff>
                      <dynam xml:id="dynam-0000002000353931" place="below" staff="1" tstamp="1.000000" val="33" vgrp="40">pp</dynam>
                      <tempo xml:id="tempo-0000000428234980" place="above" staff="1" tstamp="1.000000" midi.bpm="160" mm="160.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001915054576" fontname="VerovioText"></rend> = 160</tempo>
+                        <rend xml:id="rend-0000001915054576" fontname="VerovioText">Allegretto Leggiero </rend> = 160</tempo>
                      <dir xml:id="dir-0000000064844517" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000576543508" rend="none" fontstyle="italic">una corda</rend>
                      </dir>
@@ -141,6 +141,7 @@
                      <slur xml:id="slur-0000001824004375" startid="#note-0000000284569113" endid="#note-0000000472579710" curvedir="above" />
                      <slur xml:id="slur-0000000431533293" startid="#note-0000001943988742" endid="#note-0000001888324132" curvedir="below" />
                      <pedal xml:id="pedal-0000000613490420" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="up" staff="2" tstamp="4.9" />
                   </measure>
                   <measure xml:id="measure-0000000541919863" n="3">
                      <staff xml:id="staff-0000001181073036" n="1">
@@ -204,10 +205,12 @@
                      <slur xml:id="slur-0000000964489542" startid="#note-0000000689691617" endid="#note-0000000238462238" curvedir="above" />
                      <slur xml:id="slur-0000001969022005" startid="#note-0000001451544370" endid="#note-0000001283264665" curvedir="below" />
                      <pedal xml:id="pedal-0000001696735993" staff="2" tstamp="2.650000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="up" staff="2" tstamp="2.65" />
                      <pedal xml:id="pedal-0000001453749511" staff="2" tstamp="3.250000" dir="down" form="line" place="below" vgrp="86" />
                      <pedal dir="down" staff="2" tstamp="3.25" />
                      <slur xml:id="slur-0000001150523226" startid="#note-0000000334445983" endid="#note-0000001005298415" curvedir="below" />
                      <pedal xml:id="pedal-0000001204883671" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="up" staff="2" tstamp="4.9" />
                   </measure>
                   <sb xml:id="sb-0000000576425894" />
                   <measure xml:id="measure-0000001726350805" n="4">
@@ -333,11 +336,13 @@
                      <hairpin xml:id="hairpin-0000000638566488" staff="1" tstamp="4.500000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="60" />
                      <slur xml:id="slur-0000000910813000" startid="#note-0000001610755243" endid="#note-0000000874730275" curvedir="above" />
                      <pedal xml:id="pedal-0000001325496145" staff="2" tstamp="1.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="up" staff="2" tstamp="1.9" />
                      <pedal xml:id="pedal-0000002127149755" staff="2" tstamp="2.000000" dir="down" form="line" place="below" vgrp="69" />
                      <pedal dir="down" staff="2" tstamp="2" />
                      <slur xml:id="slur-0000001586598019" startid="#note-0000001965205844" endid="#note-0000000636483886" curvedir="below" />
                      <slur xml:id="slur-0000001322974198" startid="#note-0000001024844655" endid="#note-0000001087424774" curvedir="above" />
                      <pedal xml:id="pedal-0000002129722604" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="up" staff="2" tstamp="4.9" />
                   </measure>
                </section>
             </score>
