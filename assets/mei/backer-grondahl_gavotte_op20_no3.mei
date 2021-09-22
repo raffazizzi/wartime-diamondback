@@ -250,7 +250,7 @@
                      <fing xml:id="fing-0000000685006002" staff="1" startid="#note-0000001033514165">4</fing>
                      <fing xml:id="fing-0000001084598727" staff="1" startid="#note-0000002001008546">5</fing>
                      <pedal dir="down" staff="2" tstamp="3" />
-                     <pedal dir="up" staff="2" tstamp="3.5" />
+                     <pedal dir="up" staff="2" tstamp="3.65" />
                   </measure>
                   <sb xml:id="sb-0000000374268505" />
                   <measure xml:id="measure-0000001107642900" n="3">
