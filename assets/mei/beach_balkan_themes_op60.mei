@@ -98,9 +98,7 @@
                         <rend xml:id="rend-0000002017620213" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
                      <tempo xml:id="tempo-0000000539833858" place="above" staff="1" tstamp="1.000000" midi.bpm="66" mm="66.000000" mm.unit="4">
-                        <rend xml:id="rend-0000002000353931" rend="none" fontweight="bold">Adagio malincolico. (</rend>
-                        <rend xml:id="rend-0000000428234980" rend="none" fontweight="bold">.)</rend>
-                        <rend xml:id="rend-0000001711015550" fontname="VerovioText"></rend> = 66</tempo>
+                        <rend xml:id="rend-0000001711015550" fontname="VerovioText">Adagio malincolico (</rend> = 66)</tempo>
                      <slur xml:id="slur-0000000172224867" startid="#note-0000001370400839" endid="#note-0000001635121290" curvedir="below" />
                      <tie xml:id="tie-0000000636036110" startid="#note-0000000937272741" endid="#note-0000000063689108" />
                      <tie xml:id="tie-0000000380233170" startid="#note-0000000776271432" endid="#note-0000002067897949" curvedir="above"  />
