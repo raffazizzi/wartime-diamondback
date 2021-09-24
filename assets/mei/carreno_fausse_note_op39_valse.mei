@@ -98,8 +98,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001751340887" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000001785924688" rend="box" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000001048064768" rend="none" fontweight="normal">presque ensemble</rend>
+                        <rend xml:id="rend-0000001048064768" rend="none" fontweight="normal">p presque ensemble</rend>
                      </dir>
                      <slur xml:id="slur-0000000010646953" startid="#note-0000001801570848" endid="#note-0000000795963156" curvedir="below" />
                      <slur xml:id="slur-0000002063529933" startid="#note-0000000857840945" endid="#note-0000000691323895" curvedir="below" />
