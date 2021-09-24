@@ -87,7 +87,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t3myv66" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="94.000200" mm="96.000000" mm.unit="2" mm.dots="1">
-                        <rend xml:id="rhacyci" fontname="VerovioText">Molto con anima </rend> = 96</tempo>
+                        <rend xml:id="rhacyci" fontname="VerovioText">Molto con anima 𝅝</rend> = 96</tempo>
                      <dir xml:id="d8wsbjt" place="below" staff="1" tstamp="2.000000" vgrp="40">
                         <rend xml:id="r9l95ix" fontstyle="italic">leggiero</rend>
                      </dir>
