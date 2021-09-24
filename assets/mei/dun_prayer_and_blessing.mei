@@ -78,11 +78,9 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000001554408001" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="50" mm="50.000000" mm.unit="4">
-                        <rend xml:id="rend-0000000063289927" fontweight="bold">Lento </rend>
-                        <rend xml:id="rend-0000001018324409" fontname="VerovioText"></rend> = 50</tempo>
+                        <rend xml:id="rend-0000001018324409" fontname="VerovioText">Lento </rend> = 50</tempo>
                      <dir xml:id="dir-0000001898882165" place="below" staff="1" tstamp="1.250000" vgrp="57">
-                        <rend xml:id="rend-0000001700478837" fontstyle="italic" fontweight="bold">p</rend>
-                        <rend xml:id="rend-0000001900393573" fontweight="normal"> melancholia</rend>
+                        <rend xml:id="rend-0000001900393573" fontweight="normal">p melancholia</rend>
                      </dir>
                      <dir xml:id="dir-0000001358445797" place="above" staff="1" tstamp="1.250000" vgrp="220">la punta </dir>
                      <bracketSpan xml:id="bspan-0000001018956710" staff="1" tstamp="1.250000" tstamp2="0m+2.0000" func="unclear" lendsym="none" lstartsym="none" lform="solid" />

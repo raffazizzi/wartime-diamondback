@@ -86,7 +86,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000002023948353" place="above" staff="1" tstamp="1.000000" midi.bpm="87" mm="58.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rend-0000001857495097" rend="none" fontweight="bold">Allegretto </rend>(<rend xml:id="rend-0000000567190576" fontname="VerovioText"></rend> = 58)</tempo>
+                        <rend xml:id="rend-0000000567190576" fontname="VerovioText">Allegretto (</rend> = 58)</tempo>
                      <dir xml:id="dir-0000000985501422" place="below" staff="2" tstamp="1.000000" vgrp="40">U.C.</dir>
                      <pedal xml:id="pedal-0000001568874682" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="73" />
                   </measure>

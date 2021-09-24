@@ -96,12 +96,10 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000817018380" place="below" staff="1" tstamp="2.000000" vgrp="51">
-                        <rend xml:id="rend-0000001130540495" rend="none" fontstyle="italic" fontweight="bold">pp </rend>
-                        <rend xml:id="rend-0000001627785340" rend="none" fontweight="normal">legg.</rend>
+                        <rend xml:id="rend-0000001627785340" rend="none" fontweight="normal">pp legg.</rend>
                      </dir>
-                     <dir xml:id="dir-0000002138482983" place="above" staff="1" tstamp="2.000000" vgrp="219">
-                        <rend xml:id="rend-0000000688365937" rend="none" fontstyle="italic">spiritoso ed scherzando</rend>
-                        <rend xml:id="rend-0000000108241160" rend="none" fontstyle="normal">staccato</rend>
+                     <dir xml:id="dir-0000002138482983" place="above" staff="1" tstamp="1.000000" vgrp="219">
+                        <rend xml:id="rend-0000000688365937" rend="none" fontstyle="italic">spiritoso ed scherzando   staccato</rend>
                      </dir>
                      <hairpin xml:id="hairpin-0000001741757252" staff="1" tstamp="3.000000" tstamp2="0m+6.5000" form="cres" place="below" vgrp="73" />
                   </measure>
