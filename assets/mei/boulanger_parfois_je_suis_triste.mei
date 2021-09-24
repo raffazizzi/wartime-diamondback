@@ -86,8 +86,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000281052518" place="above" staff="1" tstamp="2.500000" vgrp="252">
-                        <rend xml:id="rend-0000001014332419" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000000732160689" rend="none" fontweight="normal">simplement</rend>
+                        <rend xml:id="rend-0000000732160689" rend="none" fontweight="normal">p simplement</rend>
                      </dir>
                      <slur xml:id="slur-0000000268858337" startid="#note-0000001780700363" endid="#note-0000000817018380" curvedir="above" />
                   </measure>

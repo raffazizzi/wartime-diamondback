@@ -90,8 +90,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000086613900" place="above" staff="1" tstamp="1.500000" vgrp="200">
-                        <rend xml:id="rend-0000000341343581" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000000581218139" rend="none" fontweight="normal">monotone</rend>
+                        <rend xml:id="rend-0000000581218139" rend="none" fontweight="normal">p monotone</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000001173456676" n="4">

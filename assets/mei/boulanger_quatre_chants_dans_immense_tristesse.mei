@@ -103,8 +103,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000857924019" place="above" staff="1" tstamp="1.333333" vgrp="200">
-                        <rend xml:id="rend-0000000848029304" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000000670894261" rend="none" fontweight="normal">grave</rend>
+                        <rend xml:id="rend-0000000670894261" rend="none" fontweight="normal">p grave</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000000841413802" n="4">

@@ -106,11 +106,10 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001677650388" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000000516761490" rend="none" fontstyle="italic" fontweight="bold">pp </rend>
-                        <rend xml:id="rend-0000002019002871" rend="none" fontweight="normal"> con sordina </rend>
+                        <rend xml:id="rend-0000002019002871" rend="none" fontweight="normal">pp con sordina </rend>
                      </dir>
-                     <dir xml:id="dir-0000001801570848" place="below" staff="1" tstamp="4.000000" vgrp="40">
-                        <rend xml:id="rend-0000000721972519" rend="box">tuto staccatissimo</rend>
+                     <dir xml:id="dir-0000001801570848" place="below" staff="1" tstamp="4.500000" vgrp="40">
+                        <rend xml:id="rend-0000000721972519" rend="none">tuto staccatissimo</rend>
                      </dir>
                      <pedal xml:id="pedal-0000000516574008" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="68" />
                      <pedal xml:id="pedal-0000002082326847" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />

@@ -105,8 +105,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001037012619" place="above" staff="1" tstamp="1.500000" vgrp="200">
-                        <rend xml:id="rend-0000000847924224" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000000426976355" rend="none" fontweight="normal">avec gravitè</rend>
+                        <rend xml:id="rend-0000000426976355" rend="none" fontweight="normal">p avec gravitè</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000001778849597" n="2">

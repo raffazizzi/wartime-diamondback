@@ -100,8 +100,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001627903427" place="above" staff="1" tstamp="1.500000" vgrp="246">
-                        <rend xml:id="rend-0000001318418697" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000000427636485" rend="none" fontweight="normal">très ému et très contenu</rend>
+                        <rend xml:id="rend-0000000427636485" rend="none" fontweight="normal">p très ému et très contenu</rend>
                      </dir>
                      <slur xml:id="slur-0000000216303584" startid="#note-0000001052142942" endid="#note-0000001213094868" curvedir="above" />
                   </measure>

@@ -87,8 +87,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001634987740" place="above" staff="1" tstamp="1.500000" vgrp="234">
-                        <rend xml:id="rend-0000000332759234" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000000761005113" rend="none" fontweight="normal">résigné</rend>
+                        <rend xml:id="rend-0000000761005113" rend="none" fontweight="normal">p résigné</rend>
                      </dir>
                      <dir xml:id="dir-0000000880909333" place="above" staff="1" tstamp="1.500000" vgrp="200">
                         <rend xml:id="rend-0000000590109734" rend="none" fontstyle="italic">Librement</rend>

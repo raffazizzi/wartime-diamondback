@@ -89,8 +89,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000216303584" place="above" staff="1" tstamp="3.000000" vgrp="200">
-                        <rend xml:id="rend-0000000054829688" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
-                        <rend xml:id="rend-0000001510633480" rend="none" fontweight="normal"> avec une douceur émue</rend>
+                        <rend xml:id="rend-0000001510633480" rend="none" fontweight="normal">pp avec une douceur émue</rend>
                      </dir>
                      <slur xml:id="slur-0000001355857319" startid="#note-0000000314633358" endid="#note-0000001037012619" curvedir="above" />
                      <slur xml:id="slur-0000001438921750" startid="#note-0000000314633358" endid="#note-0000001885253112" curvedir="above" />

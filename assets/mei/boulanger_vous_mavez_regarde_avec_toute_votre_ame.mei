@@ -101,8 +101,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000679913504" place="above" staff="1" tstamp="2.500000" vgrp="200">
-                        <rend xml:id="rend-0000001497039130" rend="none" fontstyle="italic" fontweight="bold">p </rend>
-                        <rend xml:id="rend-0000001104591732" rend="none" fontweight="normal">avec une tendresse recueillie</rend>
+                        <rend xml:id="rend-0000001104591732" rend="none" fontweight="normal">p avec une tendresse recueillie</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000000250916008" n="4">

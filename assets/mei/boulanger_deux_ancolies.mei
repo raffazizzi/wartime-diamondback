@@ -101,8 +101,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001682084327" place="above" staff="1" tstamp="1.250000" vgrp="200">
-                        <rend xml:id="rend-0000001510633480" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
-                        <rend xml:id="rend-0000000314633358" rend="none" fontweight="normal"> à mi-voix, très fin</rend>
+                        <rend xml:id="rend-0000000314633358" rend="none" fontweight="normal">pp à mi-voix, très fin</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000000344589507" n="4">

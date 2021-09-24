@@ -37,7 +37,7 @@
             <score xml:id="score-0000000223996112">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001014332419">
-                     <rend xml:id="rend-0000001408436049" halign="center" valign="top">Plaintes au bord d'une tombe, op.21</rend>
+                     <rend xml:id="rend-0000001408436049" halign="center" valign="top">Plaintes au bord d'une tombe, op. 21</rend>
                      <rend xml:id="rend-0000001009693312" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000648995209">
@@ -80,8 +80,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000001741757252" place="above" staff="1" tstamp="1.000000" midi.bpm="66" mm="66.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001475141758" rend="none" fontweight="bold">Andante religioso </rend>
-                        <rend xml:id="rend-0000002109038109" fontname="VerovioText"></rend> = 66</tempo>
+                        <rend xml:id="rend-0000002109038109" fontname="VerovioText">Andante religioso </rend> = 66</tempo>
                      <dir xml:id="dir-0000001318418697" place="below" staff="2" tstamp="1.000000" vgrp="40">U.C.</dir>
                      <dir xml:id="dir-0000000427636485" place="above" staff="2" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rend-0000001560200729" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
