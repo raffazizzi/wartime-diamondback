@@ -3,7 +3,7 @@ layout: mei
 title: Plaìntes au bord d'une tombe, op. 21. Six melodies, no. 5
 author: Carreño, Teresa
 permalink: /carreno-21/
-post: carreno_plaintes_au_bord_une_tombe_op21.mei
+document: carreno_plaintes_au_bord_une_tombe_op21.mei
 ---
 
 - In *Four piano works.* Bryn Mawr, Pa.: Hildegard Pub., 2000.
