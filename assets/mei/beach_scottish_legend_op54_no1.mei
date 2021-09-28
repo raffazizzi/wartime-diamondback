@@ -8,9 +8,19 @@
             <title>Scottish Legend, op. 54, no. 1</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-09-28" type="encoding-date">2021-09-28</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-xd8lpx">
@@ -74,7 +84,7 @@
                      </dir>
                      <slur xml:id="s7v9xk6" startid="#ndaxafr" endid="#nbhrrz3" curvedir="above" />
                      <slur xml:id="s4pfaxl" startid="#n2d2j47" endid="#nbemhgh" curvedir="below" />
-                     <tie xml:id="tu5yqs7" startid="#n2d2j47" endid="#n4js2kj" />
+                     <tie xml:id="tu5yqs7" startid="#n2d2j47" endid="#n4js2kj" curvedir="above" />
                   </measure>
                   <measure xml:id="m7td0u6" n="1">
                      <staff xml:id="sa5988k" n="1">
@@ -146,8 +156,8 @@
                         </layer>
                      </staff>
                      <slur xml:id="sqeo839" startid="#nprgel5" endid="#n2fqrpr" curvedir="above" />
-                     <pedal xml:id="pbkff8y" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="py92lp0" staff="2" tstamp="1.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="down" staff="2" tstamp="1.000000"/>
+                     <pedal dir="up" staff="2" tstamp="1.900000" />
                   </measure>
                   <measure xml:id="mo07msy" n="2">
                      <staff xml:id="slbi3ms" n="1">
@@ -284,17 +294,15 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="hs5xi2e" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="cres" place="below" vgrp="95" />
-                     <dir xml:id="d70yay8" place="below" staff="1" tstamp="3.000000" vgrp="40">[<lb xml:id="llfzm7s" />
-                        <rend xml:id="re8ovch" fontstyle="italic" fontweight="bold">mf</rend>
-                        <lb xml:id="l9mz54j" />
-                        <rend xml:id="r7rxpov" fontstyle="normal" fontweight="normal">]</rend>
+                     <dir xml:id="d70yay8" place="below" staff="1" tstamp="2.700000" vgrp="40"><lb xml:id="llfzm7s" />
+                        <rend xml:id="re8ovch" fontstyle="italic" fontweight="bold">[mf]</rend>
                      </dir>
                      <slur xml:id="sfxnggw" startid="#norn9f8" endid="#n2ngydw" curvedir="above" />
                      <arpeg xml:id="af3ex1o" plist="#norn9f8 #cm7w9g2" />
-                     <pedal xml:id="pq0hdec" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="ponaqnw" staff="2" tstamp="2.400000" dir="up" form="line" place="below" vgrp="200" />
-                     <pedal xml:id="pf29vt4" staff="2" tstamp="4.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="pz6g797" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="down" staff="2" tstamp="1.00000" />
+                     <pedal dir="up" staff="2" tstamp="2.40000" />
+                     <pedal dir="down" staff="2" tstamp="3.50000" />
+                     <pedal dir="up" staff="2" tstamp="4.50000" />
                   </measure>
                   <measure xml:id="mwi16j8" n="4">
                      <staff xml:id="s5yk7jf" n="1">
@@ -319,7 +327,7 @@
                            </chord>
                            <beam xml:id="bn8y5nb">
                               <chord xml:id="ccitsoj" dur.ppq="2" dur="8" stem.dir="up">
-                                 <artic xml:id="a6lqzch" artic="acc" />
+                                 <artic xml:id="a6lqzch" artic="acc" place="below"/>
                                  <note xml:id="na95rs9" oct="4" pname="c">
                                     <accid xml:id="a3p0qwt" accid="n" />
                                  </note>
@@ -353,7 +361,7 @@
                            <note xml:id="nh3bsmt" dur.ppq="4" dur="4" oct="3" pname="b" stem.dir="up" accid.ges="f" />
                            <note xml:id="nxgbs67" dur.ppq="4" dur="4" oct="3" pname="a" stem.dir="up" />
                            <chord xml:id="c9ymujf" dur.ppq="4" dur="4" stem.dir="up">
-                              <artic xml:id="akjkhbz" artic="acc" />
+                              <artic xml:id="akjkhbz" artic="acc" place="below"/>
                               <note xml:id="nbbu20i" oct="2" pname="d" />
                               <note xml:id="nybw4at" oct="3" pname="d" />
                            </chord>
@@ -378,7 +386,7 @@
                      </dir>
                      <slur xml:id="sfeti6f" startid="#na95rs9" endid="#nt75iax" curvedir="above" />
                      <slur xml:id="syv7ev4" startid="#ndrblfg" endid="#nqvij35" curvedir="below" />
-                     <tie xml:id="t89zs62" startid="#nnekb6z" endid="#nxrj93j" />
+                     <tie xml:id="t89zs62" startid="#nnekb6z" endid="#nxrj93j" curvedir="above" />
                   </measure>
                </section>
             </score>
