@@ -28,7 +28,7 @@
             <score xml:id="sok83uv">
                <scoreDef xml:id="scvyn21">
                   <pgHead xml:id="pj0vzy">
-                     <rend xml:id="rqy6uvi" halign="center" valign="top">I. Call and Response</rend>
+                     <rend xml:id="rqy6uvi" halign="center" valign="top">Spirit Songs, I. Call and Response</rend>
                      <rend xml:id="rmvqywc" halign="right" valign="bottom">T.J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="se0n5zi">
@@ -82,13 +82,21 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t5enxxy" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="52.000000" mm.unit="4">
-                        <rend xml:id="rzfazwf" fontfam="Edwin" fontweight="bold">c. 52</rend>
-                        <rend xml:id="rb8n18v" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rb8n18v" fontname="VerovioText"></rend> = c. 52 </tempo>
                      <tie xml:id="taur2in" startid="#nfy8cw6" endid="#n7f5x73" />
                      <tie xml:id="t2xhqfl" startid="#nywjcgq" endid="#n822jm6" />
                      <dynam xml:id="d7v8h8f" place="above" staff="3" tstamp="1.000000" val="16">ppp non espresss.</dynam>
                      <tie xml:id="t92sxca" startid="#nl80tcp" endid="#nnkjqrr" />
                      <tie xml:id="to1iwav" startid="#nthjis7" endid="#nmnk48p" />
+                     <tie startid="n822jm6" endid="ndhd7u7"/>
+                     <tie startid="n7f5x73" endid="nqfakv4" />
+                     <tie startid="nqfakv4" endid="nsr7wmr" />
+                     <tie startid="ndhd7u7" endid="nf9j41m"/>
+                     <tie startid="nmnk48p" endid="nu32izb"/>
+                     <tie startid="nu32izb" endid="n62oph"/>
+                     <tie startid="nnkjqrr" endid="ngbwgot"/>
+                     <tie startid="ngbwgot" endid="ndmr50g"/>
+
                   </measure>
                   <measure xml:id="myp9tll" n="2">
                      <staff xml:id="sjjjtxk" n="1">
@@ -120,7 +128,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dkc3xkl" place="above" staff="1" tstamp="1.000000" val="16">ppp non espress. </dynam>
-                     <tie xml:id="t6adpsi" startid="#ne5zabt" endid="#nrvoul" />
+                     <slur xml:id="t6adpsi" startid="#ne5zabt" endid="#nhol0ap" curvedir="above" />
                   </measure>
                   <measure xml:id="m4x619a" n="3">
                      <staff xml:id="s9wm8ax" n="1">
@@ -152,7 +160,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tie xml:id="tdaxafr" startid="#nlqjqg8" endid="#n8yn81j" />
+                     <slur xml:id="tdaxafr" startid="#nrvoul" endid="#nlqjqg8" curvedir="above"/>
                   </measure>
                   <measure xml:id="mu5yqs7" n="4">
                      <staff xml:id="sy7689p" n="1">
