@@ -68,9 +68,9 @@
                            <rest xml:id="rnsl8jx" dur.ppq="2" dur="8" />
                         </layer>
                      </staff>
-                     <dir xml:id="djlofd" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                     <tempo xml:id="djlofd" place="above" staff="1" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rsug1ga" fontweight="bold">[Allegretto capriccioso / Moderato giocoso]</rend>
-                     </dir>
+                     </tempo>
                   </measure>
                   <measure xml:id="mjcukeh" n="1">
                      <staff xml:id="sexqecp" n="1">
