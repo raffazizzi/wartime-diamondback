@@ -88,15 +88,6 @@
                      <dynam xml:id="d7v8h8f" place="above" staff="3" tstamp="1.000000" val="16">ppp non espresss.</dynam>
                      <tie xml:id="t92sxca" startid="#nl80tcp" endid="#nnkjqrr" />
                      <tie xml:id="to1iwav" startid="#nthjis7" endid="#nmnk48p" />
-                     <tie startid="n822jm6" endid="ndhd7u7"/>
-                     <tie startid="n7f5x73" endid="nqfakv4" />
-                     <tie startid="nqfakv4" endid="nsr7wmr" />
-                     <tie startid="ndhd7u7" endid="nf9j41m"/>
-                     <tie startid="nmnk48p" endid="nu32izb"/>
-                     <tie startid="nu32izb" endid="n62oph"/>
-                     <tie startid="nnkjqrr" endid="ngbwgot"/>
-                     <tie startid="ngbwgot" endid="ndmr50g"/>
-
                   </measure>
                   <measure xml:id="myp9tll" n="2">
                      <staff xml:id="sjjjtxk" n="1">
@@ -128,6 +119,10 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dkc3xkl" place="above" staff="1" tstamp="1.000000" val="16">ppp non espress. </dynam>
+                     <tie startid="n822jm6" endid="ndhd7u7"/>
+                     <tie startid="n7f5x73" endid="nqfakv4" />
+                     <tie startid="nmnk48p" endid="nu32izb"/>
+                     <tie startid="nnkjqrr" endid="ngbwgot"/>
                      <slur xml:id="t6adpsi" startid="#ne5zabt" endid="#nhol0ap" curvedir="above" />
                   </measure>
                   <measure xml:id="m4x619a" n="3">
@@ -161,6 +156,10 @@
                         </layer>
                      </staff>
                      <slur xml:id="tdaxafr" startid="#nrvoul" endid="#nlqjqg8" curvedir="above"/>
+                     <tie startid="nqfakv4" endid="nsr7wmr" />
+                     <tie startid="ndhd7u7" endid="nf9j41m"/>
+                     <tie startid="nu32izb" endid="n62oph"/>
+                     <tie startid="ngbwgot" endid="ndmr50g"/>
                   </measure>
                   <measure xml:id="mu5yqs7" n="4">
                      <staff xml:id="sy7689p" n="1">
