@@ -79,7 +79,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="txgbs67" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="144.000000" mm="144.000000" mm.unit="4">
-                        <rend xml:id="rbbu20i" fontweight="bold">Quickly </rend>(<rend xml:id="rybw4at" fontname="VerovioText"></rend> = 144)</tempo>
+                        <rend xml:id="rybw4at" fontname="VerovioText">Quickly (</rend> = 144)</tempo>
                      <dynam xml:id="d89zs62" place="below" staff="1" tstamp="2.000000" val="96" vgrp="52">f</dynam>
                   </measure>
                   <scoreDef xml:id="sj9ja3x">
