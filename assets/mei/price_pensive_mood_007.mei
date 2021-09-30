@@ -100,9 +100,9 @@
                      <dir xml:id="ddeos0r" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="r1co7yp" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
-                     <dir xml:id="da53l1q" place="above" staff="1" tstamp="1.000000" vgrp="247">
+                     <tempo xml:id="da53l1q" place="above" staff="1" tstamp="1.000000" vgrp="247">
                         <rend xml:id="rhpagit" fontweight="bold">[Liberamente, con sentimento / Adagio]</rend>
-                     </dir>
+                     </tempo>
                      <slur xml:id="sf3lp7f" startid="#ne5916u" endid="#nvqb579" curvedir="above" />
                   </measure>
                   <measure xml:id="mifop5j" n="2">

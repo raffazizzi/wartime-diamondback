@@ -70,9 +70,9 @@
                            <mRest xml:id="motm18p" />
                         </layer>
                      </staff>
-                     <dir xml:id="dyfrhof" staff="1" tstamp="1.000000" vgrp="238" place="above">
+                     <tempo xml:id="dyfrhof" staff="1" tstamp="1.000000" vgrp="238" place="above">
                         <rend xml:id="r8o9kpt" fontweight="bold">[Scherzando / Vivo]</rend>
-                     </dir>
+                     </tempo>
                   </measure>
                   <measure xml:id="m26jvwm" n="2">
                      <staff xml:id="sxwgps4" n="1">

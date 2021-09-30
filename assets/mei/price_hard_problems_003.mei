@@ -105,9 +105,9 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="d8o9kpt" place="above" staff="1" tstamp="1.000000" vgrp="209">
+                     <tempo xml:id="d8o9kpt" place="above" staff="1" tstamp="1.000000" vgrp="209">
                         <rend xml:id="rkluitz" fontweight="bold">[Scherzo pomposo / Allegretto giocoso]</rend>
-                     </dir>
+                     </tempo>
                   </measure>
                   <measure xml:id="m8dkqe3" n="2">
                      <staff xml:id="s7hknf" n="1">

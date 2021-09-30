@@ -120,9 +120,9 @@
                            <note xml:id="note-0000000074152301" dur.ppq="4" dur="2" oct="3" pname="a" stem.dir="down" />
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000000479699352" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                     <tempo xml:id="dir-0000000479699352" place="above" staff="1" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rend-0000001970960469" rend="none" fontweight="bold">Tempo moderato</rend>
-                     </dir>
+                     </tempo>
                      <slur xml:id="slur-0000000031954174" startid="#note-0000001629547470" endid="#note-0000000847607310" curvedir="above" />
                      <slur xml:id="slur-0000000679639567" startid="#note-0000002142023487" endid="#note-0000000074152301" curvedir="above" />
                   </measure>

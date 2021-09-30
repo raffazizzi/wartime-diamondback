@@ -78,9 +78,9 @@
                            <note xml:id="nspd2cn" dur.ppq="1" dur="4" oct="3" pname="g" stem.dir="down" />
                         </layer>
                      </staff>
-                     <dir xml:id="dotm18p" place="above" staff="1" tstamp="1.000000" vgrp="208">
+                     <tempo xml:id="dotm18p" place="above" staff="1" tstamp="1.000000" vgrp="208">
                         <rend xml:id="r26jvwm" fontweight="bold">[Alla fantasia; liberamente / Andante]</rend>
-                     </dir>
+                     </tempo>
                   </measure>
                   <measure xml:id="mcfs8yn" n="2">
                      <staff xml:id="sypvmgx" n="1">

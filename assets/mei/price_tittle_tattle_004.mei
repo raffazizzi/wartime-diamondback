@@ -77,9 +77,9 @@
                            <mSpace xml:id="mxd8lpx" />
                         </layer>
                      </staff>
-                     <dir xml:id="drtbgb0" place="above" staff="1" tstamp="1.000000" vgrp="221">
+                     <tempo xml:id="drtbgb0" place="above" staff="1" tstamp="1.000000" vgrp="221">
                         <rend xml:id="rdbokib" fontweight="bold">[Vivace, con umore / Allegro]</rend>
-                     </dir>
+                     </tempo>
                   </measure>
                   <measure xml:id="mxk97qz" n="2">
                      <staff xml:id="srevamt" n="1">
