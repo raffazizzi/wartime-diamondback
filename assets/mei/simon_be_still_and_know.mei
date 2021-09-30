@@ -74,11 +74,8 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000276288853" place="above" staff="1" tstamp="1.000000" midi.bpm="50" mm="50.000000" mm.unit="4">
-                        <rend xml:id="rend-0000000197585369" rend="none" fontweight="bold">Quietly and reflective</rend>
-                        <rend xml:id="rend-0000001331249885" fontname="VerovioText"></rend> = 50</tempo>
-                     <tempo xml:id="tempo-0000000023950376" place="below" staff="1" tstamp="1.000000" midi.bpm="50" mm="50.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001684514228" rend="none" fontweight="bold">Quietly and reflective</rend>
-                        <rend xml:id="rend-0000000348776167" fontname="VerovioText"></rend> = 50</tempo>
+                        <rend xml:id="rend-0000001331249885" fontname="VerovioText">Quietly and reflective </rend> = 50</tempo>
+
                      <fermata xml:id="fermata-0000000586984535" staff="1" startid="#mrest-0000000076100840" form="norm" place="above" />
                      <fermata xml:id="fermata-0000002104100511" staff="2" startid="#mrest-0000002132879705" form="norm" place="above" />
                   </measure>
@@ -106,11 +103,11 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000549522480" place="below" staff="1" tstamp="1.000000" vgrp="49">
-                        <rend xml:id="rend-0000000915339236" rend="none" fontstyle="italic" fontweight="bold">pp </rend>
-                        <rend xml:id="rend-0000001768064207" rend="none" fontweight="normal">delicately</rend>
+                        <rend xml:id="rend-0000001768064207" rend="none" fontweight="normal">pp delicately</rend>
                      </dir>
                      <fermata xml:id="fermata-0000001985949691" staff="1" startid="#chord-0000001616753997" form="norm" place="above" />
-                     <pedal xml:id="pedal-0000001052955155" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="65" />
+                     <pedal xml:id="pedal-0000001052955155" staff="2" tstamp="2.00000" dir="down" form="line" place="below"/>
+                     <pedal staff="2" tstamp="1" dir="down" place="below"/>
                      <fermata xml:id="fermata-0000000153909718" staff="2" startid="#mrest-0000001497039130" form="norm" place="above" />
                   </measure>
                   <measure xml:id="measure-0000001104591732" n="3">
