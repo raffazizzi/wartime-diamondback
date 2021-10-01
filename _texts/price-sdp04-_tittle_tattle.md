@@ -7,4 +7,4 @@ document: price_tittle_tattle_004.mei
 ---
 
 - In *Seven descriptive pieces: for piano solo.* New York: Schirmer Rental Dept, 2021.
-- //Add the link to Primo and the call number// <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21281768780003851" target="_blank"><Music Library Stacks MSC9179</a>
+- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21281768780003851" target="_blank">Music Library Stacks MSC9179</a>
