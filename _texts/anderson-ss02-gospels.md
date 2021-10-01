@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Spirit songs, i. Call and response
+title: Spirit songs, II. Gospels
 author: Anderson, T. J.
-permalink: /anderson-spirit-songs-call-and-response/
-document: anderson_spirit_songs_call_and_response_001.mei
+permalink: /anderson-spirit-songs-gospels/
+document: anderson_spirit_songs_gospels_002.mei
 ---
 
 - In *Spirit songs: for cello and piano.* New York, NY: American Composers Alliance Inc., 2018.
