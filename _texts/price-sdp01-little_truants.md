@@ -1,13 +1,8 @@
 ---
-<<<<<<< Updated upstream
 layout: mei
-title: Seven descriptive pieces - Little truants, no. 1
-=======
-layout: post
 title: Seven descriptive pieces, no. 1 Little truants
->>>>>>> Stashed changes
 author: Price, Florence B.
-permalink: /price-little_truants/
+permalink: /price-little-truants/
 document: price_little_truants_001.mei
 ---
 
