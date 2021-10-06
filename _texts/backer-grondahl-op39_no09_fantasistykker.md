@@ -1,11 +1,10 @@
 ---
-layout: mei
+layout: post
 title: Fantasistykker, op. 39, no. 9 - Visnet
 author: Backer-Grøndahl, Agathe
 permalink: /backer-grondahl-39.9/
-document: mei filename
+image: backer-grondahl-fantasistykker-op39-no9.png
 ---
-Incipit not yet created
 
 - In *Piano music.* New York: Da Capo Press, 1982.
 - <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/14dinuo/01TUN_ALMA2185674780003851" target="_blank">Music Library Stacks M22.B19 S6 1982</a>
