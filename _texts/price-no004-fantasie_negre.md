@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Fantasie négre no. 4 in b minor
+title: Fantasie nègre no. 4 in B minor
 author: Price, Florence B.
 permalink: /price-fantasie-negre-no-4/
 document: mei filename
