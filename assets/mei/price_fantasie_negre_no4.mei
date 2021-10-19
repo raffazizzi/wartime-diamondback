@@ -99,7 +99,6 @@
                               <note xml:id="n21zy5l" dur.ppq="2" dur="16" oct="4" pname="d" stem.dir="up" />
                            </beam>
                            <space xml:id="s13bn3n" dots="1" dur.ppq="24" dur="2" />
-                           <clef xml:id="cjxcu6v" shape="G" line="2" />
                            <space xml:id="ssjtot1" dur.ppq="2" dur="16" />
                            <clef xml:id="cro9dgb" sameas="#cwre0ha" />
                         </layer>
@@ -118,6 +117,7 @@
                               <clef xml:id="c7m4o2t" sameas="#cjxcu6v" />
                            </beam>
                            <beam xml:id="bhdlmi7">
+                              <clef xml:id="cjxcu6v" shape="G" line="2" />
                               <note xml:id="no1ymqm" dur.ppq="1" dur="32" oct="4" pname="b" stem.dir="down" />
                               <note xml:id="nwc7wgo" dur.ppq="1" dur="32" oct="5" pname="d" stem.dir="down" />
                               <note xml:id="nq0lt8h" dur.ppq="1" dur="32" oct="5" pname="f" stem.dir="down" accid.ges="s" />
@@ -196,7 +196,7 @@
                            <note xml:id="nv7iweh" dur.ppq="16" dur="2" oct="3" pname="f" stem.dir="down" accid.ges="s" />
                         </layer>
                      </staff>
-                     <slur xml:id="s7dx87d" startid="#nq3qenz" endid="#nf9j41m" curvedir="above" lform="dashed" />
+                     <slur xml:id="s7dx87d" startid="#nq3qenz" endid="#nmfdklt" curvedir="above" lform="dashed" />
                      <dir xml:id="df3ex1o" place="below" staff="1" tstamp="13.000000" vgrp="40">[mp]</dir>
                   </measure>
                </section>
