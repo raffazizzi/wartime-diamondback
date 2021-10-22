@@ -8,9 +8,18 @@
             <title>Grand Mass in E-flat Major Opus 5, Qui Tollis</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-nsp34m">
@@ -52,21 +61,24 @@
                            <multiRest xml:id="m1fkfpo" num="16" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="1.000000" xml:lang="it">
+                        <rend xml:id="rz5dkg3" fontname="VerovioText">Andantino </rend> = 72</tempo>
                   </measure>
                   <measure xml:id="moclue9" n="17">
                      <staff xml:id="sd8r9b8" n="1">
                         <layer xml:id="lruiurp" n="1">
                            <note xml:id="npz86w5" dots="1" dur.ppq="6" dur="2" oct="3" pname="b" stem.dir="up" accid.ges="f">
                               <verse xml:id="vjen8ys" n="1">
-                                 <syl xml:id="sj9vl8l" con="s" wordpos="s">Qui</syl>
+                                 <syl xml:id="sj9vl8l" con="s" wordpos="i">Qui</syl>
                               </verse>
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dytw40g" place="above" staff="1" tstamp="1.000000" vgrp="200">[Alto Solo]</dir>
-                     <dir xml:id="d12af4d" place="above" staff="1" tstamp="1.000000" vgrp="200">
-                        <rend xml:id="rda27ly" fontstyle="italic" fontweight="bold">p</rend>
+                     <dir xml:id="d12af4d" place="above" staff="1" tstamp="1.000000" vgrp="218">
+                        <rend xml:id="rda27ly" fontstyle="normal" fontweight="bold">p</rend>
                      </dir>
+                     <dir xml:id="dytw40g" place="above" staff="1" tstamp="1.000000" vgrp="234">[Alto Solo]</dir>
+
                   </measure>
                   <measure xml:id="m4nse5t" n="18">
                      <staff xml:id="se31vo" n="1">
