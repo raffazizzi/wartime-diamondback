@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Grand Mass in E-flat major, opus 5</title>
+            <title>Grand Mass in E-flat Major Opus 5, Kyrie</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
                <persName role="transcriber">Ismenia Ginebra</persName>
@@ -36,7 +36,7 @@
             <score xml:id="score-0000000872872807">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001593144261">
-                     <rend xml:id="rend-0000000357141663" halign="center" valign="top">Kyrie, Grand Mass in E-flat major, opus 5</rend>
+                     <rend xml:id="rend-0000000357141663" halign="center" valign="top">Grand Mass in E-flat Major Opus 5, Kyrie</rend>
                      <rend xml:id="rend-0000000607475861" halign="right" valign="top">Amy Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001059913455">
@@ -58,6 +58,8 @@
                            <mRest xml:id="mrest-0000001977755125" />
                         </layer>
                      </staff>
+                     <tempo xml:id="tu4ejo7" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="120.000000" mm.unit="4">
+             <rend xml:id="rlqc7pd" fontname="VerovioText">Largo </rend> = 46</tempo>
                      <fermata xml:id="fermata-0000000314528034" staff="1" startid="#mrest-0000001977755125" form="norm" place="above" />
                   </measure>
                   <measure xml:id="measure-0000001814670967" n="2">
@@ -96,9 +98,8 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000001920694182" place="above" staff="1" tstamp="1.000000" midi.bpm="46" mm="46.000000" mm.unit="4">(<rend xml:id="rend-0000000144094004" fontname="VerovioText"></rend> = 46)</tempo>
                      <dynam xml:id="dynam-0000001525494948" place="above" staff="1" tstamp="1.000000" val="33">pp</dynam>
-                     <tie xml:id="tie-0000002068416498" startid="#note-0000001413552312" endid="#note-0000000165875289" />
+                     <slur xml:id="tie-0000002068416498" startid="#note-0000001413552312" endid="#note-0000001927194868" />
                   </measure>
                   <measure xml:id="measure-0000001026258132" n="4">
                      <staff xml:id="staff-0000000985501422" n="1">
