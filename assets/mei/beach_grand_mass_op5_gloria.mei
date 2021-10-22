@@ -61,8 +61,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tu4ejo7" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="120.000000" mm.unit="4">
-                        <rend xml:id="rbih1iq" fontweight="bold">Allegro </rend>
-                        <rend xml:id="rlqc7pd" fontname="VerovioText"></rend> = 120</tempo>
+                        <rend xml:id="rlqc7pd" fontname="VerovioText">Allegro </rend> = 120</tempo>
                   </measure>
                   <measure xml:id="m7dx87d" n="2">
                      <staff xml:id="ss5xi2e" n="1">
