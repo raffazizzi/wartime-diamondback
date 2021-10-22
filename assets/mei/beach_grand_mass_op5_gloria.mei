@@ -5,12 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Grand Mass in E-flat Major Opus 5,  Gloria</title>
+            <title>Grand Mass in E-flat Major Opus 5, Gloria</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-lbi3ms">
@@ -137,8 +146,7 @@
                            <note xml:id="no31q1b" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
-                     <slur xml:id="sh3zkwi" startid="#ndwcvlh" endid="#nvb8oaw" curvedir="above" />
-                  </measure>
+      <slur xml:id="sh3zkwi" startid="#ndwcvlh" endid="#no31q1b" curvedir="above"/>                  </measure>
                   <measure xml:id="m9v537m" right="end" n="7">
                      <staff xml:id="s51yf6v" n="1">
                         <layer xml:id="ldoi31y" n="1">
