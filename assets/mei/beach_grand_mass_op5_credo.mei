@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Grand Mass in E-flat Major Opus 5, Credo</title>
+            <respStmt>
+               <persName role="composer">Amy Beach</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-y9n4c0">
+         <appInfo xml:id="appinfo-d8r9b8">
+            <application xml:id="application-ytw40g" isodate="2021-10-26T12:10:25" version="3.7.0-dev-9153941">
+               <name xml:id="name-mg0s9x">Verovio</name>
+               <p xml:id="p-12af4d">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mda27ly">
+            <score xml:id="smgdttw">
+               <scoreDef xml:id="sruiurp">
+                  <pgHead xml:id="pj9vl8l">
+                     <rend xml:id="rbclei5" halign="center" valign="top">Grand Mass in E-flat Major Opus 5, Credo</rend>
+                     <rend xml:id="roq2zjg" halign="right" valign="bottom">Amy Beach</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sb4466v">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="lyqd0ca">Soprano</label>
+                        <labelAbbr xml:id="lquyfj8">S.</labelAbbr>
+                        <instrDef xml:id="ibhk259" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cwmvm54" shape="G" line="2" />
+                        <keySig xml:id="k3dtskj" sig="3f" />
+                        <meterSig xml:id="mdf4bho" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="spz86w5">
+                  <measure xml:id="mu2lxwk" n="1">
+                     <staff xml:id="s77jy4p" n="1">
+                        <layer xml:id="lud5a3m" n="1">
+                           <note xml:id="nt6clur" dur.ppq="1" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="vctutus" n="1">
+                                 <syl xml:id="svxiiky" con="d" wordpos="i">Cre</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n9nciuu" dur.ppq="1" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="vwe7hn5" n="1">
+                                 <syl xml:id="su613db" con="s" wordpos="t">do,</syl>
+                              </verse>
+                           </note>
+                           <rest xml:id="rpnj8mt" dur.ppq="1" dur="4" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dtijw7g" place="above" staff="1" tstamp="1.000000" vgrp="234">
+                        <rend xml:id="rsd62i7" fontstyle="italic" fontweight="bold">f</rend>
+                     </dir>
+                     <tempo xml:id="tlr5klb" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000" mm="116.000000" mm.unit="4">
+                        <rend xml:id="r99y06s" fontweight="bold">Allegro con spirito </rend>
+                        <rend xml:id="rmchisn" fontname="VerovioText"></rend> = 116</tempo>
+                     <dir xml:id="dhb6uqp" place="above" staff="1" tstamp="1.000000" vgrp="222">[Soprano Solo]</dir>
+                  </measure>
+                  <measure xml:id="mhry6qo" n="2">
+                     <staff xml:id="slpuqw4" n="1">
+                        <layer xml:id="lf4nv87" n="1">
+                           <mRest xml:id="m3pchua" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mtv24z9" n="3">
+                     <staff xml:id="skefdwo" n="1">
+                        <layer xml:id="llvobid" n="1">
+                           <note xml:id="nr3o2t5" dur.ppq="1" dur="4" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="v7hhmfv" n="1">
+                                 <syl xml:id="st5rwf7" con="d" wordpos="i">cre</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n39mxuh" dur.ppq="1" dur="4" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="vg81wme" n="1">
+                                 <syl xml:id="sm0lazh" con="s" wordpos="t">do,</syl>
+                              </verse>
+                           </note>
+                           <rest xml:id="r8t3cob" dur.ppq="1" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mqwawt8" right="end" n="4">
+                     <staff xml:id="s19b3s8" n="1">
+                        <layer xml:id="l9ph45z" n="1">
+                           <mRest xml:id="mj80ou7" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
