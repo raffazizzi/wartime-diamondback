@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Grand Mass in E-flat Major Opus 5, Quoniam tu solus</title>
+            <respStmt>
+               <persName role="composer">Amy Beach</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-u2axu3">
+         <appInfo xml:id="appinfo-77jy4p">
+            <application xml:id="application-tijw7g" isodate="2021-10-26T12:01:34" version="3.7.0-dev-9153941">
+               <name xml:id="name-sd62i7">Verovio</name>
+               <p xml:id="p-wguaym">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mlr5klb">
+            <score xml:id="s99y06s">
+               <scoreDef xml:id="sr48xao">
+                  <pgHead xml:id="pquqlyv">
+                     <rend xml:id="rvwibj2" halign="center" valign="top">Grand Mass in E-flat Major Opus 5, Quoniam tu solus</rend>
+                     <rend xml:id="rhb6uqp" halign="right" valign="bottom">Amy Beach</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sud5a3m">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="lt6clur">Bass</label>
+                        <labelAbbr xml:id="lctutus">B.</labelAbbr>
+                        <instrDef xml:id="iv4k75k" midi.channel="3" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cz2t4qh" shape="F" line="4" />
+                        <keySig xml:id="k61wssi" sig="3f" />
+                        <meterSig xml:id="mxm3gej" count="2" sym="cut" unit="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="smchisn">
+                  <measure xml:id="msg2ft4" n="1">
+                     <staff xml:id="scqmlj7" n="1">
+                        <layer xml:id="l3w50rq" n="1">
+                           <multiRest xml:id="mwu9349" num="8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m9yse7u" n="9">
+                     <staff xml:id="st5rwf7" n="1">
+                        <layer xml:id="l8t3cob" n="1">
+                           <note xml:id="nqwawt8" dots="2" dur.ppq="7" dur="4" oct="3" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="vruwzhw" n="1">
+                                 <syl xml:id="smyzinq" con="d" wordpos="i">Quo</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nt1mkdq" dur.ppq="1" dur="16" oct="2" pname="b" stem.dir="up" accid.ges="f">
+                              <verse xml:id="v7dv0od" n="1">
+                                 <syl xml:id="s49ae4b" con="d" wordpos="m">ni</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n9ph45z" dur.ppq="4" dur="4" oct="2" pname="b" stem.dir="up" accid.ges="f">
+                              <verse xml:id="vz9v0ih" n="1">
+                                 <syl xml:id="sysq6cf" con="s" wordpos="t">am,</syl>
+                              </verse>
+                           </note>
+                           <rest xml:id="refooyv" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d4khtud" place="above" staff="1" tstamp="1.000000" vgrp="234">
+                        <rend xml:id="r39mxuh" fontstyle="italic" fontweight="bold">f</rend>
+                     </dir>
+                     <dir xml:id="dm0lazh" place="above" staff="1" tstamp="1.000000" vgrp="221">[Bass]</dir>
+                  </measure>
+                  <measure xml:id="maek3dc" n="10">
+                     <staff xml:id="s93669c" n="1">
+                        <layer xml:id="lf4yw9w" n="1">
+                           <note xml:id="nc4iskd" dots="2" dur.ppq="7" dur="4" oct="3" pname="g" stem.dir="down">
+                              <verse xml:id="vt8nr2n" n="1">
+                                 <syl xml:id="ss5rtpv" con="d" wordpos="i">quo</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n4mi4zt" dur.ppq="1" dur="16" oct="3" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="vyflle5" n="1">
+                                 <syl xml:id="sl3hgfd" con="d" wordpos="m">ni</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n8vtqkh" dur.ppq="4" dur="4" oct="3" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="vv5j0yg" n="1">
+                                 <syl xml:id="sqqknd9" con="s" wordpos="t">am</syl>
+                              </verse>
+                           </note>
+                           <rest xml:id="rcvdj7r" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mhewheb" n="11">
+                     <staff xml:id="su0ep2v" n="1">
+                        <layer xml:id="la64ofl" n="1">
+                           <note xml:id="nh5cr9e" dur.ppq="4" dur="4" oct="3" pname="f" stem.dir="down">
+                              <verse xml:id="v6aheeb" n="1">
+                                 <syl xml:id="sct6ply" con="u" wordpos="s">tu</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nvoottq" dur.ppq="4" dur="4" oct="3" pname="g" stem.dir="down" />
+                           <note xml:id="n7tpu6y" dur.ppq="4" dur="4" oct="3" pname="a" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nxb4pnd" dur.ppq="4" dur="4" oct="3" pname="b" stem.dir="down" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="suzzsq" startid="#nh5cr9e" endid="#nxb4pnd" curvedir="above" />
+                  </measure>
+                  <measure xml:id="mqmktmm" right="end" n="12">
+                     <staff xml:id="sgvj89j" n="1">
+                        <layer xml:id="lvkrpmz" n="1">
+                           <note xml:id="nvrj546" dots="2" dur.ppq="7" dur="4" oct="3" pname="g" stem.dir="down">
+                              <verse xml:id="vnp6vqv" n="1">
+                                 <syl xml:id="s2dsfn8" con="d" wordpos="i">so</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nkxa8wr" dur.ppq="1" dur="16" oct="3" pname="f" stem.dir="down" />
+                           <note xml:id="nq7gk4l" dur.ppq="4" dur="4" oct="3" pname="e" stem.dir="down" accid.ges="f">
+                              <verse xml:id="v75zjt7" n="1">
+                                 <syl xml:id="s6dwpdh" con="s" wordpos="t">lus,</syl>
+                              </verse>
+                           </note>
+                           <rest xml:id="rz3v004" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="s3xo6kw" startid="#nvrj546" endid="#nkxa8wr" curvedir="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
