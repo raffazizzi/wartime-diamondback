@@ -8,10 +8,19 @@
             <title>Grand Mass in E-flat Major Opus 5, Benedictus</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
-         </pubStmt>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+            </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-f0fs7c">
          <appInfo xml:id="appinfo-yvo07x">
@@ -49,6 +58,8 @@
                            <multiRest xml:id="mnnooyd" num="8" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="1.000000" xml:lang="it">
+                        <rend xml:id="rz5dkg3" fontname="VerovioText">Andante </rend> = 76</tempo>
                   </measure>
                   <measure xml:id="mrqns4r" n="9">
                      <staff xml:id="ssbh1lm" n="1">

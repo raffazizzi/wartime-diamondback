@@ -8,9 +8,18 @@
             <title>Grand Mass in E-flat Major Opus 5, Sanctus</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-z5978x">
@@ -49,6 +58,8 @@
                            <multiRest xml:id="mdifjf0" num="21" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="1.000000" xml:lang="it">
+                        <rend xml:id="rz5dkg3" fontname="VerovioText">Largo </rend> = 60</tempo>
                   </measure>
                   <scoreDef xml:id="sodzhrd">
                      <keySig xml:id="ks0u153" sig="1s" />
@@ -70,8 +81,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tsszwhw" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="48.000000" mm="48.000000" mm.unit="4">
-                        <rend xml:id="roe9eny" fontweight="bold">Più lento </rend>
-                        <rend xml:id="ryvo07x" fontname="VerovioText"></rend> = 48</tempo>
+                        <rend xml:id="ryvo07x" fontname="VerovioText">Più lento </rend> = 48</tempo>
                      <dir xml:id="d1j5ag9" place="above" staff="1" tstamp="1.000000" vgrp="234">
                         <rend xml:id="rqx7mbn" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>

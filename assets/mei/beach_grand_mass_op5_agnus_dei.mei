@@ -5,13 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Grand Mass in E-flat Major Opus 5, Agnus Die</title>
+            <title>Grand Mass in E-flat Major Opus 5, Agnus Dei</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt>
-            <date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
+         <pubStmt><date isodate="2021-10-22" type="encoding-date">2021-10-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-rgorqi">
@@ -29,7 +37,7 @@
             <score xml:id="syvo07x">
                <scoreDef xml:id="sq3on2f">
                   <pgHead xml:id="pac94ot">
-                     <rend xml:id="rjfxt4x" halign="center" valign="top">Grand Mass in E-flat Major Opus 5, Agnus Die</rend>
+                     <rend xml:id="rjfxt4x" halign="center" valign="top">Grand Mass in E-flat Major Opus 5, Agnus Dei</rend>
                      <rend xml:id="rqx7mbn" halign="right" valign="bottom">Amy Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="seyfprj">
@@ -50,6 +58,8 @@
                            <multiRest xml:id="mzat3dg" num="33" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="1.000000" xml:lang="it">
+                        <rend xml:id="rz5dkg3" fontname="VerovioText">Andantino </rend> = 66</tempo>
                   </measure>
                   <measure xml:id="mi98u6e" n="34">
                      <staff xml:id="s5p5qyr" n="1">
