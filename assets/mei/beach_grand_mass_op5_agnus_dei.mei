@@ -77,9 +77,8 @@
                         </layer>
                      </staff>
                      <dir xml:id="d30vz3p" place="above" staff="1" tstamp="1.000000" vgrp="200">
-                        <rend xml:id="r5wpbis" fontstyle="italic" fontweight="bold">p</rend>
+                        <rend xml:id="r5wpbis" fontstyle="italic" fontweight="bold">p espressivo</rend>
                         <lb xml:id="lqlo7kw" />
-                        <rend xml:id="r8ij48c" fontweight="normal">espressivo</rend>
                      </dir>
                      <dir xml:id="d345abb" place="above" staff="1" tstamp="1.000000" vgrp="227">[Soprano Solo]</dir>
                   </measure>
