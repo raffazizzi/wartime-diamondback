@@ -81,7 +81,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tfrcmks" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="480">
-                        <rend xml:id="rma7irg" fontname="VerovioText"> = </rend> = c. 100
+                        <rend xml:id="rma7irg" fontname="unicode">𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯 = </rend> = c. 100
                      </tempo>
                      <dynam xml:id="de8ovch" place="above" staff="2" tstamp="1.000000" val="126">sffz</dynam>
                      <dynam xml:id="df3ex1o" place="above" staff="2" tstamp="3.500000" val="126">sfz</dynam>
