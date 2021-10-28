@@ -28,7 +28,7 @@
             <score xml:id="sgyhj5n">
                <scoreDef xml:id="s9j6t2e">
                   <pgHead xml:id="phdlmi7">
-                     <rend xml:id="rzaahol" halign="center" valign="top">Spirit Songs, III. Serenade 1</rend>
+                     <rend xml:id="rzaahol" halign="center" valign="top">Spirit Songs, III. Serenade I</rend>
                      <rend xml:id="ro1ymqm" halign="right" valign="bottom">T.J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="sq0lt8h">
@@ -71,10 +71,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tfrcmks" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="480.000000">
-                        <rend xml:id="rf3ff6p" fontfam="MScore Text"></rend>
-                        <rend xml:id="rprx4j4" fontfam="Edwin" fontweight="bold"> = </rend>
-                        <rend xml:id="ru9f876" fontfam="MScore Text" fontweight="normal"></rend>
-                        <rend xml:id="rma7irg" fontfam="FreeSerif" fontweight="bold"> = c. 100</rend>
+                        <rend xml:id="rma7irg" fontfam="FreeSerif" fontweight="bold"> 𝅘𝅥𝅯 𝅘𝅥𝅯 𝅘𝅥𝅯 =  = c. 100</rend>
                      </tempo>
                      <dynam xml:id="de8ovch" place="above" staff="2" tstamp="1.000000" val="126">sffz</dynam>
                      <dynam xml:id="df3ex1o" place="above" staff="2" tstamp="3.500000" val="126">sfz</dynam>
