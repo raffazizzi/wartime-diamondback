@@ -81,7 +81,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="th5cr9e" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="480.000000">
-                        <rend xml:id="r6aheeb" fontfam="MScore Text"> = </rend> = c. 100</tempo>
+                        <rend xml:id="r6aheeb" fontname="VerovioText"> = </rend> = c. 100</tempo>
                      <dynam xml:id="d11y7h2" place="above" staff="2" tstamp="1.000000" val="126">sffz</dynam>
                      <dynam xml:id="d3xo6kw" place="above" staff="2" tstamp="3.500000" val="126">sfz</dynam>
                      <octave xml:id="oq7gk4l" staff="2" startid="#np88nfo" endid="#r6dwpdh" n="1" dis="8" dis.place="below" />
