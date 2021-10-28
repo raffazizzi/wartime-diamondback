@@ -5,12 +5,22 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Serenade 1</title>
+            <title>Spirit Songs, III. Serenade I</title>
             <respStmt>
                <persName role="composer">T.J. Anderson</persName>
+               <persName role="transcriber">Ismenia Ginebra</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2021-10-28" type="encoding-date">2021-10-28</date>
+         <pubStmt><date isodate="2021-09-30" type="encoding-date">2021-09-30</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+    <date isodate="2021-08-27" type="encoding-date">2021-08-27</date>
+    <availability>
+       <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+    </availability>
+    <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+    </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-ruwzhw">
@@ -28,7 +38,7 @@
             <score xml:id="s49ae4b">
                <scoreDef xml:id="s19b3s8">
                   <pgHead xml:id="pysq6cf">
-                     <rend xml:id="rj80ou7" halign="center" valign="top">Serenade I</rend>
+                     <rend xml:id="rj80ou7" halign="center" valign="top">Spirit Songs, III. Serenade I</rend>
                      <rend xml:id="r4jbl87" halign="right" valign="bottom">T.J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="saek3dc">
@@ -71,11 +81,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="th5cr9e" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="480.000000">
-                        <rend xml:id="r6aheeb" fontfam="MScore Text"></rend>
-                        <rend xml:id="ruzzsq" fontfam="Edwin" fontweight="bold"> = </rend>
-                        <rend xml:id="r314ytt" fontfam="MScore Text" fontweight="normal"></rend>
-                        <rend xml:id="rqmktmm" fontfam="FreeSerif" fontweight="bold"> = c. 100</rend>
-                     </tempo>
+                        <rend xml:id="r6aheeb" fontfam="MScore Text"> = </rend> = c. 100</tempo>
                      <dynam xml:id="d11y7h2" place="above" staff="2" tstamp="1.000000" val="126">sffz</dynam>
                      <dynam xml:id="d3xo6kw" place="above" staff="2" tstamp="3.500000" val="126">sfz</dynam>
                      <octave xml:id="oq7gk4l" staff="2" startid="#np88nfo" endid="#r6dwpdh" n="1" dis="8" dis.place="below" />
