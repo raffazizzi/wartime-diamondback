@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Spirit songs, I. Call and response
-author: Anderson, T. J.
+author: Anderson, T.J.
 permalink: /anderson-spirit-songs-call-and-response/
 document: anderson_spirit_songs_call_and_response_001.mei
 ---

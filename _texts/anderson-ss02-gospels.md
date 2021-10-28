@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Spirit songs, II. Gospels
-author: Anderson, T. J.
+author: Anderson, T.J.
 permalink: /anderson-spirit-songs-gospels/
 document: anderson_spirit_songs_gospels_002.mei
 ---

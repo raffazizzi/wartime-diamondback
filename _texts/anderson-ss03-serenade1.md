@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Spirit songs, III. Serenade I
-author: Anderson, T. J.
+author: Anderson, T.J.
 permalink: /anderson-spirit-songs-serenade-i/
 document: anderson_spirit_songs_serenade1_003.mei
 ---
