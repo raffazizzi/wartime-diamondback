@@ -128,7 +128,7 @@
                      <dir xml:id="dpx0mac" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="r1u1zhg" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
-                     <tempo xml:id="tmkj46m" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="88.000000" mm="88.000000" mm.unit="4">
+                     <tempo xml:id="tmkj46m" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="88" mm="88" mm.unit="4">
                         <rend xml:id="ry1673c" fontname="VerovioText">Vivace (</rend> = 88)</tempo>
                   </measure>
                   <measure xml:id="m7fyfn3" n="2">
