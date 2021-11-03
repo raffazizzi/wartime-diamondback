@@ -5,12 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>This Love Between Us</title>
+            <title>This Love Between Us. Movement V: (Hinduism)</title>
             <respStmt>
                <persName role="composer">Reena Esmail</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-11-03" type="encoding-date">2021-11-03</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-rnaad9">
@@ -29,7 +38,7 @@
                <scoreDef xml:id="s2gu2ua">
                   <pgHead xml:id="pb632ud">
                      <rend xml:id="rgb6hj2" halign="center" valign="top">This Love Between Us</rend>
-                     <rend xml:id="rgbdou0" halign="center" valign="top">V. Hinduism</rend>
+                     <rend xml:id="rgbdou0" halign="center" valign="top">Movement V: (Hinduism)</rend>
                      <rend xml:id="rfoloyc" halign="right" valign="bottom">Reena Esmail</rend>
                   </pgHead>
                   <staffGrp xml:id="sbmbyem">
