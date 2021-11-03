@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>This Love Between Us</title>
+            <respStmt>
+               <persName role="composer">Reena Esmail</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-11-03" type="encoding-date">2021-11-03</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-rnaad9">
+         <appInfo xml:id="appinfo-vpv42e">
+            <application xml:id="application-yh21q9" isodate="2021-11-03T16:52:42" version="3.7.0-dev-fb52ae3">
+               <name xml:id="name-bkog2s">Verovio</name>
+               <p xml:id="p-e622i2">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mpyxdqv">
+            <score xml:id="s7oicqb">
+               <scoreDef xml:id="s2gu2ua">
+                  <pgHead xml:id="pb632ud">
+                     <rend xml:id="rgb6hj2" halign="center" valign="top">This Love Between Us</rend>
+                     <rend xml:id="rgbdou0" halign="center" valign="top">V. Hinduism</rend>
+                     <rend xml:id="rfoloyc" halign="right" valign="bottom">Reena Esmail</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sbmbyem">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="lk6bsel">Mezzo-soprano</label>
+                        <instrDef xml:id="iy8666" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cfp6kak" shape="G" line="2" />
+                        <keySig xml:id="kkjfzyi" sig="0" />
+                        <meterSig xml:id="mcfkyb" count="3" unit="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s9c0vtn">
+                  <measure xml:id="mh06oqx" n="1">
+                     <staff xml:id="sj983w0" n="1">
+                        <layer xml:id="lh0pe35" n="1">
+                           <rest xml:id="rqygo7c" dur.ppq="2" dur="4" />
+                           <note xml:id="n28dovh" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid="s">
+                              <verse xml:id="vz8a2c1" n="1">
+                                 <syl xml:id="se56ina" con="s" wordpos="s">This</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n8gw2ya" dots="1" dur.ppq="3" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                              <verse xml:id="vby2o2k" n="1">
+                                 <syl xml:id="smdpupi" con="s" wordpos="s">love</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nnz8mc2" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" accid="s">
+                              <verse xml:id="vyyf6lo" n="1">
+                                 <syl xml:id="sf0mvoi" con="d" wordpos="i">be</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n9uxh0m" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vnz3haz" n="1">
+                                 <syl xml:id="sp3306o" con="s" wordpos="t">tween</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nr0ejxp" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                              <verse xml:id="vqtqsy6" n="1">
+                                 <syl xml:id="sdotesn" con="u" wordpos="s">us,</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tww5kja" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="63.000000" mm="63.000000" mm.unit="4">
+                        <rend xml:id="ryvwrvm" fontweight="bold">Serene </rend>(<rend xml:id="rqub5ka" fontname="VerovioText"></rend> = 63)</tempo>
+                     <dir xml:id="dsup4f7" place="above" staff="1" tstamp="1.500000" vgrp="234">
+                        <rend xml:id="r61kj91" fontstyle="italic" fontweight="bold">mp</rend>
+                     </dir>
+                     <tie xml:id="tj64iu8" startid="#nr0ejxp" endid="#nr0970w" />
+                  </measure>
+                  <measure xml:id="mcr65e8" n="2">
+                     <staff xml:id="sot1ukf" n="1">
+                        <layer xml:id="lmqw29g" n="1">
+                           <note xml:id="nr0970w" dur.ppq="8" dur="1" oct="4" pname="f" accid.ges="s" />
+                           <rest xml:id="r8fuaed" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mxsaeea" n="3">
+                     <staff xml:id="sxrp6pd" n="1">
+                        <layer xml:id="lmrkgzn" n="1">
+                           <rest xml:id="r9qlxlx" dur.ppq="2" dur="4" />
+                           <note xml:id="nkn12tu" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid="s">
+                              <verse xml:id="vllfvge" n="1">
+                                 <syl xml:id="ss3ak7p" con="s" wordpos="s">this</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nqwrz83" dots="1" dur.ppq="3" dur="4" oct="4" pname="b" stem.dir="down">
+                              <verse xml:id="v3flgi2" n="1">
+                                 <syl xml:id="s6zt2ou" con="s" wordpos="s">love</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nsbtf7c" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" accid="s">
+                              <verse xml:id="v14pksz" n="1">
+                                 <syl xml:id="s5vpnjp" con="d" wordpos="i">be</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nop7v3e" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                              <verse xml:id="v3b7ofo" n="1">
+                                 <syl xml:id="sckkob1" con="s" wordpos="t">tween</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="ngw87ac" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vfqrt31" n="1">
+                                 <syl xml:id="sa3qxkp" con="u" wordpos="s">us,</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="t3w02ts" startid="#ngw87ac" endid="#nz6srw4" />
+                  </measure>
+                  <measure xml:id="m8gp3um" n="4">
+                     <staff xml:id="sy0zofo" n="1">
+                        <layer xml:id="lmvj3rg" n="1">
+                           <note xml:id="nz6srw4" dur.ppq="4" dur="2" oct="4" pname="e" stem.dir="up" />
+                           <rest xml:id="r1w50v6" dur.ppq="4" dur="2" />
+                           <rest xml:id="rno0jri" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
