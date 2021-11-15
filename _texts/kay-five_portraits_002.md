@@ -1,6 +1,6 @@
 ---
 layout: mei
-title:  Five portraits, ii. Adagio
+title:  Five portraits, II. Adagio
 author: Kay, Ulysses
 permalink: /kay-five-portraits-ii/
 document:
