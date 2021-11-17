@@ -1,9 +1,9 @@
 ---
 layout: mei
-title:  Five portraits, iv. Larghetto
+title:  Five portraits, 4. Larghetto
 author: Kay, Ulysses
 permalink: /kay-five-portraits-iv/
-document:
+document: kay_five_portraits_004.mei
 ---
 
 - In *Five portraits: violin and piano.* New York, NY: Pembroke Music Co., 1979.

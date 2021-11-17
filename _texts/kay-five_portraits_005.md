@@ -1,9 +1,9 @@
 ---
 layout: mei
-title:  Five portraits, v. Allegro
+title:  Five portraits, 5. Allegro
 author: Kay, Ulysses
 permalink: /kay-five-portraits-v/
-document:
+document: kay_five_portraits_005.mei
 ---
 
 - In *Five portraits: violin and piano.* New York, NY: Pembroke Music Co., 1979.

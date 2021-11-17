@@ -1,9 +1,9 @@
 ---
 layout: mei
-title:  Five portraits, ii. Adagio
+title:  Five portraits, 2. Adagio
 author: Kay, Ulysses
 permalink: /kay-five-portraits-ii/
-document:
+document: kay_five_portraits_002.mei
 ---
 
 - In *Five portraits: violin and piano.* New York, NY: Pembroke Music Co., 1979.

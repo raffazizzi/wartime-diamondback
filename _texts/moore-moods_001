@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Moods, i. Agitated and erratic
+title: Moods, I. Agitated and erratic
 author: Moore, Dorothy Rudd
 permalink: /moore-moods-i/
-document:
+document: moore_moods_001.mei
 ---
 
 - In *Moods: for viola and cello: 1969.* New York, NY: American Composers Alliance Inc., 2019.

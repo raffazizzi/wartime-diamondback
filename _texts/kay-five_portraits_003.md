@@ -1,9 +1,9 @@
 ---
 layout: mei
-title:  Five portraits, iii. Allegretto
+title:  Five portraits, 3. Allegretto
 author: Kay, Ulysses
 permalink: /kay-five-portraits-iii/
-document:
+document: kay_five_portraits_003.mei
 ---
 
 - In *Five portraits: violin and piano.* New York, NY: Pembroke Music Co., 1979.

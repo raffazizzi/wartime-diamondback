@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Five Portraits, 4. Larghetto</title>
+            <respStmt>
+               <persName role="composer">Ulysses Kay</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+               <respStmt />
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-n2nn3n">
+         <appInfo xml:id="appinfo-2upt57">
+            <application xml:id="application-uchbbr" isodate="2021-11-17T14:33:25" version="3.7.0-dev-d2e35c2">
+               <name xml:id="name-r8f0y6">Verovio</name>
+               <p xml:id="p-jt0yyi">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m4u5kts">
+            <score xml:id="sjalvi1">
+               <scoreDef xml:id="sq0hdec">
+                  <pgHead xml:id="pypa1xq">
+                     <rend xml:id="rmfdklt" halign="center" valign="top">Five Portraits</rend>
+                     <rend xml:id="rng0wjo" halign="center" valign="top">4. Larghetto</rend>
+                     <rend xml:id="rak6p20" halign="right" valign="bottom">Ulysses Kay</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sro9dgb">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="6">
+                        <label xml:id="l5yg0ua">Violin</label>
+                        <labelAbbr xml:id="lonaqnw">Vln.</labelAbbr>
+                        <instrDef xml:id="ibs1am7" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="c2bkqa1" shape="G" line="2" />
+                        <keySig xml:id="klx5zdd" sig="0" />
+                        <meterSig xml:id="mz6g797" count="4" unit="4" />
+                     </staffDef>
+                     <staffGrp xml:id="P2" bar.thru="true">
+                        <label xml:id="lj4yfbv">Piano</label>
+                        <labelAbbr xml:id="lu0wxv">Pno.</labelAbbr>
+                        <instrDef xml:id="i679wgl" midi.channel="3" midi.instrnum="0" midi.volume="78.00%" />
+                        <staffDef xml:id="szi0db5" n="2" lines="5" ppq="6">
+                           <clef xml:id="ciun5f3" shape="G" line="2" />
+                           <keySig xml:id="k8co8kh" sig="0" />
+                           <meterSig xml:id="m1h02c8" count="4" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="spvbbg1" n="3" lines="5" ppq="6">
+                           <clef xml:id="cefhohf" shape="F" line="4" />
+                           <keySig xml:id="kl9kyf9" sig="0" />
+                           <meterSig xml:id="moso2zh" count="4" unit="4" />
+                        </staffDef>
+                        <grpSym xml:id="g1ceig2" symbol="brace" />
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s9jbjj5">
+                  <measure xml:id="mkrzrxz" n="1">
+                     <staff xml:id="s4p9ev2" n="1">
+                        <layer xml:id="ldk0qoc" n="1">
+                           <rest xml:id="rz7zch8" dur.ppq="3" dur="8" />
+                           <note xml:id="niaruv9" dots="1" dur.ppq="9" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="ndwcvlh" dur.ppq="12" dur="2" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sggzyhk" n="2">
+                        <layer xml:id="l9f5a33" n="1">
+                           <mRest xml:id="mibgmqc" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sa8yoj2" n="3">
+                        <layer xml:id="l7zttua" n="5">
+                           <mRest xml:id="mhsrg9x" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tb1cgoy" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
+                        <rend xml:id="rlvnxfa" fontname="VerovioText"></rend> = ca. 50</tempo>
+                     <dir xml:id="dicp658" place="below" staff="1" tstamp="1.500000" vgrp="40">
+                        <rend xml:id="r2ngydw" fontstyle="italic" fontweight="bold">p</rend>
+                     </dir>
+                     <dir xml:id="dk3jgl0" place="above" staff="1" tstamp="1.500000" vgrp="200">con sordino</dir>
+                     <hairpin xml:id="hqg6i99" staff="1" tstamp="1.500000" tstamp2="2m+1.5000" form="cres" place="below" vgrp="60" />
+                     <tie xml:id="tyfzb4g" startid="#niaruv9" endid="#ndwcvlh" />
+                  </measure>
+                  <scoreDef xml:id="s3p0qwt">
+                     <meterSig xml:id="mcitsoj" count="6" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mzen4r4" n="2">
+                     <staff xml:id="sa95rs9" n="1">
+                        <layer xml:id="lfeti6f" n="1">
+                           <note xml:id="n6lqzch" dots="1" dur.ppq="36" dur="1" oct="4" pname="b" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="srtotnz" n="2">
+                        <layer xml:id="l4m4yuo" n="1">
+                           <rest xml:id="rdsguxn" dots="1" dur.ppq="18" dur="2" />
+                           <rest xml:id="r5ad5lr" dur.ppq="12" dur="2" />
+                           <tuplet xml:id="tdrfvvw" num="6" numbase="4" bracket.visible="true">
+                              <rest xml:id="rpcz35x" dur.ppq="1" dur="16" />
+                              <beam xml:id="bbc1adb">
+                                 <note xml:id="nnrrh59" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="down" />
+                                 <note xml:id="n5m1ypo" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down" accid="f" />
+                                 <note xml:id="n411fzk" dur.ppq="1" dur="16" staff="3" oct="2" pname="f" stem.dir="up" />
+                                 <note xml:id="n8rqznt" dur.ppq="1" dur="16" staff="3" oct="1" pname="g" stem.dir="up" accid="f" />
+                                 <note xml:id="namsdhx" dur.ppq="1" dur="16" staff="3" oct="2" pname="e" stem.dir="up" accid="f" />
+                              </beam>
+                           </tuplet>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1llzzy" n="3">
+                        <layer xml:id="lkcwdyd" n="5">
+                           <mRest xml:id="mpp1eqh" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tg7hixd" startid="#n6lqzch" endid="#nhfux3y" />
+                     <dir xml:id="dnbs8tv" place="below" staff="2" tstamp="4.000000" vgrp="40">
+                        <rend xml:id="r3z400x" fontstyle="italic" fontweight="bold">mp chiaro </rend>
+                     </dir>
+                     <slur xml:id="s4ji2aw" startid="#nnrrh59" endid="#nz48ehh" curvedir="above" />
+                  </measure>
+                  <scoreDef xml:id="sjtcvtm">
+                     <meterSig xml:id="m3scurp" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m31mts" n="3">
+                     <staff xml:id="s6top1y" n="1">
+                        <layer xml:id="l47hw7g" n="1">
+                           <note xml:id="nhfux3y" dur.ppq="6" dur="4" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="nh3bsmt" dur.ppq="6" dur="4" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="nl6u00r" dur.ppq="6" dur="4" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="nbbu20i" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down" accid="s" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s5n5265" n="2">
+                        <layer xml:id="lx6vi1z" n="1">
+                           <mRest xml:id="mpug2n" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="syb8m7i" n="3">
+                        <layer xml:id="ltnvfav" n="5">
+                           <note xml:id="nz48ehh" dur.ppq="24" dur="1" oct="1" pname="f" accid="f" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dkpjk6f" place="below" staff="1" tstamp="2.000000" vgrp="40">
+                        <rend xml:id="royedzb" fontstyle="italic" fontweight="bold">mf</rend>
+                     </dir>
+                     <slur xml:id="sxgbs67" startid="#nl6u00r" endid="#nbbu20i" curvedir="above" />
+                  </measure>
+                  <measure xml:id="mkjkhbz" n="4">
+                     <staff xml:id="sqvij35" n="1">
+                        <layer xml:id="lfw33j5" n="1">
+                           <note xml:id="nab787q" dots="1" dur.ppq="9" dur="4" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="n5mqzbi" dur.ppq="3" dur="8" oct="5" pname="d" stem.dir="down" />
+                           <note xml:id="nvhtu9s" dur.ppq="6" dur="4" oct="5" pname="e" stem.dir="down" accid="f" />
+                           <note xml:id="nhxqpqf" dur.ppq="6" dur="4" oct="5" pname="d" stem.dir="down" accid="f" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sv3ubgr" n="2">
+                        <layer xml:id="lylwc1j" n="1">
+                           <mRest xml:id="mjug8yp" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="stu669c" n="3">
+                        <layer xml:id="lfdhh0n" n="5">
+                           <rest xml:id="rucm0pm" dur.ppq="6" dur="4" />
+                           <chord xml:id="cnz7z54" dots="1" dur.ppq="18" dur="2" stem.dir="up">
+                              <note xml:id="nn7byf5" oct="1" pname="e" accid="n" />
+                              <note xml:id="ngrbhiw" oct="1" pname="f" accid="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dc3sepq" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rxrj93j" fontstyle="italic">cresc.</rend>
+                     </dynam>
+                     <slur xml:id="sqh1qi0" startid="#nab787q" endid="#n5mqzbi" curvedir="above" />
+                     <slur xml:id="s6o7p67" startid="#nvhtu9s" endid="#nhxqpqf" curvedir="above" />
+                     <dir xml:id="dd2p225" place="below" staff="2" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rnh61nl" fontstyle="italic" fontweight="bold">p</rend>
+                     </dir>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
