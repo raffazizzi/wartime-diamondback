@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Williams, Grace (1906-1977)
+title: Navarro, Johanny (1992-)
 category: incipits
-century: 20th
-permalink: /williams/
+century: 20th-21st
+permalink: /navarro/
 ---
-*Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Grace_Williams" target="_blank">https://en.wikipedia.org/wiki/Grace_Williams</a>*
+
+*Learn more about this composer at <a href="https://johannynavarro.com/" target="_blank">https://johannynavarro.com/</a>*
 <br/>
 
 
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Williams, Grace" %}
+      {% if item.author == "Navarro, Johanny" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
