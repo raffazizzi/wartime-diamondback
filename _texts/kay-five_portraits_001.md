@@ -1,9 +1,9 @@
 ---
 layout: mei
-title:  Five portraits, I. Scherzando
+title:  Five portraits, 1. Scherzando
 author: Kay, Ulysses
 permalink: /kay-five-portraits-i/
-document:
+document: kay_five_portraits_001.mei
 ---
 Incipit underway
 - In *Five portraits: violin and piano.* New York, NY: Pembroke Music Co., 1979.
