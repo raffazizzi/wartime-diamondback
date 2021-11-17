@@ -9,9 +9,18 @@
             <respStmt>
                <persName role="composer">Missy Mazzoli</persName>
                <persName role="lyricist">Royce Vavrek</persName>
+               <persName role="transcriber">Joanna Strogatz</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-btb3b0">
@@ -54,8 +63,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t7td0u6" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="64.000000" mm="64.000000" mm.unit="4">
-                        <rend xml:id="rvdnh88" fontweight="bold">Resigned, steady </rend>
-                        <rend xml:id="r11x2tw" fontname="VerovioText"></rend> = 64</tempo>
+                        <rend xml:id="r9j9btg" fontname="VerovioText">Resigned, steady </rend> = 64</tempo>
                   </measure>
                   <scoreDef xml:id="sjj6hsc">
                      <meterSig xml:id="mnaqrtn" count="3" unit="4" />
@@ -132,12 +140,12 @@
                      <reh xml:id="rzaahol" place="above" staff="1" xml:lang="it">
                         <rend xml:id="rmave1l" rend="box" fontweight="bold">A</rend>
                      </reh>
-                     <dir xml:id="do1ymqm" place="above" staff="1" tstamp="1.000000" vgrp="200">
-                        <rend xml:id="rwc7wgo" fontstyle="italic">[Ma picks the weeds above her dead daughter's grave.]</rend>
-                     </dir>
                      <dynam xml:id="d1dqub1" place="above" staff="1" tstamp="2.000000" val="49">p</dynam>
-                     <dir xml:id="ddhd7u7" place="above" staff="1" tstamp="2.500000" vgrp="205">
-                        <rend xml:id="rpfrcwb" fontstyle="italic">languid, sleepwalking</rend>
+                     <dir xml:id="dy92lp0" place="above" staff="1" tstamp="2.500000" vgrp="205">
+                        <rend xml:id="r6u1a4y" fontstyle="italic">languid, sleepwalking</rend>
+                     </dir>
+                     <dir xml:id="dcyeubw" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rq77zq6" fontstyle="italic">[Ma picks the weeds above her dead daughter's grave.]</rend>
                      </dir>
                   </measure>
                   <measure xml:id="mq3qenz" n="8">
