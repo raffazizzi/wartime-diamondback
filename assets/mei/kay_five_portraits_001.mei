@@ -5,10 +5,20 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Portraits</title>
+            <title>Five Portraits, 1. Scherzando</title>
+            <persName role="composer">Ulysses Kay</persName>
+            <persName role="transcriber">Phillip G. Wright</persName>
+            <persName role="reviewer">Joanna Strogatz</persName>
             <respStmt />
          </titleStmt>
          <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-rmepk0">
@@ -108,11 +118,8 @@
                         <lb xml:id="li4aya3" />
                         <rend xml:id="ray96zr" fontweight="normal"> marc.</rend>
                      </dir>
-                     <tempo xml:id="tktg1pl" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rxikfuf" fontfam="MScore Text"></rend>
-                        <lb xml:id="lbkff8y" />
-                        <rend xml:id="rcyeubw" fontweight="bold">ca. 50-56</rend>
-                        <rend xml:id="rcb608l" fontname="VerovioText"></rend> = </tempo>
+                     <tempo xml:id="tktg1pl" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4" mm.dots="1">
+                        <rend xml:id="rcb608l" fontname="VerovioText"> </rend> = ca. 50-56</tempo>
                      <slur xml:id="s2xhqfl" startid="#naur2in" endid="#ns26xvd" curvedir="below" />
                      <dir xml:id="dzen4r4" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="repe1mo" fontstyle="italic" fontweight="bold">f</rend>
@@ -120,6 +127,7 @@
                      <slur xml:id="so31q1b" startid="#nvb8oaw" endid="#npbu90z" curvedir="below" />
                      <octave xml:id="o9v537m" staff="3" startid="#na95rs9" endid="#n4z7co1" n="1" dis="8" dis.place="below" />
                      <tie xml:id="t3p0qwt" startid="#na95rs9" endid="#ncitsoj" />
+                     <tie startid="#ncitsoj" endid="#nsjdknv" />
                   </measure>
                   <measure xml:id="mthjis7" n="2">
                      <staff xml:id="s13bn3n" n="1">
@@ -172,6 +180,8 @@
                      </staff>
                      <slur xml:id="smave1l" startid="#n8a2a75" endid="#nommwr7" curvedir="below" />
                      <slur xml:id="skjkhbz" startid="#n9ymujf" endid="#nu0wxv" curvedir="below" />
+                     <tie startid="#nsjdknv" endid="#nm5dbnl" />
+                     <tie startid="#nm5dbnl" endid="#nlexs3g" />
                   </measure>
                   <scoreDef xml:id="sk3wn3s">
                      <meterSig xml:id="mp68r03" count="6" unit="8" />
@@ -289,6 +299,7 @@
                      </staff>
                      <slur xml:id="se4hwxe" startid="#ngpehap" endid="#n215ioo" curvedir="below" />
                      <tie xml:id="t66tvfd" startid="#n41i77y" endid="#nrtotnz" />
+                     <tie startid="#nrtotnz" endid="#n8i5gcq" />
                   </measure>
                   <measure xml:id="morn9f8" n="5">
                      <staff xml:id="sjalvi1" n="1">
@@ -332,11 +343,12 @@
                            <rest xml:id="r5fkyb6" dur.ppq="2" dur="4" />
                            <rest xml:id="rgnvf9w" dur.ppq="1" dur="8" ploc="b" oloc="2" />
                            <rest xml:id="r5n5265" dur.ppq="1" dur="8" ploc="b" oloc="2" />
-                           <note xml:id="nyb8m7i" dur.ppq="1" dur="8" oct="1" pname="c" stem.dir="down">
+                           <note xml:id="nyb8m7i" dur.ppq="1" dur="8" oct="2" pname="c" stem.dir="down">
                               <artic xml:id="ax6vi1z" artic="stacc" />
                            </note>
                         </layer>
                      </staff>
+                     <tie startid="#n8i5gcq" endid="#n4z7co1" />
                   </measure>
                </section>
             </score>
