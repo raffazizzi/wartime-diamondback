@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Moods, iii. Allegro
+title: Moods, III. Allegro
 author: Moore, Dorothy Rudd
 permalink: /moore-moods-iii/
-document:
+document: moore_moods_003.mei
 ---
 
 - In *Moods: for viola and cello: 1969.* New York, NY: American Composers Alliance Inc., 2019.

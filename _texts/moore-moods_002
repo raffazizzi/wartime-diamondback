@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Moods, ii. Molto adagio
+title: Moods, II. Molto adagio
 author: Moore, Dorothy Rudd
 permalink: /moore-moods-ii/
-document:
+document: moore_moods_002.mei
 ---
 
 - In *Moods: for viola and cello: 1969.* New York, NY: American Composers Alliance Inc., 2019.
