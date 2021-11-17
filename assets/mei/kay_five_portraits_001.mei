@@ -118,8 +118,8 @@
                         <lb xml:id="li4aya3" />
                         <rend xml:id="ray96zr" fontweight="normal"> marc.</rend>
                      </dir>
-                     <tempo xml:id="tktg1pl" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rcb608l" fontname="VerovioText"> </rend> = ca. 50-56</tempo>
+                     <tempo xml:id="tktg1pl" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm="50-56" mm.unit="4" mm.dots="1">
+                        <rend xml:id="rcb608l" fontname="VerovioText"></rend></tempo>
                      <slur xml:id="s2xhqfl" startid="#naur2in" endid="#ns26xvd" curvedir="below" />
                      <dir xml:id="dzen4r4" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="repe1mo" fontstyle="italic" fontweight="bold">f</rend>
