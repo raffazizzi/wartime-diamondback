@@ -54,8 +54,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t2ujdk3" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="64.000000" mm="64.000000" mm.unit="4">
-                        <rend xml:id="rso6p8v" fontweight="bold">Resigned, steady </rend>
-                        <rend xml:id="r9j9btg" fontname="VerovioText"></rend> = 64</tempo>
+                        <rend xml:id="r9j9btg" fontname="VerovioText">Resigned, steady </rend> = 64</tempo>
                   </measure>
                   <scoreDef xml:id="svhmu9j">
                      <meterSig xml:id="m42gr7u" count="3" unit="4" />
@@ -132,12 +131,12 @@
                      <reh xml:id="rxikfuf" place="above" staff="1" xml:lang="it">
                         <rend xml:id="rmvisno" rend="box" fontweight="bold">A</rend>
                      </reh>
-                     <dir xml:id="dcyeubw" place="above" staff="1" tstamp="1.000000" vgrp="200">
-                        <rend xml:id="rq77zq6" fontstyle="italic">[Ma picks the weeds above her dead daughter's grave.]</rend>
-                     </dir>
                      <dynam xml:id="doz0r65" place="above" staff="1" tstamp="2.000000" val="49">p</dynam>
                      <dir xml:id="dy92lp0" place="above" staff="1" tstamp="2.500000" vgrp="205">
                         <rend xml:id="r6u1a4y" fontstyle="italic">languid, sleepwalking</rend>
+                     </dir>
+                     <dir xml:id="dcyeubw" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rq77zq6" fontstyle="italic">[Ma picks the weeds above her dead daughter's grave.]</rend>
                      </dir>
                   </measure>
                   <measure xml:id="ml80tcp" n="8">
