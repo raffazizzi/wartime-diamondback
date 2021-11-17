@@ -5,12 +5,22 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Moods</title>
+            <title>Moods I</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+               <respStmt />
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-egsi77">
@@ -97,14 +107,12 @@
                         <rend xml:id="rg7hixd" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
                      <tempo xml:id="t51yf6v" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="rdoi31y" fontweight="bold">Agitated + erratic </rend>
-                        <rend xml:id="rt75iax" fontname="VerovioText"></rend> = 44</tempo>
+                        <rend xml:id="rt75iax" fontname="VerovioText">Agitated + erratic </rend> = 44</tempo>
                      <fermata xml:id="f47hw7g" staff="1" startid="#cjtcvtm" form="norm" place="above" />
                      <tie xml:id="tyv7ev4" startid="#ns3609q" endid="#nhxqpqf" />
                      <dir xml:id="d6gsfec" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rphgif" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
-                     <fermata xml:id="f62e4pt" staff="2" startid="#nud9iry" form="norm" place="above" />
                      <fermata xml:id="fnh61nl" staff="2" startid="#ctu669c" form="norm" place="above" />
                   </measure>
                   <measure xml:id="m89zs62" n="2">
@@ -128,8 +136,8 @@
                            </beam>
                         </layer>
                      </staff>
-                     <hairpin xml:id="hx3ck2q" staff="1" tstamp="1.000000" tstamp2="0m+2.0000" form="cres" place="below" vgrp="60" />
-                     <dir xml:id="dj4yfbv" place="below" staff="1" tstamp="2.500000" vgrp="43">
+                     <hairpin xml:id="hx3ck2q" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="cres" place="below" vgrp="60" />
+                     <dir xml:id="dj4yfbv" place="below" staff="1" tstamp="2.600000" vgrp="43">
                         <rend xml:id="rwr1haz" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
                      <tie xml:id="t294295" startid="#nbfev8u" endid="#nzi0db5" />
@@ -176,7 +184,7 @@
                      </staff>
                      <tie xml:id="t17hgg4" startid="#nsrg3zk" endid="#nfdlexe" />
                      <slur xml:id="sdiawpb" startid="#nqltjrn" endid="#ni1o4k" curvedir="below" />
-                     <hairpin xml:id="hbk8km0" staff="2" tstamp="2.750000" tstamp2="0m+3.2500" form="cres" place="below" vgrp="76" />
+                     <hairpin xml:id="hbk8km0" staff="2" tstamp="2.750000" tstamp2="0m+3.7500" form="cres" place="below" vgrp="76" />
                      <slur xml:id="s34kka5" startid="#naa0da2" endid="#n3fyhym" curvedir="below" />
                   </measure>
                   <measure xml:id="mibgmqc" n="4">
@@ -212,8 +220,8 @@
                            </beam>
                         </layer>
                      </staff>
-                     <hairpin xml:id="hrlrwox" staff="1" tstamp="2.125000" tstamp2="0m+2.2500" form="cres" place="below" vgrp="63" />
-                     <hairpin xml:id="h6ghbxa" staff="2" tstamp="3.000000" tstamp2="0m+3.2500" form="cres" place="below" vgrp="60" />
+                     <hairpin xml:id="hrlrwox" staff="1" tstamp="2.125000" tstamp2="0m+2.7000" form="cres" place="below" vgrp="63" />
+                     <hairpin xml:id="h6ghbxa" staff="2" tstamp="3.000000" tstamp2="0m+3.6000" form="cres" place="below" vgrp="60" />
                   </measure>
                </section>
             </score>
