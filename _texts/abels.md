@@ -6,7 +6,7 @@ century: 20th-21st
 permalink: /abels/
 ---
 
-*Learn more about this composer at <a https://en.wikipedia.org/wiki/Michael_Abels" target="_blank">https://en.wikipedia.org/wiki/Michael_Abels</a>*
+*Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Michael_Abels" target="_blank">https://en.wikipedia.org/wiki/Michael_Abels</a>*
 <br/>
 
 
