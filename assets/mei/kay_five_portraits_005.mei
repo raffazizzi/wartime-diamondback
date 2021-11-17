@@ -5,12 +5,22 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Portraits</title>
+            <title>Five Portraits, 5. Allegro</title>
             <respStmt>
                <persName role="composer">Ulysses Kay</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+               <respStmt />
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-szv36a">
@@ -115,8 +125,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="trel0kx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rwh8im3" fontweight="bold">ca. 132</rend>
-                        <rend xml:id="riq4d5n" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="riq4d5n" fontname="VerovioText"></rend> = ca. 132</tempo>
                      <dir xml:id="dksovj5" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rwhq80b" fontstyle="italic" fontweight="bold">(p)</rend>
                      </dir>
@@ -176,6 +185,7 @@
                            <rest xml:id="rmasp6f" dur.ppq="1" dur="8" />
                         </layer>
                      </staff>
+                     <tie startid="#njycqzm" endid="#n9hex7y" />
                   </measure>
                   <measure xml:id="mtvrm8n" n="3">
                      <staff xml:id="st1n3gc" n="1">
@@ -214,12 +224,13 @@
                      <dynam xml:id="ddcnrrb" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rcamhio" fontstyle="italic">dim.</rend>
                      </dynam>
-                     <dir xml:id="dxvi951" place="below" staff="2" tstamp="2.500000" vgrp="40">
+                     <dir xml:id="dxvi951" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="r5ql7qr" fontstyle="italic">simile</rend>
                      </dir>
                      <dir xml:id="dprt49k" place="below" staff="3" tstamp="2.500000" vgrp="83">
                         <rend xml:id="rsqp81o" fontstyle="italic">simile</rend>
                      </dir>
+                     <tie startid="#n9hex7y" endid="#ngxlrqz" />
                   </measure>
                   <measure xml:id="midpjoa" n="4">
                      <staff xml:id="sk2rupi" n="1">

@@ -5,13 +5,22 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Portraits</title>
+            <title>Five Portraits, 3. Alegretto</title>
             <respStmt>
                <persName role="composer">Ulysses Kay</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+               <respStmt />
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
-         </pubStmt>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>         </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-hfux3y">
          <appInfo xml:id="appinfo-kpjk6f">
@@ -112,8 +121,7 @@
                         <rend xml:id="riun5f3" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
                      <tempo xml:id="t1h02c8" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rpvbbg1" fontweight="bold">ca. 80</rend>
-                        <rend xml:id="rlexs3g" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rlexs3g" fontname="VerovioText"></rend> = ca. 80</tempo>
                      <tie xml:id="te4hwxe" startid="#ngpehap" endid="#nrlrwox" />
                      <tie xml:id="t41i77y" startid="#neb7z3g" endid="#ndrfvvw" />
                   </measure>

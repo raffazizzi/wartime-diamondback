@@ -5,12 +5,22 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Portraits</title>
+            <title>Five Portraits, 4. Larghetto</title>
             <respStmt>
                <persName role="composer">Ulysses Kay</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+               <respStmt />
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-n2nn3n">
@@ -79,8 +89,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tb1cgoy" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rgy5z73" fontweight="bold">ca. 50</rend>
-                        <rend xml:id="rlvnxfa" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rlvnxfa" fontname="VerovioText"></rend> = ca. 50</tempo>
                      <dir xml:id="dicp658" place="below" staff="1" tstamp="1.500000" vgrp="40">
                         <rend xml:id="r2ngydw" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
@@ -120,11 +129,9 @@
                      </staff>
                      <tie xml:id="tg7hixd" startid="#n6lqzch" endid="#nhfux3y" />
                      <dir xml:id="dnbs8tv" place="below" staff="2" tstamp="4.000000" vgrp="40">
-                        <rend xml:id="r3z400x" fontstyle="italic" fontweight="bold">mp </rend>
-                        <lb xml:id="l48ayxp" />
-                        <rend xml:id="r78khvf" fontweight="normal">chiaro</rend>
+                        <rend xml:id="r3z400x" fontstyle="italic" fontweight="bold">mp chiaro </rend>
                      </dir>
-                     <slur xml:id="s4ji2aw" startid="#nnrrh59" endid="#n5m1ypo" curvedir="above" />
+                     <slur xml:id="s4ji2aw" startid="#nnrrh59" endid="#nz48ehh" curvedir="above" />
                   </measure>
                   <scoreDef xml:id="sjtcvtm">
                      <meterSig xml:id="m3scurp" count="4" unit="4" />
