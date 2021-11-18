@@ -5,12 +5,22 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Moods</title>
+            <title>Moods, II</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+               <respStmt />
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-11-17" type="encoding-date">2021-11-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-h9st83">
@@ -73,15 +83,15 @@
                      <dir xml:id="dv89c84" place="above" staff="1" tstamp="3.000000" vgrp="200">
                         <rend xml:id="ry7689p" fontstyle="italic">melancholic</rend>
                      </dir>
-                     <dir xml:id="d8yn81j" place="below" staff="1" tstamp="3.000000" vgrp="40">
+                     <dir xml:id="d8yn81j" place="below" staff="1" tstamp="3.000000" vgrp="60">
                         <rend xml:id="rnh645j" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
-                     <hairpin xml:id="h912n6m" staff="1" tstamp="3.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="60" />
+                     <hairpin xml:id="h912n6m" staff="1" tstamp="3.500000" tstamp2="0m+9.5000" form="cres" place="below" vgrp="60" />
                      <tie xml:id="tjl1p9n" startid="#novdpx0" endid="#n2u9xhf" />
-                     <dir xml:id="dbih1iq" place="below" staff="2" tstamp="1.000000" vgrp="40">
+                     <dir xml:id="dbih1iq" place="below" staff="2" tstamp="1.000000" vgrp="60">
                         <rend xml:id="rnb0m0r" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
-                     <hairpin xml:id="hwre0ha" staff="2" tstamp="1.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="60" />
+                     <hairpin xml:id="hwre0ha" staff="2" tstamp="1.000000" tstamp2="1m+1.0000" form="cres" place="below" vgrp="60" />
                   </measure>
                   <scoreDef xml:id="sb8u016">
                      <meterSig xml:id="mkoa7ql" count="5" unit="4" />
@@ -100,7 +110,7 @@
                            <note xml:id="nprx4j4" dots="1" dur.ppq="6" dur="2" oct="3" pname="a" stem.dir="down" />
                         </layer>
                      </staff>
-                     <dir xml:id="dprgel5" place="below" staff="1" tstamp="1.000000" vgrp="42">
+                     <dir xml:id="dprgel5" place="below" staff="1" tstamp="1.000000" vgrp="60">
                         <rend xml:id="rqeo839" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
                      <hairpin xml:id="hxikfuf" staff="1" tstamp="3.000000" tstamp2="1m+1.0000" form="dim" place="below" vgrp="61" />
@@ -109,7 +119,7 @@
                         <rend xml:id="rs5xi2e" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
                      <slur xml:id="sfrcmks" startid="#nthof5x" endid="#nf3ff6p" curvedir="above" />
-                     <hairpin xml:id="hlmwabc" staff="2" tstamp="3.000000" tstamp2="1m+3.5000" form="dim" place="below" vgrp="60" />
+                     <hairpin xml:id="hlmwabc" staff="2" tstamp="3.500000" tstamp2="1m+3.5000" form="dim" place="below" vgrp="60" />
                   </measure>
                   <scoreDef xml:id="s74exst">
                      <meterSig xml:id="mfnpp6q" count="4" unit="4" />
@@ -130,7 +140,7 @@
                            <rest xml:id="rl41y41" dur.ppq="2" dur="4" />
                         </layer>
                      </staff>
-                     <dir xml:id="ddjghby" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dir xml:id="ddjghby" place="below" staff="1" tstamp="1.000000" vgrp="60">
                         <rend xml:id="rt2jkin" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
                      <dir xml:id="dywjcgq" place="below" staff="1" tstamp="2.000000" vgrp="42">
@@ -157,10 +167,10 @@
                            <note xml:id="nonaqnw" dur.ppq="1" dur="8" oct="2" pname="e" stem.dir="up" />
                         </layer>
                      </staff>
-                     <dir xml:id="djxcu6v" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dir xml:id="djxcu6v" place="below" staff="1" tstamp="1.000000" vgrp="60">
                         <rend xml:id="rsjtot1" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
-                     <dir xml:id="d7yc0gu" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dir xml:id="d7yc0gu" place="below" staff="1" tstamp="4.500000" vgrp="60">
                         <rend xml:id="r7f5x73" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
                      <hairpin xml:id="h822jm6" staff="1" tstamp="1.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="60" />
@@ -171,7 +181,7 @@
                      <dir xml:id="dv7iweh" place="below" staff="2" tstamp="3.000000" vgrp="40">
                         <rend xml:id="rak6p20" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
-                     <hairpin xml:id="hro9dgb" staff="2" tstamp="3.000000" tstamp2="0m+4.0000" form="dim" place="below" vgrp="68" />
+                     <hairpin xml:id="hro9dgb" staff="2" tstamp="3.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="68" />
                   </measure>
                </section>
             </score>
