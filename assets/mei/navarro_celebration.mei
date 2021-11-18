@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Celebration</title>
+            <respStmt>
+               <persName role="composer">Johanny Navarro</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-11-18" type="encoding-date">2021-11-18</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000307202359">
+         <appInfo xml:id="appinfo-0000000395904047">
+            <application xml:id="application-0000000331317922" isodate="2021-11-18T10:42:51" version="3.4.1-8f65a58">
+               <name xml:id="name-0000000996537258">Verovio</name>
+               <p xml:id="p-0000001099737527">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000277522445">
+            <score xml:id="score-0000000193497228">
+               <scoreDef xml:id="svhmu9j">
+                  <pgHead xml:id="pghead-0000001836613785">
+                     <rend xml:id="rend-0000000483120642" halign="center" valign="top">Celebration</rend>
+                     <rend xml:id="rend-0000000278556303" halign="right" valign="bottom">Johanny Navarro</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000000629069002">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="label-0000000828943146">Violin</label>
+                        <labelAbbr xml:id="labelAbbr-0000001557990457">Vln.</labelAbbr>
+                        <instrDef xml:id="instrdef-0000001906633221" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000001677394174" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000001050571187" sig="1f" />
+                        <meterSig xml:id="msig-0000001853588585" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000000125400640">
+                  <pb xml:id="pb-0000001318868420" />
+                  <measure xml:id="measure-0000001114756961" n="1">
+                     <staff xml:id="staff-0000002048808759" n="1">
+                        <layer xml:id="layer-0000001501653470" n="1">
+                           <note xml:id="note-0000001071165059" dots="1" dur.ppq="3" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000000648002269" place="above" staff="1" tstamp="1.000000" vgrp="203">III</dir>
+                     <dir xml:id="dir-0000001347106376" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rend-0000001512881745" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
+                     </dir>
+                     <tempo xml:id="tempo-0000001901404058" place="above" staff="1" tstamp="1.000000" midi.bpm="60" mm="60.000000" mm.unit="4">
+                        <rend xml:id="rend-0000002000004574" rend="none" fontweight="bold"> </rend>(<rend xml:id="rend-0000001917002538" fontname="VerovioText">With hope </rend> = 60)</tempo>
+                     <tie xml:id="tie-0000001619717273" startid="#note-0000001071165059" endid="#note-0000002117988206" />
+                  </measure>
+                  <measure xml:id="measure-0000001772755831" n="2">
+                     <staff xml:id="staff-0000001010171629" n="1">
+                        <layer xml:id="layer-0000001757025433" n="1">
+                           <note xml:id="note-0000002117988206" dots="1" dur.ppq="3" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tie-0000001778311563" startid="#note-0000002117988206" endid="#note-0000001640432562" />
+                  </measure>
+                  <measure xml:id="measure-0000001721203130" n="3">
+                     <staff xml:id="staff-0000001428020315" n="1">
+                        <layer xml:id="layer-0000000835487832" n="1">
+                           <note xml:id="note-0000001640432562" dots="1" dur.ppq="3" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hairpin-0000000524416639" staff="1" tstamp="1.000000" tstamp2="1m+4.0000" form="dim" place="below" vgrp="60" />
+                     <tie xml:id="tie-0000001238996025" startid="#note-0000001640432562" endid="#note-0000000001394400" />
+                  </measure>
+                  <measure xml:id="measure-0000001530633264" n="4">
+                     <staff xml:id="staff-0000000305610395" n="1">
+                        <layer xml:id="layer-0000001457096337" n="1">
+                           <note xml:id="note-0000000001394400" dots="1" dur.ppq="3" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000001615078683" n="5">
+                     <staff xml:id="staff-0000000789166918" n="1">
+                        <layer xml:id="layer-0000001936569191" n="1">
+                           <note xml:id="note-0000000840297193" dur.ppq="1" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="note-0000001868944181" dur.ppq="1" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="note-0000001908831329" dur.ppq="1" dur="4" oct="4" pname="d" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

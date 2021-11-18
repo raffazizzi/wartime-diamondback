@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>On Mo' Time</title>
+            <respStmt>
+               <persName role="composer">Tania León</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-11-18" type="encoding-date">2021-11-18</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000001631864544">
+         <appInfo xml:id="appinfo-0000000381779214">
+            <application xml:id="application-0000000357940492" isodate="2021-11-18T10:40:00" version="3.4.1-8f65a58">
+               <name xml:id="name-0000000686935411">Verovio</name>
+               <p xml:id="p-0000000005822838">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000643689363">
+            <score xml:id="score-0000002047199286">
+               <scoreDef xml:id="svhmu9j">
+                  <pgHead xml:id="pghead-0000001300839491">
+                     <rend xml:id="rend-0000000080102656" halign="center" valign="top">On Mo' Time</rend>
+                     <rend xml:id="rend-0000001781637405" halign="right" valign="bottom">Tania León</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000000294332120">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="8">
+                        <label xml:id="label-0000001587220412">Flute</label>
+                        <labelAbbr xml:id="labelAbbr-0000001579521837">Fl.</labelAbbr>
+                        <instrDef xml:id="instrdef-0000000486319958" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000001130664699" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000000802949627" sig="0" />
+                        <meterSig xml:id="msig-0000000442558257" count="3" unit="8" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000001433818543">
+                  <pb xml:id="pb-0000000044842424" />
+                  <measure xml:id="measure-0000001071298484" n="1">
+                     <staff xml:id="staff-0000001054088524" n="1">
+                        <layer xml:id="layer-0000001928840370" n="1">
+                           <rest xml:id="rest-0000000627129894" dur.ppq="2" dur="16" />
+                           <beam xml:id="beam-0000001175728260">
+                              <note xml:id="note-0000000207605128" dur="16" oct="5" pname="d" grace="acc" stem.dir="up" />
+                              <note xml:id="note-0000001711757648" dur="16" oct="5" pname="c" grace="acc" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="beam-0000001125591316">
+                              <note xml:id="note-0000000531242790" dur.ppq="2" dur="16" oct="4" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000001351961149" dur.ppq="2" dur="16" oct="4" pname="b" stem.dir="down">
+                                 <accid xml:id="accid-0000000679869314" accid="f" accid.ges="f" />
+                              </note>
+                              <note xml:id="note-0000000847435650" dur.ppq="2" dur="16" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="note-0000000217984529" dur.ppq="2" dur="16" oct="5" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000000820079114" dur.ppq="2" dur="16" oct="5" pname="g" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000001558169118" place="above" staff="1" tstamp="1.000000" midi.bpm="120" mm.unit="8">
+                        <rend xml:id="rend-0000001375667215" fontname="VerovioText">Jubilant ca. 126 </rend> = </tempo>
+                     <dir xml:id="dir-0000000622386518" place="below" staff="1" tstamp="1.500000" vgrp="66">
+                        <rend xml:id="rend-0000001566296720" rend="none" fontstyle="italic" fontweight="bold">mf</rend>
+                     </dir>
+                     <slur xml:id="slur-0000001193388724" startid="#note-0000000207605128" endid="#note-0000001711757648" curvedir="below" />
+                     <tie xml:id="tie-0000001721224966" startid="#note-0000000820079114" endid="#note-0000001172058106" />
+                  </measure>
+                  <measure xml:id="measure-0000001872430322" n="2">
+                     <staff xml:id="staff-0000000756300998" n="1">
+                        <layer xml:id="layer-0000001407934997" n="1">
+                           <note xml:id="note-0000001172058106" dur.ppq="8" dur="4" oct="5" pname="g" stem.dir="down" />
+                           <note xml:id="note-0000000106795283" dur.ppq="2" dur="16" oct="5" pname="g" stem.dir="down" />
+                           <rest xml:id="rest-0000001440855044" dur.ppq="2" dur="16" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hairpin-0000002144969841" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="60" />
+                     <tie xml:id="tie-0000001566632001" startid="#note-0000001172058106" endid="#note-0000000106795283" />
+                     <fermata xml:id="fermata-0000001851583522" staff="1" startid="#note-0000001172058106" form="norm" shape="square" place="above" />
+                  </measure>
+                  <measure xml:id="measure-0000000330465469" n="3">
+                     <staff xml:id="staff-0000001146442943" n="1">
+                        <layer xml:id="layer-0000001547414154" n="1">
+                           <rest xml:id="rest-0000002025153461" dur.ppq="1" dur="32" />
+                           <beam xml:id="beam-0000000584450581">
+                              <note xml:id="note-0000000914963008" dur.ppq="1" dur="32" oct="4" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000001882988629" dur.ppq="1" dur="32" oct="4" pname="b" stem.dir="down">
+                                 <accid xml:id="accid-0000000901416788" accid="f" accid.ges="f" />
+                              </note>
+                              <note xml:id="note-0000001327332536" dur.ppq="1" dur="32" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="note-0000000332814616" dur.ppq="1" dur="32" oct="5" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000001963448301" dur.ppq="1" dur="32" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="note-0000000767870759" dur.ppq="1" dur="32" oct="6" pname="c" stem.dir="down" />
+                              <note xml:id="note-0000000502127253" dur.ppq="1" dur="32" oct="6" pname="f" stem.dir="down">
+                                 <accid xml:id="accid-0000000610841870" accid="s" accid.ges="s" />
+                              </note>
+                              <note xml:id="note-0000001128368761" dur.ppq="1" dur="32" oct="6" pname="f" stem.dir="down">
+                                 <accid xml:id="accid-0000000849955923" accid="n" />
+                              </note>
+                              <note xml:id="note-0000001161056818" dur.ppq="1" dur="32" oct="6" pname="e" stem.dir="down" />
+                              <note xml:id="note-0000001706840031" dur.ppq="1" dur="32" oct="6" pname="c" stem.dir="down" />
+                              <note xml:id="note-0000000398574814" dur.ppq="1" dur="32" oct="5" pname="b" stem.dir="down">
+                                 <accid xml:id="accid-0000001838002554" accid="f" accid.ges="f" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000001810106756" place="below" staff="1" tstamp="1.250000" vgrp="40">
+                        <rend xml:id="rend-0000001848057496" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
+                     </dir>
+                     <hairpin xml:id="hairpin-0000001226200590" staff="1" tstamp="1.750000" tstamp2="0m+2.5000" form="cres" place="below" vgrp="95" />
+                     <hairpin xml:id="hairpin-0000001987135037" staff="1" tstamp="3.000000" tstamp2="1m+2.2500" form="dim" place="below" vgrp="95" />
+                  </measure>
+                  <measure xml:id="measure-0000001146244742" n="4">
+                     <staff xml:id="staff-0000000303343978" n="1">
+                        <layer xml:id="layer-0000001926553433" n="1">
+                           <beam xml:id="beam-0000000148219536">
+                              <note xml:id="note-0000000119064534" dur.ppq="1" dur="32" oct="5" pname="g" stem.dir="up" />
+                              <note xml:id="note-0000000258219052" dur.ppq="1" dur="32" oct="5" pname="e" stem.dir="up" />
+                              <note xml:id="note-0000001105186126" dur.ppq="1" dur="32" oct="5" pname="c" stem.dir="up">
+                                 <accid xml:id="accid-0000002082658402" accid="s" accid.ges="s" />
+                              </note>
+                              <note xml:id="note-0000000500581157" dur.ppq="1" dur="32" oct="4" pname="b" stem.dir="up">
+                                 <accid xml:id="accid-0000001534522546" accid="f" accid.ges="f" />
+                              </note>
+                              <note xml:id="note-0000001196266573" dur.ppq="1" dur="32" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="note-0000001614587557" dur.ppq="1" dur="32" oct="4" pname="g" stem.dir="up">
+                                 <accid xml:id="accid-0000000936663687" accid="s" accid.ges="s" />
+                              </note>
+                              <note xml:id="note-0000000736935674" dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="note-0000000183108884" dur.ppq="1" dur="32" oct="4" pname="e" stem.dir="up" />
+                           </beam>
+                           <rest xml:id="rest-0000001668788744" dur.ppq="4" dur="8" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000000928697045" place="below" staff="1" tstamp="2.750000" vgrp="40">
+                        <rend xml:id="rend-0000002090959873" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
+                     </dir>
+                     <fermata xml:id="fermata-0000000580760920" staff="1" startid="#rest-0000001668788744" form="norm" shape="angular" place="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Conflagración de Deseos</title>
+            <respStmt>
+               <persName role="composer">Johanny Navarro </persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-11-18" type="encoding-date">2021-11-18</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000002072423226">
+         <appInfo xml:id="appinfo-0000001743893362">
+            <application xml:id="application-0000001532224251" isodate="2021-11-18T10:42:43" version="3.4.1-8f65a58">
+               <name xml:id="name-0000000059215757">Verovio</name>
+               <p xml:id="p-0000001948879594">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000206390091">
+            <score xml:id="score-0000000921440802">
+               <scoreDef xml:id="svhmu9j">
+                  <pgHead xml:id="pghead-0000001737618289">
+                     <rend xml:id="rend-0000001977672529" halign="center" valign="top">Conflagración de Deseos</rend>
+                     <rend xml:id="rend-0000002019453893" halign="center" valign="top">I</rend>
+                     <rend xml:id="rend-0000000313024327" halign="right" valign="bottom">Johanny Navarro </rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000000892118432">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-1.000000" trans.semi="-2.000000">
+                        <label xml:id="label-0000000307696573">B♭ Trumpet</label>
+                        <labelAbbr xml:id="labelAbbr-0000001676301899">B♭ Tpt.</labelAbbr>
+                        <instrDef xml:id="instrdef-0000000461803338" midi.channel="0" midi.instrnum="56" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000000761044972" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000001190338079" sig="2f" />
+                        <meterSig xml:id="msig-0000001802711286" count="6" unit="8" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000001676426515">
+                  <pb xml:id="pb-0000000481335309" />
+                  <measure xml:id="measure-0000001558113398" n="1">
+                     <staff xml:id="staff-0000000495557412" n="1">
+                        <layer xml:id="layer-0000000278703144" n="1">
+                           <rest xml:id="rest-0000000438124171" dots="1" dur.ppq="3" dur="4" />
+                           <note xml:id="note-0000001160445287" dots="1" dur.ppq="3" dur="4" oct="4" pname="c" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000001670235701" place="above" staff="1" tstamp="1.000000" midi.bpm="98" mm="65.000000" mm.unit="4" mm.dots="1">
+                     <rend xml:id="rend-0000001823057965" fontname="VerovioText">Con meraviglia (</rend> = 65)</tempo>
+                     <dir xml:id="dir-0000001117531415" place="above" staff="1" tstamp="1.000000" vgrp="200">[B♭trumpet II]</dir>
+                     <dir xml:id="dir-0000001380741012" place="below" staff="1" tstamp="4.000000" vgrp="40">
+                        <rend xml:id="rend-0000000587496345" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="measure-0000001530529934" n="2">
+                     <staff xml:id="staff-0000000392857263" n="1">
+                        <layer xml:id="layer-0000001283092883" n="1">
+                           <beam xml:id="beam-0000001414942157">
+                              <note xml:id="note-0000000416226074" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="note-0000001307949931" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="note-0000000607701925" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                           </beam>
+                           <note xml:id="note-0000001520352137" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000000509240809" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000001427779704" startid="#note-0000000416226074" endid="#note-0000001923471888" curvedir="below" />
+                  </measure>
+                  <measure xml:id="measure-0000002013613766" n="3">
+                     <staff xml:id="staff-0000000706481600" n="1">
+                        <layer xml:id="layer-0000002037520405" n="1">
+                           <note xml:id="note-0000001923471888" dots="1" dur.ppq="3" dur="4" oct="3" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000000925663341" dots="1" dur.ppq="3" dur="4" oct="3" pname="a" stem.dir="up">
+                              <accid xml:id="accid-0000000614576958" accid="f" accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <breath xml:id="breath-0000001101117830" staff="1" tstamp="7.000000" />
+                  </measure>
+                  <measure xml:id="measure-0000001665900731" n="4">
+                     <staff xml:id="staff-0000000639981285" n="1">
+                        <layer xml:id="layer-0000001320088812" n="1">
+                           <beam xml:id="beam-0000001437829232">
+                              <note xml:id="note-0000001521402998" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="note-0000001997763694" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="note-0000001032783241" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="beam-0000002030664601">
+                              <note xml:id="note-0000000147914092" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="note-0000000602602082" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="note-0000001741790687" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000001163723813" startid="#note-0000001521402998" endid="#note-0000000077833394" curvedir="below" />
+                  </measure>
+                  <measure xml:id="measure-0000001076488123" n="5">
+                     <staff xml:id="staff-0000000822860123" n="1">
+                        <layer xml:id="layer-0000002064996536" n="1">
+                           <note xml:id="note-0000000077833394" dots="1" dur.ppq="6" dur="2" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="accid-0000000804060000" accid="s" accid.ges="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fermata-0000001560816472" staff="1" startid="#note-0000000077833394" form="norm" place="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
