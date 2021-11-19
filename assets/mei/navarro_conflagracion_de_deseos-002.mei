@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Conflagración de Deseos, II</title>
+            <respStmt>
+               <persName role="composer">Johanny Navarro </persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-11-19" type="encoding-date">2021-11-19</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000001225824945">
+         <appInfo xml:id="appinfo-0000001465981315">
+            <application xml:id="application-0000001481987574" isodate="2021-11-19T16:33:45" version="3.4.1-8f65a58">
+               <name xml:id="name-0000001740449736">Verovio</name>
+               <p xml:id="p-0000000665656680">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000000287038361">
+            <score xml:id="score-0000001145448461">
+               <scoreDef xml:id="svhmu9j">
+                  <pgHead xml:id="pghead-0000001676152402">
+                     <rend xml:id="rend-0000001290919900" halign="center" valign="top">Conflagración de Deseos</rend>
+                     <rend xml:id="rend-0000000574775476" halign="center" valign="top">II</rend>
+                     <rend xml:id="rend-0000001990663259" halign="right" valign="bottom">Johanny Navarro </rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000001355798653">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-4.000000" trans.semi="-7.000000">
+                        <label xml:id="label-0000001310682092">Horn in F</label>
+                        <labelAbbr xml:id="labelAbbr-0000001059433765">F Hn.</labelAbbr>
+                        <instrDef xml:id="instrdef-0000001061347001" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000002006912390" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000000181327206" sig="3s" />
+                        <meterSig xml:id="msig-0000000580130810" count="6" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000001123494258">
+                  <pb xml:id="pb-0000000207828034" />
+                  <measure xml:id="measure-0000001368111189" n="1">
+                     <staff xml:id="staff-0000000621404612" n="1">
+                        <layer xml:id="layer-0000000667627559" n="1">
+                           <note xml:id="note-0000000044257541" dots="1" dur.ppq="6" dur="2" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="note-0000001395342085" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="note-0000001528971100" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="note-0000001629905257" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dir-0000002020965600" place="below" staff="1" tstamp="1.000000" vgrp="49">
+                        <rend xml:id="rend-0000000235093301" rend="none" fontstyle="italic" fontweight="bold">p</rend>
+                     </dir>
+                     <tempo xml:id="tempo-0000002022719793" place="above" staff="1" tstamp="1.000000" midi.bpm="60" mm="60.000000" mm.unit="4">
+                        <rend xml:id="rend-0000000786401834" fontname="VerovioText">Cantabile (</rend> = 60)</tempo>
+                     <dir xml:id="dir-0000000218935664" place="above" staff="1" tstamp="1.000000" vgrp="200">[French Horn]</dir>
+                     <slur xml:id="slur-0000001890101077" startid="#note-0000000044257541" endid="#note-0000000840286430" curvedir="below" />
+                  </measure>
+                  <scoreDef xml:id="scoredef-0000000683553787">
+                     <meterSig xml:id="msig-0000001061949580" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="measure-0000000270503634" n="2">
+                     <staff xml:id="staff-0000000416001250" n="1">
+                        <layer xml:id="layer-0000001038187887" n="1">
+                           <note xml:id="note-0000000840286430" dots="1" dur.ppq="6" dur="2" oct="4" pname="g" stem.dir="up" accid.ges="s" />
+                           <rest xml:id="rest-0000001945394094" dur.ppq="1" dur="8" />
+                           <note xml:id="note-0000002116312846" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up" accid.ges="s" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000001150061136" startid="#note-0000002116312846" endid="#note-0000001272189397" curvedir="below" />
+                  </measure>
+                  <measure xml:id="measure-0000001655196909" n="3">
+                     <staff xml:id="staff-0000001816173303" n="1">
+                        <layer xml:id="layer-0000000153443053" n="1">
+                           <note xml:id="note-0000001272189397" dur.ppq="4" dur="2" oct="4" pname="a" stem.dir="up" />
+                           <rest xml:id="rest-0000000543995867" dur.ppq="2" dur="4" />
+                           <note xml:id="note-0000001220590240" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="slur-0000000297225945" startid="#note-0000001220590240" endid="#note-0000000962476580" curvedir="above" />
+                  </measure>
+                  <measure xml:id="measure-0000000171060004" n="4">
+                     <staff xml:id="staff-0000000149013149" n="1">
+                        <layer xml:id="layer-0000000967891981" n="1">
+                           <note xml:id="note-0000000677437188" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" accid.ges="s" />
+                           <note xml:id="note-0000000946484989" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="note-0000001274996917" dur.ppq="4" dur="2" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tie-0000001577853296" startid="#note-0000001274996917" endid="#note-0000000962476580" />
+                  </measure>
+                  <measure xml:id="measure-0000001573450781" n="5">
+                     <staff xml:id="staff-0000001163850271" n="1">
+                        <layer xml:id="layer-0000000236895577" n="1">
+                           <note xml:id="note-0000000962476580" dur.ppq="8" dur="1" oct="5" pname="e" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
