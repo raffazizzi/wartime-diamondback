@@ -1,0 +1,10 @@
+---
+layout: mei
+title: Four Mediaeval Welsh Poems, IV. Claddu'r Bardd
+author: Williams, Grace
+permalink: /williams-welsh-poems-iv/
+document: williams_four_mediaeval_welsh_poems_004.mei
+---
+
+- In *Four mediaeval Welsh poems.* Oriana Publications, 2010.
+- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21283969240003851" target="_blank">Music Library Inquire @ Desk MSC9300</a>
