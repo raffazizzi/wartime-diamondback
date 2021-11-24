@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Four Mediaeval Welsh Poems, II. Hwiangerdd
+title: Four Mediaeval Welsh Poems, I. Stafell Gynddylan
 author: Williams, Grace
-permalink: /williams-welsh-poems-ii/
-document:
+permalink: /williams-welsh-poems-i/
+document: williams_four_mediaeval_welsh_poems_001.mei
 ---
 
 - In *Four mediaeval Welsh poems.* Oriana Publications, 2010.
