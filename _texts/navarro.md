@@ -2,7 +2,7 @@
 layout: page
 title: Navarro, Johanny (1992-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /navarro/
 ---
 

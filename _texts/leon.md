@@ -2,7 +2,7 @@
 layout: page
 title: León, Tania (1943-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /leon/
 ---
 <a title="Photo by Michael Provost, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tania_Leon.jpg"><img width="128" alt="Tania Leon" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Tania_Leon.jpg"></a>

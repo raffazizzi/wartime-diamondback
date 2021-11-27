@@ -2,7 +2,7 @@
 layout: page
 title: Tillis, Frederick C. (1930-2020)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /tillis/
 ---
 

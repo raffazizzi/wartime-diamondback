@@ -2,7 +2,7 @@
 layout: page
 title: Price, Florence B. (1887-1953)
 category: incipits
-century: 19-20th
+century: 19th
 permalink: /price/
 ---
 

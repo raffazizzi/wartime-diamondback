@@ -2,7 +2,7 @@
 layout: page
 title: Abels, Michael (1962-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /abels/
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Szymanowska, Maria (1789-1831)
 category: incipits
-century: 18-19th
+century: 18th
 permalink: /szymanowska/
 ---
 <a title="Deutsch: Gemälde im Musée Mickiewicz in Paris (1932)., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Maria_Szymanowska.jpg"><img width="256" alt="Maria Szymanowska" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Maria_Szymanowska.jpg/256px-Maria_Szymanowska.jpg"></a>

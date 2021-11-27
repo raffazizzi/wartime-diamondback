@@ -2,7 +2,7 @@
 layout: page
 title: Moore, Dorothy Rudd (1940-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /moore/
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Boulanger, Lili (1893-1918)
 category: incipits
-century: 19-20th
+century: 19th
 permalink: /boulanger-l/
 ---
 <a title="unidentified photographer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lili_Boulanger_1.jpg"><img width="128" alt="Lili Boulanger 1" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Lili_Boulanger_1.jpg"></a>

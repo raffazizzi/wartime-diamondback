@@ -2,7 +2,7 @@
 layout: page
 title: Beach, Amy Marcy Cheney (1867-1944)
 category: incipits
-century: 19-20th
+century: 19th
 permalink: /beach/
 ---
 

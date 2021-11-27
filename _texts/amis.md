@@ -2,7 +2,7 @@
 layout: page
 title: Amis, Kenneth (1970-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /amis/
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Andrée, Elfrida (1841-1929)
 category: incipits
-century: 19-20th
+century: 19th
 permalink: /andree/
 ---
 <a title="Elfrida-Andree, IMSLP" href="https://imslp.org/wiki/File:Elfrida-Andree.jpg#filelinks"><img width="256" alt="Andrée, Elfrida" src="https://imslp.org/images/thumb/6/68/Elfrida-Andree.jpg/334px-Elfrida-Andree.jpg"></a>

@@ -2,7 +2,7 @@
 layout: page
 title: Holt, Nora Douglas (1884/5-1974)
 category: incipits
-century: 19-20th
+century: 19th
 permalink: /holt/
 ---
 

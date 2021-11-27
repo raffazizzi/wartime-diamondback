@@ -2,7 +2,7 @@
 layout: page
 title: Adams, Leslie (1932-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /adams/
 ---
 <a title="Michael Dalby, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:H_leslie_adams.jpg"><img width="256" alt="H leslie adams" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/H_leslie_adams.jpg/256px-H_leslie_adams.jpg"></a>

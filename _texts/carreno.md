@@ -2,7 +2,7 @@
 layout: page
 title: Carreño, Teresa (1853-1917)
 category: incipits
-century: 19-20th
+century: 19th
 permalink: /carreno/
 ---
 <a title="National Portrait Gallery

@@ -2,7 +2,7 @@
 layout: page
 title: Fung, Vivian (1975-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /fung/
 ---
 

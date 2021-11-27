@@ -2,7 +2,7 @@
 layout: page
 title: Dun, Tan (1957-)
 category: incipits
-century: 20th-21st
+century: 20th
 permalink: /dun/
 ---
 
