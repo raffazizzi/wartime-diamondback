@@ -61,8 +61,8 @@
                            <multiRest xml:id="mbfev8u" num="8" />
                         </layer>
                      </staff>
-                     <tempo place="above" staff="1" tstamp="1.0000" mm.unit="4">
-            <rend fontname="VerovioText">Religious and spiritual ( </rend>= 60)</tempo>
+                     <tempo>place="above" staff="1" tstamp="1.0000">
+             fontname="VerovioText">Religious and spiritual ( =60)</rend></tempo>
                   </measure>
                   <measure xml:id="m294295" n="9">
                      <staff xml:id="s1h02c8" n="1">
