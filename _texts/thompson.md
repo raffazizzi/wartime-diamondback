@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thompson, Richard (1950)
+title: Thompson, Richard (1950-)
 category: incipits
 century: 20th
 permalink: /thompson/
