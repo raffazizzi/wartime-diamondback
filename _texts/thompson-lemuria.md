@@ -1,0 +1,10 @@
+---
+layout: mei
+title: Lemuria Fantasy for piano (1996)
+author: Thompson, Richard
+permalink: /thompson-lemuria/
+document: thompson_lemuria_fantasy.mei
+---
+
+- In *Lemuria Fantasy: For Piano (1996).* New York: American Composers Alliance, 1996.
+- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21285436550003851" target="_blank">Music Library Inquire @ Desk MSC9286</a>
