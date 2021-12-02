@@ -62,7 +62,7 @@
                         </layer>
                      </staff>
                      <tempo>place="above" staff="1" tstamp="1.0000">
-             fontname="VerovioText">Religious and spiritual ( =60)</rend></tempo>
+             <rend fontname="VerovioText">Religious and spiritual ( </rend>= 60)</tempo>
                   </measure>
                   <measure xml:id="m294295" n="9">
                      <staff xml:id="s1h02c8" n="1">
