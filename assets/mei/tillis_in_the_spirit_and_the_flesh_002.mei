@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>In the Spirit and the Flesh</title>
+            <respStmt>
+               <persName role="composer">Frederick Tillis</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-12-02" type="encoding-date">2021-12-02</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0">
+         <appInfo xml:id="appinfo-c93oye">
+            <application xml:id="application-qqdpwn" isodate="2021-12-02T16:34:48" version="3.8.0-dev-acb0387">
+               <name xml:id="name-s9el2b">Verovio</name>
+               <p xml:id="p-rlxuac">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m6px5z6">
+            <score xml:id="s4krg7u">
+               <scoreDef xml:id="slfupj0">
+                  <pgHead xml:id="piz8ven">
+                     <rend xml:id="rnspp9w" halign="center" valign="top">In the Spirit and the Flesh</rend>
+                     <rend xml:id="rp1bm73" halign="center" valign="top">II. Ev'ry Time I Feel the Spirit</rend>
+                     <rend xml:id="rnfijco" halign="right" valign="bottom">Frederick Tillis</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sj9mbcc">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-4.000000" trans.semi="-7.000000">
+                        <label xml:id="lg486nx">Horn in F</label>
+                        <labelAbbr xml:id="lgdeepw">F Hn.</labelAbbr>
+                        <instrDef xml:id="ifhmvki" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
+                        <clef xml:id="cxbyuvm" shape="G" line="2" />
+                        <keySig xml:id="k7z7910" sig="0" />
+                        <meterSig xml:id="m7oahij" count="5" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sb4csto">
+                  <measure xml:id="msiuo6l" n="1">
+                     <staff xml:id="ssclhah" n="1">
+                        <layer xml:id="lwz70rw" n="1">
+                           <rest xml:id="rz3zq9y" dur.ppq="4" dur="2" />
+                           <rest xml:id="rxk0cdd" dur.ppq="2" dur="4" />
+                           <note xml:id="nwcncr2" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up">
+                              <artic xml:id="a3aqb0f" artic="stacc" />
+                           </note>
+                           <note xml:id="n1j5ayj" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down">
+                              <artic xml:id="a45hbiv" artic="acc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tdwlq4y" place="above" staff="1" tstamp="1.000000" midi.bpm="138.000000" mm="138.000000" mm.unit="4">
+                        <rend xml:id="r603for" fontname="VerovioText"></rend> = 138</tempo>
+                     <dir xml:id="drfuzst" place="below" staff="1" tstamp="4.000000" vgrp="46">
+                        <rend xml:id="rfcknvj" fontstyle="italic" fontweight="bold">mf</rend>
+                     </dir>
+                     <dir xml:id="de7k9e3" place="above" staff="1" tstamp="4.000000" vgrp="213">[french horns 1+2]</dir>
+                     <tie xml:id="tt38jfn" startid="#n1j5ayj" endid="#n5nf59a" />
+                  </measure>
+                  <measure xml:id="mpz33ir" n="2">
+                     <staff xml:id="ss2wt99" n="1">
+                        <layer xml:id="lck68ee" n="1">
+                           <beam xml:id="b52tfrb">
+                              <note xml:id="n5nf59a" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="up" />
+                              <note xml:id="nbfnwuv" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <artic xml:id="abvlud7" artic="acc" />
+                              </note>
+                           </beam>
+                           <note xml:id="n7vanif" dots="1" dur.ppq="6" dur="2" oct="4" pname="b" stem.dir="down">
+                              <artic xml:id="azqd7w" artic="acc" />
+                           </note>
+                           <rest xml:id="rvkabhw" dur.ppq="2" dur="4" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="sx03ys0" startid="#nbfnwuv" endid="#n7vanif" curvedir="above" />
+                  </measure>
+                  <measure xml:id="mak69h6" n="3">
+                     <staff xml:id="ssngp5t" n="1">
+                        <layer xml:id="lfbsbvk" n="1">
+                           <rest xml:id="r2f1ujk" dur.ppq="2" dur="4" />
+                           <note xml:id="n7t2x5z" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up">
+                              <artic xml:id="a4vj02x" artic="stacc" />
+                           </note>
+                           <note xml:id="n3bf8oo" dots="1" dur.ppq="3" dur="4" oct="4" pname="b" stem.dir="down">
+                              <artic xml:id="aqquvxx" artic="acc" />
+                           </note>
+                           <note xml:id="nrvzqrd" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                              <artic xml:id="asty61d" artic="acc" />
+                           </note>
+                           <note xml:id="niugq8o" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down">
+                              <artic xml:id="aa0iufh" artic="acc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sby4h3o" startid="#nrvzqrd" endid="#niugq8o" curvedir="above" />
+                     <tie xml:id="trj6819" startid="#niugq8o" endid="#nh8z49j" />
+                  </measure>
+                  <measure xml:id="m9j0vyp" n="4">
+                     <staff xml:id="s9xsat1" n="1">
+                        <layer xml:id="lq5fbkh" n="1">
+                           <note xml:id="nh8z49j" dots="1" dur.ppq="6" dur="2" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="nt0nwg7" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
