@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Broke baroque, II. Aberti
+title: Broke baroque, II. Alberti
 author: Anderson, T.J.
 permalink: /anderson-broke-baroque-II/
 document: anderson_broke_baroque_002.mei
