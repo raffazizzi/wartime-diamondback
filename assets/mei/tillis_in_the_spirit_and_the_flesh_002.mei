@@ -109,8 +109,9 @@
                            </note>
                         </layer>
                      </staff>
-                     <slur xml:id="sby4h3o" startid="#nrvzqrd" endid="#niugq8o" curvedir="above" />
+                     <slur xml:id="sby4h3o" startid="#nrvzqrd" endid="#nh8z49j" curvedir="above" />
                      <tie xml:id="trj6819" startid="#niugq8o" endid="#nh8z49j" />
+                     <tie startid="#nh8z49j" endid="#nt0nwg7" />
                   </measure>
                   <measure xml:id="m9j0vyp" n="4">
                      <staff xml:id="s9xsat1" n="1">
