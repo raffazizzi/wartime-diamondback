@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: In the Spirit and the Flesh for Jazz Trio and Orchestra, II. Ev'ry Time I Feel the Spirit
-author: Tillis, Frederick
+author: Tillis, Frederick C.
 permalink: /tillis-in-the-spirit-and-the-flesh-2/
 document: tillis_in_the_spirit_and_the_flesh_002.mei
 ---

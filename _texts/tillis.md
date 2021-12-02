@@ -13,7 +13,7 @@ permalink: /tillis/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Tillis, Frederick" %}
+      {% if item.author == "Tillis, Frederick C." %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
