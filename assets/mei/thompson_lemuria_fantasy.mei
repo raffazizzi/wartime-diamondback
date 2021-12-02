@@ -8,9 +8,18 @@
             <title>Lemuria Fantasy</title>
             <respStmt>
                <persName role="composer">Richard Thompson</persName>
+               <persName role="transcriber">Anna E. Kijas</persName>
+               <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-12-02" type="encoding-date">2021-12-02</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+       <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+    </availability>
+    <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+    </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-grwnwj">
@@ -94,8 +103,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tkntog3" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="96.000000" mm="64.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rpjfkyy" fontfam="Edwin">Molto Moderato e rubato </rend>
-                        <rend xml:id="rii0nzz" fontname="VerovioText"></rend> = 64</tempo>
+                        <rend xml:id="rii0nzz" fontname="VerovioText">Molto Moderato e rubato </rend> = 64</tempo>
                      <dynam xml:id="doze494" place="below" staff="1" tstamp="1.000000" val="49" vgrp="73">p</dynam>
                      <slur xml:id="sx2a682" startid="#nz9hfuh" endid="#nm1jp6n" curvedir="above" />
                      <slur xml:id="s5p5qyr" startid="#nz9hfuh" endid="#nm1jp6n" curvedir="below" />
