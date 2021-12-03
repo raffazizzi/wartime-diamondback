@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Thumbnail Sketches of a Day in the Life of a Washerwoman</title>
+            <title>Thumbnail Sketches of a Day in the Life of a Washerwoman, II. A Gay Moment</title>
             <respStmt>
                <persName role="composer">Florence Price</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -37,13 +37,12 @@
             <score xml:id="sxgwy75">
                <scoreDef xml:id="sc3r04a">
                   <pgHead xml:id="pxwgps4">
-                     <rend xml:id="rnv5lan" halign="center" valign="top">Thumbnail Sketches of a Day
+                     <rend xml:id="rnv5lan" halign="center" valign="top">Thumbnail Sketches of a Day in the Life of a Washerwoman
 </rend>
                      <rend xml:id="rkhtfs0" halign="center" valign="top">II. A Gay Moment</rend>
                      <rend xml:id="raa87cc" halign="right" valign="bottom">Florence Price</rend>
                   </pgHead>
                   <pgFoot xml:id="p8irnzc">
-                     <rend xml:id="rvattfc">in the Life of a Washerwoman</rend>
                   </pgFoot>
                   <staffGrp xml:id="scfs8yn">
                      <staffGrp xml:id="P1" bar.thru="true">
