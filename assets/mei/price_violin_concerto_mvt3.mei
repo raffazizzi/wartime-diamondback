@@ -43,7 +43,7 @@
                   </pgHead>
                   <staffGrp xml:id="stjakb4">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                        <label xml:id="l2qra6x">Violin I &amp;amp; II</label>
+                        <label xml:id="l2qra6x">Violin I &amp; II</label>
                         <labelAbbr xml:id="lytvryf">Vln.</labelAbbr>
                         <instrDef xml:id="itslwyo" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
                         <clef xml:id="c8jjz20" shape="G" line="2" />
