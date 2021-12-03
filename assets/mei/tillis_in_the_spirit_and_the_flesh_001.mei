@@ -8,9 +8,18 @@
             <title>In the Spirit and the Flesh</title>
             <respStmt>
                <persName role="composer">Frederick Tillis</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-12-03" type="encoding-date">2021-12-03</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+       <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+    </availability>
+    <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+    </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-7ezmth">
@@ -61,19 +70,19 @@
                            <note xml:id="nasm7a1" dots="1" dur.ppq="90" dur="2" oct="3" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
+                        <tie startid="#nasm7a1" endid="#n9wm8ax" />
                      <dir xml:id="djq6gs6" place="below" staff="1" tstamp="1.000000" vgrp="50">
                         <rend xml:id="r5enxxy" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
                      <dir xml:id="di939pi" place="above" staff="1" tstamp="1.000000" vgrp="225">[cello]</dir>
                      <tempo xml:id="tbtb3b0" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rgby0ax" fontweight="bold">c. 100 Moderately (expectantly)</rend>
-                        <rend xml:id="rh9st83" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="rh9st83" fontname="VerovioText"></rend> = c. 100 Moderately (expectantly)</tempo>
                      <slur xml:id="svhmu9j" startid="#ng5kctd" endid="#nasm7a1" curvedir="above" />
-                     <hairpin xml:id="hfi109x" staff="1" tstamp="1.200000" tstamp2="0m+1.3000" form="cres" place="below" vgrp="70" />
+                     <hairpin xml:id="hfi109x" staff="1" tstamp="1.200000" tstamp2="0m+1.78800" form="cres" place="below" vgrp="70" />
                      <dir xml:id="de5zabt" place="below" staff="1" tstamp="1.800000" vgrp="40">
                         <rend xml:id="r6adpsi" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
-                     <tie xml:id="t30mdml" startid="#nt50l5r" endid="#nasm7a1" />
+                     <tie xml:id="t30mdml" startid="#nt50l5r" endid="#nasm7a1"/>
                   </measure>
                   <measure xml:id="mp6y520" n="2">
                      <staff xml:id="shnc6pd" n="1">
@@ -89,6 +98,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="tlqjqg8" startid="#nkjrayl" endid="#n7v9xk6" />
+                     <tie startid="#n7v9xk6" endid="#ny7689p" />
                   </measure>
                   <measure xml:id="mwgmtoa" n="3">
                      <staff xml:id="sp3whux" n="1">
@@ -103,6 +113,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="t8yn81j" startid="#na5988k" endid="#nmkn4mb" />
+                     <tie startid="#nmkn4mb" endid="#nz08cp4" />
                   </measure>
                   <measure xml:id="m912n6m" n="4">
                      <staff xml:id="szdq6o4" n="1">
