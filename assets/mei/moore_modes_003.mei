@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Modes for String Quartet</title>
+            <respStmt>
+               <persName role="composer">Dorothy Rudd Moore</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-12-03" type="encoding-date">2021-12-03</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-xbexho">
+         <appInfo xml:id="appinfo-qx537g">
+            <application xml:id="application-3zc7o6" isodate="2021-12-03T12:00:36" version="3.8.0-dev-acb0387">
+               <name xml:id="name-zd7413">Verovio</name>
+               <p xml:id="p-bdu2k1">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mo2kvf1">
+            <score xml:id="s1sfzew">
+               <scoreDef xml:id="sg3oa0a">
+                  <pgHead xml:id="ps0u153">
+                     <rend xml:id="r54d0lg" halign="center" valign="top">Modes for String Quartet</rend>
+                     <rend xml:id="rsszwhw" halign="center" valign="top">III</rend>
+                     <rend xml:id="rf0fs7c" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
+                     <rend xml:id="rq3on2f" halign="left" valign="top">Violin 1</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sjfxt4x">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l1j5ag9">Violin 1</label>
+                        <labelAbbr xml:id="llsyadl">Vln. 1</labelAbbr>
+                        <instrDef xml:id="i72lqf9" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="cwn6uw" shape="G" line="2" />
+                        <keySig xml:id="krtgwkn" sig="0" />
+                        <meterSig xml:id="moze494" count="8" unit="8" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="swkbjkv">
+                  <measure xml:id="mrgorqi" n="1">
+                     <staff xml:id="sa18urg" n="1">
+                        <layer xml:id="li98u6e" n="1">
+                           <note xml:id="nbnqen1" dots="1" dur.ppq="3" dur="4" oct="5" pname="f" stem.dir="down">
+                              <artic xml:id="aw7uewp" artic="acc" />
+                           </note>
+                           <note xml:id="n78oejx" dots="1" dur.ppq="3" dur="4" oct="6" pname="c" stem.dir="down" />
+                           <note xml:id="nnnooyd" dur.ppq="2" dur="4" oct="6" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d727l2b" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rb0trsr" fontstyle="italic" fontweight="bold">f</rend>
+                     </dir>
+                     <tempo xml:id="tmfv22u" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000">
+                        <rend xml:id="r4y5pn8" fontweight="bold">Allegro</rend>
+                     </tempo>
+                  </measure>
+                  <measure xml:id="mz9hfuh" n="2">
+                     <staff xml:id="smd0bb3" n="1">
+                        <layer xml:id="lsbh1lm" n="1">
+                           <note xml:id="ni8zyi0" dots="1" dur.ppq="3" dur="4" oct="6" pname="e" stem.dir="down" accid="f">
+                              <artic xml:id="aen19ri" artic="acc" />
+                           </note>
+                           <note xml:id="ni27z4q" dots="1" dur.ppq="3" dur="4" oct="6" pname="f" stem.dir="down" />
+                           <note xml:id="nv6fim0" dur.ppq="2" dur="4" oct="6" pname="e" stem.dir="down" accid.ges="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m5wpbis" n="3">
+                     <staff xml:id="stf2x4t" n="1">
+                        <layer xml:id="l1fkfpo" n="1">
+                           <note xml:id="n5n86e5" dur.ppq="2" dur="4" oct="6" pname="d" stem.dir="down" accid="f" />
+                           <note xml:id="n9m1isb" dots="1" dur.ppq="3" dur="4" oct="6" pname="c" stem.dir="down">
+                              <artic xml:id="adxswtm" artic="acc" />
+                           </note>
+                           <note xml:id="notci4a" dots="1" dur.ppq="3" dur="4" oct="5" pname="g" stem.dir="down" accid="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m43urk5" n="4">
+                     <staff xml:id="smgdttw" n="1">
+                        <layer xml:id="lruiurp" n="1">
+                           <note xml:id="npz86w5" dots="1" dur.ppq="6" dur="2" oct="5" pname="f" stem.dir="down">
+                              <artic xml:id="ajen8ys" artic="acc" />
+                           </note>
+                           <note xml:id="nj9vl8l" dur.ppq="1" dur="8" oct="5" pname="f" stem.dir="down" />
+                           <rest xml:id="roq2zjg" dur.ppq="1" dur="8" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tbclei5" startid="#npz86w5" endid="#nj9vl8l" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
