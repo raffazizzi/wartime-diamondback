@@ -5,12 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Thumbnail Sketches of a Day in the Life of a Washerwoman</title>
+            <title>Thumbnail Sketches of a Day in the Life of a Washerwoman, III. Evening Shadows</title>
             <respStmt>
                <persName role="composer">Florence Price</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-12-03" type="encoding-date">2021-12-03</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+               <availability>
+                  <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+               </availability>
+               <identifier>
+               <ref target="https://rebalancing-music-canon.com/"/>
+               </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-o0ln1t">
@@ -28,7 +37,7 @@
             <score xml:id="sgwuuv8">
                <scoreDef xml:id="sixf079">
                   <pgHead xml:id="p8o9kpt">
-                     <rend xml:id="rkxmrnx" halign="center" valign="top">Thumbnail Sketches of a Day 
+                     <rend xml:id="rkxmrnx" halign="center" valign="top">Thumbnail Sketches of a Day
 </rend>
                      <rend xml:id="richgvu" halign="center" valign="top">III. Evening Shadows</rend>
                      <rend xml:id="ro4ornu" halign="right" valign="bottom">Florence Price</rend>

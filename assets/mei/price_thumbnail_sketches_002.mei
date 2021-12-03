@@ -8,9 +8,18 @@
             <title>Thumbnail Sketches of a Day in the Life of a Washerwoman</title>
             <respStmt>
                <persName role="composer">Florence Price</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-12-03" type="encoding-date">2021-12-03</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-me7p3z">
@@ -28,7 +37,7 @@
             <score xml:id="sxgwy75">
                <scoreDef xml:id="sc3r04a">
                   <pgHead xml:id="pxwgps4">
-                     <rend xml:id="rnv5lan" halign="center" valign="top">Thumbnail Sketches of a Day 
+                     <rend xml:id="rnv5lan" halign="center" valign="top">Thumbnail Sketches of a Day
 </rend>
                      <rend xml:id="rkhtfs0" halign="center" valign="top">II. A Gay Moment</rend>
                      <rend xml:id="raa87cc" halign="right" valign="bottom">Florence Price</rend>

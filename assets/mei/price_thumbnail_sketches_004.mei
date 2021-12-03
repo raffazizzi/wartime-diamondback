@@ -5,12 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Thumbnail Sketches of a Day in the Life of a Washerwoman</title>
+            <title>Thumbnail Sketches of a Day in the Life of a Washerwoman, Appendix: II. Dreaming at the Washtub</title>
             <respStmt>
                <persName role="composer">Florence B.  Price</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-12-03" type="encoding-date">2021-12-03</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+               <availability>
+                  <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+               </availability>
+               <identifier>
+               <ref target="https://rebalancing-music-canon.com/"/>
+               </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-xh08jl">
