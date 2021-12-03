@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Thumbnail Sketches of Day in the Life of a Washerwoman, III. Evening Shadows
+title: Thumbnail sketches of a day in the life of a washerwoman, III. Evening shadows
 author: Price, Florence B.
 permalink: /price-thumbnail-sketches-3/
 document: price_thumbnail_sketches_003.mei

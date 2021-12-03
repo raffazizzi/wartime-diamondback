@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Thumbnail Sketches of Day in the Life of a Washerwoman, Appendix II. Dreaming at the Washtub
+title: Thumbnail sketches of a day in the life of a washerwoman, Appendix II. Dreaming at the washtub
 author: Price, Florence B.
 permalink: /price-thumbnail-sketches-4/
 document: price_thumbnail_sketches_004.mei

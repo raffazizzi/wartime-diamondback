@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Thumbnail Sketches of Day in the Life of a Washerwoman, II. A Gay Moment
+title: Thumbnail sketches of a day in the life of a washerwoman, II. A gay moment
 author: Price, Florence B.
 permalink: /price-thumbnail-sketches-2/
 document: price_thumbnail_sketches_002.mei
