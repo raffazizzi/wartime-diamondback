@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Caprice sur la romance de joconde pour le pianoforte
+title: Caprice sur la romance de Joconde pour le pianoforte
 author: Szymanowska, Maria
 permalink: /szymanowska-caprice/
 document: szymanowska_caprice_sur_la_romance.mei
