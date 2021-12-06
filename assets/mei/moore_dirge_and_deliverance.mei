@@ -8,9 +8,18 @@
             <title>Dirge and Deliverance</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-12-06" type="encoding-date">2021-12-06</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+        <availability>
+           <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+        </availability>
+        <identifier>
+        <ref target="https://rebalancing-music-canon.com/"/>
+        </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-wkbjkv">
@@ -67,6 +76,7 @@
                            <note xml:id="nqlo7kw" dur.ppq="3" dur="4" oct="3" pname="c" stem.dir="up" accid.ges="f" />
                         </layer>
                      </staff>
+                     <tie startid="#nqlo7kw" endid="#notci4a" />
                      <slur xml:id="s5wpbis" startid="#nv6fim0" endid="#nsh9pjs" curvedir="below" />
                      <tie xml:id="tsfxn3c" startid="#nv6fim0" endid="#nqlo7kw" />
                   </measure>
