@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Dirge and Deliverance</title>
+            <respStmt>
+               <persName role="composer">Dorothy Rudd Moore</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-12-06" type="encoding-date">2021-12-06</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-wkbjkv">
+         <appInfo xml:id="appinfo-54d0lg">
+            <application xml:id="application-odzhrd" isodate="2021-12-06T15:48:47" version="3.8.0-dev-c1c8189">
+               <name xml:id="name-s0u153">Verovio</name>
+               <p xml:id="p-sszwhw">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="moe9eny">
+            <score xml:id="sf0fs7c">
+               <scoreDef xml:id="syvo07x">
+                  <pgHead xml:id="p1j5ag9">
+                     <rend xml:id="rac94ot" halign="center" valign="top">Dirge and Deliverance</rend>
+                     <rend xml:id="rqx7mbn" halign="center" valign="top">for 'cello and piano</rend>
+                     <rend xml:id="reyfprj" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
+                  </pgHead>
+                  <staffGrp xml:id="spswil5">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="3">
+                        <label xml:id="lhef2ou">Violoncello</label>
+                        <labelAbbr xml:id="lpjfkyy">Vc.</labelAbbr>
+                        <instrDef xml:id="iii0nzz" midi.channel="0" midi.instrnum="42" midi.volume="78.00%" />
+                        <clef xml:id="clx27el" shape="F" line="4" />
+                        <keySig xml:id="k7mbgx3" sig="0" />
+                        <meterSig xml:id="mmf8q7b" count="2" unit="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sq3on2f">
+                  <measure xml:id="mnsp34m" n="1">
+                     <staff xml:id="szat3dg" n="1">
+                        <layer xml:id="lbnqen1" n="1">
+                           <multiRest xml:id="mi98u6e" num="15" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mw7uewp" n="16">
+                     <staff xml:id="sk28tzo" n="1">
+                        <layer xml:id="lm1jp6n" n="1">
+                           <rest xml:id="rk1tkft" dur.ppq="6" dur="2" />
+                           <beam xml:id="bmd0bb3">
+                              <tuplet xml:id="tsbh1lm" num="3" numbase="2" bracket.visible="false">
+                                 <note xml:id="ni8zyi0" dur.ppq="1" dur="8" oct="3" pname="c" stem.dir="up">
+                                    <artic xml:id="ax2x828" artic="acc" />
+                                 </note>
+                                 <note xml:id="nen19ri" dur.ppq="1" dur="8" oct="3" pname="d" stem.dir="up" accid="f" />
+                                 <note xml:id="nv6fim0" dur.ppq="1" dur="8" oct="3" pname="c" stem.dir="up" accid="f" />
+                              </tuplet>
+                           </beam>
+                           <note xml:id="nqlo7kw" dur.ppq="3" dur="4" oct="3" pname="c" stem.dir="up" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="s5wpbis" startid="#nv6fim0" endid="#nsh9pjs" curvedir="below" />
+                     <tie xml:id="tsfxn3c" startid="#nv6fim0" endid="#nqlo7kw" />
+                  </measure>
+                  <measure xml:id="m1eq3cz" n="17">
+                     <staff xml:id="s9m1isb" n="1">
+                        <layer xml:id="ldxswtm" n="1">
+                           <note xml:id="notci4a" dur.ppq="6" dur="2" oct="3" pname="c" stem.dir="up" />
+                           <note xml:id="n43urk5" dur.ppq="3" dur="4" oct="3" pname="c" stem.dir="up" />
+                           <note xml:id="nsh9pjs" dur.ppq="3" dur="4" oct="2" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tb1osm2" startid="#notci4a" endid="#n43urk5" />
+                  </measure>
+                  <measure xml:id="m7brbib" n="18">
+                     <staff xml:id="spz86w5" n="1">
+                        <layer xml:id="lbclei5" n="1">
+                           <note xml:id="njen8ys" dur.ppq="3" dur="4" oct="2" pname="a" stem.dir="up" />
+                           <note xml:id="noq2zjg" dur.ppq="3" dur="4" oct="2" pname="g" stem.dir="up" />
+                           <note xml:id="n4nse5t" dur.ppq="3" dur="4" oct="3" pname="c" stem.dir="up" accid="f" />
+                           <note xml:id="nyqd0ca" dur.ppq="3" dur="4" oct="2" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="sj9vl8l" startid="#njen8ys" endid="#nyqd0ca" curvedir="above" />
+                  </measure>
+                  <measure xml:id="mfkvd6t" right="end" n="19">
+                     <staff xml:id="sfighj4" n="1">
+                        <layer xml:id="lae8ygj" n="1">
+                           <note xml:id="nwmvm54" dur.ppq="3" dur="4" oct="2" pname="a" stem.dir="up" />
+                           <note xml:id="ndf4bho" dur.ppq="3" dur="4" oct="2" pname="g" stem.dir="up" />
+                           <rest xml:id="ru2lxwk" dur.ppq="6" dur="2" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="s3dtskj" startid="#nwmvm54" endid="#ndf4bho" curvedir="below" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
