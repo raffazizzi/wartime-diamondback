@@ -12,14 +12,14 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 ### Student Contributors at Tufts University
 - Ismenia Ginebra (Spring 2020-current), undergraduate
 - Chelsea Hong (Spring 2020), undergraduate
+- Aviva Michaeli (Fall 2021-current), undergraduate
 - Simon K. Perry (Spring 2021), undergraduate
-- Delilah Righter (Spring 2020-current), undergraduate
-- Victoria K. Rose (Spring 2021-current), undergraduate
+- Delilah Righter (Spring 2020-2021), undergraduate
+- Victoria K. Rose (Spring 2021), undergraduate
 - Joanna Strogatz (Spring 2021-current), undergraduate
-- Sebastian Tringale (Spring 2020-current), undergraduate
+- Sebastian Tringale (Spring 2020-2021), undergraduate
 - Hailing Wang (Spring 2020), undergraduate
 - Phillip G. Wright (Spring 2021-current), graduate
-- Aviva Michaeli (Fall 2021-current), undergraduate
 
 ---
 
