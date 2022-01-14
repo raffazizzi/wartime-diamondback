@@ -19,6 +19,7 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 - Sebastian Tringale (Spring 2020-current), undergraduate
 - Hailing Wang (Spring 2020), undergraduate
 - Phillip G. Wright (Spring 2021-current), graduate
+- Aviva Michaeli (Fall 2021-current), undergraduate
 
 ---
 
