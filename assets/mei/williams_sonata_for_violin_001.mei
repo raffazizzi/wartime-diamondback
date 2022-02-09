@@ -39,12 +39,11 @@
             <score xml:id="sbrgq8b">
                <scoreDef xml:id="sz0eabk">
                   <pgHead xml:id="p5beq5z">
-                     <rend xml:id="ruebj5i" halign="center" valign="top">Sonata for Violin
+                     <rend xml:id="ruebj5i" halign="center" valign="top">Sonata for Violin, mvt. 1
 </rend>
                      <rend xml:id="r61t02g" halign="right" valign="bottom">Grace Williams</rend>
                   </pgHead>
                   <pgFoot xml:id="p3njekt">
-                     <rend xml:id="rvmxhgs">I</rend>
                   </pgFoot>
                   <staffGrp xml:id="spfotz8">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="4">
@@ -127,7 +126,6 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="d5ake1b" place="above" staff="1" tstamp="1.000000" vgrp="200">arco</dir>
                   </measure>
                   <measure xml:id="mqbceir" n="6">
                      <staff xml:id="so00r3l" n="1">
@@ -171,6 +169,8 @@
                            </beam>
                         </layer>
                      </staff>
+                     <dir xml:id="d5ake1b" place="above" staff="1" tstamp="1.000000" vgrp="200">arco</dir>
+
                   </measure>
                   <measure xml:id="mxaugb5" n="8">
                      <staff xml:id="se2zqgw" n="1">
