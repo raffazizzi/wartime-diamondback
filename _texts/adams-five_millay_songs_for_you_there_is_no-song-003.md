@@ -1,10 +1,10 @@
 ---
 layout: mei
-title: Five Millay songs, For you there is no song
+title: Five Millay Songs, For you there is no song
 author: Adams, Leslie
 permalink: /leslie-five-millay-songs-for-you-there-is-no-song/
 document:
 ---
 
-- In *Five Millay songs: five songs on texts of Edna St. Vincent Millay: for high voice and piano.* Madison, Ohio: H. Carl Music, 200?
+- In *Five Millay songs: five songs on texts of Edna St. Vincent Millay: for high voice and piano.* Madison, Ohio: H. Carl Music, 1977.
 - <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991011097839703851" target="_blank"> Music Library Stacks M1621.4 A33 M5 2000z</a>
