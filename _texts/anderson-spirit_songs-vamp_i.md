@@ -1,8 +1,8 @@
 ---
 layout: mei
-title: Spirit songs, Serenade IV
-author: Anderson, T. J.
-permalink: /anderson-spirit-songs-serenade-iv/
+title: Spirit songs, Vamp I
+author: Anderson, T.J.
+permalink: /anderson-spirit-songs-vamp-i/
 document:
 ---
 

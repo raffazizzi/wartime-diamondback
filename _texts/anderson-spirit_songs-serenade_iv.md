@@ -1,8 +1,8 @@
 ---
 layout: mei
-title: Spirit songs, Serenade II
-author: Anderson, T. J.
-permalink: /anderson-spirit-songs-serenade-ii/
+title: Spirit songs, Serenade IV
+author: Anderson, T.J.
+permalink: /anderson-spirit-songs-serenade-iv/
 document:
 ---
 
