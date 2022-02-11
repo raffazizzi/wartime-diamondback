@@ -39,8 +39,8 @@
             <score xml:id="sbrgq8b">
                <scoreDef xml:id="sz0eabk">
                   <pgHead xml:id="p5beq5z">
-                     <rend xml:id="ruebj5i" halign="center" valign="top">Sonata for Violin, mvt. 1
-</rend>
+                     <rend xml:id="ruebj5i" halign="center" valign="top">Sonata for Violin</rend>
+                     <rend halign="center" valign="top">I</rend>
                      <rend xml:id="r61t02g" halign="right" valign="bottom">Grace Williams</rend>
                   </pgHead>
                   <pgFoot xml:id="p3njekt">
