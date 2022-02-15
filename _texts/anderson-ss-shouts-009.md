@@ -3,7 +3,7 @@ layout: mei
 title: Spirit songs, III. Shouts
 author: Anderson, T. J.
 permalink: /anderson-spirit-songs-shouts/
-document: 
+document: anderson_spirit-songs_iii-shouts-1_009.mei
 ---
 
 - In *Spirit songs: for cello and piano.* New York, NY: American Composers Alliance Inc., 2018.
