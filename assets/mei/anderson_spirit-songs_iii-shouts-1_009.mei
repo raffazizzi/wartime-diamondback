@@ -107,8 +107,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t156hxh" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="r1milyd" fontweight="bold">c. 92</rend>
-                        <rend xml:id="rldzfnd" fontname="VerovioText"></rend> = </tempo>
+                        <rend xml:id="r1milyd" fontweight="bold">=</rend>c. 92</rend></tempo>
                      <dir xml:id="de1dxv6" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rqlf2iv" fontstyle="italic" fontweight="bold">mp </rend>
                         <lb xml:id="lou993n" />
