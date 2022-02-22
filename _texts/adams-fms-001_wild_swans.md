@@ -3,7 +3,7 @@ layout: mei
 title: Five Millay Songs, Wild swans
 author: Adams, Leslie
 permalink: /leslie-five-millay-songs-wild-swans/
-document:
+document: adams_fms_001_wild_swans.mei
 ---
 
 - In *Five Millay songs: five songs on texts of Edna St. Vincent Millay: for high voice and piano.* Madison, Ohio: H. Carl Music, 1977.
