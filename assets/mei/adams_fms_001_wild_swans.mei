@@ -9,9 +9,18 @@
             <respStmt>
                <persName role="composer">H. Leslie Adams</persName>
                <persName role="lyricist">Edna St. Vincent Millay</persName>
+               <persName role="transcriber">Joanna Strogatz</persName>
+               <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+           <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+           </availability>
+           <identifier>
+           <ref target="https://rebalancing-music-canon.com/"/>
+           </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-rgorqi">
@@ -72,7 +81,7 @@
                                  <syl xml:id="s9xgx29" con="s" wordpos="s">looked</syl>
                               </verse>
                            </note>
-                           <tuplet xml:id="t38ibl0" bracket.visible="true">
+                           <tuplet xml:id="t38ibl0" bracket.visible="true" bracket.place="above" num="2" numbase="2">
                               <note xml:id="ne31vo" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
                                  <verse xml:id="vfighj4" n="1">
                                     <syl xml:id="sae8ygj" con="s" wordpos="s">in</syl>
@@ -106,7 +115,7 @@
                      <staff xml:id="sb0s5yx" n="1">
                         <layer xml:id="lwe7hn5" n="1">
                            <note xml:id="nu613db" dots="1" dur.ppq="3" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <tuplet xml:id="thry6qo" bracket.visible="true">
+                           <tuplet xml:id="thry6qo" bracket.visible="true" num="2" numbase="2">
                               <note xml:id="nprev7v" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="up" accid.ges="f">
                                  <verse xml:id="vz2t4qh" n="1">
                                     <syl xml:id="s61wssi" con="s" wordpos="s">while</syl>
