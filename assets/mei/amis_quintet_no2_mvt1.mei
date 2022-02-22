@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Quintet No. 2 for Brass</title>
+            <respStmt>
+               <persName role="composer">Kenneth Amis</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-rgorqi">
+         <appInfo xml:id="appinfo-57boni">
+            <application xml:id="application-c99tsq" isodate="2022-02-22T10:47:17" version="3.9.0-dev-40bb1a6">
+               <name xml:id="name-lx27el">Verovio</name>
+               <p xml:id="p-7mbgx3">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mmf8q7b">
+            <score xml:id="snsp34m">
+               <scoreDef xml:id="sh5es23">
+                  <pgHead xml:id="pb0trsr">
+                     <rend xml:id="ra18urg" halign="center" valign="top">Quintet No. 2 for Brass
+</rend>
+                     <rend halign="center" valign="top">I. Allegro con fuoco"</rend>
+                     <rend xml:id="rz9hfuh" halign="right" valign="bottom">Kenneth Amis</rend>
+                     <rend xml:id="r2aw87h" halign="left" valign="top">Horn in F</rend>
+                  </pgHead>
+                  <pgFoot xml:id="p4y5pn8">
+                     <rend xml:id="r6jnkhu" />
+                     <rend xml:id="rbnqen1" fontstyle="normal">I. Allegro con fuoco
+</rend>
+                     <rend xml:id="r78oejx" />
+                  </pgFoot>
+                  <staffGrp xml:id="s5p5qyr">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="20" trans.diat="-4.000000" trans.semi="-7.000000">
+                        <label xml:id="lz02ria">Horn in F</label>
+                        <labelAbbr xml:id="lm1jp6n">F Hn.</labelAbbr>
+                        <instrDef xml:id="imd0bb3" midi.channel="4" midi.instrnum="60" midi.volume="78.00%" />
+                        <clef xml:id="c5wpbis" shape="G" line="2" />
+                        <keySig xml:id="ksfxn3c" sig="5f" />
+                        <meterSig xml:id="mqlo7kw" count="5" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="se0tyio">
+                  <measure xml:id="m8ij48c" n="1">
+                     <staff xml:id="soclue9" n="1">
+                        <layer xml:id="ly9n4c0" n="1">
+                           <beam xml:id="bmg0s9x">
+                              <note xml:id="nd8r9b8" dur.ppq="10" dur="8" oct="5" pname="d" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="a12af4d" artic="acc" />
+                              </note>
+                              <note xml:id="nda27ly" dur.ppq="10" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="aruiurp" artic="stacc" />
+                              </note>
+                           </beam>
+                           <rest xml:id="rpz86w5" dur.ppq="20" dur="4" />
+                           <rest xml:id="rbclei5" dur.ppq="10" dur="8" />
+                           <rest xml:id="rjen8ys" dur.ppq="5" dur="16" />
+                           <note xml:id="nj9vl8l" dur.ppq="5" dur="16" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="aoq2zjg" artic="acc" />
+                           </note>
+                           <tuplet xml:id="tyqd0ca" num="5" numbase="4" bracket.visible="true">
+                              <beam xml:id="bfkvd6t">
+                                 <note xml:id="n4nse5t" dur.ppq="4" dur="16" oct="4" pname="g" stem.dir="down" accid.ges="f">
+                                    <artic xml:id="aquyfj8" artic="acc" />
+                                 </note>
+                                 <note xml:id="nc2gseb" dur.ppq="4" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                                    <artic xml:id="a9xgx29" artic="acc" />
+                                 </note>
+                                 <note xml:id="nz5dkg3" dur.ppq="4" dur="16" oct="5" pname="e" stem.dir="down" accid="n">
+                                    <artic xml:id="auft15u" artic="acc" />
+                                 </note>
+                                 <note xml:id="n38ibl0" dur.ppq="4" dur="16" oct="5" pname="f" stem.dir="down">
+                                    <artic xml:id="afighj4" artic="acc" />
+                                 </note>
+                              </beam>
+                              <rest xml:id="rae8ygj" dur.ppq="4" dur="16" />
+                           </tuplet>
+                           <rest xml:id="rwmvm54" dur.ppq="20" dur="4" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t9m1isb" place="above" staff="1" tstamp="1.000000" midi.bpm="152.000000" mm="152.000000" mm.unit="4">
+                        <rend xml:id="rdxswtm" fontname="VerovioText"></rend> = 152</tempo>
+                     <dynam xml:id="dsh9pjs" place="below" staff="1" tstamp="1.000000" val="112" vgrp="43">ff</dynam>
+                  </measure>
+                  <scoreDef xml:id="su2axu3">
+                     <meterSig xml:id="m77jy4p" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m3dtskj" n="2">
+                     <staff xml:id="sy35luz" n="1">
+                        <layer xml:id="lwguaym" n="1">
+                           <beam xml:id="br48xao">
+                              <note xml:id="nlr5klb" dur.ppq="10" dur="8" oct="5" pname="f" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="amchisn" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                              <note xml:id="nvwibj2" dur.ppq="10" dur="8" oct="5" pname="d" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="aquqlyv" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                           </beam>
+                           <beam xml:id="bud5a3m">
+                              <note xml:id="nhb6uqp" dur.ppq="10" dur="8" oct="5" pname="c" stem.dir="down" accid="n">
+                                 <artic xml:id="at6clur" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                              <note xml:id="nshh5wk" dur.ppq="10" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="avxiiky" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                           </beam>
+                           <beam xml:id="b9nciuu">
+                              <note xml:id="nv4k75k" dur.ppq="10" dur="8" oct="5" pname="c" stem.dir="down">
+                                 <artic xml:id="ab0s5yx" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                              <note xml:id="nwe7hn5" dur.ppq="10" dur="8" oct="5" pname="g" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="aprev7v" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                           </beam>
+                           <beam xml:id="bz2t4qh">
+                              <note xml:id="npnj8mt" dur.ppq="10" dur="8" oct="5" pname="d" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="a61wssi" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                              <note xml:id="nxm3gej" dur.ppq="10" dur="8" oct="5" pname="c" stem.dir="down">
+                                 <artic xml:id="asg2ft4" artic="stacc" />
+                                 <artic artic="marc"/>
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dtijw7g" place="below" staff="1" tstamp="1.000000" val="96" vgrp="40">f</dynam>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
