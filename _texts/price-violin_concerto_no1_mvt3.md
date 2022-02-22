@@ -2,7 +2,7 @@
 layout: mei
 title: Violin concerto no. 1, III. Finale
 author: Price, Florence B.
-permalink: /price-violin-concerto-no1-3/
+permalink: /price-violin-concerto-no1-mvt3/
 document: price_violin_concerto_mvt3.mei
 ---
 
