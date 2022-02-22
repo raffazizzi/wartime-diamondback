@@ -5,12 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Violin Concerto No. 1</title>
+            <title>Violin Concerto No. 1, Mvt. II</title>
             <respStmt>
-               <persName role="composer">Florence B.  Price</persName>
+               <persName role="composer">Florence B. Price</persName>
+               <persName role="transcriber">Anna Kijas</persName>
+               <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-4khtud">
@@ -30,7 +39,7 @@
                   <pgHead xml:id="pt1mkdq">
                      <rend xml:id="rmyzinq" halign="center" valign="top">Violin Concerto No. 1</rend>
                      <rend xml:id="rd940uo" halign="center" valign="top">II.</rend>
-                     <rend xml:id="r49ae4b" halign="right" valign="bottom">Florence B.  Price</rend>
+                     <rend xml:id="r49ae4b" halign="right" valign="bottom">Florence B. Price</rend>
                   </pgHead>
                   <staffGrp xml:id="s9ph45z">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="4">
@@ -50,6 +59,9 @@
                            <multiRest xml:id="m8vtqkh" num="12" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="">
+             <rend xml:id="rixf079" fontweight="bold">Andante</rend>
+          </tempo>
                   </measure>
                   <measure xml:id="mv5j0yg" n="13">
                      <staff xml:id="s1v55tu" n="1">

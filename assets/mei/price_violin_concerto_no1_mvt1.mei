@@ -5,12 +5,21 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Violin Concerto No. 1</title>
+            <title>Violin Concerto No. 1, Mvt. I</title>
             <respStmt>
-               <persName role="composer">Florence B.  Price</persName>
+               <persName role="composer">Florence B. Price</persName>
+               <persName role="transcriber">Anna Kijas</persName>
+               <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-f0fs7c">
@@ -30,7 +39,7 @@
                   <pgHead xml:id="pkntog3">
                      <rend xml:id="rpswil5" halign="center" valign="top">Violin Concerto No. 1</rend>
                      <rend xml:id="rpjfkyy" halign="center" valign="top">I.</rend>
-                     <rend xml:id="rii0nzz" halign="right" valign="bottom">Florence B.  Price</rend>
+                     <rend xml:id="rii0nzz" halign="right" valign="bottom">Florence B. Price</rend>
                   </pgHead>
                   <staffGrp xml:id="swn6uw">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="24">
@@ -51,6 +60,9 @@
                            <multiRest xml:id="m2aw87h" num="22" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="">
+             <rend xml:id="rixf079" fontweight="bold">Tempo Moderato</rend>
+          </tempo>
                   </measure>
                   <measure xml:id="m5p5qyr" n="23">
                      <staff xml:id="sen19ri" n="1">
