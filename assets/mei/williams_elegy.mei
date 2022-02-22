@@ -8,9 +8,18 @@
             <title>Elegy for Strings</title>
             <respStmt>
                <persName role="composer">Grace Williams</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-r3o2t5">
@@ -62,8 +71,7 @@
                         <rend xml:id="rl3hgfd" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
                      <tempo xml:id="t8vtqkh" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="72.000000" mm="72.000000" mm.unit="4">
-                        <rend xml:id="rskfde2" fontweight="bold">Andante espressivo </rend>
-                        <rend xml:id="rqqknd9" fontname="VerovioText"></rend> = 72</tempo>
+                        <rend xml:id="rqqknd9" fontname="VerovioText">Andante espressivo  </rend> = 72</tempo>
                      <slur xml:id="s1v55tu" startid="#ni9n8fo" endid="#nwpi5md" curvedir="below" />
                   </measure>
                   <measure xml:id="ma64ofl" n="2">
