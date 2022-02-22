@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Violin Concerto No. 1</title>
+            <respStmt>
+               <persName role="composer">Florence B.  Price</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-4khtud">
+         <appInfo xml:id="appinfo-39mxuh">
+            <application xml:id="application-g81wme" isodate="2022-02-22T11:59:21" version="3.9.0-dev-40bb1a6">
+               <name xml:id="name-m0lazh">Verovio</name>
+               <p xml:id="p-cfaq9r">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m8t3cob">
+            <score xml:id="sqwawt8">
+               <scoreDef xml:id="se9c88">
+                  <pgHead xml:id="pt1mkdq">
+                     <rend xml:id="rmyzinq" halign="center" valign="top">Violin Concerto No. 1</rend>
+                     <rend xml:id="rd940uo" halign="center" valign="top">II.</rend>
+                     <rend xml:id="r49ae4b" halign="right" valign="bottom">Florence B.  Price</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s9ph45z">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="lj80ou7">Violin</label>
+                        <labelAbbr xml:id="lysq6cf">Vln.</labelAbbr>
+                        <instrDef xml:id="iefooyv" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="chj1mgf" shape="G" line="2" />
+                        <keySig xml:id="ktm0jyt" sig="2f" />
+                        <meterSig xml:id="m93669c" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sruwzhw">
+                  <measure xml:id="mf4yw9w" n="1">
+                     <staff xml:id="s3a84ck" n="1">
+                        <layer xml:id="lskfde2" n="1">
+                           <multiRest xml:id="m8vtqkh" num="12" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mv5j0yg" n="13">
+                     <staff xml:id="s1v55tu" n="1">
+                        <layer xml:id="lh5cr9e" n="1">
+                           <note xml:id="n6aheeb" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nuzzsq" dur.ppq="4" dur="4" oct="5" pname="f" stem.dir="down" />
+                           <note xml:id="nvoottq" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down" />
+                           <beam xml:id="bxb4pnd">
+                              <note xml:id="n7tpu6y" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down" accid="f" />
+                              <note xml:id="nqmktmm" breaksec="1" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="n3uda5j" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                           </beam>
+                           <beam xml:id="b11y7h2">
+                              <note xml:id="n945jpz" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="ngg2997" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d5rfxqj" place="below" staff="1" tstamp="1.000000" val="80" vgrp="52">mf</dynam>
+                     <dir xml:id="d579fdu" place="above" staff="1" tstamp="1.000000" vgrp="250">
+                        <rend xml:id="ru0ep2v" fontstyle="italic">a tempo</rend>
+                     </dir>
+                     <slur xml:id="s4fgzea" startid="#n6aheeb" endid="#nvoottq" curvedir="above" />
+                     <slur xml:id="sno23ll" startid="#n7tpu6y" endid="#n3uda5j" curvedir="above" />
+                     <slur xml:id="s45e014" startid="#n945jpz" endid="#ngg2997" curvedir="above" />
+                  </measure>
+                  <measure xml:id="mka6ed4" n="14">
+                     <staff xml:id="sq7gk4l" n="1">
+                        <layer xml:id="l75zjt7" n="1">
+                           <note xml:id="n6dwpdh" dur.ppq="16" dur="1" oct="4" pname="b" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hp88nfo" staff="1" tstamp="1.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="60" />
+                  </measure>
+                  <measure xml:id="mz3v004" n="15">
+                     <staff xml:id="s8y3rs1" n="1">
+                        <layer xml:id="lfs9aun" n="1">
+                           <note xml:id="nxh08jl" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="n2pwlv8" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="nndlby0" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="n9dov1s" dur.ppq="8" dur="2" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="supwke1" startid="#nxh08jl" endid="#nndlby0" curvedir="below" />
+                     <tie xml:id="t7l54ls" startid="#n9dov1s" endid="#ngaqpri" />
+                  </measure>
+                  <measure xml:id="mute8n2" n="16">
+                     <staff xml:id="s15wwk1" n="1">
+                        <layer xml:id="l8jnzpu" n="1">
+                           <note xml:id="ngaqpri" dur.ppq="8" dur="2" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="nxe28l3" dur.ppq="8" dur="2" oct="3" pname="b" stem.dir="up" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hrqtvbo" staff="1" tstamp="1.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="81" />
+                     <tie xml:id="tszlr2k" startid="#nxe28l3" endid="#ne6qib5" />
+                  </measure>
+                  <measure xml:id="mwd7jwp" n="17">
+                     <staff xml:id="s6c78p" n="1">
+                        <layer xml:id="loectii" n="1">
+                           <note xml:id="ne6qib5" dur.ppq="8" dur="2" oct="3" pname="b" stem.dir="up" accid.ges="f" />
+                           <note xml:id="nijsyzy" dur.ppq="8" dur="2" oct="4" pname="d" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hd5w93o" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="79" />
+                     <dynam xml:id="dbflgxj" place="below" staff="1" tstamp="3.000000" val="49" vgrp="59">p</dynam>
+                     <tie xml:id="taq2ei1" startid="#nijsyzy" endid="#ngorcah" />
+                  </measure>
+                  <measure xml:id="mx9i9l2" n="18">
+                     <staff xml:id="s5sf45f" n="1">
+                        <layer xml:id="lixf079" n="1">
+                           <note xml:id="ngorcah" dur.ppq="8" dur="2" oct="4" pname="d" stem.dir="up" />
+                           <rest xml:id="r8o9kpt" dur.ppq="8" dur="2" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hgwuuv8" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="69" />
+                     <dynam xml:id="dkxmrnx" place="below" staff="1" tstamp="3.000000" val="33" vgrp="49">pp</dynam>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
