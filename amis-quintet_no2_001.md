@@ -1,6 +1,7 @@
 ---
 layout: mei
 title: Quintet no. 2 for brass, mvt. 1
+author: Amis, Kenneth
 permalink: /amis-quintet-no2-mvt1/
 document: amis_quintet_no2_mvt1.mei
 ---
