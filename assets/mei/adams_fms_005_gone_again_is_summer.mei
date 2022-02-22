@@ -9,9 +9,18 @@
             <respStmt>
                <persName role="composer">H. Leslie Adams</persName>
                <persName role="lyricist">Edna St. Vincent Millay</persName>
-            </respStmt>
-         </titleStmt>
-         <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+               <persName role="transcriber">Joanna Strogatz</persName>
+                    <persName role="reviewer">Aviva Michaeli</persName>
+                 </respStmt>
+              </titleStmt>
+              <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+              <publisher>Rebalancing the Music Canon</publisher>
+                <availability>
+                    <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+                </availability>
+                <identifier>
+                <ref target="https://rebalancing-music-canon.com/"/>
+                </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-1eq3cz">
@@ -118,6 +127,7 @@
                      </staff>
                      <dynam xml:id="d8vtqkh" place="above" staff="1" tstamp="1.000000" val="33">pp</dynam>
                      <tie xml:id="tb8swm8" startid="#nqqknd9" endid="#n1v55tu" />
+                     <tie startid="#n1v55tu" endid="#n7tpu6y" />
                      <dynam xml:id="doraqsa" place="above" staff="1" tstamp="4.000000" tstamp2="0m+8.0000" extender="true" lform="dashed" vgrp="217">
                         <rend xml:id="r2jmthy" fontfam="Edwin" fontstyle="italic">cresc.</rend>
                      </dynam>
@@ -137,11 +147,11 @@
                      </staff>
                      <dynam xml:id="d314ytt" place="above" staff="1" tstamp="4.000000" val="64">mp</dynam>
                      <dynam xml:id="d3uda5j" place="above" staff="1" tstamp="6.000000" val="33">pp</dynam>
-                     <dir xml:id="d945jpz" place="above" staff="1" tstamp="6.000000" vgrp="200">
-                        <rend xml:id="r11y7h2" fontstyle="italic">ritard</rend>
+                     <dir xml:id="d945jpz" place="above" staff="1" tstamp="5.000000" vgrp="200">
+                        <rend xml:id="r11y7h2" fontstyle="italic">ritard.</rend>
                         <lb xml:id="lgg2997" />
-                        <rend xml:id="rf9kt80" fontstyle="normal">.</rend>
                      </dir>
+                     <tie startid="#n7tpu6y" endid="#nno23ll" />
                      <tie xml:id="t2dsfn8" startid="#ngvj89j" endid="#n8y3rs1" />
                   </measure>
                   <measure xml:id="mbhdref" n="11">
@@ -176,6 +186,7 @@
                      <dynam xml:id="d7nllr5" place="above" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" extender="true" lform="dashed" vgrp="211">
                         <rend xml:id="ro5kzts" fontfam="Edwin" fontstyle="italic">cresc.</rend>
                      </dynam>
+                     <tie startid="#n8y3rs1" endid="#nfs9aun" />
                   </measure>
                   <sb xml:id="stjakb4" />
                   <measure xml:id="mnpoeb3" n="12">
@@ -217,6 +228,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="tgwuuv8" startid="#nknnj0z" endid="#nixf079" />
+                     <tie startid="#nixf079" endid="#nme7p3z" />
                   </measure>
                   <measure xml:id="mgorcah" n="13">
                      <staff xml:id="so4ornu" n="1">
