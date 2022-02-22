@@ -7,10 +7,19 @@
          <titleStmt>
             <title>Quintet No. 2 for Brass</title>
             <respStmt>
-               <persName role="composer">Kenneth Amis</persName>
-            </respStmt>
-         </titleStmt>
-         <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+                      <persName role="composer">Kenneth Amis</persName>
+                      <persName role="transcriber">Joanna Strogatz</persName>
+                      <persName role="reviewer">Aviva Michaeli</persName>
+                   </respStmt>
+                </titleStmt>
+                <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+                <publisher>Rebalancing the Music Canon</publisher>
+                   <availability>
+                      <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+                   </availability>
+                   <identifier>
+                   <ref target="https://rebalancing-music-canon.com/"/>
+                   </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-rgorqi">
@@ -30,16 +39,10 @@
                   <pgHead xml:id="pb0trsr">
                      <rend xml:id="ra18urg" halign="center" valign="top">Quintet No. 2 for Brass
 </rend>
-                     <rend halign="center" valign="top">I. Allegro con fuoco"</rend>
+                     <rend halign="center" valign="top">I. Allegro con fuoco</rend>
                      <rend xml:id="rz9hfuh" halign="right" valign="bottom">Kenneth Amis</rend>
-                     <rend xml:id="r2aw87h" halign="left" valign="top">Horn in F</rend>
                   </pgHead>
-                  <pgFoot xml:id="p4y5pn8">
-                     <rend xml:id="r6jnkhu" />
-                     <rend xml:id="rbnqen1" fontstyle="normal">I. Allegro con fuoco
-</rend>
-                     <rend xml:id="r78oejx" />
-                  </pgFoot>
+
                   <staffGrp xml:id="s5p5qyr">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="20" trans.diat="-4.000000" trans.semi="-7.000000">
                         <label xml:id="lz02ria">Horn in F</label>
