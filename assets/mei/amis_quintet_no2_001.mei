@@ -8,9 +8,18 @@
             <title>Quintet No. 2 for Brass</title>
             <respStmt>
                <persName role="composer">Kenneth Amis</persName>
+               <persName role="transcriber">Joanna Strogatz</persName>
+               <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-02-22" type="encoding-date">2022-02-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-ekgxzp">
@@ -28,8 +37,10 @@
             <score xml:id="shokl3z">
                <scoreDef xml:id="sow3kce">
                   <pgHead xml:id="ppc2nab">
-                     <rend xml:id="rcsifaa" halign="center" valign="top">Quintet No. 2
+                     <rend xml:id="rcsifaa" halign="center" valign="top">Quintet No. 2 for Brass
 </rend>
+<rend halign="center" valign="top">I. Allegro con fuoco</rend>
+
                      <rend xml:id="rd9l3a8" halign="right" valign="bottom">Kenneth Amis</rend>
                   </pgHead>
                   <pgFoot xml:id="ps5s5u4">
