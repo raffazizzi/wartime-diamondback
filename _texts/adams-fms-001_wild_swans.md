@@ -2,7 +2,7 @@
 layout: mei
 title: Five Millay Songs, Wild swans
 author: Adams, Leslie
-permalink: /leslie-five-millay-songs-wild-swans/
+permalink: /adams-five-millay-songs-wild-swans/
 document: adams_fms_001_wild_swans.mei
 ---
 

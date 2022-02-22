@@ -2,8 +2,8 @@
 layout: mei
 title: Five Millay Songs, Gone again is summer the lovely
 author: Adams, Leslie
-permalink: /leslie-five-millay-songs-gone-again-is-summer-the-lovely/
-document:
+permalink: /adams-five-millay-songs-gone-again-is-summer-the-lovely/
+document: adams_fms_005_gone_again_is_summer.mei
 ---
 
 - In *Five Millay songs: five songs on texts of Edna St. Vincent Millay: for high voice and piano.* Madison, Ohio: H. Carl Music, 1977.

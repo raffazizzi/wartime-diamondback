@@ -2,8 +2,8 @@
 layout: mei
 title: Five Millay Songs, The return from town
 author: Adams, Leslie
-permalink: /leslie-five-millay-songs-return-from-town/
-document:
+permalink: /adams-five-millay-songs-return-from-town/
+document: adams_fms_004_return_from_town.mei
 ---
 
 - In *Five Millay songs: five songs on texts of Edna St. Vincent Millay: for high voice and piano.* Madison, Ohio: H. Carl Music, 1977.

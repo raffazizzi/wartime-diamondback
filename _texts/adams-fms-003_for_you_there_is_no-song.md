@@ -2,7 +2,7 @@
 layout: mei
 title: Five Millay Songs, For you there is no song
 author: Adams, Leslie
-permalink: /leslie-five-millay-songs-for-you-there-is-no-song/
+permalink: /adams-five-millay-songs-for-you-there-is-no-song/
 document: adams_fms_003_for_you_there_is_no_song.mei
 ---
 

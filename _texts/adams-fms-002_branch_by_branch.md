@@ -2,7 +2,7 @@
 layout: mei
 title: Five Millay Songs, Branch by branch
 author: Adams, Leslie
-permalink: /leslie-five-millay-songs-branch-by-branch/
+permalink: /adams-five-millay-songs-branch-by-branch/
 document: adams_fms_002_branch_by_branch.mei
 ---
 
