@@ -89,7 +89,7 @@
                         <rend xml:id="r9xvoj5" fontweight="normal">sempre non espr.</rend>
                      </dir>
                      <tempo xml:id="t977fmb" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rcxa0u5" fontname="VerovioText"> = </rend> = c. 100</tempo>
+                        <rend xml:id="rcxa0u5" fontname="VerovioText"></rend> = c. 100</tempo>
                      <slur xml:id="sfmteol" startid="#nfz9bi8" endid="#nhwl39i" curvedir="above" />
                      <slur xml:id="slu6d45" startid="#nesasu0" endid="#n2r5o10" curvedir="above" />
                   </measure>
