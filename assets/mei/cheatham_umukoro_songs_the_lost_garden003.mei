@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>The Umukoro Songs</title>
+            <respStmt>
+               <persName role="composer">Wallace McClain Cheatham</persName>
+               <persName role="lyricist">Matthew Mevayerho Umukoro</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2022-03-30" type="encoding-date">2022-03-30</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000001957155482">
+         <appInfo xml:id="appinfo-0000001090201374">
+            <application xml:id="application-0000000811894060" isodate="2022-03-30T10:24:38" version="3.5.0-fb524ea">
+               <name xml:id="name-0000001447259312">Verovio</name>
+               <p xml:id="p-0000001507272976">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdiv-0000001343816470">
+            <score xml:id="score-0000001847031667">
+               <scoreDef xml:id="scoredef-0000001952764767">
+                  <pgHead xml:id="pghead-0000000057781957">
+                     <rend xml:id="rend-0000001855675944" halign="center" valign="top">The Umukoro Songs</rend>
+                     <rend xml:id="rend-0000001040248300" halign="center" valign="top">III. The Lost Garden</rend>
+                     <rend xml:id="rend-0000001768448296" halign="right" valign="bottom">Wallace McClain Cheatham</rend>
+                     <rend xml:id="rend-0000000021542482" halign="left" valign="bottom">Matthew Mevayerho Umukoro</rend>
+                  </pgHead>
+                  <staffGrp xml:id="staffgrp-0000000709408596">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="label-0000000510212697">Voice</label>
+                        <labelAbbr xml:id="labelAbbr-0000001140702123">Vo.</labelAbbr>
+                        <instrDef xml:id="instrdef-0000002041223669" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="clef-0000000870060816" shape="G" line="2" />
+                        <keySig xml:id="keysig-0000002061771191" sig="0" />
+                        <meterSig xml:id="msig-0000001451397205" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-0000001335112563">
+                  <pb xml:id="pb-0000000233303658" />
+                  <measure xml:id="measure-0000000280641857" n="1">
+                     <staff xml:id="staff-0000001948489406" n="1">
+                        <layer xml:id="layer-0000001917353503" n="1">
+                           <rest xml:id="rest-0000002136283400" dur.ppq="4" dur="2" />
+                           <rest xml:id="rest-0000001796594316" dur.ppq="2" dur="4" />
+                           <beam xml:id="beam-0000001998395654">
+                              <note xml:id="note-0000000481702540" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down">
+                                 <accid xml:id="accid-0000000906914697" accid="f" accid.ges="f" />
+                                 <verse xml:id="verse-0000000797789384" n="1">
+                                    <syl xml:id="syl-0000001215256377" con="u" wordpos="s">Like</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000000569978637" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tempo-0000001605178375" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000">
+                        <rend xml:id="rend-0000001164350552" fontweight="bold">Lento E Rubato</rend>
+                     </tempo>
+                     <slur xml:id="slur-0000001643789252" startid="#note-0000000481702540" endid="#note-0000000569978637" curvedir="above" />
+                  </measure>
+                  <measure xml:id="measure-0000000759627092" n="2">
+                     <staff xml:id="staff-0000001979150156" n="1">
+                        <layer xml:id="layer-0000001117656570" n="1">
+                           <beam xml:id="beam-0000000939881536">
+                              <note xml:id="note-0000001118625544" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                                 <verse xml:id="verse-0000002018902125" n="1">
+                                    <syl xml:id="syl-0000001057488283" con="d" wordpos="i">wea</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000002057381030" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="verse-0000002145238171" n="1">
+                                    <syl xml:id="syl-0000001365277338" con="d" wordpos="m">ther</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="beam-0000001244550784">
+                              <note xml:id="note-0000001515186346" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                                 <accid xml:id="accid-0000002083830544" accid="f" accid.ges="f" />
+                                 <verse xml:id="verse-0000001055558650" n="1">
+                                    <syl xml:id="syl-0000000175627916" con="d" wordpos="m">bea</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000001922972969" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="up">
+                                 <accid xml:id="accid-0000000027101931" accid="f" accid.ges="f" />
+                                 <verse xml:id="verse-0000000368076873" n="1">
+                                    <syl xml:id="syl-0000001266033372" con="s" wordpos="t">ten</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="beam-0000001189714341">
+                              <note xml:id="note-0000001878513285" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" accid.ges="f">
+                                 <verse xml:id="verse-0000001440802860" n="1">
+                                    <syl xml:id="syl-0000000989059114" con="d" wordpos="i">spar</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000001660282439" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="verse-0000001772123201" n="1">
+                                    <syl xml:id="syl-0000002007395504" con="s" wordpos="t">rows</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <note xml:id="note-0000000223039685" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="verse-0000002122730377" n="1">
+                                 <syl xml:id="syl-0000000658807159" con="s" wordpos="s">We</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-0000001697135237" n="3">
+                     <staff xml:id="staff-0000001340300902" n="1">
+                        <layer xml:id="layer-0000000182229465" n="1">
+                           <note xml:id="note-0000000601802884" dur.ppq="2" dur="4" oct="5" pname="d" stem.dir="up">
+                              <accid xml:id="accid-0000000913699861" accid="f" accid.ges="f" />
+                              <verse xml:id="verse-0000000708822807" n="1">
+                                 <syl xml:id="syl-0000000218494233" con="s" wordpos="s">search</syl>
+                              </verse>
+                           </note>
+                           <beam xml:id="beam-0000001854080488">
+                              <note xml:id="note-0000001078063934" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <verse xml:id="verse-0000001965987788" n="1">
+                                    <syl xml:id="syl-0000000433206458" con="s" wordpos="s">for</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000001551720592" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                                 <verse xml:id="verse-0000000304911646" n="1">
+                                    <syl xml:id="syl-0000001395311657" con="s" wordpos="s">the</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="beam-0000001296695020">
+                              <note xml:id="note-0000001118625241" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="up">
+                                 <accid xml:id="accid-0000001462995352" accid="f" accid.ges="f" />
+                                 <verse xml:id="verse-0000001363880491" n="1">
+                                    <syl xml:id="syl-0000000484914844" con="d" wordpos="i">gold</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000000406674948" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                                 <accid xml:id="accid-0000001077598660" accid="f" accid.ges="f" />
+                                 <verse xml:id="verse-0000000587669232" n="1">
+                                    <syl xml:id="syl-0000000005279241" con="s" wordpos="t">en</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <note xml:id="note-0000000939764525" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="verse-0000001547421571" n="1">
+                                 <syl xml:id="syl-0000001521223836" con="s" wordpos="s">nest</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="sb-0000001617433298" />
+                  <measure xml:id="measure-0000002023972827" n="4">
+                     <staff xml:id="staff-0000000581692005" n="1">
+                        <layer xml:id="layer-0000000071226775" n="1">
+                           <beam xml:id="beam-0000000950472299">
+                              <note xml:id="note-0000001733632709" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                                 <accid xml:id="accid-0000000014432047" accid="f" accid.ges="f" />
+                                 <verse xml:id="verse-0000001504175575" n="1">
+                                    <syl xml:id="syl-0000000334881360" con="s" wordpos="s">Of</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000000272582602" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="verse-0000001936039911" n="1">
+                                    <syl xml:id="syl-0000000400124633" con="s" wordpos="s">the</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="beam-0000001980040202">
+                              <note xml:id="note-0000000848421002" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                                 <verse xml:id="verse-0000001977103177" n="1">
+                                    <syl xml:id="syl-0000001712154255" con="d" wordpos="i">cra</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="note-0000001071490748" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <accid xml:id="accid-0000001344416132" accid="f" accid.ges="f" />
+                                 <verse xml:id="verse-0000000021909083" n="1">
+                                    <syl xml:id="syl-0000001410066037" con="s" wordpos="t">dle</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <note xml:id="note-0000000809787642" dur.ppq="4" dur="2" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="verse-0000001053993231" n="1">
+                                 <syl xml:id="syl-0000000629449024" con="s" wordpos="s">song;</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
