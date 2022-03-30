@@ -6,7 +6,7 @@ century: 20th
 permalink: /cheatham/
 ---
 
-*Learn more about this composer at <a href="https://composers.com/wallace-cheatham" target="_blank">insert the same link as before</a>*
+*Learn more about this composer at <a href="https://composers.com/wallace-cheatham" target="_blank">https://composers.com/wallace-cheatham</a>*
 <br/>
 
 ### Works with Incipits
