@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Spirit Songs</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Joanna Strogatz</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2022-03-02" type="encoding-date">2022-03-02</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1dbn0p">
+         <appInfo xml:id="appinfo-yhzh1c">
+            <application xml:id="application-va1u5s" isodate="2022-03-04T10:07:26" version="3.10.0-dev-9e544c1">
+               <name xml:id="name-rxasit">Verovio</name>
+               <p xml:id="p-wk8i0p">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m4ft1h9">
+            <score xml:id="shn1u1o">
+               <scoreDef xml:id="sj4wr19">
+                  <pgHead xml:id="p7rcdax">
+                     <rend xml:id="r445u6c" halign="center" valign="top">Spirit Songs</rend>
+                     <rend xml:id="rrnyd40" halign="right" valign="bottom">T. J. Anderson</rend>
+                     <rend xml:id="r66yhne" halign="center" valign="top">Serenade II</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sbpve69">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l6k0jza">Violoncello</label>
+                        <labelAbbr xml:id="lky9h6x">Vc.</labelAbbr>
+                        <instrDef xml:id="i7tpmcc" midi.channel="0" midi.instrnum="42" midi.volume="78.00%" />
+                        <clef xml:id="ce9z85" shape="F" line="4" />
+                        <keySig xml:id="km4lax2" sig="1s" />
+                        <meterSig xml:id="mibwxyu" count="4" sym="common" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="su33k5q">
+                  <measure xml:id="mbfbii9" n="1">
+                     <staff xml:id="s36o176" n="1">
+                        <layer xml:id="lvy2csv" n="1">
+                           <note xml:id="n60tarp" dots="1" dur.ppq="3" dur="4" oct="3" pname="g" stem.dir="down" />
+                           <note xml:id="nn753rn" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="down" />
+                           <chord xml:id="c4229hk" dur.ppq="4" dur="2" stem.dir="up">
+                              <note xml:id="num3f31" oct="2" pname="g" accid="n" />
+                              <note xml:id="nma2hfe" oct="3" pname="g" accid="fu" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <tempo staff="1" place="above" tstamp="1" mm="60" mm.unit="4"></tempo>
+                     <dir xml:id="d9wos56" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rmntbtx" fontstyle="italic" fontweight="bold">pp </rend>
+                        <lb xml:id="lls9mrb" />
+                        <rend xml:id="red7xi4" fontweight="normal">dolciss.</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mlo0nzc" n="2">
+                     <staff xml:id="so6zhkk" n="1">
+                        <layer xml:id="lgr6cox" n="1">
+                           <note xml:id="nvdu15b" dots="1" dur.ppq="3" dur="4" oct="3" pname="b" stem.dir="down" />
+                           <note xml:id="nqpdaca" dur.ppq="1" dur="8" oct="3" pname="b" stem.dir="down" />
+                           <note xml:id="n1cf3fy" dur.ppq="4" dur="2" oct="3" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d4izrqk" place="above" staff="1" tstamp="3.000000" vgrp="300">(fast, narrow vibrato)</dir>
+                     <dir xml:id="d1ittjq" place="above" staff="1" tstamp="3.000000" vgrp="100">
+                        <rend xml:id="rpborxp" fontstyle="italic">shake</rend>
+                     </dir>
+                     <mordent form="upper" long="true" staff="1" startid="#n1cf3fy" tstamp="1" extender="true" n="1" />
+                  </measure>
+                  <measure xml:id="malugqd" n="3">
+                     <staff xml:id="sgwiqh5" n="1">
+                        <layer xml:id="l6civci" n="1">
+                           <note xml:id="nn9d82u" dots="1" dur.ppq="3" dur="4" oct="4" pname="d" stem.dir="down" />
+                           <note xml:id="nm095pa" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="down" />
+                           <chord xml:id="c61vfc5" dots="1" dur.ppq="3" dur="4" stem.dir="down">
+                              <note xml:id="n927hmx" oct="3" pname="d" accid="n" />
+                              <note xml:id="noyutwf" oct="4" pname="d" accid="sd" />
+                           </chord>
+                           <note xml:id="nryifh2" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m57drfs" n="4">
+                     <staff xml:id="sh1zniy" n="1">
+                        <layer xml:id="lep1f5e" n="1">
+                           <chord xml:id="cw8jxsf" dur.ppq="2" dur="4" stem.dir="down">
+                              <note xml:id="nhpdph9" oct="3" pname="d" accid="n" />
+                              <note xml:id="ntue2m8" oct="4" pname="d" accid="sd" />
+                           </chord>
+                           <note xml:id="nxy8a09" dur.ppq="4" dur="2" oct="4" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tvx2zl7" startid="#nxy8a09" endid="#np2lyri" />
+                  </measure>
+                  <measure xml:id="mddi72m" n="5">
+                     <staff xml:id="sczpe90" n="1">
+                        <layer xml:id="l7va2i3" n="1">
+                           <note xml:id="np2lyri" dur.ppq="8" dur="1" oct="4" pname="d" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dqzemwo" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rvbydtm" fontstyle="italic">shake</rend>
+                     </dir>
+                     <dir xml:id="di7rprm" place="above" staff="1" tstamp="1.000000" vgrp="300">(slow, wide vibrato)</dir>
+                     <trill xml:id="tv0hl6t" staff="1" startid="#np2lyri" tstamp2="0m+5.0000" extender="true" n="1" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
