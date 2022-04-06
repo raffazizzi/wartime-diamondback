@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -19,7 +19,7 @@
                <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
             </availability>
             <identifier>
-            <ref target="https://rebalancing-music-canon.com/"/>
+               <ref target="https://rebalancing-music-canon.com/" />
             </identifier>
          </pubStmt>
       </fileDesc>
@@ -65,9 +65,9 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tempo staff="1" place="above" tstamp="1" mm="60" mm.unit="4"></tempo>
+                     <tempo xml:id="tempo-0000000332522940" place="above" staff="1" tstamp="1.000000" mm="60.000000" mm.unit="4" />
                      <dir xml:id="d9wos56" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rmntbtx" fontstyle="italic" fontweight="bold">pp </rend>
+                        <rend xml:id="rmntbtx" fontstyle="italic" fontweight="bold">pp</rend>
                         <lb xml:id="lls9mrb" />
                         <rend xml:id="red7xi4" fontweight="normal">dolciss.</rend>
                      </dir>
@@ -80,11 +80,11 @@
                            <note xml:id="n1cf3fy" dur.ppq="4" dur="2" oct="3" pname="b" stem.dir="down" />
                         </layer>
                      </staff>
-                     <dir xml:id="d4izrqk" place="above" staff="1" tstamp="3.000000" vgrp="300">(fast, narrow vibrato)</dir>
-                     <dir xml:id="d1ittjq" place="above" staff="1" tstamp="3.000000" vgrp="100">
-                        <rend xml:id="rpborxp" fontstyle="italic">shake</rend>
+                     <dir place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend fontstyle="italic">shake</rend>
                      </dir>
-                     <mordent form="upper" long="true" staff="1" startid="#n1cf3fy" tstamp="1" extender="true" n="1" />
+                     <dir place="above" staff="1" tstamp="1.000000" vgrp="300"> (fast, narrow vibrato)</dir>
+                     <mordent xml:id="mordent-0000002048979660" staff="1" startid="#n1cf3fy" tstamp="1.000000" form="upper" long="true" extender="true" n="1" />
                   </measure>
                   <measure xml:id="malugqd" n="3">
                      <staff xml:id="sgwiqh5" n="1">
