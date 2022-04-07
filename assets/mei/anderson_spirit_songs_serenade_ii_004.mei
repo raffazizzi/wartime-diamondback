@@ -67,8 +67,9 @@
                      </staff>
                      <tempo xml:id="tempo-0000000332522940" place="above" staff="1" tstamp="1.000000" mm="60.000000" mm.unit="4" />
                      <dir xml:id="d9wos56" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rmntbtx" fontstyle="italic" fontweight="bold">pp</rend>
+                        <rend xml:id="rmntbtx" fontstyle="italic" fontweight="bold">pp</rend></dir>
                         <lb xml:id="lls9mrb" />
+                        <dir xml:id="d9wos56" place="below" staff="1" tstamp="2.00000" vgrp="40">
                         <rend xml:id="red7xi4" fontweight="normal">dolciss.</rend>
                      </dir>
                   </measure>
@@ -84,7 +85,7 @@
                         <rend fontstyle="italic">shake</rend>
                      </dir>
                      <dir place="above" staff="1" tstamp="1.000000" vgrp="300"> (fast, narrow vibrato)</dir>
-                     <mordent xml:id="mordent-0000002048979660" staff="1" startid="#n1cf3fy" tstamp="1.000000" form="upper" long="true" extender="true" n="1" />
+                     <mordent xml:id="mordent-0000002048979660" form="upper" staff="1" tstamp="3.000000" vgrp="300" long="true" extender="true" n="1" />
                   </measure>
                   <measure xml:id="malugqd" n="3">
                      <staff xml:id="sgwiqh5" n="1">
@@ -117,11 +118,10 @@
                            <note xml:id="np2lyri" dur.ppq="8" dur="1" oct="4" pname="d" />
                         </layer>
                      </staff>
-                     <dir xml:id="dqzemwo" place="above" staff="1" tstamp="1.000000" vgrp="200">
-                        <rend xml:id="rvbydtm" fontstyle="italic">shake</rend>
-                     </dir>
-                     <dir xml:id="di7rprm" place="above" staff="1" tstamp="1.000000" vgrp="300">(slow, wide vibrato)</dir>
-                     <trill xml:id="tv0hl6t" staff="1" startid="#np2lyri" tstamp2="0m+5.0000" extender="true" n="1" />
+                     <dir xml:id="dqzemwo" place="above" staff="1" tstamp="1.000000" vgrp="300">
+                        <rend xml:id="rvbydtm" fontstyle="italic">smear</rend>
+                     </dir><mordent xml:id="tv0hl6t" form="upper" staff="1" tstamp="2.5" vgrp="400" long="true" extender="true" n="1" />
+                     <dir xml:id="di7rprm" place="above" staff="1" tstamp="4.500000" vgrp="400">(slow, wide vibrato)</dir>
                   </measure>
                </section>
             </score>
