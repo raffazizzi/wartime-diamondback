@@ -1,0 +1,11 @@
+---
+layout: mei
+title: Thirst and quenching
+author: Agócs, Kati
+permalink: /agocs-thirst-and-quenching/
+document: agosc_thirst_and_quenching.mei
+---
+
+- In *Title
+Thirst and quenching: solo violin (2020).*  Needham, Massachusetts: Kati Agócs Music, 2020.
+- <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018115242703851" target="_blank">Music Library Stacks M42.A36 T4 2020</a>

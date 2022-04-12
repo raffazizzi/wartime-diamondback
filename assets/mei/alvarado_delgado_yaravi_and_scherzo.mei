@@ -7,7 +7,7 @@
          <titleStmt>
             <title>Yaraví and Scherzo</title>
             <respStmt>
-               <persName role="composer">Jannet Alvarado Delgado</persName>
+               <persName role="composer">Jannet Alvarado</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
                <persName role="reviewer">Aviva Michaeli</persName>
             </respStmt>
@@ -39,7 +39,6 @@
                <scoreDef xml:id="sj4wr19">
                   <pgHead xml:id="pghead-0000000745902242">
                      <rend xml:id="rend-0000000955432424" halign="center" valign="top">Yaraví and Scherzo</rend>
-                     <rend xml:id="rend-0000000061710315" halign="center" valign="top">for Clarinet, Marimba and Piano</rend>
                      <rend xml:id="rend-0000002105897831" halign="right" valign="bottom">Jannet Alvarado Delgado</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000351532425">
