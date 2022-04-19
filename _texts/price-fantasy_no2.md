@@ -7,4 +7,4 @@ document: price_fantasy_no2.mei
 ---
 
 - In *Fantasy no. 2: for violin and piano (1940).* New York: Schirmer Rental Dept., 2020.
-- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21257856370003851" target="_blank">Music Library Inquire @ Desk MSC9045</a>
+- <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018331656403851" target="_blank">Music Library Stacks M221.P75 F36 no. 2 2020</a>

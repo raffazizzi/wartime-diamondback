@@ -7,4 +7,4 @@ image: price_in_sentimental_mood.png
 ---
 
 - In *In sentimental mood: for piano.* New York: Schirmer Rental Dept., 2020.
-- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21257856330003851" target="_blank">Music Library Inquire @ Desk MSC9046</a>
+- <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018331656203851" target="_blank">Music Library Stacks M25.P695 I6 2020</a>
