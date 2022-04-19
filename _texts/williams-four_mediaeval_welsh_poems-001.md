@@ -7,4 +7,4 @@ document: williams_four_mediaeval_welsh_poems_001.mei
 ---
 
 - In *Four mediaeval Welsh poems.* Oriana Publications, 2010.
-- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21283969240003851" target="_blank">Music Library Inquire @ Desk MSC9300</a>
+- <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018677497103851" target="_blank">Music Library Stacks M1621.4.W55 M4 2020</a>

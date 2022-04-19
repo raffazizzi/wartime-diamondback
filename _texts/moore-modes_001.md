@@ -7,4 +7,4 @@ document: moore_modes_001.mei
 ---
 
 - In *Modes: For String Quartet: 1968.* American Composers Edition. 2013.
-- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21285436700003851" target="_blank">Music Library Inquire @ Desk MSC9281</a>
+- <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018677496803851" target="_blank">Music Library Stacks M452.M73 M6 2020</a>

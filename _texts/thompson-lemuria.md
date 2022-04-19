@@ -7,4 +7,4 @@ document: thompson_lemuria_fantasy.mei
 ---
 
 - In *Lemuria Fantasy: For Piano (1996).* New York: American Composers Alliance, 1996.
-- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21285436550003851" target="_blank">Music Library Inquire @ Desk MSC9286</a>
+- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21285436550003851" target="_blank">Music Library Stacks M25.T555 L4 2020</a>

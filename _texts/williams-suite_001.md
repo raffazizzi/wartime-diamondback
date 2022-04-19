@@ -7,4 +7,4 @@ document: williams_suite_for_string_orchestra_001.mei
 ---
 
 - In *Suite for string orchestra.* Oriana Publications.
-- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21283969360003851" target="_blank">Music Library Inquire @ Desk MSC9298</a>
+- <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018677497403851" target="_blank">Music Library Stacks M1103.W55 S8 2021</a>

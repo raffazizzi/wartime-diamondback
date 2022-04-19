@@ -7,4 +7,4 @@ document: navarro_son_a_papa.mei
 ---
 
 - In *Son a papá.* Blacksburg, Virginia: Cayambis Music Press, 2017.
-- <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21283209060003851" target="_blank">Music Library Inquire @ Desk MSC9231</a>
+- <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018677496903851" target="_blank">Music Library Stacks M25.N38 S6 2020</a>
