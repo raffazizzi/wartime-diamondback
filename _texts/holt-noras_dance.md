@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Nora's dance
-author: Nora Douglas Holt
+author: Holt, Nora Douglas
 permalink: /holt-noras-dance/
 document: holt_noras_dance_op25_no1.mei
 ---
