@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Two Works for Solo Piano
+title: Two Works for Solo Piano, Fugal Dance
 author: Bonds, Margaret
 permalink: /bonds-two-works-fugal-dance/
 document: bonds_two_works_for_solo_piano_fugal_dance.mei
