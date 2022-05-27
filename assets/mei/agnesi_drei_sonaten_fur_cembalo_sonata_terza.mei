@@ -48,10 +48,6 @@
                      <rend xml:id="rend-0000002019002871" halign="right" valign="bottom">Maria Teresa Agnesi
 </rend>
                   </pgHead>
-                  <pgFoot xml:id="pgfoot-0000000985501422">
-                     <rend xml:id="rend-0000001677650388">per il Cembalo
-</rend>
-                  </pgFoot>
                   <staffGrp xml:id="staffgrp-0000001752854348">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <label xml:id="label-0000001957105033">Piano</label>

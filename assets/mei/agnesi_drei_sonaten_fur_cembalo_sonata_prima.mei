@@ -49,13 +49,6 @@
                      <rend xml:id="rend-0000000416491255" halign="right" valign="bottom">Maria Teresa Agnesi
 </rend>
                   </pgHead>
-                  <pgFoot xml:id="pgfoot-0000001702749235">
-                     <rend xml:id="rend-0000000733189405">per il Cembalo
-</rend>
-                     <rend xml:id="rend-0000000381572419" />
-                     <rend xml:id="rend-0000001275642985">(1720-1795)
-</rend>
-                  </pgFoot>
                   <staffGrp xml:id="staffgrp-0000000537184961">
                      <staffGrp xml:id="staffgrp-0000001727362442">
                         <grpSym xml:id="grpsym-0000001883737240" symbol="brace" />
