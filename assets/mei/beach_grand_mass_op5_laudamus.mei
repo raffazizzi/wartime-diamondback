@@ -85,7 +85,6 @@
                      <dir xml:id="dquqlyv" place="above" staff="1" tstamp="1.000000" vgrp="234">
                         <rend xml:id="rhb6uqp" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
-                     <dir xml:id="dud5a3m" place="above" staff="1" tstamp="1.000000" vgrp="218">[Soprano Solo]</dir>
                      <slur xml:id="swe7hn5" startid="#nctutus" endid="#nu613db" curvedir="below" />
                   </measure>
                   <measure xml:id="mprev7v" n="4">
@@ -127,7 +126,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mysq6cf" right="end" n="6">
+                  <measure xml:id="mysq6cf" right="single" n="6">
                      <staff xml:id="sk0h7gw" n="1">
                         <layer xml:id="lhj1mgf" n="1">
                            <note xml:id="ntm0jyt" dots="1" dur.ppq="6" dur="2" oct="4" pname="g" stem.dir="up">

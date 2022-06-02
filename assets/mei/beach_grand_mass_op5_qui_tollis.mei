@@ -44,8 +44,8 @@
                      <staffGrp xml:id="sz9hfuh">
                         <grpSym xml:id="grqns4r" symbol="brace" />
                         <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                           <label xml:id="l2aw87h">Piano</label>
-                           <labelAbbr xml:id="l5p5qyr">Pno.</labelAbbr>
+                           <label xml:id="l2aw87h">Alto</label>
+                           <labelAbbr xml:id="l5p5qyr">Alto</labelAbbr>
                            <instrDef xml:id="ik28tzo" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
                            <clef xml:id="ci27z4q" shape="G" line="2" />
                            <keySig xml:id="kv6fim0" sig="6f" />
@@ -75,10 +75,8 @@
                         </layer>
                      </staff>
                      <dir xml:id="d12af4d" place="above" staff="1" tstamp="1.000000" vgrp="218">
-                        <rend xml:id="rda27ly" fontstyle="normal" fontweight="bold">p</rend>
+                        <rend xml:id="rda27ly" fontstyle="italic" fontweight="bold" >p</rend>
                      </dir>
-                     <dir xml:id="dytw40g" place="above" staff="1" tstamp="1.000000" vgrp="234">[Alto Solo]</dir>
-
                   </measure>
                   <measure xml:id="m4nse5t" n="18">
                      <staff xml:id="se31vo" n="1">
@@ -119,7 +117,7 @@
                      </staff>
                      <slur xml:id="shb6uqp" startid="#nr48xao" endid="#nsfmb6o" curvedir="below" />
                   </measure>
-                  <measure xml:id="mprev7v" right="end" n="20">
+                  <measure xml:id="mprev7v" right="single" n="20">
                      <staff xml:id="se1qbiy" n="1">
                         <layer xml:id="ltexlj6" n="1">
                            <note xml:id="nlpuqw4" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f">

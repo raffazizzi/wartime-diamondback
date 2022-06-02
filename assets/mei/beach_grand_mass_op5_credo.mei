@@ -73,7 +73,6 @@
                      </dir>
                      <tempo xml:id="tlr5klb" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000" mm="116.000000" mm.unit="4">
                         <rend xml:id="rmchisn" fontname="VerovioText">Allegro con spirito </rend> = 116</tempo>
-                     <dir xml:id="dhb6uqp" place="above" staff="1" tstamp="1.000000" vgrp="222">[Soprano Solo]</dir>
                   </measure>
                   <measure xml:id="mhry6qo" n="2">
                      <staff xml:id="slpuqw4" n="1">
@@ -99,7 +98,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mqwawt8" right="end" n="4">
+                  <measure xml:id="mqwawt8" right="single" n="4">
                      <staff xml:id="s19b3s8" n="1">
                         <layer xml:id="l9ph45z" n="1">
                            <mRest xml:id="mj80ou7" />

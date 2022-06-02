@@ -80,7 +80,6 @@
                      <dir xml:id="di8zyi0" place="above" staff="1" tstamp="1.000000" vgrp="242">
                         <rend xml:id="rx2x828" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
-                     <dir xml:id="di27z4q" place="above" staff="1" tstamp="1.000000" vgrp="229">[Bass Solo]</dir>
                      <slur xml:id="s1eq3cz" startid="#n5wpbis" endid="#n345abb" curvedir="above" />
                   </measure>
                   <measure xml:id="m1fkfpo" n="10">
@@ -121,7 +120,7 @@
                      </staff>
                      <slur xml:id="swmvm54" startid="#nuft15u" endid="#n3dtskj" curvedir="below" />
                   </measure>
-                  <measure xml:id="mfupd50" right="end" n="12">
+                  <measure xml:id="mfupd50" right="single" n="12">
                      <staff xml:id="swguaym" n="1">
                         <layer xml:id="llr5klb" n="1">
                            <beam xml:id="b99y06s">
