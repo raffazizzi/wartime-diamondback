@@ -13,4 +13,4 @@ We envision this repository serving as a companion to other projects that bring 
 - <a href="https://composerdiversity.com" target="_blank">Composer Diversity Database</a> founded by Dr. Rob Deemer
 - <a href="https://donne-uk.org/" target="_blank">Donne Women in Music</a> founded by Gabriella Di Laccio
 - <a href="https://www.musicbyblackcomposers.org/" target="_blank">Music by Black Composers</a> project of the Rachel Barton Pine Foundation
-- <a href="https://musictheoryexamplesbywomen.com/women-in-music-resources/" target="_blank">Women in Music Resources</a> compiled by the Music Theory Examples by Women team
+- <a href="https://www.musicbywomen.org/resources/resource-links/" target="_blank">Women in Music Resources</a> compiled by the Music Theory Examples by Women team
