@@ -85,7 +85,6 @@
                      <dir xml:id="d4khtud" place="above" staff="1" tstamp="1.000000" vgrp="234">
                         <rend xml:id="r39mxuh" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
-                     <dir xml:id="dm0lazh" place="above" staff="1" tstamp="1.000000" vgrp="221">[Bass]</dir>
                   </measure>
                   <measure xml:id="maek3dc" n="10">
                      <staff xml:id="s93669c" n="1">
@@ -124,7 +123,7 @@
                      </staff>
                      <slur xml:id="suzzsq" startid="#nh5cr9e" endid="#nxb4pnd" curvedir="above" />
                   </measure>
-                  <measure xml:id="mqmktmm" right="end" n="12">
+                  <measure xml:id="mqmktmm" right="single" n="12">
                      <staff xml:id="sgvj89j" n="1">
                         <layer xml:id="lvkrpmz" n="1">
                            <note xml:id="nvrj546" dots="2" dur.ppq="7" dur="4" oct="3" pname="g" stem.dir="down">

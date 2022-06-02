@@ -113,7 +113,6 @@
                      <dir xml:id="d3hchca" place="above" staff="1" tstamp="1.000000" vgrp="234">
                         <rend xml:id="re249im" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
-                     <dir xml:id="dfxnggw" place="above" staff="1" tstamp="1.000000" vgrp="221">[Tenor Solo]</dir>
                      <slur xml:id="s5yg0ua" startid="#nng0wjo" endid="#noya26m" curvedir="below" />
                   </measure>
                   <measure xml:id="megsi77" n="5">
@@ -146,7 +145,7 @@
                         </layer>
                      </staff>
       <slur xml:id="sh3zkwi" startid="#ndwcvlh" endid="#no31q1b" curvedir="above"/>                  </measure>
-                  <measure xml:id="m9v537m" right="end" n="7">
+                  <measure xml:id="m9v537m" right="single" n="7">
                      <staff xml:id="s51yf6v" n="1">
                         <layer xml:id="ldoi31y" n="1">
                            <note xml:id="nxmuows" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="down">

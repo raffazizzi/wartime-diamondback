@@ -77,7 +77,6 @@
                      <dir xml:id="df0fs7c" place="above" staff="1" tstamp="4.000000" vgrp="200">
                         <rend xml:id="ryvo07x" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
-                     <dir xml:id="dac94ot" place="above" staff="1" tstamp="4.000000" vgrp="229">[Tenor Solo]</dir>
                      <slur xml:id="s72lqf9" startid="#n1j5ag9" endid="#n7mbgx3" curvedir="above" />
                      <tie xml:id="tpswil5" startid="#n1j5ag9" endid="#nlx27el" />
                   </measure>
@@ -164,7 +163,7 @@
                      </staff>
                      <slur xml:id="squyfj8" startid="#noq2zjg" endid="#nc2gseb" curvedir="below" />
                   </measure>
-                  <measure xml:id="m38ibl0" right="end" n="15">
+                  <measure xml:id="m38ibl0" right="single" n="15">
                      <staff xml:id="sfupd50" n="1">
                         <layer xml:id="l8kpc2w" n="1">
                            <rest xml:id="rc1lw4f" dur.ppq="4" dur="4" />
