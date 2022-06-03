@@ -40,9 +40,6 @@
                      <rend xml:id="rend-0000001438742157" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
                      <rend xml:id="rend-0000001974642412" halign="center" valign="top">Fantasistykker, op. 36, no. 6 - Ungdomssang</rend>
                   </pgHead>
-                  <pgFoot xml:id="pgfoot-0000000779278393">
-                     <rend xml:id="rend-0000000805682387">A song of youth.     Chant de la jeunesse.         Jugendsang</rend>
-                  </pgFoot>
                   <staffGrp xml:id="staffgrp-0000001642876582">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <label xml:id="label-0000001629547470">Piano</label>
@@ -117,12 +114,12 @@
                      </staff>
                      <tempo xml:id="tempo-0000000679639567" place="above" staff="1" tstamp="1.000000" midi.bpm="114" mm="76.000000" mm.unit="4" mm.dots="1">
                         <rend xml:id="rend-0000000074152301" fontname="VerovioText">Andantino M.M. </rend> = 76</tempo>
-                     <dynam xml:id="dynam-0000001836432696" place="below" staff="1" tstamp="1.000000" val="80" vgrp="71">mf</dynam>
+                     <dynam xml:id="dynam-0000001836432696" place="below" staff="1" tstamp="1.000000" val="80" vgrp="1">mf</dynam>
                      <slur xml:id="slur-0000000937272741" startid="#note-0000000976806625" endid="#note-0000000380233170" curvedir="above" />
                      <slur xml:id="slur-0000001181695304" startid="#note-0000000976806625" endid="#note-0000000380233170" curvedir="below" />
-                     <dir xml:id="dir-0000000636036110" place="below" staff="1" tstamp="4.000000" vgrp="65">
+                     <dynam xml:id="dir-0000000636036110" place="below" staff="1" tstamp="4.200000" vgrp="1">
                         <rend xml:id="rend-0000000776271432" rend="none" fontstyle="italic">dolce</rend>
-                     </dir>
+                     </dynam>
                      <slur xml:id="slur-0000000182442621" startid="#note-0000000380233170" endid="#note-0000001523324952" curvedir="above" />
                      <slur xml:id="slur-0000001670224608" startid="#note-0000000200271843" endid="#note-0000001707423140" curvedir="above" />
                      <pedal xml:id="pedal-0000001314380456" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="83" />
@@ -182,7 +179,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000002026570551" startid="#note-0000000662197671" endid="#note-0000001991270282" curvedir="below" />
-                     <hairpin xml:id="hairpin-0000001034508618" staff="1" tstamp="4.000000" tstamp2="0m+9.5000" form="cres" place="below" vgrp="95" />
+                     <hairpin xml:id="hairpin-0000001034508618" staff="1" tstamp="4.000000" tstamp2="0m+9.5000" form="cres" place="below" vgrp="1" />
                      <slur xml:id="slur-0000000689691617" startid="#note-0000000946822850" endid="#note-0000001453749511" curvedir="above" />
                      <slur xml:id="slur-0000001696735993" startid="#note-0000001451544370" endid="#note-0000001453749511" curvedir="below" />
                      <tie xml:id="tie-0000000548904394" startid="#note-0000001451544370" endid="#note-0000001453749511" />
@@ -249,7 +246,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <hairpin xml:id="hairpin-0000000079094986" staff="1" tstamp="1.000000" tstamp2="0m+6.5000" form="dim" place="below" vgrp="90" />
+                     <hairpin xml:id="hairpin-0000000079094986" staff="1" tstamp="1.000000" tstamp2="0m+6.5000" form="dim" place="below" vgrp="1" />
                      <slur xml:id="slur-0000001025383739" startid="#note-0000002109810578" endid="#note-0000001348516569" curvedir="above" />
                      <slur xml:id="slur-0000000576425894" startid="#note-0000002109810578" endid="#note-0000001348516569" curvedir="above" />
                      <slur xml:id="slur-0000000500632097" startid="#note-0000002109810578" endid="#note-0000001348516569" curvedir="above" />

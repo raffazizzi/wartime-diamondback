@@ -80,10 +80,10 @@
                         <rend xml:id="rend-0000000817018380" fontname="VerovioText">Andantino </rend> = 100</tempo>
                      <tempo xml:id="tempo-0000001627785340" place="above" staff="1" tstamp="1.000000" midi.bpm="94">
                      </tempo>
-                     <dir xml:id="dir-0000000688365937" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dynam xml:id="dir-0000000688365937" place="above" staff="2" tstamp="1.15" vgrp="1">
                         <rend xml:id="rend-0000001455521293" rend="none" fontstyle="italic">dolce</rend>
-                     </dir>
-                     <dynam xml:id="dynam-0000000309656644" place="below" staff="1" tstamp="1.000000" val="49">
+                     </dynam>
+                     <dynam xml:id="dynam-0000000309656644" place="above" staff="2" tstamp="1.000000" val="49" vgrp="1">
                         <rend xml:id="rend-0000001474679209" halign="right">p</rend>
                      </dynam>
                      <tie xml:id="tie-0000002109038109" startid="#note-0000000907729032" endid="#note-0000000704991133" curvedir="below"/>
@@ -118,9 +118,9 @@
                      </staff>
                      <tie xml:id="tie-0000001510633480" startid="#note-0000000054829688" endid="#note-0000001325319933" />
                      <slur xml:id="slur-0000000426976355" startid="#note-0000000606754492" endid="#note-0000001778849597" curvedir="above" />
-                     <dir xml:id="dir-0000000666516987" place="above" staff="2" tstamp="3.000000" vgrp="242">
+                     <dynam xml:id="dir-0000000666516987" place="above" staff="2" tstamp="3.000000" vgrp="1">
                         <rend xml:id="rend-0000000395809410" rend="none" fontstyle="italic">espress.</rend>
-                     </dir>
+                     </dynam>
                      <tie xml:id="tie-0000001948093945" startid="#note-0000000704991133" endid="#note-0000000188363639" />
                   </measure>
                   <measure xml:id="measure-0000000437838765" n="2">
