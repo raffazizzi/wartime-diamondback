@@ -3,7 +3,7 @@ layout: mei
 title: Grand Mass in E-flat major, opus 5 - Quoniam tu solus
 author: Beach, Amy Marcy Cheney
 permalink: /beach-5-quoniam/
-document: beach_grand_mass_op5_quoniam_tu_solus.mei.mei
+document: beach_grand_mass_op5_quoniam_tu_solus.mei
 ---
 
 - In *Grand Mass: in E-flat major, opus 5*, edited by Matthew Phelps. Recent Researches in American Music; v. 84. 2018.
