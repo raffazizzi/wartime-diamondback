@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Aurelia, in memoriam
-author: Anderson, T. J.
+author: Anderson, T.J.
 permalink: /anderson-aurelia/
 document:
 ---
