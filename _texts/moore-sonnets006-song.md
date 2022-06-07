@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: V. Song for a dark girl
+title: Sonnets on love, rosebuds, and death. V. Song for a dark girl
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-song/
 document:

@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: IV. He came in silvern armour
+title: Sonnets on love, rosebuds, and death. IV. He came in silvern armour
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-armour/
 document:

@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: VI. Idolatry
+title: Sonnets on love, rosebuds, and death. VI. Idolatry
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-idolatry/
 document:

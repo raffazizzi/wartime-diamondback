@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: VIII. Invocation
+title: Sonnets on love, rosebuds, and death. VIII. Invocation
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-invocation/
 document:

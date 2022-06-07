@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: I. I had no thought of violets of late
+title: Sonnets on love, rosebuds, and death. I. I had no thought of violets of late
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-violets/
 document:

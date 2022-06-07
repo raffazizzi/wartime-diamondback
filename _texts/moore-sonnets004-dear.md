@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: III. Some things are very dear to me
+title: Sonnets on love, rosebuds, and death. III. Some things are very dear to me
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-some-things/
 document:

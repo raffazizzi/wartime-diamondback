@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: VII. Youth sings a song of rosebuds
+title: Sonnets on love, rosebuds, and death. VII. Youth sings a song of rosebuds
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-youth/
 document:

@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: Introduction
+title: Sonnets on love, rosebuds, and death. Introduction
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-introduction/
 document:

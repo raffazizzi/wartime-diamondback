@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Sonnets on love, rosebuds, and death: II. Joy
+title: Sonnets on love, rosebuds, and death. II. Joy
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-joy/
 document:
