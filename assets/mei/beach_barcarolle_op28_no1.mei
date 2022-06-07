@@ -68,6 +68,7 @@
                            <rest xml:id="rest-0000000516761490" dur.ppq="2" dur="8" />
                         </layer>
                      </staff>
+                     <tempo staff="1" tstamp="1.0" place="above">Andantino</tempo>
                      <staff xml:id="staff-0000000070399441" n="2">
                         <layer xml:id="layer-0000001752854348" n="5">
                            <note xml:id="note-0000001957105033" dur.ppq="2" dur="8" oct="3" pname="d" stem.dir="up" />

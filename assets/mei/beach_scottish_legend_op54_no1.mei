@@ -73,9 +73,9 @@
                            <note xml:id="n2d2j47" dur.ppq="2" dur="8" oct="2" pname="a" stem.dir="up" />
                         </layer>
                      </staff>
-                     <dir xml:id="d737ln7" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dynam xml:id="d737ln7" place="below" staff="1" tstamp="1.000000" vgrp="1">
                         <rend xml:id="rcjp3ro" fontstyle="italic" fontweight="bold">p</rend>
-                     </dir>
+                     </dynam>
                      <tempo xml:id="thnc6pd" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000">
                         <rend xml:id="rs8k04k" fontweight="bold">Lento con molto espressione</rend>
                      </tempo>
@@ -293,9 +293,9 @@
                            <space xml:id="sag6a9g" dur.ppq="4" dur="4" />
                         </layer>
                      </staff>
-                     <hairpin xml:id="hs5xi2e" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="cres" place="below" vgrp="95" />
-                     <dir xml:id="d70yay8" place="below" staff="1" tstamp="2.700000" vgrp="40"><lb xml:id="llfzm7s" />
-                        <rend xml:id="re8ovch" fontstyle="italic" fontweight="bold">[mf]</rend>
+                     <hairpin xml:id="hs5xi2e" staff="1" tstamp="1.000000" tstamp2="2.5000" form="cres" place="below" vgrp="1" />
+                     <dir place="below" staff="1" tstamp="2.8" vgrp="1">
+                        <rend fontstyle="italic" fontweight="bold">[mf]</rend>
                      </dir>
                      <slur xml:id="sfxnggw" startid="#norn9f8" endid="#n2ngydw" curvedir="above" />
                      <arpeg xml:id="af3ex1o" plist="#norn9f8 #cm7w9g2" />
@@ -379,11 +379,11 @@
                            <space xml:id="s10xxwx" dur.ppq="4" dur="4" />
                         </layer>
                      </staff>
-                     <hairpin xml:id="hhzfabq" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="87" />
+                     <hairpin xml:id="hhzfabq" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="1" />
                      <slur xml:id="s6bt5tp" startid="#nk3jgl0" endid="#nepe1mo" curvedir="above" />
-                     <dir xml:id="dvb8oaw" place="below" staff="1" tstamp="4.000000" vgrp="44">
+                     <dynam xml:id="dvb8oaw" place="below" staff="1" tstamp="4.000000" vgrp="1">
                         <rend xml:id="ro31q1b" fontstyle="italic" fontweight="bold">mf</rend>
-                     </dir>
+                     </dynam>
                      <slur xml:id="sfeti6f" startid="#na95rs9" endid="#nt75iax" curvedir="above" />
                      <slur xml:id="syv7ev4" startid="#ndrblfg" endid="#nqvij35" curvedir="below" />
                      <tie xml:id="t89zs62" startid="#nnekb6z" endid="#nxrj93j" curvedir="above" />

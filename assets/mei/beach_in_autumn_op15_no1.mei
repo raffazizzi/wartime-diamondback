@@ -109,6 +109,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tempo staff="1" tstamp="1.0" place="above">Allegro ma non tanto</tempo>
                      <dir xml:id="dir-0000001413552312" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000567190576" rend="none" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
