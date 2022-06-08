@@ -153,17 +153,17 @@
                      </staff>
                      <tempo xml:id="tnsl8jx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="176.000000" mm="176.000000" mm.unit="4">
                         <rend xml:id="rwnnfu4" fontname="VerovioText">Allegro M.M. </rend> = 176</tempo>
-                     <dir xml:id="dcvyn21" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dir xml:id="dcvyn21" place="below" staff="1" tstamp="1.000000" vgrp="0">
                         <rend xml:id="rr64jom" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
-                     <dir xml:id="d3bxw9t" place="below" staff="1" tstamp="3.000000" vgrp="78">
+                     <dir xml:id="d3bxw9t" place="below" staff="1" tstamp="3.000000" vgrp="1">
                         <rend xml:id="rjdv1hx" fontstyle="italic">leggieriss.</rend>
                      </dir>
-                     <dir xml:id="dp6y520" place="below" staff="2" tstamp="1.000000" vgrp="1">
+                     <dir xml:id="dp6y520" place="below" staff="2" tstamp="1" vgrp="1">
                         <rend xml:id="rsfht6e" fontstyle="italic">una corda</rend>
                      </dir>
-                     <pedal dir="down" staff="2" tstamp="0" />
-                     <pedal xml:id="pcjp3ro" staff="2" tstamp="4.8" dir="up" form="pedstar" place="below"/>
+                     <pedal dir="down" staff="2" tstamp="1" />
+                     <pedal dir="up" staff="2" tstamp="4.5"/>
                   </measure>
                   <measure xml:id="mrmepk0" n="2">
                      <staff xml:id="s7v9xk6" n="1">
@@ -317,9 +317,9 @@
                            <mSpace xml:id="mf9j41m" />
                         </layer>
                      </staff>
-                     <slur xml:id="sdhd7u7" startid="#ntkvkiu" endid="#npfrcwb" curvedir="above" />
+                     <slur xml:id="sdhd7u7" startid="#ntkvkiu" endid="#nro9dgb" curvedir="above" bulge="1 90% -1 50%"/>
                   </measure>
-                  <measure xml:id="m3682lq" right="end" n="4">
+                  <measure xml:id="m3682lq" right="single" n="4">
                      <staff xml:id="sdfdaij" n="1">
                         <layer xml:id="lfrcmks" n="1">
                            <beam xml:id="bf3ff6p">
@@ -389,7 +389,6 @@
                            <mSpace xml:id="mj27u0n" />
                         </layer>
                      </staff>
-                     <slur xml:id="s2upt57" startid="#nn2nn3n" endid="#ne249im" curvedir="above" />
                   </measure>
                </section>
             </score>
