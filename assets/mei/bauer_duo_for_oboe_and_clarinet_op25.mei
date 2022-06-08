@@ -95,16 +95,14 @@
                            </beam>
                         </layer>
                      </staff>
-                      <tempo xml:id="tempo-0000000755339508" place="above" staff="1" tstamp="1.000000" midi.bpm="120" mm.unit="4">
-                        <rend xml:id="rend-0000000844745173" rend="none" fontweight="bold">Allegretto con moto (</rend>
-                                                <rend xml:id="rend-0000001670224608" fontname="VerovioText"></rend> =
-<rend xml:id="rend-0000000428656723" rend="none" fontweight="bold">about 108)</rend>
+                      <tempo xml:id="tempo-0000000755339508" place="above" staff="1" tstamp="0" mm.unit="4">
+                        <rend xml:id="rend-0000000844745173" rend="none" fontweight="bold">Allegretto con moto ( = about 108)</rend>
                      </tempo>
-                     <dynam xml:id="dynam-0000000500632097" place="below" staff="2" tstamp="1.000000" val="49" vgrp="45">p</dynam>
-                     <tie xml:id="tie-0000001489208659" startid="#note-0000001573138241" endid="#note-0000001002377730" />
-                     <hairpin xml:id="hairpin-0000000815230447" staff="2" tstamp="3.000000" tstamp2="0m+3.5000" form="cres" place="below" vgrp="61" />
-                     <tie xml:id="tie-0000001819142039" startid="#note-0000000987449213" endid="#note-0000000295968705" />
-                     <hairpin xml:id="hairpin-0000001215885304" staff="2" tstamp="4.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="61" />
+                     <dynam xml:id="dynam-0000000500632097" place="below" staff="2" tstamp="1.000000" val="49" vgrp="1">p</dynam>
+                     <slur xml:id="slur-0000001489208659" startid="#note-0000001454483614" endid="#note-0000001573138241" />
+                     <hairpin xml:id="hairpin-0000000815230447" staff="2" tstamp="3.000000" tstamp2="0m+3.5000" form="cres" place="below" vgrp="1" />
+                     <slur xml:id="slur-0000001819142039" startid="#note-0000000987449213" endid="#note-0000000696156146" />
+                     <hairpin xml:id="hairpin-0000001215885304" staff="2" tstamp="4.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000000046828173" n="2">
                      <staff xml:id="staff-0000000472579710" n="1">
@@ -127,7 +125,9 @@
                               </note>
                            </beam>
                            <beam xml:id="beam-0000000912751009">
-                              <note xml:id="note-0000000295968705" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up" accid.ges="s" />
+                              <note xml:id="note-0000000295968705" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                                 <accid accid="s" accid.ges="s" />
+                              </note>
                               <note xml:id="note-0000000826072379" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up" />
                               <note xml:id="note-0000002066725417" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up" accid.ges="s" />
                               <note xml:id="note-0000000854008134" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up" accid.ges="s" />
@@ -137,10 +137,10 @@
                            </note>
                         </layer>
                      </staff>
-                     <tie xml:id="tie-0000000811874683" startid="#note-0000000632720320" endid="#note-0000000636483886" />
-                     <tie xml:id="tie-0000001558549552" startid="#note-0000000295968705" endid="#note-0000002066725417" />
+                     <slur xml:id="slur-0000000811874683" startid="#note-0000000632720320" endid="#note-0000001783211973" />
+                     <slur xml:id="slur-0000001558549552" startid="#note-0000000295968705" endid="#note-0000000854008134" />
                      <hairpin xml:id="hairpin-0000001347402940" staff="2" tstamp="4.000000" tstamp2="1m+1.5000" form="dim" place="below" vgrp="84" />
-                     <tie xml:id="tie-0000001296645688" startid="#note-0000000424863728" endid="#note-0000000912727500" />
+                     <tie xml:id="slur-0000001296645688" startid="#note-0000000424863728" endid="#note-0000000912727500" />
                   </measure>
                   <sb xml:id="sb-0000000545998558" />
                   <measure xml:id="measure-0000000063689108" n="3">
@@ -181,11 +181,11 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dynam-0000001503896436" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">p</dynam>
-                     <tie xml:id="tie-0000001408767323" startid="#note-0000001181073036" endid="#note-0000000616852535" />
+                     <slur xml:id="slur-0000001408767323" startid="#note-0000000915494814" endid="#note-0000001181073036" />
                      <hairpin xml:id="hairpin-0000001635121290" staff="1" tstamp="3.000000" tstamp2="0m+3.5000" form="cres" place="below" vgrp="75" />
-                     <tie xml:id="tie-0000001557769433" startid="#note-0000001250110893" endid="#note-0000002110500314" />
+                     <slur xml:id="slur-0000001557769433" startid="#note-0000001250110893" endid="#note-0000001258781097" />
                      <hairpin xml:id="hairpin-0000000662197671" staff="1" tstamp="4.500000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="65" />
-                     <tie xml:id="tie-0000001197611514" startid="#note-0000001834948503" endid="#note-0000000576646817" />
+                     <slur xml:id="slur-0000001197611514" startid="#note-0000001834948503" endid="#note-0000000292513456" />
                      <slur xml:id="slur-0000000305502239" startid="#note-0000000576646817" endid="#note-0000001152582071" curvedir="below" />
                   </measure>
                   <measure xml:id="measure-0000002026570551" right="single" n="4">
@@ -238,6 +238,8 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000001757791391" startid="#note-0000000818741950" endid="#note-0000000689691617" curvedir="above" />
+                     <slur startid="#note-0000000636483886" endid="#note-0000001657324896" curvedir="below" />
+                     <slur startid="#note-0000000238462238" endid="#note-0000000475726911" curvedir="below" />
                      <hairpin xml:id="hairpin-0000000177187089" staff="1" tstamp="3.750000" tstamp2="0m+4.5000" form="dim" place="above" vgrp="226" />
                      <dynam xml:id="dynam-0000001451544370" place="below" staff="1" tstamp="4.000000" val="80" vgrp="57">mf</dynam>
                      <hairpin xml:id="hairpin-0000000874730275" staff="2" tstamp="2.000000" tstamp2="0m+3.0000" form="dim" place="below" vgrp="60" />
