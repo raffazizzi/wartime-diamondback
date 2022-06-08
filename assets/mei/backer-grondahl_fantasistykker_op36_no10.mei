@@ -151,9 +151,9 @@
                            <mSpace xml:id="m737ln7" />
                         </layer>
                      </staff>
-                     <tempo xml:id="tnsl8jx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="176.000000" mm="176.000000" mm.unit="4">
+                     <tempo xml:id="tnsl8jx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="176" mm="176" mm.unit="4">
                         <rend xml:id="rwnnfu4" fontname="VerovioText">Allegro M.M. </rend> = 176</tempo>
-                     <dir xml:id="dcvyn21" place="below" staff="1" tstamp="1.000000" vgrp="0">
+                     <dir xml:id="dcvyn21" place="below" staff="1" tstamp="1.000000">
                         <rend xml:id="rr64jom" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
                      <dir xml:id="d3bxw9t" place="below" staff="1" tstamp="3.000000" vgrp="1">
