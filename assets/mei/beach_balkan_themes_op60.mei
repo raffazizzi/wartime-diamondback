@@ -101,7 +101,7 @@
                         <rend xml:id="rend-0000001711015550" fontname="VerovioText">Adagio malincolico (</rend> = 66)</tempo>
                      <slur xml:id="slur-0000000172224867" startid="#note-0000001370400839" endid="#note-0000001635121290" curvedir="below" />
                      <tie xml:id="tie-0000000636036110" startid="#note-0000000937272741" endid="#note-0000000063689108" />
-                     <tie xml:id="tie-0000000380233170" startid="#note-0000000776271432" endid="#note-0000002067897949" curvedir="above"  />
+                     <slur startid="#note-0000000776271432" endid="#note-0000002067897949" curvedir="above"  />
                   </measure>
                   <measure xml:id="measure-0000001069215937" n="2">
                      <staff xml:id="staff-0000000200271843" n="1">
@@ -269,8 +269,8 @@
                      <slur xml:id="slur-0000001783211973" startid="#note-0000001703014070" endid="#note-0000001531826502" curvedir="above" />
                      <slur xml:id="slur-0000001829812290" startid="#note-0000001558549552" endid="#note-0000001050861906" curvedir="below" />
                      <tie xml:id="tie-0000001347402940" startid="#note-0000000854008134" endid="#note-0000001733416591" />
-                     <slur xml:id="slur-0000000912727500" startid="#note-0000000850084654" endid="#note-0000001834948503" curvedir="below" />
-                     <slur xml:id="slur-0000001395184307" startid="#note-0000000850084654" endid="#note-0000001834948503" curvedir="below" />
+                     <tie xml:id="slur-0000000912727500" startid="#note-0000000850084654" endid="#note-0000001834948503" curvedir="below" />
+                     <tie xml:id="slur-0000001395184307" startid="#note-0000000172525003" endid="#note-0000000576646817" curvedir="below" />
                      <slur xml:id="slur-0000000292513456" startid="#note-0000001834948503" endid="#note-0000001185180611" curvedir="above" />
                      <tie xml:id="tie-0000001673334875" startid="#note-0000000638566488" endid="#note-0000000819687180" />
                   </measure>

@@ -125,10 +125,10 @@
                            </note>
                         </layer>
                      </staff>
-                     <tie xml:id="tie-0000000409048865" startid="#note-0000000159401410" endid="#note-0000001242510141" />
+                     <slur xml:id="tie-0000000409048865" startid="#note-0000000159401410" endid="#note-0000001874070776" />
                      <tie xml:id="tie-0000002029406075" startid="#note-0000001325394768" endid="#note-0000001915054576" />
-                     <tie xml:id="tie-0000000714354300" startid="#note-0000000679639567" endid="#note-0000000063689108" />
-                     <tie xml:id="tie-0000001044385779" startid="#note-0000000074152301" endid="#note-0000000545998558" />
+                     <tie xml:id="tie-0000000714354300" startid="#note-0000000679639567" endid="#note-0000000063689108" curvedir="below"/>
+                     <slur xml:id="tie-0000001044385779" startid="#note-0000000074152301" endid="#note-0000000545998558" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000001836432696" n="2">
                      <staff xml:id="staff-0000000636036110" n="1">
@@ -180,7 +180,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="tie-0000000182442621" startid="#note-0000000380233170" endid="#note-0000001719078134" />
-                     <tie xml:id="tie-0000001523324952" startid="#note-0000000652726873" endid="#note-0000001897381880" />
+                     <slur xml:id="tie-0000001523324952" startid="#note-0000000652726873" endid="#note-0000000200271843" />
                   </measure>
                   <measure xml:id="measure-0000001503896436" n="3">
                      <staff xml:id="staff-0000001284394151" n="1">
@@ -289,10 +289,10 @@
                            <rest xml:id="rest-0000000020792120" dur.ppq="4" dur="2" />
                         </layer>
                      </staff>
-                     <tie xml:id="tie-0000001973767629" startid="#note-0000001819142039" endid="#note-0000001821382423" />
-                     <pedal xml:id="pedal-0000000284829849" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="71" />
+                     <slur startid="#note-0000001819142039" endid="#note-0000001821382423" curvedir="above" />
+                     <pedal staff="2" tstamp="1.000000" dir="down" place="below" />
                      <slur xml:id="slur-0000000923000890" startid="#note-0000001738771443" endid="#note-0000002003068762" curvedir="above" />
-                     <pedal xml:id="pedal-0000000304373385" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="3.5" dir="up" form="pedstar" place="below"/>
                   </measure>
                </section>
             </score>
