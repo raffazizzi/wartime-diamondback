@@ -160,7 +160,7 @@
                      <pedal dir="down" staff="2" tstamp="1" />
                      <pedal dir="up" staff="2" tstamp="3.9" />
                    </measure>
-                  <measure xml:id="mfvjlpy" right="end" n="4">
+                  <measure xml:id="mfvjlpy" right="single" n="4">
                      <staff xml:id="sw7vtlk" n="1">
                         <layer xml:id="lr7a435" n="1">
                            <beam xml:id="ba1e1mt">
