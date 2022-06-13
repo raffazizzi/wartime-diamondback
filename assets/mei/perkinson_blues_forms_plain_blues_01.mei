@@ -122,7 +122,7 @@
                      <tie xml:id="tie-0000001630515968" startid="#note-0000001231248169" endid="#note-0000001774404696" />
                      <tie xml:id="tie-0000001099762818" startid="#note-0000000894306870" endid="#note-0000000453382523" />
                      <tie xml:id="tie-0000001810057348" startid="#note-0000001615605388" endid="#note-0000000716040018" />
-                     <tie xml:id="tie-0000000069834725" startid="#note-0000000783907115" endid="#note-0000000678580042" curvedir="above"/>
+                     <tie xml:id="tie-0000000069834725" startid="#note-0000000783907115" endid="#note-0000000678580042" curvedir="above" bulge="2 1"/>
                   </measure>
                   <measure xml:id="measure-0000000952038493" n="2">
                      <staff xml:id="staff-0000000683932503" n="1">
