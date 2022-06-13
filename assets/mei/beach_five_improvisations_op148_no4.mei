@@ -82,11 +82,10 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000001584650469" place="above" staff="1" tstamp="1.000000" midi.bpm="50" mm="50.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001525494948" fontname="VerovioText"></rend> = 50</tempo>
+                        <rend xml:id="rend-0000001525494948" fontname="VerovioText">Molto lento e tranquillo &#x1d15f; = 50</rend></tempo>
                      <slur xml:id="slur-0000002023948353" startid="#note-0000000541012321" endid="#note-0000001857495097" curvedir="above" />
-                     <pedal xml:id="pedal-0000001413552312" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="74" />
+                     <pedal xml:id="pedal-0000001413552312" staff="2" tstamp="1.000000" dir="down"  place="below" vgrp="1" />
                      <slur xml:id="slur-0000002068416498" startid="#note-0000000458774416" endid="#note-0000001927194868" curvedir="above" />
-                     <pedal xml:id="pedal-0000001579265975" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
                   </measure>
                   <measure xml:id="measure-0000000372705998" n="2">
                      <staff xml:id="staff-0000001752854348" n="1">
@@ -110,9 +109,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000000795963156" startid="#note-0000000010646953" endid="#note-0000001475300970" curvedir="above" />
-                     <pedal xml:id="pedal-0000002063529933" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="74" />
+                     <pedal xml:id="pedal-0000002063529933" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000000648443881" startid="#note-0000000516574008" endid="#note-0000002011352582" curvedir="above" />
-                     <pedal xml:id="pedal-0000001452197873" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000001452197873" staff="2" tstamp="4.900000" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000002090901017" n="3">
                      <staff xml:id="staff-0000002082326847" n="1">
@@ -143,9 +142,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000000538798457" startid="#note-0000000131937862" endid="#note-0000000579894585" curvedir="above" />
-                     <pedal xml:id="pedal-0000000731892826" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="74" />
+                     <pedal xml:id="pedal-0000000731892826" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000002049911428" startid="#note-0000001443051023" endid="#note-0000001892638776" curvedir="below" />
-                     <pedal xml:id="pedal-0000000621840684" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000000621840684" staff="2" tstamp="4.900000" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000001735652903" right="single" n="4">
                      <staff xml:id="staff-0000001471452250" n="1">
@@ -173,9 +172,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000000481657571" startid="#note-0000000841600129" endid="#note-0000000506531739" curvedir="above" />
-                     <pedal xml:id="pedal-0000000726250218" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="74" />
+                     <pedal xml:id="pedal-0000000726250218" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000000585037733" startid="#note-0000001383176531" endid="#note-0000001410763391" curvedir="above" />
-                     <pedal xml:id="pedal-0000001587610470" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000001587610470" staff="2" tstamp="4.900000" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                </section>
             </score>
