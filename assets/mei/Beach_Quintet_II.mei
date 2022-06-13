@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Quintet</title>
+            <respStmt>
+               <persName role="composer">Amy Beach</persName>
+               <persName role="transcriber">Sebastian Tringale</persName>
+               <persName role="reviewer">Phillip Wright</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2022-06-13" type="encoding-date">2022-06-13</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-azggsz">
+         <appInfo xml:id="appinfo-gfanxw">
+            <application xml:id="application-q5t3dz" isodate="2022-06-13T11:25:28" version="3.10.0-845ab54">
+               <name xml:id="name-unwdzy">Verovio</name>
+               <p xml:id="p-i0h7pb">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mr5c9tv">
+            <score xml:id="s41ogpz">
+               <scoreDef xml:id="socvrjc">
+                  <pgHead xml:id="pe2ovw6">
+                     <rend xml:id="rtqwx38" halign="center" valign="top">Quintet</rend>
+                     <rend xml:id="ri9b5ve" halign="center" valign="top">II.</rend>
+                     <rend xml:id="rilk63" halign="right" valign="bottom">Amy Beach</rend>
+                  </pgHead>
+                  <staffGrp xml:id="swy4o7y">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="lzbp7nw">Violin 1</label>
+                        <labelAbbr xml:id="lqnfi5j">Vln. 1</labelAbbr>
+                        <instrDef xml:id="idawu37" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="cdg6kek" shape="G" line="2" />
+                        <keySig xml:id="kcva3cl" sig="5f" />
+                        <meterSig xml:id="mx0bhqf" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="st8ik4e">
+                  <measure xml:id="m1k0bkh" n="1">
+                     <staff xml:id="s21dv90" n="1">
+                        <layer xml:id="lxwsl2d" n="1">
+                           <note xml:id="n36mcny" dur.ppq="4" dur="2" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="n8sw97x" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f" />
+                           <note xml:id="noujuv" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d2g0rof" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rn89l1y" fontstyle="italic" fontweight="bold">pp</rend>
+                     </dir>
+                     <dir xml:id="d953pqj" place="above" staff="1" tstamp="1.000000" vgrp="210">con sordino</dir>
+                     <tempo xml:id="t8chv6e" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000">
+                        <rend xml:id="rab03n1" fontweight="bold">Adagio espressivo</rend>
+                     </tempo>
+                     <slur xml:id="sof44b6" startid="#n36mcny" endid="#noujuv" curvedir="above" />
+                  </measure>
+                  <measure xml:id="m6umwr7" n="2">
+                     <staff xml:id="sp9059b" n="1">
+                        <layer xml:id="l29h1ec" n="1">
+                           <note xml:id="n3arzg0" dots="1" dur.ppq="3" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nz3uo1m" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" accid.ges="f" />
+                           <note xml:id="njulxis" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" accid.ges="f" />
+                           <note xml:id="n4ssiax" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="seq2a7t" startid="#n3arzg0" endid="#no2b039" curvedir="above" />
+                     <tie xml:id="txyv2no" startid="#n4ssiax" endid="#np5ew6o" />
+                  </measure>
+                  <measure xml:id="m7eyk7e" n="3">
+                     <staff xml:id="s39lwj1" n="1">
+                        <layer xml:id="lcx49ra" n="1">
+                           <note xml:id="np5ew6o" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="no2b039" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" accid.ges="f" />
+                           <note xml:id="nbaud8c" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                              <artic xml:id="awceqo9" artic="ten" />
+                           </note>
+                           <note xml:id="npjz5a0" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down">
+                              <artic xml:id="avm7dz2" artic="ten" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mnwawrl" n="4">
+                     <staff xml:id="se65mb7" n="1">
+                        <layer xml:id="lfm75lf" n="1">
+                           <note xml:id="niv2htr" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nleekhi" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nb60d2w" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                           <note xml:id="noiq81a" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="snjcc2i" startid="#niv2htr" endid="#noiq81a" curvedir="above" />
+                  </measure>
+                  <measure xml:id="m6d8zph" n="5">
+                     <staff xml:id="sl6j6z5" n="1">
+                        <layer xml:id="ld8rzq8" n="1">
+                           <note xml:id="nxiesp5" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="np0teq" dur.ppq="2" dur="4" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                           <note xml:id="n9mlqxa" dur.ppq="2" dur="4" oct="5" pname="a" stem.dir="down" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hjofbm" staff="1" tstamp="1.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="61" />
+                     <slur xml:id="si2apuu" startid="#nxiesp5" endid="#n9mlqxa" curvedir="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
