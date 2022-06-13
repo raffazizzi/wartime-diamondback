@@ -3,7 +3,7 @@ layout: mei
 title: Blue/s forms, i. Plain blue/s
 author: Perkinson, Coleridge-Taylor
 permalink: /perkinson-blues-forms-plain-blues/
-document:
+document: perkinson_blues_forms_plain_blues_01.mei
 ---
 
 - In *Blue/s forms: for solo violin (1979).* Saint Louis, MO: MMB Music, 1979.
