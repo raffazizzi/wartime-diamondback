@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Improvisations, op. 148, no. 1, Lento, molto tranquillo
 author: Beach, Amy Marcy Cheney
 permalink: /beach-148.1/
-image: beach_five_improvisations_op148_no1.png  
+document: beach_five_improvisations_for_piano_no1.mei  
 ---
 
 - In *Five improvisations for piano, op. 148.* Rev. ed. New York: Seesaw Music, 1997.
