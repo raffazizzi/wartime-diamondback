@@ -3,7 +3,7 @@ layout: mei
 title: Blue/s forms, ii. Just blue/s
 author: Perkinson, Coleridge-Taylor
 permalink: /perkinson-blues-forms-just-blues/
-document:
+document: perkinson_blues_forms_just_blues_02.mei
 ---
 
 - In *Blue/s forms: for solo violin (1979).* Saint Louis, MO: MMB Music, 1979.
