@@ -67,6 +67,8 @@
                            <mRest xml:id="mrest-0000000515253288" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend font="VerovioText">Quasi Valse Lento</rend></tempo>
                      <staff xml:id="staff-0000001892638776" n="2">
                         <layer xml:id="layer-0000000752106335" n="5">
                            <chord xml:id="chord-0000000405400175" dur.ppq="4" dur="4" stem.dir="up">
@@ -91,8 +93,8 @@
                      <dir xml:id="dir-0000001239250464" place="above" staff="2" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rend-0000002004440114" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
-                     <pedal xml:id="pedal-0000001735652903" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="90" />
-                     <pedal xml:id="pedal-0000000855345990" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="2.5" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000000814266155" n="2">
                      <staff xml:id="staff-0000001477793338" n="1">
@@ -121,8 +123,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <pedal xml:id="pedal-0000000603994278" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="90" />
-                     <pedal xml:id="pedal-0000002079587357" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="2.5" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000000614760649" n="3">
                      <staff xml:id="staff-0000001173181325" n="1">
@@ -151,8 +153,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <pedal xml:id="pedal-0000002021802467" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="90" />
-                     <pedal xml:id="pedal-0000000959975350" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="2.5" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <sb xml:id="sb-0000001379043074" />
                   <measure xml:id="measure-0000001160271314" n="4">
@@ -182,8 +184,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <pedal xml:id="pedal-0000001036990045" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="90" />
-                     <pedal xml:id="pedal-0000001679602645" staff="2" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="2.5" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000001344733016" n="5">
                      <staff xml:id="staff-0000001681829964" n="1">
@@ -229,7 +231,7 @@
                      <octave xml:id="octave-0000001485158791" staff="1" startid="#note-0000001629547470" endid="#rest-0000001761944607" n="1" dis="8" dis.place="above" />
                      <slur xml:id="slur-0000000903185449" startid="#note-0000001629547470" endid="#note-0000001383582252" curvedir="above" />
                      <slur xml:id="slur-0000000256070302" startid="#note-0000000814817705" endid="#note-0000001325394768" curvedir="above" />
-                     <dir xml:id="dir-0000002029406075" place="below" staff="2" tstamp="1.000000" vgrp="40">
+                     <dir xml:id="dir-0000002029406075" place="below" staff="2" tstamp="1.000000" vgrp="1">
                         <rend xml:id="rend-0000000539833858" rend="none" fontstyle="italic">simile</rend>
                      </dir>
                   </measure>

@@ -58,7 +58,8 @@
                            <mRest xml:id="mrest-0000001578309063" />
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001475141758" place="above" staff="1" tstamp="1.000000" vgrp="200">Tempo di Valse (poco lento)</dir>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend fontname="VerovioText">Tempo di Valse (poco lento)</rend></tempo>
                   </measure>
                   <measure xml:id="measure-0000000625243133" n="2">
                      <staff xml:id="staff-0000001249339395" n="1">

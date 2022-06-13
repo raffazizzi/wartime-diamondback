@@ -64,7 +64,8 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000000357259924" place="above" staff="1" tstamp="1.000000" vgrp="224">Molto tranquillo</dir>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend fontname="VerovioText">Molto tranquillo</rend></tempo>
                      <dynam xml:id="dynam-0000000188363639" place="above" staff="1" tstamp="4.000000" val="33">p</dynam>
                   </measure>
                   <measure xml:id="measure-0000000341343581" n="2">

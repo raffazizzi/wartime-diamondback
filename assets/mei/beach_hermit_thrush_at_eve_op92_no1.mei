@@ -67,6 +67,8 @@
                            <mRest xml:id="mrest-0000000305502239" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend font="VerovioText">Molto Lento (con gran espressione)</rend></tempo>
                      <staff xml:id="staff-0000000576646817" n="2">
                         <layer xml:id="layer-0000000460432613" n="5">
                            <note xml:id="note-0000001673334875" dur.ppq="12" dur="2" oct="1" pname="e" stem.dir="up" accid.ges="f" />
@@ -80,7 +82,7 @@
                      <dir xml:id="dir-0000002098309454" place="above" staff="2" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rend-0000001417638084" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
-                     <pedal xml:id="pedal-0000000638566488" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="114" />
+                     <pedal staff="2" tstamp="1.0" dir="down" form="pedstar" place="below" vgrp="1" />
                      <tie xml:id="tie-0000000535665607" startid="#note-0000001508764558" endid="#note-0000000712217599" />
                      <tie xml:id="tie-0000001610755243" startid="#note-0000000712217599" endid="#note-0000000889172160" />
                      <tie xml:id="tie-0000000874730275" startid="#note-0000001178251704" endid="#note-0000001893331976" />
@@ -191,7 +193,7 @@
                      <dir xml:id="dir-0000000312989077" place="above" staff="1" tstamp="2.000000" vgrp="200">
                         <rend xml:id="rend-0000001294880380" rend="none" fontstyle="italic">rit.</rend>
                      </dir>
-                     <pedal xml:id="pedal-0000000499509736" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="4.0" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <sb xml:id="sb-0000000833876123" />
                   <measure xml:id="measure-0000000950891910" n="5">
@@ -261,7 +263,8 @@
                      <slur xml:id="slur-0000001533446853" startid="#note-0000001669160769" endid="#note-0000000653198599" curvedir="above" />
                      <tie xml:id="tie-0000000685343423" startid="#note-0000001669160769" endid="#note-0000000530338313" />
                      <tie xml:id="tie-0000000339374076" startid="#note-0000001437353613" endid="#note-0000001413286695" />
-                     <pedal xml:id="pedal-0000001715857237" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="114" />
+                     <pedal staff="2" tstamp="1.0" dir="down" form="pedstar" place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="4.5" dir="up" vgrp="1"/>
                      <slur xml:id="slur-0000001419557601" startid="#note-0000001804195632" endid="#note-0000000526276206" curvedir="above" />
                      <dir xml:id="dir-0000001200003937" place="above" staff="2" tstamp="2.000000" vgrp="200">
                         <rend xml:id="rend-0000000929642855" rend="none" fontstyle="italic">murmurando</rend>
@@ -344,7 +347,8 @@
                         </layer>
                      </staff>
                      <tie xml:id="tie-0000000847305121" startid="#note-0000000527635194" endid="#note-0000001180131062" />
-                     <pedal xml:id="pedal-0000000112806145" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="114" />
+                     <pedal staff="2" tstamp="1.0" dir="down" form="pedstar" place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="4.5" dir="up" vgrp="1"/>
                      <slur xml:id="slur-0000001132264859" startid="#note-0000001963868475" endid="#note-0000001921417126" curvedir="below" />
                      <slur xml:id="slur-0000001835536333" startid="#note-0000000817855100" endid="#note-0000000961309965" curvedir="above" />
                      <pedal xml:id="pedal-0000002049053857" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
