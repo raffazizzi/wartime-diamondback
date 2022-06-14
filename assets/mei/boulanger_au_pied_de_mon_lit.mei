@@ -80,8 +80,12 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001885253112" place="above" staff="1" tstamp="2.000000" vgrp="200">
-                        <rend xml:id="rend-0000001719816744" rend="none" fontweight="normal">p simple et calme</rend>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend>Sans lenteur</rend></tempo>
+                     <dynam place="above" staff="1" tstamp="1.5" vgrp="1">
+                           <rend>p</rend></dynam>
+                     <dir xml:id="dir-0000001885253112" place="above" staff="1" tstamp="2.2" vgrp="1">
+                        <rend xml:id="rend-0000001719816744" rend="none" fontweight="normal">simple et calme</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000000443013635" n="2">

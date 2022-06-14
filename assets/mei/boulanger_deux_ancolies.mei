@@ -60,6 +60,8 @@
                            <mRest xml:id="mrest-0000000973630378" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend>Assez vite, souplement</rend></tempo>
                   </measure>
                   <measure xml:id="measure-0000001969048543" n="2">
                      <staff xml:id="staff-0000000625243133" n="1">
@@ -100,9 +102,11 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001682084327" place="above" staff="1" tstamp="1.250000" vgrp="200">
-                        <rend xml:id="rend-0000000314633358" rend="none" fontweight="normal">pp à mi-voix, très fin</rend>
-                     </dir>
+                     <dynam place="above" staff="1" tstamp="1.2" vgrp="1">
+                        <rend>p</rend></dynam>
+                     <dynam xml:id="dir-0000001682084327" place="above" staff="1" tstamp="1.30000" vgrp="1">
+                        <rend xml:id="rend-0000000314633358" rend="none" fontweight="normal">à mi-voix, très fin</rend>
+                     </dynam>
                   </measure>
                   <measure xml:id="measure-0000000344589507" n="4">
                      <staff xml:id="staff-0000000885216942" n="1">

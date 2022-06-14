@@ -60,6 +60,8 @@
                            <mRest xml:id="mrest-0000001155397569" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend>Lent</rend></tempo>
                   </measure>
                   <measure xml:id="measure-0000000025556641" n="2">
                      <staff xml:id="staff-0000001455521293" n="1">
@@ -99,9 +101,10 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001627903427" place="above" staff="1" tstamp="1.500000" vgrp="246">
-                        <rend xml:id="rend-0000000427636485" rend="none" fontweight="normal">p très ému et très contenu</rend>
-                     </dir>
+                     <dynam place="above" staff="1" tstamp="1" vgrp="1">p</dynam>
+                     <dynam xml:id="dir-0000001627903427" place="above" staff="1" tstamp="1.7" vgrp="1">
+                        <rend xml:id="rend-0000000427636485" rend="none" fontweight="normal">très ému et très contenu</rend>
+                     </dynam>
                      <slur xml:id="slur-0000000216303584" startid="#note-0000001052142942" endid="#note-0000001213094868" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000001103920070" n="4">

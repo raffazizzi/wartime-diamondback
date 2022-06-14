@@ -104,9 +104,13 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001037012619" place="above" staff="1" tstamp="1.500000" vgrp="200">
-                        <rend xml:id="rend-0000000426976355" rend="none" fontweight="normal">p avec gravitè</rend>
-                     </dir>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend>Assez lent et blen mesuré</rend>
+                     </tempo>
+                     <dynam place="above" staff="1" tstamp="1">p</dynam>
+                        <dynam xml:id="dir-0000001037012619" place="above" staff="1" tstamp="1.500000" vgrp="200">
+                        <rend xml:id="rend-0000000426976355" rend="none" fontweight="normal">avec gravitè</rend>
+                     </dynam>
                   </measure>
                   <measure xml:id="measure-0000001778849597" n="2">
                      <staff xml:id="staff-0000001722059416" n="1">
