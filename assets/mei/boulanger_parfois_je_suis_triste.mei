@@ -60,6 +60,9 @@
                            <rest xml:id="rest-0000001366229400" dur.ppq="2" dur="4" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend>Assez lent et assez libre</rend>
+                     </tempo>
                   </measure>
                   <measure xml:id="measure-0000001842492582" n="2">
                      <staff xml:id="staff-0000000416216982" n="1">
@@ -85,10 +88,11 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000000281052518" place="above" staff="1" tstamp="2.500000" vgrp="252">
-                        <rend xml:id="rend-0000000732160689" rend="none" fontweight="normal">p simplement</rend>
-                     </dir>
-                     <slur xml:id="slur-0000000268858337" startid="#note-0000001780700363" endid="#note-0000000817018380" curvedir="above" />
+                     <dynam place="above" staff="1" vgrp="1" tstamp="2.1">p</dynam>
+                     <dynam xml:id="dir-0000000281052518" place="above" staff="1" tstamp="2.600000" vgrp="1">
+                        <rend xml:id="rend-0000000732160689" rend="none" fontweight="normal">simplement</rend>
+                     </dynam>
+                     <tie xml:id="slur-0000000268858337" startid="#note-0000001780700363" endid="#note-0000000817018380" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000000530264114" n="4">
                      <staff xml:id="staff-0000000025556641" n="1">
@@ -108,7 +112,7 @@
                            </note>
                         </layer>
                      </staff>
-                     <slur xml:id="slur-0000001130540495" startid="#note-0000000817018380" endid="#note-0000002014556172" curvedir="above" />
+                     <tie xml:id="slur-0000001130540495" startid="#note-0000000817018380" endid="#note-0000002014556172" curvedir="above" />
                      <slur xml:id="slur-0000000108241160" startid="#note-0000000240754902" endid="#note-0000000666516987" curvedir="above" />
                      <hairpin xml:id="hairpin-0000000973630378" staff="1" tstamp="4.500000" tstamp2="0m+4.5000" form="cres" place="above" vgrp="235" />
                   </measure>
@@ -128,8 +132,8 @@
                            </note>
                         </layer>
                      </staff>
-                     <hairpin xml:id="hairpin-0000000904366639" staff="1" tstamp="1.000000" tstamp2="0m+3.5000" form="dim" place="above" vgrp="235" />
-                     <slur xml:id="slur-0000001510633480" startid="#note-0000001118655359" endid="#note-0000000666516987" curvedir="above" />
+                     <hairpin xml:id="hairpin-0000000904366639" staff="1" tstamp="1.000000" tstamp2="0m+3.5000" form="dim" place="above" vgrp="1" />
+                     <tie xml:id="slur-0000001510633480" startid="#note-0000001118655359" endid="#note-0000000666516987" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000001660616298" right="single" n="6">
                      <staff xml:id="staff-0000000606754492" n="1">

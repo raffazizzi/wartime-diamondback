@@ -86,12 +86,16 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001598019734" place="above" staff="1" tstamp="3.500000" vgrp="234">
-                        <rend xml:id="rend-0000000223996112" rend="none" fontweight="normal">p  simple et songeur</rend>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend>Modéré</rend></tempo>
+                        <dynam place="above" staff="1" tstamp="3" vgrp="2">p</dynam>
+                     <dir place="above" staff="1" tstamp="3.500000" vgrp="1">
+                        <rend rend="none" fontweight="normal">simple et songeur</rend>
                      </dir>
                   </measure>
                   <measure xml:id="measure-0000002027032015" n="2">
                      <staff xml:id="staff-0000002014556172" n="1">
+
                         <layer xml:id="layer-0000001627785340" n="1">
                            <note xml:id="note-0000000240754902" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
                               <accid xml:id="accid-0000002138482983" accid="n" />

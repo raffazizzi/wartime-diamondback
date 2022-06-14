@@ -60,6 +60,9 @@
                            <rest xml:id="rest-0000001173456676" dur.ppq="3" dur="4" />
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend> Modéré, sans lenteur</rend>
+                     </tempo>
                   </measure>
                   <measure xml:id="measure-0000001165447749" n="2">
                      <staff xml:id="staff-0000000600412257" n="1">
@@ -80,9 +83,10 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001083649408" place="above" staff="1" tstamp="4.000000" vgrp="239">
-                        <rend xml:id="rend-0000000435951241" rend="none" fontweight="normal">p  recueilli</rend>
-                     </dir>
+                     <dynam place="above" staff="1" tstamp="4" vgrp="1">p</dynam>
+                     <dynam xml:id="dir-0000001083649408" place="above" staff="1" tstamp="4.4" vgrp="1">
+                        <rend xml:id="rend-0000000435951241" rend="none" fontweight="normal">recueilli</rend>
+                     </dynam>
                   </measure>
                   <measure xml:id="measure-0000001351228775" n="4">
                      <staff xml:id="staff-0000000775741348" n="1">
@@ -92,7 +96,7 @@
                                  <syl xml:id="syl-0000001958781713" con="s" wordpos="m">est</syl>
                               </verse>
                            </note>
-                           <tuplet xml:id="tuplet-0000001557697675" num="3" numbase="2" bracket.visible="true">
+                           <tuplet xml:id="tuplet-0000001557697675" num="3" numbase="2" bracket.visible="false" bracket.place="above">
                               <note xml:id="note-0000001551183221" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
                                  <verse xml:id="verse-0000001074869664" n="1">
                                     <syl xml:id="syl-0000002121034553" con="d" wordpos="i">gra</syl>
