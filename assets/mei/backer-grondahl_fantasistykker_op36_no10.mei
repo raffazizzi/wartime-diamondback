@@ -162,8 +162,8 @@
                      <dir xml:id="dp6y520" place="below" staff="2" tstamp="1" vgrp="1">
                         <rend xml:id="rsfht6e" fontstyle="italic">una corda</rend>
                      </dir>
-                     <pedal dir="down" staff="2" tstamp="1" />
-                     <pedal dir="up" staff="2" tstamp="4.5"/>
+                     <pedal dir="down" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal dir="up" staff="2" tstamp="4.5" vgrp="1"/>
                   </measure>
                   <measure xml:id="mrmepk0" n="2">
                      <staff xml:id="s7v9xk6" n="1">
