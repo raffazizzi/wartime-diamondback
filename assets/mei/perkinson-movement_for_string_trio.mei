@@ -37,13 +37,10 @@
             <score xml:id="s5e4xdm">
                <scoreDef xml:id="s57j4jt">
                   <pgHead xml:id="pd8pxgc">
-                     <rend xml:id="rfzl2fu" halign="center" valign="top">Movement
+                     <rend xml:id="rfzl2fu" halign="center" valign="top">Movement for String Trio
 </rend>
                      <rend xml:id="rh3tdey" halign="right" valign="bottom">Coleridge-Taylor Perkinson</rend>
                   </pgHead>
-                  <pgFoot xml:id="pqwmj8">
-                     <rend xml:id="r9y0j1l">for String Trio</rend>
-                  </pgFoot>
                   <staffGrp xml:id="sv0htrn">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="4">
                         <label xml:id="lwcr2tw">Viola</label>
@@ -81,7 +78,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t7ik0t7" place="above" staff="1" tstamp="1.000000" midi.bpm="30.000000" mm="60.000000" mm.unit="8">
-                        <rend xml:id="r5fhdon" fontname="VerovioText"></rend> = 60</tempo>
+                        <rend xml:id="r5fhdon" fontname="VerovioText">&#x1d15f; = 60</rend></tempo>
                      <tie xml:id="tng3p3o" startid="#n9nmbqz" endid="#nqj6oah" />
                      <tie xml:id="t9akbi4" startid="#nuc3see" endid="#nmrx5r1" />
                   </measure>
