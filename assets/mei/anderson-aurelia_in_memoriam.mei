@@ -62,7 +62,7 @@
                      </staff>
                      <dynam xml:id="dcqr994" place="below" staff="1" tstamp="1.000000" val="33" vgrp="40">pp sempre</dynam>
                      <tempo xml:id="t53xrkw" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="2">
-                        <rend xml:id="rr7251l" fontfam="Edwin" fontweight="bold">&#x1d15f; = c. 72</rend></tempo>
+                        <rend xml:id="rr7251l" fontfam="Edwin" fontweight="bold">&#x1d15e; = c. 72</rend></tempo>
                      <dir xml:id="dw0bfy1" place="above" staff="1" tstamp="1.000000" vgrp="200">con sordino</dir>
                      <tie xml:id="tvlt0j2" startid="#nfx91au" endid="#nbtbm86" />
                   </measure>
