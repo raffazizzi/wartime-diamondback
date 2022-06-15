@@ -57,16 +57,11 @@
                   <measure xml:id="measure-0000000018824687" n="1">
                      <staff xml:id="staff-0000001069022740" n="1">
                         <layer xml:id="layer-0000000876314340" n="1">
-                           <mRest xml:id="mrest-0000001515953719" />
+                           <multiRest num="2" />
                         </layer>
                      </staff>
-                  </measure>
-                  <measure xml:id="measure-0000001063995887" n="2">
-                     <staff xml:id="staff-0000000590109734" n="1">
-                        <layer xml:id="layer-0000000629703127" n="1">
-                           <mRest xml:id="mrest-0000000480801851" />
-                        </layer>
-                     </staff>
+                     <tempo place="above" staff="1" tstamp="1">
+                        <rend fontname="VerovioText">Lent</rend></tempo>
                   </measure>
                   <measure xml:id="measure-0000001333123555" n="3">
                      <staff xml:id="staff-0000000082448546" n="1">
@@ -102,9 +97,11 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000000857924019" place="above" staff="1" tstamp="1.333333" vgrp="200">
-                        <rend xml:id="rend-0000000670894261" rend="none" fontweight="normal">p grave</rend>
-                     </dir>
+                     <dynam xml:id="dir-0000000857924019" place="above" staff="1" tstamp="1.333333" vgrp="1">
+                        <rend xml:id="rend-0000000670894261" rend="none" fontweight="normal">grave</rend>
+                     </dynam>
+                     <dynam place="above" staff="1" tstamp=".9" vgrp="1">
+                        <rend>p</rend></dynam>
                   </measure>
                   <measure xml:id="measure-0000000841413802" n="4">
                      <staff xml:id="staff-0000001789016772" n="1">

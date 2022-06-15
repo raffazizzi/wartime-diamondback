@@ -57,18 +57,11 @@
                   <measure xml:id="measure-0000000923103253" n="1">
                      <staff xml:id="staff-0000001800746069" n="1">
                         <layer xml:id="layer-0000001893598132" n="1">
-                           <mRest xml:id="mrest-0000000549937366" />
+                           <multiRest num="2" />
                         </layer>
                      </staff>
                      <tempo place="above" staff="1" tstamp="1">
                         <rend>Assez lent</rend></tempo>
-                  </measure>
-                  <measure xml:id="measure-0000000313855803" n="2">
-                     <staff xml:id="staff-0000000549275871" n="1">
-                        <layer xml:id="layer-0000000018824687" n="1">
-                           <mRest xml:id="mrest-0000000282365302" />
-                        </layer>
-                     </staff>
                   </measure>
                   <measure xml:id="measure-0000000692202335" n="3">
                      <staff xml:id="staff-0000001515953719" n="1">

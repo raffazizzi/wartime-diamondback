@@ -57,42 +57,7 @@
                   <measure xml:id="measure-0000000985501422" n="1">
                      <staff xml:id="staff-0000002106041415" n="1">
                         <layer xml:id="layer-0000001692871111" n="1">
-                           <mRest xml:id="mrest-0000001801570848" />
-                        </layer>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-0000000721972519" n="2">
-                     <staff xml:id="staff-0000000648443881" n="1">
-                        <layer xml:id="layer-0000002011352582" n="1">
-                           <mRest xml:id="mrest-0000000326764008" />
-                        </layer>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-0000000873397970" n="3">
-                     <staff xml:id="staff-0000001144518597" n="1">
-                        <layer xml:id="layer-0000001009045241" n="1">
-                           <mRest xml:id="mrest-0000001265813133" />
-                        </layer>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-0000002082326847" n="4">
-                     <staff xml:id="staff-0000001354129631" n="1">
-                        <layer xml:id="layer-0000001500925129" n="1">
-                           <mRest xml:id="mrest-0000000131937862" />
-                        </layer>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-0000000928859692" n="5">
-                     <staff xml:id="staff-0000001892638776" n="1">
-                        <layer xml:id="layer-0000000707758061" n="1">
-                           <mRest xml:id="mrest-0000000515253288" />
-                        </layer>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-0000001239250464" n="6">
-                     <staff xml:id="staff-0000001355234243" n="1">
-                        <layer xml:id="layer-0000000613227086" n="1">
-                           <mRest xml:id="mrest-0000001070403365" />
+                           <multiRest num="6" />
                         </layer>
                      </staff>
                   </measure>
