@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Le printemps, op. 25, Introduction
 author: Carreño, Teresa
 permalink: /carreno-25.1/
-image: carreno_printemps_op25_intro.png
+document: Carreno_LePrintemps_Introduction.mei
 ---
 
 - In *Music for piano*, edited by Carmen  Rodriguez-Peralta. Bryn Mawr, Pa.: Hildegard Pub., 1996.

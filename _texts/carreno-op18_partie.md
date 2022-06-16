@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Partie! op. 18 (Plaìntes au bord d'une tombe. Six melodies, No. 2)
 author: Carreño, Teresa
 permalink: /carreno-18/
-image: carreno_partie_op18.png
+document: Carreno_Partie.mei
 ---
 
 - In *Selected works: piano pieces and string quartet.* Women Composers Series; 15. New York: Da Capo Press, 1985.
