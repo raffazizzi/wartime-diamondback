@@ -175,7 +175,7 @@
                            <rest xml:id="rest-0000001196935524" dur.ppq="3" dur="16" />
                         </layer>
                      </staff>
-                     <octave staff="1" startid="#0000000913043931" endid="#0000002029406075" n="1" dis="8" dis.place="above" />
+                     <octave staff="1" startid="#note-0000000913043931" endid="#note-0000002029406075" n="1" dis="8" dis.place="above" />
                      <slur xml:id="slur-0000001790808424" startid="#note-0000000913043931" endid="#note-0000000776757999" curvedir="above" />
                      <pedal xml:id="pedal-0000000096601285" staff="2" tstamp="1" dir="up" form="pedstar" place="below" vgrp="1" />
                      <pedal xml:id="pedal-0000000012577227" staff="2" tstamp="5" dir="down" place="below" vgrp="1" />
