@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Un bal en rêve, op. 26
 author: Carreño, Teresa
 permalink: /carreno-26/
-image: carreno_bal_en_reve_op26.png
+document: carreno-un_bal_en_reve_op26.mei
 ---
 
 - In *Selected works: piano pieces and string quartet.* Women Composers Series; 15. New York: Da Capo Press, 1985.

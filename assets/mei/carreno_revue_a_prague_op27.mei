@@ -87,8 +87,8 @@
                      </staff>
                      <tempo xml:id="tempo-0000002023948353" place="above" staff="1" tstamp="1.000000" midi.bpm="87" mm="58.000000" mm.unit="4" mm.dots="1">
                         <rend xml:id="rend-0000000567190576" fontname="VerovioText">Allegretto (</rend> = 58)</tempo>
-                     <dir xml:id="dir-0000000985501422" place="below" staff="2" tstamp="1.000000" vgrp="40">U.C.</dir>
-                     <pedal xml:id="pedal-0000001568874682" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="73" />
+                     <dir xml:id="dir-0000000985501422" place="below" staff="2" tstamp="1.000000" vgrp="1">U.C.</dir>
+                     <pedal xml:id="pedal-0000001568874682" staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000000721972519" n="1">
                      <staff xml:id="staff-0000000648443881" n="1">
@@ -175,9 +175,10 @@
                            <rest xml:id="rest-0000001196935524" dur.ppq="3" dur="16" />
                         </layer>
                      </staff>
+                     <octave staff="1" startid="#0000000913043931" endid="#0000002029406075" n="1" dis="8" dis.place="above" />
                      <slur xml:id="slur-0000001790808424" startid="#note-0000000913043931" endid="#note-0000000776757999" curvedir="above" />
-                     <pedal xml:id="pedal-0000000096601285" staff="2" tstamp="1.900000" dir="up" form="line" place="below" vgrp="200" />
-                     <pedal xml:id="pedal-0000000012577227" staff="2" tstamp="5.500000" dir="down" form="line" place="below" vgrp="73" />
+                     <pedal xml:id="pedal-0000000096601285" staff="2" tstamp="1" dir="up" form="pedstar" place="below" vgrp="1" />
+                     <pedal xml:id="pedal-0000000012577227" staff="2" tstamp="5" dir="down" place="below" vgrp="1" />
                   </measure>
                   <sb xml:id="sb-0000001434061100" />
                   <measure xml:id="measure-0000000661110213" n="3">
@@ -307,12 +308,12 @@
                            </beam>
                         </layer>
                      </staff>
+                     <octave staff="1" startid="#0000000913043931" endid="#0000002029406075" n="1" dis="8" dis.place="above" />
                      <slur xml:id="slur-0000000162373007" startid="#note-0000002053757600" endid="#note-0000000814817705" curvedir="above" />
                      <fermata xml:id="fermata-0000000428234980" staff="1" startid="#rest-0000000942530127" form="norm" place="above" />
-                     <pedal xml:id="pedal-0000002098298649" staff="2" tstamp="3.400000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000002098298649" staff="2" tstamp="3" dir="up" form="pedstar" place="below" vgrp="1" />
                      <fermata xml:id="fermata-0000001836432696" staff="2" startid="#rest-0000001805301759" form="norm" place="above" />
-                     <pedal xml:id="pedal-0000001322732797" staff="2" tstamp="4.000000" dir="down" form="line" place="below" vgrp="70" />
-                     <pedal xml:id="pedal-0000000856570889" staff="2" tstamp="6.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000001322732797" staff="2" tstamp="4.000000" dir="down" place="below" vgrp="1" />
                   </measure>
                </section>
             </score>

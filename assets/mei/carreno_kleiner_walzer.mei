@@ -85,8 +85,8 @@
                            <rest xml:id="rest-0000001918641429" dur.ppq="2" dur="4" />
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000000813235936" place="above" staff="1" tstamp="1.000000" midi.bpm="120">
-                        <rend xml:id="rend-0000000481657571" rend="none" fontweight="normal">Allegretto (Tempo di Valse)</rend>
+                     <tempo xml:id="tempo-0000000813235936" place="above" staff="1" tstamp="0" midi.bpm="120">
+                        <rend xml:id="rend-0000000481657571" rend="none" fontweight="bold">Allegretto (Tempo di Valse)</rend>
                      </tempo>
                      <dir xml:id="dir-0000000508097337" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000726250218" rend="none" fontstyle="italic" fontweight="bold">pp </rend>
@@ -97,7 +97,7 @@
                         <rend xml:id="rend-0000001114737751" rend="none" fontstyle="italic">ten.</rend>
                      </dir>
                      <dir xml:id="dir-0000001584703606" place="below" staff="2" tstamp="1.000000" vgrp="40">U.C.</dir>
-                     <pedal xml:id="pedal-0000000614760649" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="75" />
+                     <pedal xml:id="pedal-0000000614760649" staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000000090325726" n="2">
                      <staff xml:id="staff-0000000650322178" n="1">
@@ -128,7 +128,7 @@
                      <dir xml:id="dir-0000002135560372" place="above" staff="1" tstamp="3.000000" vgrp="200">
                         <rend xml:id="rend-0000001414799761" rend="none" fontstyle="italic">ten.</rend>
                      </dir>
-                     <pedal xml:id="pedal-0000000040799085" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000000040799085" staff="2" tstamp="3.500000" dir="up" form="pedstar" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000001412293770" n="3">
                      <staff xml:id="staff-0000001741671957" n="1">
@@ -156,8 +156,9 @@
                      </staff>
                      <hairpin xml:id="hairpin-0000000173387737" staff="1" tstamp="1.500000" tstamp2="1m+1.0000" form="dim" place="below" vgrp="90" />
                      <slur xml:id="slur-0000000650078346" startid="#note-0000001825754353" endid="#note-0000001203078610" curvedir="below" />
-                     <pedal xml:id="pedal-0000001344733016" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="75" />
-                     <pedal xml:id="pedal-0000001438742157" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+
+                     <pedal dir="down" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal dir="up" staff="2" form="pedstar" tstamp="4" vgrp="1"/>
                   </measure>
                   <measure xml:id="measure-0000001170438857" n="4">
                      <staff xml:id="staff-0000000903185449" n="1">
@@ -184,8 +185,8 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000000162373007" startid="#note-0000000847607310" endid="#note-0000000159401410" curvedir="below" />
-                     <pedal xml:id="pedal-0000000428234980" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="75" />
-                     <pedal xml:id="pedal-0000001657561493" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="down" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal dir="up" staff="2" form="pedstar" tstamp="4" vgrp="1"/>
                   </measure>
                   <measure xml:id="measure-0000000402703184" right="single" n="5">
                      <staff xml:id="staff-0000002142023487" n="1">
@@ -217,8 +218,7 @@
                         <rend xml:id="rend-0000000074152301" rend="none" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
                      <slur xml:id="slur-0000001836432696" startid="#note-0000001805301759" endid="#note-0000000675392576" curvedir="below" />
-                     <pedal xml:id="pedal-0000000856570889" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="75" />
-                     <pedal xml:id="pedal-0000000652726873" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000000856570889" staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
                   </measure>
                </section>
             </score>
