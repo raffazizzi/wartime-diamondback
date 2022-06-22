@@ -97,14 +97,18 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001751340887" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000001048064768" rend="none" fontweight="normal">p presque ensemble</rend>
-                     </dir>
+                     <tempo place="above" staff="1" tstamp="0">
+                          <rend>Allegro molto</rend></tempo>
+                     <dynam xml:id="dir-0000001751340887" place="below" staff="1" tstamp="1.000000" vgrp="1">
+                        <rend xml:id="rend-0000001048064768" rend="none" fontweight="normal">p</rend>
+                     </dynam>
+                     <dynam place="below" staff="1" tstamp="1.25" vgrp="1">
+                        <rend>presque ensemble</rend></dynam>
                      <slur xml:id="slur-0000000010646953" startid="#note-0000001801570848" endid="#note-0000000795963156" curvedir="below" />
                      <slur xml:id="slur-0000002063529933" startid="#note-0000000857840945" endid="#note-0000000691323895" curvedir="below" />
                      <slur xml:id="slur-0000000648443881" startid="#note-0000001121655598" endid="#note-0000002011352582" curvedir="below" />
-                     <pedal xml:id="pedal-0000000873397970" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="pedal-0000001890064936" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1" dir="down"  place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="3.5" dir="up" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000002082326847" startid="#note-0000001009045241" endid="#note-0000000524486945" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000001109361594" n="2">
@@ -146,8 +150,8 @@
                      <slur xml:id="slur-0000000092983622" startid="#note-0000001474653644" endid="#note-0000002049911428" curvedir="below" />
                      <slur xml:id="slur-0000000515253288" startid="#note-0000000707758061" endid="#note-0000001239250464" curvedir="below" />
                      <slur xml:id="slur-0000001735652903" startid="#note-0000000621840684" endid="#note-0000000752106335" curvedir="below" />
-                     <pedal xml:id="pedal-0000000405400175" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="pedal-0000001471452250" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1" dir="down"  place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="3.5" dir="up" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000001790808424" startid="#note-0000000403228649" endid="#note-0000001906033793" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000000813235936" n="3">
@@ -185,14 +189,14 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dynam xml:id="dynam-0000000603994278" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dynam xml:id="dynam-0000000603994278" place="below" staff="1" tstamp="1.000000" vgrp="1">
                         <rend xml:id="rend-0000001410763391" rend="none" fontstyle="italic">cresc.</rend>
                      </dynam>
                      <slur xml:id="slur-0000001970960469" startid="#note-0000000503054274" endid="#note-0000000159363182" curvedir="below" />
                      <slur xml:id="slur-0000001114737751" startid="#note-0000001693114178" endid="#note-0000002079587357" curvedir="below" />
                      <slur xml:id="slur-0000001196935524" startid="#note-0000000324552112" endid="#note-0000000661110213" curvedir="below" />
-                     <pedal xml:id="pedal-0000001663342967" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="pedal-0000001918641429" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1" dir="down"  place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="3.5" dir="up" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000001173181325" startid="#note-0000001434061100" endid="#note-0000000817270077" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000001723891325" n="4">
@@ -221,8 +225,8 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000001629621944" startid="#note-0000001414799761" endid="#note-0000001979526283" curvedir="below" />
-                     <pedal xml:id="pedal-0000000473878007" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="pedal-0000000040799085" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1" dir="down"  place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="3.5" dir="up" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000000991591761" startid="#note-0000001379043074" endid="#note-0000000414697689" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000000950080076" right="single" n="5">
@@ -264,8 +268,8 @@
                      <slur xml:id="slur-0000001344733016" startid="#note-0000000032924137" endid="#note-0000002111901877" curvedir="below" />
                      <slur xml:id="slur-0000001438742157" startid="#note-0000001768898827" endid="#note-0000001170438857" curvedir="below" />
                      <slur xml:id="slur-0000000805682387" startid="#note-0000001681829964" endid="#note-0000001485158791" curvedir="below" />
-                     <pedal xml:id="pedal-0000001629547470" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="98" />
-                     <pedal xml:id="pedal-0000000162373007" staff="2" tstamp="3.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal staff="2" tstamp="1" dir="down"  place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="3.5" dir="up" form="pedstar" place="below" vgrp="1" />
                      <slur xml:id="slur-0000002017620213" startid="#note-0000000409048865" endid="#note-0000002029406075" curvedir="above" />
                   </measure>
                </section>
