@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Negro dance for solo piano   
 author: Holt, Nora Douglas
 permalink: /holt-negro-dance/
-image: holt_negro-dance.png
+document: Holt_NegroDance.mei
 ---
 
 - In *Negro dance: for solo piano,* edited by Helen Walker-Hill. Music by African-American Women. Stevens Point, WI: Vivace Press, 2001.
