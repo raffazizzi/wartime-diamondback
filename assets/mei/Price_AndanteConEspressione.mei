@@ -8,9 +8,17 @@
             <title>Andante Con Espressione</title>
             <respStmt>
                <persName role="composer">Florence Price</persName>
+               <persName role="transcriber">Phillip Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-06-22" type="encoding-date">2022-06-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+           <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+           </availability>
+           <identifier>
+           <ref target="https://rebalancing-music-canon.com/"/>
+           </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-1l0evd">
