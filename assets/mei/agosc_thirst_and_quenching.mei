@@ -92,9 +92,9 @@
                      <dir xml:id="d8hfm3g" place="above" staff="1" tstamp="1.000000" vgrp="400">
                         <rend xml:id="rend-0000000352019088" fontstyle="normal" fontname="VerovioText">  = 60; Fluid and elegant</rend>
                      </dir>
-                     <dynam xml:id="dynam-0000000958761252" place="below" staff="1" tstamp="1.000000" val="49" vgrp="43">p</dynam>
+                     <dynam xml:id="dynam-0000000958761252" place="below" staff="1" tstamp="1.000000" val="49" vgrp="1">p</dynam>
                      <slur xml:id="slur-0000000216058106" startid="#note-0000000775287058" endid="#note-0000001967287605" curvedir="below" />
-                     <hairpin xml:id="hairpin-0000001917010002" staff="1" tstamp="2.000000" tstamp2="0m+9.5000" form="cres" place="below" vgrp="83" />
+                     <hairpin xml:id="hairpin-0000001917010002" staff="1" tstamp="2.000000" tstamp2="0m+9.5000" form="cres" place="below" vgrp="1" />
                      <slur xml:id="slur-0000001477467490" startid="#note-0000001590164227" endid="#note-0000001478916373" curvedir="below" />
                      <slur xml:id="slur-0000000374584311" startid="#note-0000000891992669" endid="#note-0000001318957530" curvedir="below" />
                      <slur xml:id="slur-0000001525662970" startid="#note-0000001863998371" endid="#note-0000000996386337" curvedir="below" />
@@ -118,9 +118,9 @@
                            <note xml:id="note-0000001603124325" dur.ppq="8" dur="2" oct="4" pname="e" stem.dir="up" />
                         </layer>
                      </staff>
-                     <dynam xml:id="dynam-0000000136224114" place="below" staff="1" tstamp="1.000000" val="64" vgrp="43">mp</dynam>
+                     <dynam xml:id="dynam-0000000136224114" place="below" staff="1" tstamp="1.000000" val="64" vgrp="1">mp</dynam>
                      <tie xml:id="tie-0000000112133953" startid="#note-0000000302202390" endid="#note-0000001603124325" />
-                     <hairpin xml:id="hairpin-0000000659339090" staff="1" tstamp="2.000000" tstamp2="1m+1.5000" form="dim" place="below" vgrp="84" />
+                     <hairpin xml:id="hairpin-0000000659339090" staff="1" tstamp="2.000000" tstamp2="1m+1" form="dim" place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="measure-0000000603668032" n="3">
                      <staff xml:id="staff-0000000528667738" n="1">
@@ -129,7 +129,7 @@
                            <rest xml:id="rest-0000000164125202" dur.ppq="8" dur="2" />
                         </layer>
                      </staff>
-                     <dynam xml:id="dynam-0000001204641926" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">p</dynam>
+                     <dynam xml:id="dynam-0000001204641926" place="below" staff="1" tstamp="1.000000" val="49" vgrp="1">p</dynam>
                   </measure>
                   <scoreDef xml:id="scoredef-0000000227688854">
                      <meterSig xml:id="msig-0000000725407588" count="9" unit="8" />
@@ -164,10 +164,10 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000001019634285" startid="#note-0000001841809319" endid="#note-0000000149472073" curvedir="below" />
-                     <hairpin xml:id="hairpin-0000001770305492" staff="1" tstamp="2.000000" tstamp2="0m+8.5000" form="cres" place="below" vgrp="87" />
+                     <hairpin xml:id="hairpin-0000001770305492" staff="1" tstamp="2.000000" tstamp2="0m+8.5000" form="cres" place="below" vgrp="2" />
                      <slur xml:id="slur-0000001001440750" startid="#note-0000002090378208" endid="#note-0000001290902795" curvedir="below" />
                      <slur xml:id="slur-0000001676854550" startid="#note-0000000925963405" endid="#note-0000000082049278" curvedir="below" />
-                     <dynam xml:id="dynam-0000001449011949" place="below" staff="1" tstamp="9.000000" val="64" vgrp="40">mp</dynam>
+                     <dynam xml:id="dynam-0000001449011949" place="below" staff="1" tstamp="9.000000" val="64" vgrp="2">mp</dynam>
                      <slur xml:id="slur-0000000496200669" startid="#note-0000001157546624" endid="#note-0000000633886190" curvedir="below" />
                   </measure>
                   <sb xml:id="sb-0000000020069043" />
@@ -188,7 +188,7 @@
                            <note xml:id="note-0000002044076859" dur.ppq="8" dur="2" oct="4" pname="e" stem.dir="up" />
                         </layer>
                      </staff>
-                     <hairpin xml:id="hairpin-0000001287330388" staff="1" tstamp="2.000000" tstamp2="0m+3.5000" form="cres" place="below" vgrp="85" />
+                     <hairpin xml:id="hairpin-0000001287330388" staff="1" tstamp="2.000000" tstamp2="0m+3.5000" form="cres" place="below" vgrp="3" />
                      <tie xml:id="tie-0000002010978794" startid="#note-0000002044076859" endid="#note-0000002135059011" />
                      <trill xml:id="trill-0000000005645494" staff="1" startid="#note-0000002044076859" tstamp2="1m+3.0000" extender="true" n="1" />
                   </measure>
@@ -215,10 +215,10 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="dynam-0000000781472882" place="below" staff="1" tstamp="1.000000" val="80" vgrp="65">mf</dynam>
-                     <hairpin xml:id="hairpin-0000000020723687" staff="1" tstamp="1.000000" tstamp2="0m+3.5000" form="dim" place="below" vgrp="85" />
+                     <dynam xml:id="dynam-0000000781472882" place="below" staff="1" tstamp="1.000000" val="80" vgrp="3">mf</dynam>
+                     <hairpin xml:id="hairpin-0000000020723687" staff="1" tstamp="1.000000" tstamp2="0m+3.5000" form="dim" place="below" vgrp="3" />
                      <slur xml:id="slur-0000001957556976" startid="#note-0000002135059011" curvedir="below" />
-                     <dynam xml:id="dynam-0000001612785306" place="below" staff="1" tstamp="5.000000" val="49" vgrp="40">p</dynam>
+                     <dynam xml:id="dynam-0000001612785306" place="below" staff="1" tstamp="5.000000" val="49" vgrp="3">p</dynam>
                      <slur xml:id="slur-0000000860552868" startid="#note-0000001446035706" endid="#note-0000001196885309" curvedir="below" />
                   </measure>
                </section>

@@ -84,11 +84,12 @@
                      </staff>
                      <tempo xml:id="tempo-0000001118655359" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="80.000000" mm.unit="4">
                         <rend xml:id="rend-0000001682084327" fontname="VerovioText"></rend> = c. 60</tempo>
-                     <dir xml:id="dir-0000000314633358" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000000741169178" fontstyle="italic" fontweight="bold">f </rend>
-                        <lb xml:id="lb-0000000460749927" />
-                        <rend xml:id="rend-0000001355857319" fontweight="normal">con brio</rend>
-                     </dir>
+                     <dynam place="below" staff="1" tstamp="1.45" vgrp="40">
+                        <rend fontweight="normal">con brio</rend>
+                     </dynam>
+                     <dynam place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend fontweight="normal">f</rend>
+                     </dynam>
                      <tie xml:id="tie-0000001103920070" startid="#note-0000000299238164" endid="#note-0000001948093945" />
                      <slur xml:id="slur-0000002132246393" startid="#note-0000001430505301" endid="#note-0000000514854444" curvedir="above" />
                   </measure>
@@ -171,12 +172,12 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001351228775" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dynam xml:id="dir-0000001351228775" place="below" staff="1" tstamp="0" vgrp="1">
                         <rend xml:id="rend-0000001929053918" fontstyle="italic">poco</rend>
-                     </dir>
+                     </dynam>
                      <slur xml:id="slur-0000001719288096" startid="#note-0000001046720545" endid="#note-0000001074869664" curvedir="above" />
                      <tie xml:id="tie-0000001836066658" startid="#note-0000001046720545" endid="#note-0000001930742674" />
-                     <hairpin xml:id="hairpin-0000001764184995" staff="1" tstamp="2.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="79" />
+                     <hairpin xml:id="hairpin-0000001764184995" staff="1" tstamp="2.1" tstamp2="0m+2.5000" form="dim" place="below" vgrp="1" />
                   </measure>
                </section>
             </score>

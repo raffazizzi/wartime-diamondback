@@ -175,11 +175,12 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000002082326847" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000000524486945" fontstyle="italic" fontweight="bold">mf </rend>
-                        <lb xml:id="lb-0000000219976782" />
-                        <rend xml:id="rend-0000001729783771" fontweight="normal">sempre, separazione</rend>
-                     </dir>
+                     <dynam place="below" staff="1" tstamp="1.5" vgrp="1">
+                        <rend fontweight="normal">sempre, separazione</rend>
+                     </dynam>
+                     <dynam place="below" staff="1" tstamp="1." vgrp="1">
+                        <rend fontweight="normal">mf</rend>
+                     </dynam>
                      <tempo xml:id="tempo-0000001045325538" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4" mm.dots="1">
                         <rend xml:id="rend-0000001354129631" fontname="VerovioText"></rend> = c.120</tempo>
                      <octave xml:id="octave-0000001563338482" staff="2" startid="#note-0000000508097337" endid="#note-0000001322732797" n="1" dis="8" dis.place="below" />

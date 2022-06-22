@@ -92,11 +92,12 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001513831853" place="below" staff="1" tstamp="1.500000" vgrp="40">
-                        <rend xml:id="rend-0000002012651415" fontstyle="italic" fontweight="bold">f </rend>
-                        <lb xml:id="lb-0000000549275871" />
-                        <rend xml:id="rend-0000000018824687" fontweight="normal">agitando</rend>
-                     </dir>
+                     <dynam place="below" staff="1" tstamp="1.500000" vgrp="1">
+                        <rend fontweight="normal">agitando</rend>
+                     </dynam>
+                     <dynam place="below" staff="1" tstamp="1.2500000" vgrp="1">
+                        <rend fontweight="bold">f</rend>
+                     </dynam>
                      <slur xml:id="slur-0000001634987740" startid="#note-0000001412889347" endid="#note-0000000332759234" curvedir="above" />
                      <slur xml:id="slur-0000001242120913" startid="#note-0000000761005113" endid="#note-0000000880909333" curvedir="above" />
                   </measure>
