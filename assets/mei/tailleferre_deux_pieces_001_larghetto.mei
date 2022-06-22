@@ -94,17 +94,18 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000326764008" place="above" staff="1" tstamp="1.000000" midi.bpm="104.000000" mm="104.000000" mm.unit="4">(<rend xml:id="rend-0000000985702224" fontname="VerovioText"></rend> = 104)</tempo>
-                     <dir xml:id="dir-0000001890064936" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                     <dynam xml:id="dir-0000001890064936" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000350065347" fontstyle="italic" fontweight="bold">mp</rend>
-                     </dir>
+                     </dynam>
                      <slur xml:id="slur-0000002082326847" startid="#note-0000001009045241" endid="#note-0000001729783771" curvedir="above" />
                      <tie xml:id="tie-0000001045325538" startid="#note-0000001729783771" endid="#note-0000000508097337" />
                      <tie xml:id="tie-0000000538798457" startid="#note-0000000131937862" endid="#note-0000000503054274" />
-                     <dir xml:id="dir-0000000579894585" place="below" staff="2" tstamp="1.000000" vgrp="61">
-                        <rend xml:id="rend-0000002023794977" fontstyle="italic" fontweight="bold">p </rend>
-                        <lb xml:id="lb-0000001474653644" />
-                        <rend xml:id="rend-0000001443051023" fontweight="normal">legato</rend>
-                     </dir>
+                     <dynam place="below" staff="2" tstamp="1.000000" vgrp="1">
+                        <rend fontstyle="italic" fontweight="bold">p </rend>
+                     </dynam>
+                     <dynam place="below" staff="2" tstamp="1.500000" vgrp="1">
+                        <rend fontstyle="italic" fontweight="normal">legato</rend>
+                     </dynam>
                      <slur xml:id="slur-0000000515253288" startid="#note-0000000707758061" endid="#note-0000000752106335" curvedir="below" />
                      <slur xml:id="slur-0000000081751633" startid="#note-0000000810730971" endid="#note-0000002099315841" curvedir="below" />
                   </measure>

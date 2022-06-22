@@ -197,7 +197,8 @@
                         </layer>
                      </staff>
                      <slur xml:id="s7dx87d" startid="#nq3qenz" endid="#nmfdklt" curvedir="above" lform="dashed" />
-                     <dir xml:id="df3ex1o" place="below" staff="1" tstamp="13.000000" vgrp="40">[mp]</dir>
+                     <dynam xml:id="df3ex1o" place="below" staff="1" tstamp="13.000000" vgrp="40" >
+                        <rend fontweight="bold">[mp]</rend></dynam>
                   </measure>
                </section>
             </score>

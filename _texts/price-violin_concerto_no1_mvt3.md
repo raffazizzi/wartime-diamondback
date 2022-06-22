@@ -3,7 +3,7 @@ layout: mei
 title: Violin concerto no. 1, III. Finale
 author: Price, Florence B.
 permalink: /price-violin-concerto-no1-mvt3/
-document: price_violin_concerto_mvt3.mei
+document: price_violin_concerto_no1_mvt3.mei
 ---
 
 - In *Violin concerto no. 1 in D major.* Piano Reduction [&] Solo Violin. ed. New York, NY: G. Schirmer, Inc., 2018.

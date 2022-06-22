@@ -76,7 +76,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000064311565" place="below" staff="1" tstamp="1.000000" vgrp="40">[<rend xml:id="rend-0000001357774916" rend="none" fontstyle="italic" fontweight="bold">f</rend>
-                        <rend xml:id="rend-0000001570823141" rend="none" fontstyle="normal" fontweight="normal">]</rend>
+                        <rend xml:id="rend-0000001570823141" rend="none" fontstyle="italic" fontweight="normal">]</rend>
                      </dir>
                      <tempo xml:id="tempo-0000001173456676" place="above" staff="1" tstamp="1.000000" midi.bpm="187">
                         <rend xml:id="rend-0000001165447749" rend="none" fontfam="FreeSerif" fontweight="bold">Presto</rend>

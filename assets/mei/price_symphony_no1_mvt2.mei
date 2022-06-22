@@ -73,10 +73,11 @@
                      <tempo xml:id="tempo-0000000576167488" place="above" staff="1" tstamp="1.000000" midi.bpm="50">
                         <rend xml:id="rend-0000000985315630" rend="none" fontfam="FreeSerif" fontweight="bold">Largo, maestoso</rend>
                      </tempo>
-                     <dir xml:id="dir-0000001155397569" place="below" staff="1" tstamp="1.000000" vgrp="61">
-                        <rend xml:id="rend-0000000025556641" rend="none" fontstyle="italic" fontweight="bold">mp </rend>
+                     <dynam place="below" staff="1" tstamp="1" vgrp="1">
+                        <rend>mp</rend></dynam>
+                     <dynam xml:id="dir-0000001155397569" place="below" staff="1" tstamp="2" vgrp="1">
                         <rend xml:id="rend-0000000817018380" rend="none" fontweight="normal">cresc.</rend>
-                     </dir>
+                     </dynam>
                      <slur xml:id="slur-0000001455521293" startid="#note-0000002138482983" endid="#note-0000000108241160" curvedir="below" />
                   </measure>
                   <measure xml:id="measure-0000001969048543" n="2">
@@ -150,7 +151,7 @@
                      </staff>
                      <hairpin xml:id="hairpin-0000000686281901" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="dim" place="below" vgrp="82" />
                      <dir xml:id="dir-0000000281820593" place="below" staff="1" tstamp="3.000000" vgrp="57">[<rend xml:id="rend-0000002100126970" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
-                        <rend xml:id="rend-0000001624115492" rend="none" fontstyle="normal" fontweight="normal">]</rend>
+                        <rend xml:id="rend-0000001624115492" rend="none" fontstyle="italic" fontweight="normal">]</rend>
                      </dir>
                      <slur xml:id="slur-0000000023657028" startid="#note-0000002125347267" endid="#note-0000001840534050" curvedir="below" />
                   </measure>
