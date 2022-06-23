@@ -192,7 +192,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dir xml:id="dndhs31" place="below" staff="3" tstamp="1.000000" vgrp="40">
+                     <dir xml:id="dndhs31" place="below" staff="3" tstamp="0" vgrp="40">
                         <rend xml:id="ro986cz" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
                      <tie xml:id="txsiizp" startid="#n60b0be" endid="#n2at4ak" />

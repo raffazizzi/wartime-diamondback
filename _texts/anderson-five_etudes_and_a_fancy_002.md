@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Five etudes and a fancy, II. Complements
 author: Anderson, T.J.
 permalink: /anderson-five-etudes-II/
-image: anderson-five-etudes-and-a-fancy-002.png
+document: anderson_five_etudes_and_a_fancy_ii_complements.mei
 ---
 
 - In *Five etudes and a fancy: for woodwind quintet.* New York, NY: American Composers Alliance, Inc., 2018.
