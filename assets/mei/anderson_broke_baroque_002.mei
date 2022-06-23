@@ -8,9 +8,18 @@
             <title>Broke Baroque, II. Alberti</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-08-23" type="encoding-date">2021-08-23</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+           <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+           </availability>
+        <identifier>
+           <ref target="https://rebalancing-music-canon.com/"/>
+           </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-prgel5">
@@ -70,11 +79,11 @@
                      </staff>
                      <tempo xml:id="t1b3a2y" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="rmnk48p" fontname="VerovioText"></rend> = c. 60</tempo>
-                     <dir xml:id="d8a2a75" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rzaahol" fontstyle="italic" fontweight="bold">p;</rend>
-                        <lb xml:id="lhdlmi7" />
-                        <rend xml:id="ro1ymqm" fontweight="normal"> dolciss. sempre</rend>
-                     </dir>
+                     <dynam place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend>p</rend></dynam>
+                     <dynam xml:id="d8a2a75" place="below" staff="1" tstamp="1.4" vgrp="40">
+                        <rend xml:id="ro1ymqm" fontweight="normal">; dolciss. sempre</rend>
+                     </dynam>
                      <tie xml:id="tqfakv4" startid="#n1dqub1" endid="#ndhd7u7" />
                   </measure>
                   <measure xml:id="mpn9bfx" n="2">

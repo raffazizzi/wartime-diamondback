@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: Broke baroque, I. Tartini
 author: Anderson, T.J.
 permalink: /anderson-broke-baroque-I/
-image: anderson-broke-baroque-001.png
+document: anderson_broke_baroque_i_tartini.mei
 ---
 
 - In *Broke baroque: for violin & piano.* Verona, N.J.: T. J. Anderson Music Publishing, 2019.

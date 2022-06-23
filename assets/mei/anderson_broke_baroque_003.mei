@@ -8,9 +8,18 @@
             <title>Broke Baroque, III. Banchieri</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-08-23" type="encoding-date">2021-08-23</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+           <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+           </availability>
+           <identifier>
+             <ref target="https://rebalancing-music-canon.com/"/>
+             </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-6vyupj">
@@ -51,11 +60,12 @@
                            <note xml:id="n856mdm" dur.ppq="2" dur="8" oct="3" pname="g" stem.dir="up" accid.ges="s" />
                         </layer>
                      </staff>
-                     <dir xml:id="dnp6vqv" place="below" staff="1" tstamp="1.000000" vgrp="64">
-                        <rend xml:id="r2dsfn8" fontstyle="italic" fontweight="bold">mf;</rend>
-                        <lb xml:id="l3xo6kw" />
-                        <rend xml:id="rkxa8wr" fontweight="normal"> giocoso</rend>
-                     </dir>
+                     <dynam place="below" staff="1" tstamp=".5" vgrp="64">
+                        <rend fontweight="normal">mf</rend>
+                     </dynam>
+                     <dynam xml:id="dnp6vqv" place="below" staff="1" tstamp="1.25" vgrp="64">
+                        <rend xml:id="rkxa8wr" fontweight="normal">; giocoso</rend>
+                     </dynam>
                      <tempo xml:id="tp88nfo" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="rplq2m1" fontname="VerovioText"></rend> = c. 120</tempo>
                   </measure>
