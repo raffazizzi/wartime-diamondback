@@ -101,8 +101,9 @@
                      <slur xml:id="s8eiaex" startid="#n7yrlcz" endid="#nc0e296" curvedir="above" />
                      <slur xml:id="s9obe05" startid="#nmvi9ub" endid="#n9zloyu" curvedir="above" />
                      <dynam place="below" staff="2" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rq9802u" fontstyle="italic" fontweight="bold">mf</rend>
-                        <rend xml:id="rwlgitx" fontweight="normal">; furioso</rend>
+                        <rend fontstyle="italic" fontweight="bold">mf</rend></dynam>
+                     <dynam place="below" staff="2" tstamp="1.25" vgrp="40">
+                        <rend fontweight="normal">; furioso</rend>
                      </dynam>
                   </measure>
                   <measure xml:id="mifop5j" n="2">

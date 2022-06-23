@@ -87,11 +87,12 @@
                      </staff>
                      <tempo xml:id="t2deexu" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="rq720mj" fontname="VerovioText"></rend> = c. 60</tempo>
-                     <dir xml:id="dlhkcsr" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rb4nh3u" fontstyle="italic" fontweight="bold">pp</rend>
-                        <lb xml:id="lmpdpxm" />
-                        <rend xml:id="rp6e0ki" fontweight="normal"> dolcissimo sempre</rend>
-                     </dir>
+                        <dynam place="above" staff="2" tstamp="1" vgrp="1">
+                           <rend fontstyle="italic" fontweight="bold">pp</rend>
+                        </dynam>
+                        <dynam place="above" staff="2" tstamp="1.5" vgrp="1">
+                           <rend fontstyle="italic" fontweight="normal"> dolcissimo sempre</rend>
+                        </dynam>
                      <tie xml:id="tbbr9d" startid="#nk1quht" endid="#nhr3n4d" />
                   </measure>
                   <measure xml:id="mclvm4m" n="2">

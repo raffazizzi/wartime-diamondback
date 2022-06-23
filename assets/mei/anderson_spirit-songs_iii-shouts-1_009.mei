@@ -108,11 +108,12 @@
                      </staff>
                      <tempo xml:id="t156hxh" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4" mm.dots="1">
                         <rend xml:id="rldzfnd" fontname="VerovioText"></rend> = c.92 </tempo>
-                     <dir xml:id="de1dxv6" place="below" staff="2" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rqlf2iv" fontstyle="italic" fontweight="bold">mp </rend>
-                        <lb xml:id="lou993n" />
-                        <rend xml:id="rldvjjh" fontweight="normal">leggiero</rend>
-                     </dir>
+                        <dynam place="below" staff="2" tstamp="1" vgrp="1">
+                           <rend fontstyle="italic" fontweight="bold">mp</rend>
+                        </dynam>
+                        <dynam place="below" staff="2" tstamp="2.75" vgrp="1">
+                           <rend fontstyle="italic" fontweight="normal"> leggiero</rend>
+                        </dynam>
                   </measure>
                   <measure xml:id="moxyruz" n="2">
                      <staff xml:id="sp7gqh4" n="1">
@@ -162,11 +163,12 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dc5bb1e" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rhh5kbk" fontstyle="italic" fontweight="bold">mp </rend>
-                        <lb xml:id="lbyh72p" />
-                        <rend xml:id="r6tceuw" fontweight="normal">leggiero</rend>
-                     </dir>
+                     <dynam place="below" staff="1" tstamp=".5" vgrp="1">
+                        <rend fontstyle="italic" fontweight="bold">mp</rend>
+                     </dynam>
+                     <dynam place="below" staff="1" tstamp="1.75" vgrp="1">
+                        <rend fontstyle="italic" fontweight="normal"> leggiero</rend>
+                     </dynam>
                      <tie xml:id="tk59y4u" startid="#nj11aax" endid="#n44d86a" />
                      <tie xml:id="th3omvq" startid="#nqw72xq" endid="#ne9b1cx" />
                   </measure>

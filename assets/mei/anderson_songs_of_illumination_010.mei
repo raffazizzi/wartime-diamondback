@@ -96,10 +96,12 @@
                      </staff>
                      <tempo xml:id="tixf079" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="8">
                         <rend xml:id="ryfrhof" fontname="VerovioText"></rend> = c. 60</tempo>
-                     <dir xml:id="dnpswmk" place="above" staff="2" tstamp="1.000000" vgrp="262">
-                        <rend xml:id="rjehci5" fontstyle="italic" fontweight="bold">pp; dolce</rend>
-                        <lb xml:id="l3567a3" />
-                                          </dir>
+                     <dynam place="above" staff="2" tstamp="1.000000" vgrp="262">
+                        <rend fontstyle="italic" fontweight="bold">pp</rend>
+                     </dynam>
+                     <dynam place="above" staff="2" tstamp="1.5" vgrp="262">
+                        <rend fontstyle="italic" fontweight="normal">; dolce</rend>
+                     </dynam>
                      <slur xml:id="sj541xd" startid="#nsicz25" endid="#nwszpj5" curvedir="above" />
                      <tie xml:id="tr94jfe" startid="#n772a1x" endid="#nnec2hd" curvedir="below"/>
                      <tie xml:id="tw7vtlk" startid="#n84jlss" endid="#n7v01ox" />

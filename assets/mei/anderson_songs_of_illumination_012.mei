@@ -90,10 +90,12 @@
                      </staff>
                      <tempo xml:id="tjhi0u0" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="rm7w9g2" fontname="VerovioText"></rend> = c. 69</tempo>
-                     <dir xml:id="d4p9ev2" place="below" staff="2" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rb1cgoy" fontstyle="italic" fontweight="bold">mp; dolce e cantabile</rend>
-                        <lb xml:id="l5yk7jf" />
-                     </dir>
+                     <dynam place="below" staff="2" tstamp="1.000000" vgrp="262">
+                        <rend fontstyle="italic" fontweight="bold">mp</rend>
+                     </dynam>
+                     <dynam place="below" staff="2" tstamp="1.3" vgrp="262">
+                        <rend fontstyle="italic" fontweight="normal">; dolce e cantabile</rend>
+                     </dynam>
                   </measure>
                   <measure xml:id="m2ngydw" n="2">
                      <staff xml:id="sepe1mo" n="1">

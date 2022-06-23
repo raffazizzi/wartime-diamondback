@@ -83,11 +83,12 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dipelwm" place="below" staff="1" tstamp="1.000000" vgrp="62">
-                        <rend xml:id="r4yrt4n" fontstyle="italic" fontweight="bold">pp </rend>
-                        <lb xml:id="lopjy3j" />
-                        <rend xml:id="r9xvoj5" fontweight="normal">sempre non espr.</rend>
-                     </dir>
+                     <dynam place="below" staff="1" tstamp="1" vgrp="1">
+                        <rend fontstyle="italic" fontweight="bold">pp</rend>
+                     </dynam>
+                     <dynam place="below" staff="1" tstamp="1.5" vgrp="1">
+                        <rend fontstyle="italic" fontweight="normal">sempre non espr.</rend>
+                     </dynam>
                      <tempo xml:id="t977fmb" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="rcxa0u5" fontname="VerovioText"></rend> = c. 100</tempo>
                      <slur xml:id="sfmteol" startid="#nfz9bi8" endid="#nhwl39i" curvedir="above" />

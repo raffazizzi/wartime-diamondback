@@ -148,11 +148,11 @@
                      </staff>
                      <tempo xml:id="tcvdj7r" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
                         <rend xml:id="roraqsa" fontname="VerovioText"></rend> = c. 88</tempo>
-                     <dir xml:id="dcfs8yn" place="below" staff="3" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rp7jh8q" fontstyle="italic" fontweight="bold">mp</rend>
-                        <lb xml:id="ldeos0r" />
-                        <rend xml:id="r1co7yp" fontweight="normal">; stacc.</rend>
-                     </dir>
+                     <dynam place="below" staff="3" tstamp="1.000000" vgrp="40">
+                        <rend fontstyle="italic" fontweight="bold">mp</rend></dynam>
+                        <dynam place="below" staff="3" tstamp="1.25" vgrp="40">                       
+                        <rend fontweight="normal">; stacc.</rend>
+                     </dynam>
                   </measure>
                   <measure xml:id="mwpi5md" n="2">
                      <staff xml:id="svoottq" n="1">
