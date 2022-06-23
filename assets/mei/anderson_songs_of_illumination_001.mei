@@ -94,11 +94,11 @@
                      <tie xml:id="tpz86w5" startid="#n12af4d" endid="#nb4466v" />
                      <tie xml:id="tj9vl8l" startid="#nbclei5" endid="#nquyfj8" />
                      <tie xml:id="t4nse5t" startid="#noq2zjg" endid="#nbhk259" />
-                     <dir xml:id="d9xgx29" place="below" staff="2" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rz5dkg3" fontstyle="italic" fontweight="bold">ppp</rend>
-                        <lb xml:id="luft15u" />
+                     <dynam place="below" staff="2" tstamp="1.000000" vgrp="40">
+                        <rend fontstyle="italic" fontweight="bold">ppp</rend></dynam>
+                     <dynam xml:id="d9xgx29" place="below" staff="2" tstamp="2.5" vgrp="40">
                         <rend xml:id="r38ibl0" fontweight="normal">; dolcissimo</rend>
-                     </dir>
+                     </dynam>
                      <tie xml:id="tdf4bho" startid="#n3dtskj" endid="#nu2lxwk" />
                      <slur xml:id="s6o92nc" startid="#nu2lxwk" endid="#nsg2ft4" curvedir="above" />
                   </measure>

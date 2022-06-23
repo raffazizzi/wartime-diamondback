@@ -111,10 +111,12 @@
                      <tempo xml:id="tempo-0000000372705998" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000">
                         <rend xml:id="rend-0000001339627057" fontweight="bold">Moderato</rend>
                      </tempo>
-                     <dir xml:id="dir-0000000985501422" place="below" staff="2" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000002019002871" fontstyle="italic" fontweight="bold">mf </rend>
-                        <rend xml:id="rend-0000001752854348" fontweight="normal">sempre</rend>
-                     </dir>
+                     <dynam xml:id="dir-0000000985501422" place="below" staff="2" tstamp="1.49999" vgrp="1">
+                        <rend fontweight="normal">sempre</rend>
+                     </dynam>
+                     <dynam place="below" staff="2" tstamp="1" vgrp="1">
+                        <rend fontstyle="italic" fontweight="bold">mf </rend>
+                     </dynam>
                   </measure>
                   <measure xml:id="measure-0000001246019543" n="2">
                      <staff xml:id="staff-0000000131937862" n="1">

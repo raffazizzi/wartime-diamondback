@@ -64,11 +64,12 @@
                      </staff>
                      <tempo xml:id="td1iyer" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
                         <rend xml:id="rsup4f7" fontname="VerovioText"></rend> = c. 96</tempo>
-                     <dir xml:id="d28dovh" place="below" staff="1" tstamp="1.000000" vgrp="49">
-                        <rend xml:id="rhirmrw" fontstyle="italic" fontweight="bold">f</rend>
-                        <lb xml:id="le56ina" />
-                        <rend xml:id="riwoupr" fontweight="normal">; sempre</rend>
-                     </dir>
+                        <dynam place="below" staff="1" tstamp="1.000000" vgrp="49">
+                           <rend fontweight="normal">f</rend>
+                        </dynam>
+                     <dynam place="below" staff="1" tstamp="1.25" vgrp="49">
+                        <rend fontweight="normal">; sempre</rend>
+                     </dynam>
                      <dir xml:id="dwnqfji" place="above" staff="1" tstamp="1.000000" vgrp="200">hard stick</dir>
                   </measure>
                   <measure xml:id="myyf6lo" n="2">
