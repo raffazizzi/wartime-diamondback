@@ -74,9 +74,9 @@
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000000847924224" place="below" staff="1" tstamp="1.000000" vgrp="49">
+                     <dynam xml:id="dir-0000000847924224" place="below" staff="1" tstamp="1.000000" vgrp="49">
                         <rend xml:id="rend-0000000666516987" fontweight="normal">mp quasi religioso</rend>
-                     </dir>
+                     </dynam>
                      <dir xml:id="dir-0000001356899142" place="above" staff="1" tstamp="1.000000" vgrp="201">con. sord.</dir>
                      <tempo xml:id="tempo-0000002134469716" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="56" mm="56" mm.unit="4">
                         <rend xml:id="rend-0000001948093945" fontname="VerovioText">Adagio </rend> = 56</tempo>
