@@ -147,9 +147,9 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000001251576435" place="below" staff="1" tstamp="1.000000" vgrp="85">
+                     <dynam xml:id="dir-0000001251576435" place="below" staff="1" tstamp="1.000000" vgrp="85">
                         <rend xml:id="rend-0000001150589654" rend="none" fontweight="normal">ff quasi trombe</rend>
-                     </dir>
+                     </dynam>
                      <tie xml:id="tie-0000000174029761" startid="#note-0000002025782591" endid="#note-0000001479421429" />
                      <tie xml:id="tie-0000000023988139" startid="#note-0000001312143037" endid="#note-0000000527717396" />
                      <tie xml:id="tie-0000001145759500" startid="#note-0000000740415108" endid="#note-0000001797029929" />

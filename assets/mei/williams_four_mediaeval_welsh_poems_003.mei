@@ -87,9 +87,9 @@
                            <note xml:id="note-0000000473725457" dur.ppq="12" dur="4" oct="5" pname="c" stem.dir="down" accid.ges="s" />
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000002022728720" place="above" staff="1" tstamp="1.750000" vgrp="234">
+                     <dynam xml:id="dir-0000002022728720" place="above" staff="1" tstamp="1.750000" vgrp="234">
                         <rend xml:id="rend-0000000838497619" rend="none" fontweight="regular">ff declamando</rend>
-                     </dir>
+                     </dynam>
                      <tie xml:id="tie-0000000328086020" startid="#note-0000001558003715" endid="#note-0000000473725457" />
                   </measure>
                   <sb xml:id="sb-0000002019563750" />

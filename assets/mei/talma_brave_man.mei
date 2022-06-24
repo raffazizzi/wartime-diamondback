@@ -71,7 +71,7 @@
                      <dir xml:id="dir-0000001352105535" place="above" staff="1" tstamp="1.333333" vgrp="234">
                         <rend xml:id="rend-0000001712323930" rend="none" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
-                     <tempo xml:id="tempo-0000002000293136" place="above" staff="1" tstamp="1.333333" midi.bpm="53" mm="53.000000" mm.unit="4">
+                     <tempo xml:id="tempo-0000002000293136" place="above" staff="1" tstamp="0" midi.bpm="53" mm="53.000000" mm.unit="4">
                         <rend xml:id="rend-0000000182890357" fontname="VerovioText">Majestically </rend> = 53</tempo>
                   </measure>
                   <measure xml:id="measure-0000000241975970" n="1">
