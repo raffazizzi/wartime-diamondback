@@ -127,9 +127,9 @@
                      <tie xml:id="tie-0000001584250782" startid="#note-0000000783393548" endid="#note-0000001034508618" />
                      <tie xml:id="tie-0000001510009997" startid="#note-0000000275087107" endid="#note-0000001944083628" />
                      <tie xml:id="tie-0000000946822850" startid="#note-0000001769123044" endid="#note-0000000689691617" />
-                     <dir xml:id="dir-0000001969022005" place="below" staff="2" tstamp="1.000000" vgrp="40">
+                     <dynam xml:id="dir-0000001969022005" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000548904394" rend="none" fontweight="normal">p delicate</rend>
-                     </dir>
+                     </dynam>
                   </measure>
                   <measure xml:id="measure-0000001150523226" n="2">
                      <staff xml:id="staff-0000000448733775" n="1">
