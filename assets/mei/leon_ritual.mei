@@ -121,32 +121,32 @@
                      <tempo xml:id="tempo-0000000076100840" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
                         <rend xml:id="rend-0000002104100511" fontweight="bold">Lento serioso e rubato (</rend>
                         <rend xml:id="rend-0000000872872807" fontname="VerovioText"></rend> = ca. 40)</tempo>
-                     <dir xml:id="dir-0000000607475861" place="below" staff="2" tstamp="1.000000" vgrp="40">
+                     <dynam xml:id="dir-0000000607475861" place="below" staff="2" tstamp="1.000000" vgrp="1">
                         <rend xml:id="rend-0000001210126352" fontstyle="italic" fontweight="bold">f</rend>
-                     </dir>
+                     </dynam>
                      <pedal xml:id="pedal-0000001790496533" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="114" />
-                     <dir xml:id="dir-0000000733189405" place="below" staff="2" tstamp="2.000000" vgrp="40">
+                     <dynam xml:id="dir-0000000733189405" place="below" staff="2" tstamp="2.000000" vgrp="1">
                         <rend xml:id="rend-0000001768064207" fontstyle="italic" fontweight="bold">pp</rend>
-                     </dir>
-                     <slur xml:id="slur-0000000416491255" startid="#note-0000000381572419" endid="#note-0000001052955155" curvedir="above" />
+                     </dynam>
+                     <slur xml:id="slur-0000000416491255" startid="#rest-0000000915339236" endid="#note-0000001052955155" curvedir="above" />
                      <fermata xml:id="fermata-0000002082051725" staff="2" startid="#note-0000000381572419" form="norm" place="above" />
-                     <dynam xml:id="dynam-0000001275642985" place="below" staff="2" tstamp="3.000000" tstamp2="0m+6.0000" extender="true" lform="dashed">cresc.</dynam>
-                     <dir xml:id="dir-0000001985949691" place="below" staff="2" tstamp="6.000000" vgrp="200">mp</dir>
+                     <dynam xml:id="dynam-0000001275642985" place="below" staff="2" tstamp="3.000000" tstamp2="0m+6.0000" extender="true" lform="dashed" vgrp="1">cresc.</dynam>
+                     <dynam xml:id="dir-0000001985949691" place="below" staff="2" tstamp="6.000000" vgrp="1">mp</dynam>
                      <pedal xml:id="pedal-0000000679913504" staff="2" tstamp="6.900000" dir="up" form="line" place="below" vgrp="200" />
-                     <dir xml:id="dir-0000001497039130" place="below" staff="2" tstamp="7.000000" vgrp="40">
+                     <dynam xml:id="dir-0000001497039130" place="below" staff="2" tstamp="7.000000" vgrp="1">
                         <rend xml:id="rend-0000000153909718" fontstyle="italic" fontweight="bold">f</rend>
-                     </dir>
+                     </dynam>
                      <pedal xml:id="pedal-0000000112775106" staff="2" tstamp="7.000000" dir="down" form="line" place="below" vgrp="117" />
-                     <dynam xml:id="dynam-0000001977755125" place="below" staff="2" tstamp="8.000000" tstamp2="0m+12.0000" extender="true" lform="dashed">dim.</dynam>
-                     <slur xml:id="slur-0000001036918274" startid="#note-0000001814670967" endid="#note-0000000380405027" curvedir="above" />
-                     <dir xml:id="dir-0000000473177626" place="below" staff="2" tstamp="12.000000" vgrp="200">p</dir>
-                     <dynam xml:id="dynam-0000002014079449" place="below" staff="2" tstamp="12.000000" tstamp2="0m+13.5000" extender="true" lform="dashed">cresc.</dynam>
-                     <slur xml:id="slur-0000000063741782" startid="#note-0000001868443369" endid="#note-0000001226418232" curvedir="above" />
-                     <pedal xml:id="pedal-0000000250916008" staff="2" tstamp="13.400000" dir="up" form="line" place="below" vgrp="200" />
-                     <dir xml:id="dir-0000000994437979" place="below" staff="2" tstamp="13.500000" vgrp="200">f</dir>
-                     <dir xml:id="dir-0000001433033527" place="below" staff="2" tstamp="14.500000" vgrp="40">
+                     <dynam xml:id="dynam-0000001977755125" place="below" staff="2" tstamp="8.000000" tstamp2="0m+12.0000" extender="true" lform="dashed" vgrp="1">dim.</dynam>
+                     <slur xml:id="slur-0000001036918274" startid="#rest-0000000348424075" endid="#note-0000001610043646" curvedir="above" />
+                     <dynam xml:id="dir-0000000473177626" place="below" staff="2" tstamp="11.6" vgrp="1">p</dynam>
+                     <dynam xml:id="dynam-0000002014079449" place="below" staff="2" tstamp="12.000000" tstamp2="0m+13.5000" extender="true" lform="dashed" vgrp="1">cresc.</dynam>
+                     <slur xml:id="slur-0000000063741782" startid="#note-0000001868443369" endid="#note-0000001584650469" curvedir="above" />
+                     <pedal xml:id="pedal-0000000250916008" staff="2" tstamp="13.400000" dir="up" form="line" place="below" vgrp="1" />
+                     <dynam xml:id="dir-0000000994437979" place="below" staff="2" tstamp="13.500000" vgrp="1">f</dynam>
+                     <dynam xml:id="dir-0000001433033527" place="below" staff="2" tstamp="14.500000" vgrp="1">
                         <rend xml:id="rend-0000000144094004" fontstyle="italic" fontweight="bold">mp sup.</rend>
-                     </dir>
+                     </dynam>
                   </measure>
                </section>
             </score>

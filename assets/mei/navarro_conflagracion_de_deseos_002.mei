@@ -68,7 +68,6 @@
                      </dir>
                      <tempo xml:id="tempo-0000002022719793" place="above" staff="1" tstamp="1.000000" midi.bpm="60" mm="60.000000" mm.unit="4">
                         <rend xml:id="rend-0000000786401834" fontname="VerovioText">Cantabile (</rend> = 60)</tempo>
-                     <dir xml:id="dir-0000000218935664" place="above" staff="1" tstamp="1.000000" vgrp="200">[French Horn]</dir>
                      <slur xml:id="slur-0000001890101077" startid="#note-0000000044257541" endid="#note-0000000840286430" curvedir="below" />
                   </measure>
                   <scoreDef xml:id="scoredef-0000000683553787">

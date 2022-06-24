@@ -43,8 +43,8 @@
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000892118432">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-1.000000" trans.semi="-2.000000">
-                        <label xml:id="label-0000000307696573">B♭ Trumpet</label>
-                        <labelAbbr xml:id="labelAbbr-0000001676301899">B♭ Tpt.</labelAbbr>
+                        <label xml:id="label-0000000307696573">B♭ Trumpet II</label>
+                        <labelAbbr xml:id="labelAbbr-0000001676301899">B♭ Tpt. II</labelAbbr>
                         <instrDef xml:id="instrdef-0000000461803338" midi.channel="0" midi.instrnum="56" midi.volume="78.00%" />
                         <clef xml:id="clef-0000000761044972" shape="G" line="2" />
                         <keySig xml:id="keysig-0000001190338079" sig="2f" />
@@ -63,7 +63,6 @@
                      </staff>
                      <tempo xml:id="tempo-0000001670235701" place="above" staff="1" tstamp="1.000000" midi.bpm="98" mm="65.000000" mm.unit="4" mm.dots="1">
                      <rend xml:id="rend-0000001823057965" fontname="VerovioText">Con meraviglia (</rend> = 65)</tempo>
-                     <dir xml:id="dir-0000001117531415" place="above" staff="1" tstamp="1.000000" vgrp="200">[B♭trumpet II]</dir>
                      <dir xml:id="dir-0000001380741012" place="below" staff="1" tstamp="4.000000" vgrp="40">
                         <rend xml:id="rend-0000000587496345" rend="none" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>

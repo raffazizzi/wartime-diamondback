@@ -43,8 +43,8 @@
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000186667721">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="24" trans.diat="-1.000000" trans.semi="-2.000000">
-                        <label xml:id="label-0000001657858148">B♭ Trumpet</label>
-                        <labelAbbr xml:id="labelAbbr-0000000363097771">B♭ Tpt.</labelAbbr>
+                        <label xml:id="label-0000001657858148">B♭ Trumpet I</label>
+                        <labelAbbr xml:id="labelAbbr-0000000363097771">B♭ Tpt. I</labelAbbr>
                         <instrDef xml:id="instrdef-0000001982168930" midi.channel="0" midi.instrnum="56" midi.volume="78.00%" />
                         <clef xml:id="clef-0000000247689667" shape="G" line="2" />
                         <keySig xml:id="keysig-0000000499669163" sig="1f" />
@@ -62,7 +62,6 @@
                      </staff>
                      <tempo xml:id="tempo-0000000434380220" place="above" staff="1" tstamp="1.000000" midi.bpm="110" mm="110.000000" mm.unit="4">
                         <rend xml:id="rend-0000000256354339" fontname="VerovioText">Moderato (</rend> = 110)</tempo>
-                     <dir xml:id="dir-0000000049207438" place="above" staff="1" tstamp="1.000000" vgrp="200">[B♭ trumpet I]</dir>
                   </measure>
                   <measure xml:id="measure-0000000868703046" n="2">
                      <staff xml:id="staff-0000000622738672" n="1">
@@ -80,7 +79,7 @@
                      <dir xml:id="dir-0000001779876488" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000981351508" rend="none" fontstyle="italic" fontweight="bold">sfz</rend>
                      </dir>
-                     <hairpin xml:id="hairpin-0000001654747623" staff="1" tstamp="1.000000" tstamp2="1m+1.0000" form="cres" place="below" vgrp="60" />
+                     <hairpin xml:id="hairpin-0000001654747623" staff="1" tstamp="1.500000" tstamp2="1m+1.0000" form="cres" place="below" vgrp="60" />
                      <tie xml:id="tie-0000000871760569" startid="#note-0000000436902831" endid="#note-0000000185342926" />
                   </measure>
                   <measure xml:id="measure-0000000227577457" n="4">

@@ -128,9 +128,9 @@
                         </layer>
                      </staff>
                      <tie xml:id="tg7hixd" startid="#n6lqzch" endid="#nhfux3y" />
-                     <dir xml:id="dnbs8tv" place="below" staff="2" tstamp="4.000000" vgrp="40">
-                        <rend xml:id="r3z400x" fontstyle="italic" fontweight="bold">mp chiaro </rend>
-                     </dir>
+                     <dynam xml:id="dnbs8tv" place="below" staff="2" tstamp="4.000000" vgrp="40">
+                        <rend xml:id="r3z400x" fontstyle="italic">mp chiaro </rend>
+                     </dynam>
                      <slur xml:id="s4ji2aw" startid="#nnrrh59" endid="#nz48ehh" curvedir="above" />
                   </measure>
                   <scoreDef xml:id="sjtcvtm">
