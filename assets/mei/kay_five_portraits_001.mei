@@ -93,9 +93,11 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                         <rend>&#x1d15f; &#9181; &#x1d15f; &#x1d16d; = ca. 50-56</rend></tempo>
                      <staff xml:id="syfzb4g" n="2">
                         <layer xml:id="ldunfw7" n="1">
-                           <rest xml:id="rh3zkwi" dur.ppq="2" dur="4" />
+                              <rest xml:id="rh3zkwi" dur.ppq="2" dur="4" />
                            <note xml:id="nvb8oaw" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up" />
                         </layer>
                      </staff>
@@ -106,20 +108,16 @@
                         </layer>
                         <layer xml:id="lfeti6f" n="6">
                            <rest xml:id="r6lqzch" dur.ppq="2" dur="4" />
-                           <rest xml:id="rg7hixd" dur.ppq="1" dur="8" ploc="b" oloc="2" />
-                           <rest xml:id="r31mts" dur.ppq="1" dur="8" ploc="b" oloc="2" />
+                           <rest xml:id="rg7hixd" dur.ppq="1" dur="8"  />
+                           <rest xml:id="r31mts" dur.ppq="1" dur="8"  />
                            <note xml:id="n51yf6v" dur.ppq="1" dur="8" oct.ges="1" oct="2" pname="d" stem.dir="down" accid="f">
                               <artic xml:id="axmuows" artic="stacc" />
                            </note>
                         </layer>
                      </staff>
-                     <dir xml:id="dkoa7ql" place="below" staff="1" tstamp="1.000000" vgrp="89">
-                        <rend xml:id="rprgel5" fontstyle="italic" fontweight="bold">f</rend>
-                        <lb xml:id="li4aya3" />
-                        <rend xml:id="ray96zr" fontweight="normal"> marc.</rend>
-                     </dir>
-                     <tempo xml:id="tktg1pl" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm="50-56" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rcb608l" fontname="VerovioText"></rend></tempo>
+                     <dynam xml:id="dkoa7ql" place="below" staff="1" tstamp="1.000000" vgrp="89">
+                        <rend xml:id="rprgel5" fontstyle="italic">f marc.</rend>
+                     </dynam>
                      <slur xml:id="s2xhqfl" startid="#naur2in" endid="#ns26xvd" curvedir="below" />
                      <dir xml:id="dzen4r4" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="repe1mo" fontstyle="italic" fontweight="bold">f</rend>
@@ -171,8 +169,8 @@
                         </layer>
                         <layer xml:id="ls3609q" n="6">
                            <rest xml:id="rdrblfg" dur.ppq="2" dur="4" />
-                           <rest xml:id="ryv7ev4" dur.ppq="1" dur="8" ploc="b" oloc="2" />
-                           <rest xml:id="rnekb6z" dur.ppq="1" dur="8" ploc="b" oloc="2" />
+                           <rest xml:id="ryv7ev4" dur.ppq="1" dur="8" />
+                           <rest xml:id="rnekb6z" dur.ppq="1" dur="8" />
                            <note xml:id="n89zs62" dur.ppq="1" dur="8" oct.ges="1" oct="2" pname="d" stem.dir="down" accid="f">
                               <artic xml:id="ac3sepq" artic="stacc" />
                            </note>
@@ -236,16 +234,16 @@
                            <note xml:id="nlexs3g" dots="1" dur.ppq="6" dur="2" oct.ges="2" oct="3" pname="c" stem.dir="up" />
                         </layer>
                         <layer xml:id="ldv9is1" n="6">
-                           <rest xml:id="rn3jt6c" dur.ppq="1" dur="8" ploc="b" oloc="2" />
+                           <rest xml:id="rn3jt6c" dur.ppq="1" dur="8" />
                            <note xml:id="nwle171" dur.ppq="1" dur="8" oct.ges="1" oct="2" pname="g" stem.dir="down" accid="f">
                               <artic xml:id="al9kyf9" artic="stacc" />
                            </note>
-                           <rest xml:id="roso2zh" dur.ppq="1" dur="8" ploc="b" oloc="2" />
-                           <rest xml:id="r1ceig2" dur.ppq="1" dur="8" ploc="b" oloc="2" />
+                           <rest xml:id="roso2zh" dur.ppq="1" dur="8" />
+                           <rest xml:id="r1ceig2" dur.ppq="1" dur="8" />
                            <note xml:id="nyzo6cp" dur.ppq="1" dur="8" oct.ges="1" oct="2" pname="e" stem.dir="down" accid="f">
                               <artic xml:id="agpivy9" artic="stacc" />
                            </note>
-                           <rest xml:id="r3jlzic" dur.ppq="1" dur="8" ploc="b" oloc="2" />
+                           <rest xml:id="r3jlzic" dur.ppq="1" dur="8" />
                         </layer>
                      </staff>
                      <slur xml:id="sdmr50g" startid="#n7dx87d" endid="#ncdnaw" curvedir="below" />
@@ -290,8 +288,8 @@
                         </layer>
                         <layer xml:id="l4m4yuo" n="6">
                            <rest xml:id="rdsguxn" dur.ppq="2" dur="4" />
-                           <rest xml:id="rnbs8tv" dur.ppq="1" dur="8" ploc="b" oloc="2" />
-                           <rest xml:id="r3z400x" dur.ppq="1" dur="8" ploc="b" oloc="2" />
+                           <rest xml:id="rnbs8tv" dur.ppq="1" dur="8"  />
+                           <rest xml:id="r3z400x" dur.ppq="1" dur="8"  />
                            <note xml:id="nk3tj06" dur.ppq="1" dur="8" oct.ges="1" oct="2" pname="c" stem.dir="down">
                               <artic xml:id="a48ayxp" artic="stacc" />
                            </note>
@@ -341,8 +339,8 @@
                         </layer>
                         <layer xml:id="lyxk67y" n="6">
                            <rest xml:id="r5fkyb6" dur.ppq="2" dur="4" />
-                           <rest xml:id="rgnvf9w" dur.ppq="1" dur="8" ploc="b" oloc="2" />
-                           <rest xml:id="r5n5265" dur.ppq="1" dur="8" ploc="b" oloc="2" />
+                           <rest xml:id="rgnvf9w" dur.ppq="1" dur="8" />
+                           <rest xml:id="r5n5265" dur.ppq="1" dur="8" />
                            <note xml:id="nyb8m7i" dur.ppq="1" dur="8" oct="2" pname="c" stem.dir="down">
                               <artic xml:id="ax6vi1z" artic="stacc" />
                            </note>
