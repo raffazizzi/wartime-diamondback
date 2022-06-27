@@ -3,7 +3,7 @@ layout: mei
 title: Sonnets on love, rosebuds, and death. II. Joy
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-joy/
-document:
+document: moore-sonnets002-joy.mei
 ---
 
 - In *Sonnets on love, rosebuds, and death: for high voice, violin, and piano (1976).* New York, N.Y.: American Composers Alliance BMI, 2018.

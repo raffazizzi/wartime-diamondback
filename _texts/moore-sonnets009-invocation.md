@@ -3,7 +3,7 @@ layout: mei
 title: Sonnets on love, rosebuds, and death. VIII. Invocation
 author: Moore, Dorothy Rudd
 permalink: /moore-sonnets-invocation/
-document:
+document: moore-sonnets008-invocation.mei
 ---
 
 - In *Sonnets on love, rosebuds, and death: for high voice, violin, and piano (1976).* New York, N.Y.: American Composers Alliance BMI, 2018.

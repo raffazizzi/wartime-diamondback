@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonnets on Love, Rosebuds, and Death</title>
+            <respStmt>
+               <persName role="composer">Dorothy Rudd Moore</persName>
+               <persName role="lyricist">Gwendolyn B. Bennett</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-06-27" type="encoding-date">2022-06-27</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+            <ref target="https://rebalancing-music-canon.com/" />
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-c5jgam">
+         <appInfo xml:id="appinfo-hv9x83">
+            <application xml:id="application-79d16p" isodate="2022-06-27T10:12:22" version="3.10.0-845ab54">
+               <name xml:id="name-2yp8p1">Verovio</name>
+               <p xml:id="p-gk4p6y">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mcsut1v">
+            <score xml:id="se4c7bq">
+               <scoreDef xml:id="som40go">
+                  <pgHead xml:id="pqh1gyx">
+                     <rend xml:id="rskpqk8" halign="center" valign="top">Sonnets on Love, Rosebuds, and Death</rend>
+                     <rend xml:id="rot3mbs" halign="center" valign="top">IV. He Came in Silvern Armour</rend>
+                     <rend xml:id="r4uhdiv" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
+                     <rend xml:id="rg7wwm8" halign="left" valign="bottom">Gwendolyn B. Bennett</rend>
+                  </pgHead>
+                  <staffGrp xml:id="syrpm2b">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="lrmidjs">Voice</label>
+                        <labelAbbr xml:id="lofja0b">Vo.</labelAbbr>
+                        <instrDef xml:id="ink3y54" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cnvf3dm" shape="G" line="2" />
+                        <keySig xml:id="kxc6yex" sig="0" />
+                        <meterSig xml:id="myq5cop" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="ssjt67q">
+                  <pb xml:id="p4lgvhc" />
+                  <measure xml:id="ms5gv3v" n="1">
+                     <staff xml:id="spb1nfk" n="1">
+                        <layer xml:id="lguquq2" n="1">
+                           <multiRest xml:id="marsqt5" num="8" />
+                        </layer>
+                     </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                           <rend>Allegro agitato</rend></tempo>
+                  </measure>
+                  <measure xml:id="mwos4tg" n="9">
+                     <staff xml:id="si42v44" n="1">
+                        <layer xml:id="law08wu" n="1">
+                           <rest xml:id="rdjvr5s" dur.ppq="8" dur="2" />
+                           <rest xml:id="ryn8n4i" dur.ppq="4" dur="4" />
+                           <rest xml:id="rywcy9c" dur.ppq="2" dur="8" />
+                           <note xml:id="nh0der9" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v7m354u" n="1">
+                                 <syl xml:id="scce3hv" con="s" wordpos="s">He</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dc8uwcd" place="above" staff="1" tstamp="4.500000" val="80" vgrp="203">mf legato</dynam>
+                  </measure>
+                  <measure xml:id="mhu8dxw" n="10">
+                     <staff xml:id="sy3kklo" n="1">
+                        <layer xml:id="lqa989s" n="1">
+                           <note xml:id="n7wxxhl" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="v8piy5" n="1">
+                                 <syl xml:id="s6i2rgr" con="s" wordpos="s">came</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="njbey4e" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vkylfjw" n="1">
+                                 <syl xml:id="sokww6o" con="s" wordpos="s">in</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nw5lmc7" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid="f">
+                              <verse xml:id="v2e6ceq" n="1">
+                                 <syl xml:id="s12n5fi" con="d" wordpos="i">sil</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nx0a8iz" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f">
+                              <verse xml:id="vg2v6vl" n="1">
+                                 <syl xml:id="swg7c61" con="s" wordpos="t">vern</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="naadtku" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="v4trno5" n="1">
+                                 <syl xml:id="sv75zcq" con="d" wordpos="i">ar</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="niyulci" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vxd1yvl" n="1">
+                                 <syl xml:id="sda7pas" con="s" wordpos="t">mour</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n5lstzr" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vfcwd1h" n="1">
+                                 <syl xml:id="sn4k1rp" con="s" wordpos="s">trimmed</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n3cai9c" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f">
+                              <verse xml:id="vcfh5ow" n="1">
+                                 <syl xml:id="siasv1n" con="s" wordpos="s">with</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m9bl1f" n="11">
+                     <staff xml:id="scmc0p" n="1">
+                        <layer xml:id="l2kmapp" n="1">
+                           <note xml:id="nc4unf9" dur.ppq="8" dur="2" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="v5rgarw" n="1">
+                                 <syl xml:id="s1tqddc" con="u" wordpos="s">black</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="ntmca7h" dur.ppq="4" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="rmhwd8s" dur.ppq="2" dur="8" />
+                           <note xml:id="n2sjz5v" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v73idq2" n="1">
+                                 <syl xml:id="s6wyb29" con="s" wordpos="s">A</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="toi6wtn" startid="#nc4unf9" endid="#ntmca7h" />
+                  </measure>
+                  <sb xml:id="s67q9zc" />
+                  <measure xml:id="mtdqsmq" n="12">
+                     <staff xml:id="s8dkejw" n="1">
+                        <layer xml:id="lw0d02h" n="1">
+                           <note xml:id="nb7lp45" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vtq80mt" n="1">
+                                 <syl xml:id="svw7jwk" con="d" wordpos="i">lov</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nnoxfko" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vx85wsa" n="1">
+                                 <syl xml:id="spmxcv3" con="s" wordpos="t">er</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nz5vj6w" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid="f">
+                              <verse xml:id="vao3gwz" n="1">
+                                 <syl xml:id="sdjnrq4" con="s" wordpos="s">come</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n9amjys" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f">
+                              <verse xml:id="vsndzsj" n="1">
+                                 <syl xml:id="s5jz30y" con="s" wordpos="s">from</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nl9r3w7" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vfa8j6y" n="1">
+                                 <syl xml:id="s4agrp4" con="d" wordpos="i">le</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nueyd4u" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vh95d77" n="1">
+                                 <syl xml:id="spekj9l" con="s" wordpos="t">gends</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nme955m" dots="1" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                              <verse xml:id="vrspat6" n="1">
+                                 <syl xml:id="sec4wg2" con="s" wordpos="s">long</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n82rp2s" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="vyxqrvo" n="1">
+                                 <syl xml:id="shkqiay" con="s" wordpos="s">a</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
