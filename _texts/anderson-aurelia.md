@@ -3,7 +3,7 @@ layout: mei
 title: Aurelia, in memoriam
 author: Anderson, T.J.
 permalink: /anderson-aurelia/
-document: anderson-aurelia_in_memoriam.mei
+document: anderson-aurelia_in_memoriam(1).mei
 ---
 
 - In *Aurelia, in memoriam: for solo violin: (2020).* New York, NY: American Composers Alliance Inc., 2020.
