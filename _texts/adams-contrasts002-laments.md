@@ -3,7 +3,7 @@ layout: mei
 title: Contrasts, II. Lament
 author: Adams, Leslie
 permalink: /adams-contrasts-lament/
-document:
+document: Adams_Contrasts002_Lament.mei
 ---
 
 - In *Contrasts: for piano: 2001.* New York, NY: American Composers Alliance, 2021.

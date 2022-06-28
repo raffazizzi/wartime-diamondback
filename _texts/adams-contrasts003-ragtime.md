@@ -3,7 +3,7 @@ layout: mei
 title: Contrasts, III. Ragtime
 author: Adams, Leslie
 permalink: /adams-contrasts-ragtime/
-document:
+document: Adams_Contrasts003_Ragtime.mei
 ---
 
 - In *Contrasts: for piano: 2001.* New York, NY: American Composers Alliance, 2021.
