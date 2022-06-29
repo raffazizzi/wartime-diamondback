@@ -116,7 +116,7 @@
                      <tempo xml:id="tf03ccw" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000">
                         <rend xml:id="rl52jq" fontweight="bold">Allegretto &#x1d15f; = 144</rend>
                      </tempo>
-                     <dynam xml:id="du6c3wm" place="below" staff="1" tstamp="1.000000" val="33" vgrp="56">pp</dynam>
+                     <dynam xml:id="du6c3wm" place="above" staff="2" tstamp="1.000000" val="33" vgrp="56">pp</dynam>
                      <beamSpan xml:id="b5so4l9" startid="#nvhw1sk" endid="#n6sperl" />
                      <dir xml:id="dh6aiz7" place="below" staff="2" tstamp="1.500000" vgrp="40">
                         <rend xml:id="rb8zh3j" fontstyle="italic">leggieriss</rend>
