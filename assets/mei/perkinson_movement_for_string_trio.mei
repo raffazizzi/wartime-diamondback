@@ -48,7 +48,7 @@
                         <instrDef xml:id="ir8i00h" midi.channel="0" midi.instrnum="41" midi.volume="78.00%" />
                         <clef xml:id="cfhpf93" shape="C" line="3" />
                         <keySig xml:id="k2wgj9p" sig="0" />
-                        <meterSig xml:id="mc6ku2g" count="81/2" unit="8" />
+                        <meterSig xml:id="mc6ku2g" count="8.5" unit="8" />
                      </staffDef>
                   </staffGrp>
                </scoreDef>
