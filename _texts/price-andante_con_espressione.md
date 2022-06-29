@@ -3,7 +3,7 @@ layout: mei
 title: Andante con espressione
 author: Price, Florence B.
 permalink: /price-andante-con-espressione/
-document: Price_AndanteConEspressione.mei
+document: price_andante_con_espressione.mei
 ---
 
 - In *Andante con espressione: for violin and piano*, edited by John Michael Cooper. New York, NY: G. Schirmer, Inc., 2019.
