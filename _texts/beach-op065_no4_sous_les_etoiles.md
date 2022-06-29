@@ -3,7 +3,7 @@ layout: mei
 title: Sous les étoiles, op. 65, no. 4
 author: Beach, Amy Marcy Cheney
 permalink: /beach-65.4/
-document: beach_sous_les_etoiles_op65_no4.mei
+document: beach_sous_les_etoiles.mei
 ---
 
 - In *Music for piano,* edited by Sylvia Glickman. Bryn Mawr, Pa.: Hildegard Pub., 1994.
