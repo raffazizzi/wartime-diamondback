@@ -333,8 +333,7 @@
                      <pedal xml:id="pt1jgdl" staff="2" tstamp="2.9" dir="down" place="below" vgrp="1" />
                      <fermata xml:id="fet03yy" staff="2" startid="#cd5bca3" form="norm" place="above" />
                      <pedal xml:id="pbfmo29" staff="2" tstamp="4" dir="up" form="pedstar" place="below" vgrp="1" />
-                     <arpeg plist="cd5bca3"/>
-                     <arpeg plist="ct3td89"/>
+                     <arpeg plist="#cd5bca3 ct3td89"/>
                   </measure>
                </section>
             </score>
