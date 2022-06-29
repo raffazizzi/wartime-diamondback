@@ -3,7 +3,7 @@ layout: mei
 title: Spirit songs, Vamp I
 author: Anderson, T.J.
 permalink: /anderson-spirit-songs-vamp-i/
-document: anderson-spirit_songs-vamp_i005.mei
+document: anderson-spirit_songs-vamp_i_005.mei
 ---
 
 - In *Spirit songs: for cello and piano.* New York, NY: American Composers Alliance Inc., 2018.

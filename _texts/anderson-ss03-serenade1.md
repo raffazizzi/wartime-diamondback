@@ -3,7 +3,7 @@ layout: mei
 title: Spirit songs, III. Serenade I
 author: Anderson, T.J.
 permalink: /anderson-spirit-songs-serenade-i/
-document: anderson_spirit_songs_serenade1_003.mei
+document: anderson_spirit_songs_serenade_i_003.mei
 ---
 
 - In *Spirit songs: for cello and piano.* New York, NY: American Composers Alliance Inc., 2018.
