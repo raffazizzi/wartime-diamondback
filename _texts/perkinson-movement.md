@@ -3,7 +3,7 @@ layout: mei
 title: Movement for string trio
 author: Perkinson, Coleridge-Taylor
 permalink: /perkinson-movement/
-document: perkinson-movement_for_string_trio.mei
+document: perkinson_movement_for_string_trio.mei
 ---
 
 - In *Movement for string trio.* Maryland Heights, Missouri: Lauren Keiser Music Publishing, 2008.

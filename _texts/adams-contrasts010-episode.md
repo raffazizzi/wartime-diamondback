@@ -3,7 +3,7 @@ layout: mei
 title: Contrasts, X. Episode
 author: Adams, Leslie
 permalink: /adams-contrasts-episode/
-document: Adams_Contrasts010_Episode.mei
+document: adams_contrasts010_episode.mei
 ---
 
 - In *Contrasts: for piano: 2001.* New York, NY: American Composers Alliance, 2021.
