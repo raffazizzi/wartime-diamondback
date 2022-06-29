@@ -3,7 +3,7 @@ layout: mei
 title: Contrasts, VI. Prelude
 author: Adams, Leslie
 permalink: /adams-contrasts-prelude/
-document: Adams_Contrasts006_Prelude.mei
+document: adams_contrasts006_prelude.mei
 ---
 
 - In *Contrasts: for piano: 2001.* New York, NY: American Composers Alliance, 2021.

@@ -3,7 +3,7 @@ layout: mei
 title: Contrasts, IX. Dialogue
 author: Adams, Leslie
 permalink: /adams-contrasts-dialogue/
-document: Adams_Contrasts009_Dialogue.mei
+document: adams_contrasts009_dialogue.mei
 ---
 
 - In *Contrasts: for piano: 2001.* New York, NY: American Composers Alliance, 2021.

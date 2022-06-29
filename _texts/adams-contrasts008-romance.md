@@ -3,7 +3,7 @@ layout: mei
 title: Contrasts, VIII. Romance
 author: Adams, Leslie
 permalink: /adams-contrasts-romance/
-document: Adams_Contrasts008_Romance.mei
+document: adams_contrasts008_romance.mei
 ---
 
 - In *Contrasts: for piano: 2001.* New York, NY: American Composers Alliance, 2021.
