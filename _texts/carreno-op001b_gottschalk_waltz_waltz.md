@@ -3,7 +3,7 @@ layout: mei
 title: Gottschalk waltz, op. 1 II. Waltz
 author: Carreño, Teresa
 permalink: /carreno-gottschalk-waltz-II/
-document: Carreno_GottschalkWaltz_IIWaltz.mei
+document: carreno_gottschalk_waltz_II_waltz.mei
 ---
 
 - In *Four piano works.* Bryn Mawr, Pa.: Hildegard Pub. Co., 2000.
