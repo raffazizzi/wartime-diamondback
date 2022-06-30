@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Blue/s forms, iii. Jettin' blue/s
 author: Perkinson, Coleridge-Taylor
 permalink: /perkinson-blues-forms-jettin-blues/
-document:
+image: perkinson_blues_forms_for_unaccompanied_violin_jettin_blues.png
 ---
 
 - In *Blue/s forms: for solo violin (1979).* Saint Louis, MO: MMB Music, 1979.
