@@ -129,7 +129,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dsgk98j" type="segno" place="above" staff="1" tstamp="0.000000" vgrp="1">
-                        <rend xml:id="r2p41ix" halign="center" fontname="VerovioText" fontstyle="normal">𝄋</rend>
+                        <rend xml:id="r2p41ix" halign="center" >𝄋</rend>
                      </dir>
                      <dir type="segno" place="below" staff="2" tstamp="0.000000" vgrp="10">
                         <rend xml:id="r2p41ix" halign="center" fontname="VerovioText" fontstyle="normal">𝄋</rend>

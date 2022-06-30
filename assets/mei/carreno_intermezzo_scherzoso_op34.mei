@@ -83,7 +83,7 @@
                         </layer>
                      </staff>
                      <tempo place="above" staff="1" tstamp="0">
-                        <rend>Allegretto grazioso.</rend></tempo>
+                        <rend>Allegretto grazioso</rend></tempo>
                      <staff xml:id="staff-0000000070399441" n="2">
                         <layer xml:id="layer-0000001121655598" n="5">
                            <beam xml:id="beam-0000000648443881">
