@@ -8,9 +8,18 @@
             <title>Blue/s Forms for Unaccompanied Violin</title>
             <respStmt>
                <persName role="composer">Coleridge-Taylor Perkinson</persName>
+               <persName role="transcriber">Joanna Strogatz</persName>
+               <persName role="reviewer">Phillip Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-05-13" type="encoding-date">2022-05-13</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000560829293">
