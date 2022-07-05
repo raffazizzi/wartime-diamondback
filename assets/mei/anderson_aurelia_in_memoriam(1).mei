@@ -7,10 +7,19 @@
          <titleStmt>
             <title>Aurelia, In Memorium</title>
             <respStmt>
-               <persName role="composer">T. J. Anderson</persName>
+               <persName role="composer">T.J. Anderson</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-07-05" type="encoding-date">2022-07-05</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+    <availability>
+       <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+    </availability>
+    <identifier>
+    <ref target="https://rebalancing-music-canon.com/"/>
+    </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-1upz4rj">
@@ -29,7 +38,7 @@
                <scoreDef xml:id="s101a41">
                   <pgHead xml:id="p6if9i">
                      <rend xml:id="ravs80m" halign="center" valign="top">Aurelia, In Memoriam</rend>
-                     <rend xml:id="r1kftqyl" halign="right" valign="bottom">T. J. Anderson</rend>
+                     <rend xml:id="r1kftqyl" halign="right" valign="bottom">T.J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="s100nrzh">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">
