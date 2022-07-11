@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Dream and variations, I. Intro: Largo
+title: Dream and variations, V. Allegro
 author: Moore, Dorothy Rudd
-permalink: /moore-dream-intro001/
-document: moore_dream_and_variations_001.mei
+permalink: /moore-dream-allegro005/
+document: moore_dream_and_variations_005.mei
 ---
 
 - In *Dream and variations: for solo piano: 1974.* New York, NY: American Composers Alliance Inc., 2020.

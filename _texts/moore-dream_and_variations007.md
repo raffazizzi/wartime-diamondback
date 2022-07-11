@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Dream and variations, I. Intro: Largo
+title: Dream and variations, VII. Molto Adagio
 author: Moore, Dorothy Rudd
-permalink: /moore-dream-intro001/
-document: moore_dream_and_variations_001.mei
+permalink: /moore-dream-adagio-molto-adagio007/
+document: moore_dream_and_variations_007.mei
 ---
 
 - In *Dream and variations: for solo piano: 1974.* New York, NY: American Composers Alliance Inc., 2020.
