@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Primitive Echoes</title>
+            <respStmt>
+               <persName role="composer">Alice Gomez</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-11" type="encoding-date">2022-07-11</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-kb6s8t">
+         <appInfo xml:id="appinfo-4mejhz">
+            <application xml:id="application-5tm07r" isodate="2022-07-11T15:24:01" version="3.10.0-845ab54">
+               <name xml:id="name-mwmbbs">Verovio</name>
+               <p xml:id="p-aay6lc">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mbo8am2">
+            <score xml:id="sz8b5pu">
+               <scoreDef xml:id="spgrg0s">
+                  <pgHead xml:id="p1tbny7">
+                     <rend xml:id="rdtygvd" halign="center" valign="top">Primitive Echoes</rend>
+                     <rend xml:id="rvd6s5i" halign="center" valign="top">II. Ancient Whispers</rend>
+                     <rend xml:id="risxm78" halign="right" valign="bottom">Alice Gomez</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s76t7xr">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="8">
+                        <label xml:id="la6dzud">Flute I</label>
+                        <labelAbbr xml:id="lfvms0c">Fl. I</labelAbbr>
+                        <instrDef xml:id="io188k9" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                        <clef xml:id="cbsws3u" shape="G" line="2" />
+                        <keySig xml:id="ku8i5ug" sig="0" />
+                        <meterSig xml:id="mwpeekb" count="4" sym="common" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="skkg1du">
+                  <measure xml:id="mmsuk9x" n="1">
+                     <staff xml:id="si6hj5h" n="1">
+                        <layer xml:id="lvp3hnr" n="1">
+                           <note xml:id="n6pby60" dur.ppq="16" dur="2" oct="4" pname="c" stem.dir="up" accid="s" />
+                           <beam xml:id="byktraq">
+                              <note xml:id="nifilzq" dur.ppq="1" dur="32" oct="4" pname="c" stem.dir="up" accid.ges="s" />
+                              <note xml:id="n98fimv" breaksec="1" dur.ppq="1" dur="32" oct="4" pname="e" stem.dir="up" />
+                              <note xml:id="na668gq" dots="1" dur.ppq="6" dur="8" oct="4" pname="d" stem.dir="up" accid="s" />
+                           </beam>
+                           <note xml:id="nmnvmk0" dur.ppq="8" dur="4" oct="4" pname="d" stem.dir="up" accid.ges="s" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dw8f9z4" place="below" staff="1" tstamp="1.000000" val="80" vgrp="62">mf</dynam>
+                     <tempo xml:id="tk4s42f" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="46.000000" mm="46.000000" mm.unit="4">
+                        <rend xml:id="r7p0pwb" fontweight="bold"> Mysterioso &#x1d15f; = 46</rend></tempo>
+                     <slur xml:id="s4ea9v0" startid="#nifilzq" endid="#nmnvmk0" curvedir="below" />
+                     <tie xml:id="t7zegqz" startid="#na668gq" endid="#nmnvmk0" />
+                  </measure>
+                  <scoreDef xml:id="suaaw4k">
+                     <meterSig xml:id="mzggpxf" count="5" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mj1n934" n="2">
+                     <staff xml:id="seyu0al" n="1">
+                        <layer xml:id="lfu6f23" n="1">
+                           <rest xml:id="rf7c79" dur.ppq="8" dur="4" />
+                           <note xml:id="nbxpji7" dur.ppq="8" dur="4" oct="4" pname="c" stem.dir="up" accid="s" />
+                           <beam xml:id="bx7g3t1">
+                              <note xml:id="nnq5cr3" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" accid.ges="s" />
+                              <note xml:id="nwt72fp" dur.ppq="2" dur="16" oct="4" pname="e" stem.dir="up" />
+                              <note xml:id="n92zmyc" dur.ppq="2" dur="16" oct="4" pname="d" stem.dir="up" accid="s" />
+                              <note xml:id="nik5u2c" dur.ppq="2" dur="16" oct="4" pname="a" stem.dir="up" />
+                           </beam>
+                           <bTrem xml:id="bto45lq" form="meas">
+                              <note xml:id="n32fr6j" dur.ppq="16" dur="2" oct="5" pname="d" stem.dir="down" stem.mod="3slash" accid="s" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <slur xml:id="snem1lx" startid="#nnq5cr3" endid="#n32fr6j" curvedir="below" />
+                     <dir xml:id="dw3z9zs" place="above" staff="1" tstamp="4.000000" vgrp="200">flt.</dir>
+                     <breath xml:id="b50xv5a" staff="1" tstamp="6.000000" />
+                  </measure>
+                  <scoreDef xml:id="spw6vt4">
+                     <meterSig xml:id="my3mt0f" count="4" sym="common" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m3dfxky" n="3">
+                     <staff xml:id="sg2gbh9" n="1">
+                        <layer xml:id="le7cnja" n="1">
+                           <note xml:id="neebo5g" dur.ppq="16" dur="2" oct="4" pname="c" stem.dir="up" accid="s" />
+                           <beam xml:id="bt1la8g">
+                              <note xml:id="ndxbf2j" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" accid.ges="s" />
+                              <note xml:id="n4bx3zu" dur.ppq="2" dur="16" oct="4" pname="e" stem.dir="up" />
+                              <note xml:id="nxnlnh5" dots="1" dur.ppq="3" dur="16" oct="4" pname="d" stem.dir="up" accid="s" />
+                              <note xml:id="n5ha2y4" dur.ppq="1" dur="32" oct="4" pname="a" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="bdcfzn5">
+                              <note xml:id="nkohafk" dots="1" dur.ppq="3" dur="16" oct="4" pname="d" stem.dir="up" accid.ges="s" />
+                              <note xml:id="n5lqryc" dur.ppq="1" dur="32" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="np3cj7z" dur.ppq="2" dur="16" oct="4" pname="d" stem.dir="up" accid.ges="s" />
+                              <note xml:id="nepmasb" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" accid.ges="s" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sc0fs36" startid="#ndxbf2j" endid="#nxnlnh5" curvedir="below" />
+                  </measure>
+                  <measure xml:id="mqx4g29" n="4">
+                     <staff xml:id="shj5miq" n="1">
+                        <layer xml:id="lve75hw" n="1">
+                           <note xml:id="n6vri1s" dur.ppq="32" dur="1" oct="4" pname="d" accid="s" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

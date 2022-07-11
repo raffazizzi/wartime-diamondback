@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Primitive Echoes</title>
+            <respStmt>
+               <persName role="composer">Alice Gomez</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-11" type="encoding-date">2022-07-11</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-c8qngl">
+         <appInfo xml:id="appinfo-5a91g">
+            <application xml:id="application-d6rfqs" isodate="2022-07-11T15:23:57" version="3.10.0-845ab54">
+               <name xml:id="name-8qg2at">Verovio</name>
+               <p xml:id="p-r0zo47">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mvvm32c">
+            <score xml:id="sxsu85r">
+               <scoreDef xml:id="s4ywag7">
+                  <pgHead xml:id="p2cvlhv">
+                     <rend xml:id="r27p9zs" halign="center" valign="top">Primitive Echoes</rend>
+                     <rend xml:id="rv0ji9g" halign="center" valign="top">III. Mountain Chant</rend>
+                     <rend xml:id="rjjqz8n" halign="right" valign="bottom">Alice Gomez</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s6kr6am">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="lroudja">Timpani</label>
+                        <labelAbbr xml:id="lv2bk38">Timp.</labelAbbr>
+                        <instrDef xml:id="ibs8yqf" midi.channel="0" midi.instrnum="47" midi.volume="78.00%" />
+                        <clef xml:id="ckunc2g" shape="F" line="4" />
+                        <keySig xml:id="k8npq1b" sig="0" />
+                        <meterSig xml:id="mv0sagq" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sjs684x">
+                  <measure xml:id="mpdem8t" n="1">
+                     <staff xml:id="supcamm" n="1">
+                        <layer xml:id="lgnh9r0" n="1">
+                           <bTrem xml:id="bdu216k" form="meas">
+                              <note xml:id="n1skt3a" dots="1" dur.ppq="3" dur="2" oct="3" pname="b" stem.dir="down" stem.mod="3slash">
+                                 <artic xml:id="ac2dyww" artic="acc" />
+                              </note>
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dymvie9" place="below" staff="1" tstamp="1.000000" val="96" vgrp="40">f</dynam>
+                     <tempo xml:id="t9nll1a" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="138.000000" mm="138.000000" mm.unit="4">
+                        <rend xml:id="rmcleng" fontweight="bold">&#x1d15f; = 138-144</rend></tempo>
+                     <dir xml:id="dbq5njk" place="above" staff="1" tstamp="0" vgrp="200">
+                        <rend fontstyle="normal">maracas</rend></dir>
+                     <tie xml:id="taa0q62" startid="#n1skt3a" endid="#n50ljt6" />
+                  </measure>
+                  <measure xml:id="m4aq6s" n="2">
+                     <staff xml:id="sofywb3" n="1">
+                        <layer xml:id="lxft027" n="1">
+                           <bTrem xml:id="byicavx" form="meas">
+                              <note xml:id="n50ljt6" dots="1" dur.ppq="3" dur="2" oct="3" pname="b" stem.dir="down" stem.mod="3slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mjfts6q" n="3">
+                     <staff xml:id="sgd6pgx" n="1">
+                        <layer xml:id="lwwq32" n="1">
+                           <chord xml:id="ckerk4a" dur.ppq="1" dur="4" stem.dir="up">
+                              <artic xml:id="aa3xdnq" artic="acc" />
+                              <note xml:id="njzphus" oct="2" pname="a" accid="s" />
+                              <note xml:id="nc9h1wx" oct="3" pname="e" />
+                           </chord>
+                           <chord xml:id="c6yagcy" dur.ppq="1" dur="4" stem.dir="up">
+                              <artic xml:id="aog93yw" artic="acc" />
+                              <note xml:id="nsjsclr" oct="2" pname="a" accid.ges="s" />
+                              <note xml:id="nou43fv" oct="3" pname="e" />
+                           </chord>
+                           <rest xml:id="rvc6tmd" dur.ppq="1" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m9gv3a4" n="4">
+                     <staff xml:id="ssz4xfv" n="1">
+                        <layer xml:id="l30n1h6" n="1">
+                           <mRest xml:id="mz3ss6o" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mxv42bp" n="5">
+                     <staff xml:id="sh97e61" n="1">
+                        <layer xml:id="lkslcr8" n="1">
+                           <bTrem xml:id="bje3sc4" form="meas">
+                              <note xml:id="nkqvdzn" dots="1" dur.ppq="3" dur="2" oct="3" pname="b" stem.dir="down" stem.mod="3slash">
+                                 <artic xml:id="av0esby" artic="acc" />
+                              </note>
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <tie xml:id="t409cjk" startid="#nkqvdzn" endid="#ns4h054" />
+                  </measure>
+                  <measure xml:id="mbup7bp" n="6">
+                     <staff xml:id="s9wo231" n="1">
+                        <layer xml:id="lvvhdbt" n="1">
+                           <bTrem xml:id="bokvz44" form="meas">
+                              <note xml:id="ns4h054" dots="1" dur.ppq="3" dur="2" oct="3" pname="b" stem.dir="down" stem.mod="3slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m9n0ysu" n="7">
+                     <staff xml:id="scmvemb" n="1">
+                        <layer xml:id="lb963d0" n="1">
+                           <chord xml:id="cekb351" dur.ppq="1" dur="4" stem.dir="up">
+                              <artic xml:id="aksvv4v" artic="acc" />
+                              <note xml:id="n80fno7" oct="2" pname="a" accid="s" />
+                              <note xml:id="np1q7xq" oct="3" pname="e" />
+                           </chord>
+                           <rest xml:id="r1a99ci" dur.ppq="1" dur="4" />
+                           <chord xml:id="clsd4ri" dur.ppq="1" dur="4" stem.dir="up">
+                              <artic xml:id="axdgaxj" artic="acc" />
+                              <note xml:id="nvl25bm" oct="2" pname="a" accid.ges="s" />
+                              <note xml:id="nnwkix4" oct="3" pname="e" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
