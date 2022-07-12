@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Bombs of Beirut</title>
+            <respStmt>
+               <persName role="composer">Mary Kouyoumdjian</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-12" type="encoding-date">2022-07-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-hwik3r">
+         <appInfo xml:id="appinfo-760c5n">
+            <application xml:id="application-4jbt25" isodate="2022-07-12T12:46:10" version="3.10.0-845ab54">
+               <name xml:id="name-dr26op">Verovio</name>
+               <p xml:id="p-f4e9sf">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="my54fyn">
+            <score xml:id="sjfz2ux">
+               <scoreDef xml:id="sbatyr3">
+                  <pgHead xml:id="plqyjh7">
+                     <rend xml:id="r37wm1r" halign="center" valign="top">Bombs of Beirut</rend>
+                     <rend xml:id="r7p63tv" halign="center" valign="top">iii. After the War</rend>
+                     <rend xml:id="ru1srxd" halign="right" valign="bottom">Mary Kouyoumdjian</rend>
+                  </pgHead>
+                  <staffGrp xml:id="ss1yu3j">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="lsmfqb5">Violin</label>
+                        <labelAbbr xml:id="lg3zm9m">Vln.</labelAbbr>
+                        <instrDef xml:id="i9npv5p" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="cc7tl5t" shape="G" line="2" />
+                        <keySig xml:id="k5h51zu" sig="0" />
+                        <meterSig xml:id="ml6r8ne" count="5" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sl8lf3z">
+                  <measure xml:id="mli3wt2" n="1">
+                     <staff xml:id="sis9qgq" n="1">
+                        <layer xml:id="lb26e0d" n="1">
+                           <chord xml:id="c3dgr0s" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="ndbvehr" oct="5" pname="f" />
+                              <note xml:id="n8956im" oct="6" pname="c" />
+                           </chord>
+                           <chord xml:id="cfzlimg" dur.ppq="2" dur="2" stem.dir="down">
+                              <note xml:id="n8p57bz" oct="5" pname="f" />
+                              <note xml:id="nhh33sc" oct="6" pname="c" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dn3eo52" place="below" staff="1" tstamp="1.000000" val="64" vgrp="40">mp</dynam>
+                     <dir xml:id="dc0mnq6" place="above" staff="1" tstamp="1.000000" vgrp="231">
+                        <rend fontstyle="normal"> mourning</rend></dir>
+                     <tempo xml:id="tdp5ed9" place="above" staff="1" tstamp="1.000000" midi.bpm="69.000000" mm="69.000000" mm.unit="4">
+                        <rend xml:id="r193jji" fontname="VerovioText"></rend> = 69</tempo>
+                     <tie xml:id="tctbpwa" startid="#ndbvehr" endid="#n8p57bz" />
+                     <tie xml:id="tv3tynl" startid="#n8956im" endid="#nhh33sc" />
+                  </measure>
+                  <scoreDef xml:id="sb4whzu">
+                     <meterSig xml:id="melc73b" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m25koa8" n="2">
+                     <staff xml:id="sys9lrh" n="1">
+                        <layer xml:id="lbnc41z" n="1">
+                           <chord xml:id="ctdbxel" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nemz7qd" oct="5" pname="f" />
+                              <note xml:id="n8nbxsj" oct="6" pname="c" />
+                           </chord>
+                           <chord xml:id="c8mt9wu" dur.ppq="1" dur="4" stem.dir="down">
+                              <note xml:id="nk2gmv2" oct="5" pname="f" />
+                              <note xml:id="nnoa0xo" oct="6" pname="c" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="sl075uo">
+                     <meterSig xml:id="m8sfidt" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mjyy6ur" n="3">
+                     <staff xml:id="s1v4ik" n="1">
+                        <layer xml:id="lho48u8" n="1">
+                           <chord xml:id="cpqe9h3" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nw6ku29" oct="5" pname="f" />
+                              <note xml:id="nguasx7" oct="6" pname="c" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mv3bkvr" n="4">
+                     <staff xml:id="s617mol" n="1">
+                        <layer xml:id="l8okqto" n="1">
+                           <chord xml:id="c784sm1" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nl86ps" oct="5" pname="f" accid="s" />
+                              <note xml:id="nrz99tj" oct="6" pname="c" accid="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <tie xml:id="t38yq6m" startid="#nl86ps" endid="#nsj86vx" />
+                     <tie xml:id="trfekn4" startid="#nrz99tj" endid="#nreerpb" />
+                  </measure>
+                  <measure xml:id="mqym280" n="5">
+                     <staff xml:id="scvj1l1" n="1">
+                        <layer xml:id="l53c5rc" n="1">
+                           <chord xml:id="ctr9vd7" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nsj86vx" oct="5" pname="f" accid.ges="s" />
+                              <note xml:id="nreerpb" oct="6" pname="c" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mhdx159" n="6">
+                     <staff xml:id="snll5cr" n="1">
+                        <layer xml:id="l6ip1i2" n="1">
+                           <chord xml:id="c691d2b" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="naufznj" oct="5" pname="f" accid="s" />
+                              <note xml:id="nxziw0v" oct="6" pname="c" accid="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mxderee" n="7">
+                     <staff xml:id="sqshnx4" n="1">
+                        <layer xml:id="l1hpwjz" n="1">
+                           <chord xml:id="c9x7f6v" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="ns8lr55" oct="5" pname="f" accid="n" />
+                              <note xml:id="nwwgi59" oct="6" pname="c" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <tie xml:id="tu91yop" startid="#ns8lr55" endid="#nhbmv47" />
+                     <tie xml:id="tzggdp8" startid="#nwwgi59" endid="#nx8gt3z" />
+                  </measure>
+                  <measure xml:id="mlm3wia" n="8">
+                     <staff xml:id="s5vg1pn" n="1">
+                        <layer xml:id="lgnzjo1" n="1">
+                           <chord xml:id="cg64oeo" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="nhbmv47" oct="5" pname="f" />
+                              <note xml:id="nx8gt3z" oct="6" pname="c" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
