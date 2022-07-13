@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Mass for Justice and Peace</title>
+            <respStmt>
+               <persName role="composer">Alice Gomez</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-13" type="encoding-date">2022-07-13</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-a7xub8">
+         <appInfo xml:id="appinfo-5d8xyn">
+            <application xml:id="application-io9p9c" isodate="2022-07-13T10:19:13" version="3.10.0-845ab54">
+               <name xml:id="name-lxwtte">Verovio</name>
+               <p xml:id="p-4sr5jh">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mtfwhn">
+            <score xml:id="s80jzpg">
+               <scoreDef xml:id="s4s456d">
+                  <pgHead xml:id="pjv10tz">
+                     <rend xml:id="ruabcra" halign="center" valign="top">Mass for Justice and Peace</rend>
+                     <rend xml:id="rb13ca1" halign="center" valign="top">III. Gloria</rend>
+                     <rend xml:id="rarjipf" halign="right" valign="bottom">Alice Gomez</rend>
+                  </pgHead>
+                  <staffGrp xml:id="spv3t8t">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l9up2za">Soprano</label>
+                        <labelAbbr xml:id="l77fwls">S.</labelAbbr>
+                        <instrDef xml:id="id9ge2" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cebejgu" shape="G" line="2" />
+                        <keySig xml:id="k1uyjjg" sig="1f" />
+                        <meterSig xml:id="mqs6972" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="syiqcmq">
+                  <measure xml:id="mqwcdlc" n="1">
+                     <staff xml:id="sdr2beb" n="1">
+                        <layer xml:id="lemvls" n="1">
+                           <multiRest xml:id="mlk5s4f" num="8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mikmki7" n="9">
+                     <staff xml:id="s8n0tc2" n="1">
+                        <layer xml:id="lqhw93u" n="1">
+                           <note xml:id="nekshez" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down">
+                              <verse xml:id="v75l8ke" n="1">
+                                 <syl xml:id="srxldia" con="d" wordpos="i">Glo</syl>
+                              </verse>
+                           </note>
+                           <beam xml:id="bxl2iuu">
+                              <note xml:id="nwzcdqw" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down">
+                                 <verse xml:id="vd74zg0" n="1">
+                                    <syl xml:id="sh8y5q0" con="s" wordpos="t">ry,</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="no9wzq7" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down">
+                                 <verse xml:id="v9rr0a5" n="1">
+                                    <syl xml:id="sk284cv" con="d" wordpos="i">Glo</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="bmy2v7l">
+                              <note xml:id="nulape8" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="nawnfbf" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                                 <verse xml:id="vdzbh7g" n="1">
+                                    <syl xml:id="sfg8t33" con="s" wordpos="t">ry</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <note xml:id="n9to7xa" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tvxirp3" startid="#no9wzq7" endid="#nulape8" />
+                     <tie xml:id="tdsah5b" startid="#nawnfbf" endid="#n9to7xa" />
+                  </measure>
+                  <measure xml:id="mck508b" n="10">
+                     <staff xml:id="sxo7nt" n="1">
+                        <layer xml:id="loe1h20" n="1">
+                           <beam xml:id="bc58vca">
+                              <note xml:id="ndd3hwn" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down">
+                                 <verse xml:id="ve7c19n" n="1">
+                                    <syl xml:id="s56mbab" con="d" wordpos="i">Glo</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="nviuhhn" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down">
+                                 <verse xml:id="vfnwc7e" n="1">
+                                    <syl xml:id="sd52vqf" con="s" wordpos="t">ry</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="br4wvzu">
+                              <note xml:id="n8604zp" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                                 <verse xml:id="vtxfcwu" n="1">
+                                    <syl xml:id="s5adnbi" con="s" wordpos="s">to</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="nxvsg83" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                                 <verse xml:id="vlxwbdk" n="1">
+                                    <syl xml:id="sl1j72w" con="s" wordpos="s">God</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="bc3gddq">
+                              <note xml:id="nususl" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                              <note xml:id="n85oyll" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                                 <verse xml:id="vbgtb15" n="1">
+                                    <syl xml:id="sumrbk0" con="s" wordpos="s">in</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <note xml:id="n33u94b" dur.ppq="2" dur="4" oct="5" pname="d" stem.dir="down">
+                              <verse xml:id="vuchrvp" n="1">
+                                 <syl xml:id="s2yh6jg" con="s" wordpos="s">the</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="txldv7z" startid="#nxvsg83" endid="#nususl" />
+                  </measure>
+                  <measure xml:id="mblvpdw" n="11">
+                     <staff xml:id="s8uelug" n="1">
+                        <layer xml:id="lhslt5o" n="1">
+                           <note xml:id="nlu3hto" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="v8d4y73" n="1">
+                                 <syl xml:id="soh5t6q" con="d" wordpos="i">high</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="ndxmsel" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="vr3ujkv" n="1">
+                                 <syl xml:id="sex22xo" con="s" wordpos="t">est,</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n7wtg3h" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="t33cvjr" startid="#ndxmsel" endid="#n7wtg3h" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

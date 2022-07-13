@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Mass for Justice and Peace </title>
+            <respStmt>
+               <persName role="composer">Alice Gomez</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-13" type="encoding-date">2022-07-13</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-h7udvn">
+         <appInfo xml:id="appinfo-67z93g">
+            <application xml:id="application-ai6lg8" isodate="2022-07-13T10:19:28" version="3.10.0-845ab54">
+               <name xml:id="name-zcjicl">Verovio</name>
+               <p xml:id="p-tl893d">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m7jtcml">
+            <score xml:id="su04rxd">
+               <scoreDef xml:id="skv25cf">
+                  <pgHead xml:id="p1knaxd">
+                     <rend xml:id="r97lpfp" halign="center" valign="top">Mass for Justice and Peace </rend>
+                     <rend xml:id="r54ajcc" halign="center" valign="top">VI. Agnus Dei</rend>
+                     <rend xml:id="rl4zza1" halign="right" valign="bottom">Alice Gomez</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sy0pu3b">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="l9whf2v">Soprano</label>
+                        <labelAbbr xml:id="l4b60bl">S.</labelAbbr>
+                        <instrDef xml:id="i39mymm" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cqt9j30" shape="G" line="2" />
+                        <keySig xml:id="k3ne9yi" sig="2f" />
+                        <meterSig xml:id="mkkezlw" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="scufm2o">
+                  <pb xml:id="pze2eiz" />
+                  <measure xml:id="mgln9oh" n="1">
+                     <staff xml:id="spcjv1e" n="1">
+                        <layer xml:id="lo9jvih" n="1">
+                           <multiRest xml:id="mxegfr2" num="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="ms57vt3" left="rptstart" right="rptend" n="3">
+                     <staff xml:id="sp36zeo" n="1">
+                        <layer xml:id="lylnatg" n="1">
+                           <multiRest xml:id="mg27357" num="8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mgd1apn" n="11">
+                     <staff xml:id="sporvsb" n="1">
+                        <layer xml:id="lxcsg0b" n="1">
+                           <multiRest xml:id="mhozuxr" num="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m6mbez8" n="13">
+                     <staff xml:id="s99oywk" n="1">
+                        <layer xml:id="lc51kpb" n="1">
+                           <note xml:id="nszsvwu" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vo6fl3f" n="1">
+                                 <syl xml:id="sw3rqtr" con="s" wordpos="s">Lamb</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nfgxytn" dur.ppq="1" dur="4" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="vm5nbku" n="1">
+                                 <syl xml:id="sn5ndlr" con="s" wordpos="s">of</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d4gfciu" place="above" staff="1" tstamp="1.000000" val="80" vgrp="203">mf</dynam>
+                  </measure>
+                  <measure xml:id="m9hgn2l" n="14">
+                     <staff xml:id="sy53eri" n="1">
+                        <layer xml:id="lsdvaup" n="1">
+                           <note xml:id="nl5ehd8" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v3a0hul" n="1">
+                                 <syl xml:id="su0j3pm" con="d" wordpos="i">God</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="tq8gqjn" startid="#nl5ehd8" endid="#nox1a36" />
+                  </measure>
+                  <measure xml:id="m64p22f" n="15">
+                     <staff xml:id="sf5hp3e" n="1">
+                        <layer xml:id="lqudf07" n="1">
+                           <note xml:id="nox1a36" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mkr3ul8" n="16">
+                     <staff xml:id="stwe21" n="1">
+                        <layer xml:id="l75sx03" n="1">
+                           <note xml:id="noscanz" dur.ppq="1" dur="4" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vve0xlc" n="1">
+                                 <syl xml:id="sp2hq9f" con="s" wordpos="t">you</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n95y7mk" dur.ppq="1" dur="4" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="v466dvp" n="1">
+                                 <syl xml:id="swafr7e" con="s" wordpos="s">take</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nyr5jt6" dur.ppq="1" dur="4" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vqqu19k" n="1">
+                                 <syl xml:id="syzt1dx" con="d" wordpos="i">a</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mqqg5d" n="17">
+                     <staff xml:id="ss1f3u0" n="1">
+                        <layer xml:id="lw1q8b4" n="1">
+                           <note xml:id="nvh3k03" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vkvec62" n="1">
+                                 <syl xml:id="sangrsl" con="s" wordpos="t">way</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="ncod3vz" dur.ppq="1" dur="4" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="v25vvma" n="1">
+                                 <syl xml:id="s1o3ujg" con="s" wordpos="s">the</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mgqh97k" n="18">
+                     <staff xml:id="sbjz8dr" n="1">
+                        <layer xml:id="lxaw96m" n="1">
+                           <note xml:id="nmfrk4v" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vrpspw" n="1">
+                                 <syl xml:id="svy9rlh" con="s" wordpos="s">sins</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nqobltm" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vdw6hxl" n="1">
+                                 <syl xml:id="sshh7nx" con="s" wordpos="s">of</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n3zx4mc" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="vseppuz" n="1">
+                                 <syl xml:id="sx85low" con="s" wordpos="s">the</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="ssjkrqx" />
+                  <measure xml:id="m23xrdp" n="19">
+                     <staff xml:id="s31ii9" n="1">
+                        <layer xml:id="lap0plq" n="1">
+                           <note xml:id="nqgpvks" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v13i0w4" n="1">
+                                 <syl xml:id="s3cd6va" con="s" wordpos="s">world</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
