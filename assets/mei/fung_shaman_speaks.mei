@@ -73,7 +73,7 @@
                            <note xml:id="nu4a7el" dur.ppq="8" dur="4" oct="3" pname="g" stem.dir="up" accid="s">
                               <artic xml:id="au2tb1k" artic="acc" />
                            </note>
-                           <beam xml:id="bh55faa" form="acc">
+                           <beam xml:id="bh55faa" form="mixed">
                               <note xml:id="nevn6u5" dur.ppq="2" dur="16" oct="3" pname="g" stem.dir="up" accid.ges="s" />
                               <note xml:id="nlpf50e" dur.ppq="2" dur="16" oct="3" pname="g" stem.dir="up" visible="false" accid.ges="s">
                                  <artic xml:id="aedgwvn" artic="ten" />
@@ -153,7 +153,7 @@
                               <note xml:id="nnriivg" oct="3" pname="g" accid="s" />
                               <note xml:id="n4pm940" oct="3" pname="a" />
                            </chord>
-                           <beam xml:id="bry1pux" form="acc">
+                           <beam xml:id="bry1pux" form="mixed">
                               <chord xml:id="cb7y8lh" dur.ppq="1" dur="32" stem.dir="up">
                                  <note xml:id="nl0zc2i" oct="3" pname="g" accid.ges="s" />
                                  <note xml:id="n5r89e5" oct="3" pname="a" />
