@@ -5,11 +5,6 @@ category: incipits
 century: 20th
 permalink: /ustvolskaa/
 ---
-//if the composer has a wikipedia page and there is an image, click on the image and then more details to view the file. Go to "use this file on the web" to view the embed code and then insert it below//
-
-//insert embed code to public domain image here, if available//
-
-//insert the wikipedia link below in the two spots as identified//
 *Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Galina_Ustvolskaya">https://en.wikipedia.org/wiki/Galina_Ustvolskaya</a>*
 <br/>
 
