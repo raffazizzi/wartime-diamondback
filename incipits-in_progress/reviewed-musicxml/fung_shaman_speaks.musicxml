@@ -42,11 +42,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">Shaman Speaks</credit-words>
+    <credit-words default-x="616.935" default-y="1511.1" justify="center" valign="top" font-family="Edwin" font-size="22">Shaman Speaks</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Vivian Fung</credit-words>
+    <credit-words default-x="1148.14" default-y="1411.1" justify="right" valign="top" font-family="Edwin">Vivian Fung</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -65,14 +65,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="244.64">
+    <measure number="1" width="275.21">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>175.87</top-system-distance>
+          <top-system-distance>174.93</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -95,7 +95,7 @@
         </attributes>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="6.58" default-y="-75.90" relative-y="-25.00">
+          <dynamics default-x="6.50" default-y="-74.83" relative-y="-25.00">
             <fff/>
             </dynamics>
           </direction-type>
@@ -103,10 +103,10 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words default-x="-61.06" default-y="32.52" relative-y="20.00" font-weight="bold" font-size="12">Savage </words>
+          <words default-x="-54.33" default-y="31.58" relative-y="20.00" font-weight="bold" font-size="12">Savage </words>
           </direction-type>
         <direction-type>
-          <metronome parentheses="no" default-x="-61.06" default-y="32.52" relative-y="20.00">
+          <metronome parentheses="no" default-x="-54.33" default-y="31.58" relative-y="20.00">
             <beat-unit>quarter</beat-unit>
             <per-minute>90</per-minute>
             </metronome>
@@ -115,12 +115,12 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words relative-x="-25.96" relative-y="30.86">grace notes
+          <words default-y="19.93" relative-y="10.00">grace notes
 </words>
           <words>on the beat</words>
           </direction-type>
         </direction>
-      <note default-x="112.90" default-y="-65.00">
+      <note default-x="106.98" default-y="-65.00">
         <grace slash="yes"/>
         <pitch>
           <step>G</step>
@@ -135,7 +135,7 @@
           <slur type="start" placement="below" number="1"/>
           </notations>
         </note>
-      <note default-x="130.84" default-y="-60.00">
+      <note default-x="126.17" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -148,8 +148,8 @@
           </notations>
         </note>
       </measure>
-    <measure number="2" width="455.17">
-      <note default-x="24.83" default-y="-65.00">
+    <measure number="2" width="394.59">
+      <note default-x="24.46" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -171,12 +171,12 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <words relative-x="11.90" relative-y="61.22">repeat note - 
+          <words default-y="20.01" relative-y="10.00">repeat note - 
 </words>
           <words>effect like a wide vibrato</words>
           </direction-type>
         </direction>
-      <note default-x="91.26" default-y="-65.00">
+      <note default-x="81.18" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -193,7 +193,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="121.45" default-y="-65.00" print-object="no">
+      <note default-x="106.96" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -211,7 +211,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="151.64" default-y="-65.00" print-object="no">
+      <note default-x="132.75" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -229,7 +229,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="181.83" default-y="-65.00" print-object="no">
+      <note default-x="158.53" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -247,7 +247,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="212.03" default-y="-65.00" print-object="no">
+      <note default-x="184.31" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -267,11 +267,11 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <words relative-y="10.00" font-weight="bold" font-style="italic" font-family="Edwin">3</words>
-          <words font-weight="normal" font-style="normal" font-family="MScore Text"></words>
+          <words default-y="38.87" relative-y="10.00" font-weight="bold" font-style="italic" font-family="Edwin">3</words>
+          <words font-weight="normal" font-style="normal" font-family="Leland Text"></words>
           </direction-type>
         </direction>
-      <note default-x="242.22" default-y="-65.00" print-object="no">
+      <note default-x="210.10" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -289,7 +289,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="272.41" default-y="-65.00" print-object="no">
+      <note default-x="235.88" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -307,7 +307,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="302.61" default-y="-65.00" print-object="no">
+      <note default-x="261.66" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -325,7 +325,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="332.80" default-y="-65.00" print-object="no">
+      <note default-x="287.44" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -343,7 +343,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="362.99" default-y="-65.00" print-object="no">
+      <note default-x="313.23" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -361,7 +361,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="393.19" default-y="-65.00" print-object="no">
+      <note default-x="339.01" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -379,7 +379,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="423.38" default-y="-65.00" print-object="no">
+      <note default-x="364.79" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -399,14 +399,14 @@
           </notations>
         </note>
       </measure>
-    <measure number="3" width="135.58">
+    <measure number="3" width="167.60">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="39.10" default-y="-65.00">
+      <note default-x="40.48" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -425,8 +425,8 @@
           </notations>
         </note>
       </measure>
-    <measure number="4" width="143.31">
-      <note default-x="24.47" default-y="-65.00">
+    <measure number="4" width="175.01">
+      <note default-x="24.46" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -445,14 +445,14 @@
           </notations>
         </note>
       </measure>
-    <measure number="5" width="589.36">
+    <measure number="5" width="510.47">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>239.14</system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -461,7 +461,7 @@
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="112.90" default-y="-65.00">
+      <note default-x="113.98" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -481,7 +481,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="124.76" default-y="-60.00">
+      <note default-x="125.88" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -496,7 +496,7 @@
           <tied type="start"/>
           </notations>
         </note>
-      <note default-x="178.46" default-y="-65.00">
+      <note default-x="169.80" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -514,7 +514,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="190.33" default-y="-60.00">
+      <note default-x="181.69" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -529,7 +529,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="213.09" default-y="-65.00" print-object="no">
+      <note default-x="189.73" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -548,7 +548,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="236.51" default-y="-65.00" print-object="no">
+      <note default-x="209.66" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -567,7 +567,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="259.93" default-y="-65.00" print-object="no">
+      <note default-x="229.60" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -586,7 +586,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="283.34" default-y="-65.00" print-object="no">
+      <note default-x="249.53" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -608,10 +608,10 @@
       <direction placement="above">
         <direction-type>
           <words relative-y="10.00" font-weight="bold" font-style="italic" font-family="Edwin">2</words>
-          <words font-weight="normal" font-style="normal" font-family="MScore Text"></words>
+          <words font-weight="normal" font-style="normal" font-family="Leland Text"></words>
           </direction-type>
         </direction>
-      <note default-x="306.76" default-y="-65.00" print-object="no">
+      <note default-x="269.46" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -630,7 +630,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="330.18" default-y="-65.00" print-object="no">
+      <note default-x="289.40" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -649,7 +649,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="353.59" default-y="-65.00" print-object="no">
+      <note default-x="309.33" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -668,7 +668,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="377.01" default-y="-65.00" print-object="no">
+      <note default-x="329.27" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -687,7 +687,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="400.43" default-y="-65.00" print-object="no">
+      <note default-x="349.20" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -706,7 +706,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="423.84" default-y="-65.00" print-object="no">
+      <note default-x="369.13" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -725,7 +725,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="447.26" default-y="-65.00" print-object="no">
+      <note default-x="389.07" default-y="-65.00" print-object="no">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -744,7 +744,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="470.68" default-y="-65.00">
+      <note default-x="409.00" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -761,7 +761,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="482.54" default-y="-60.00">
+      <note default-x="420.90" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -779,14 +779,14 @@
         <type>eighth</type>
         </note>
       </measure>
-    <measure number="6" width="226.80">
+    <measure number="6" width="283.98">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="39.10" default-y="-65.00">
+      <note default-x="40.48" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -803,7 +803,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="50.97" default-y="-60.00">
+      <note default-x="52.38" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -820,7 +820,7 @@
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="96.90" default-y="-65.00">
+      <note default-x="116.01" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -837,7 +837,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="109.48" default-y="-60.00">
+      <note default-x="127.91" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -848,7 +848,7 @@
         <type>half</type>
         <stem>up</stem>
         </note>
-      <note default-x="160.87" default-y="-65.00">
+      <note default-x="199.10" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -864,7 +864,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="173.46" default-y="-60.00">
+      <note default-x="211.00" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -876,8 +876,8 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="7" width="212.54">
-      <note default-x="24.83" default-y="-65.00">
+    <measure number="7" width="267.97">
+      <note default-x="24.46" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -894,7 +894,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="36.70" default-y="-60.00">
+      <note default-x="36.36" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -911,7 +911,7 @@
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="82.63" default-y="-65.00">
+      <note default-x="99.99" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -928,7 +928,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="95.22" default-y="-60.00">
+      <note default-x="111.89" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -939,7 +939,7 @@
         <type>half</type>
         <stem>up</stem>
         </note>
-      <note default-x="146.60" default-y="-65.00">
+      <note default-x="183.08" default-y="-65.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -955,7 +955,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="159.19" default-y="-60.00">
+      <note default-x="194.98" default-y="-60.00">
         <chord/>
         <pitch>
           <step>A</step>
