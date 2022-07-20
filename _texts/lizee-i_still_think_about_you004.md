@@ -3,7 +3,7 @@ layout: mei
 title: I still think about you, IV. Karaoke ballad 2
 author: Lizée, Nicole
 permalink: /lizee-think-about-you-kb2/
-document:
+image: lizee_i_still_think_about_you004_karaoke_ballad_2-1.png
 ---
 
 - In *I still think about you.* Montréal Québec: Centre de Musique Canadienne, 2021.

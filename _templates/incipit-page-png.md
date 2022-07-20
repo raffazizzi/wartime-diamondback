@@ -3,7 +3,7 @@ layout: post
 title: Title of Composition
 author: Composer Last Name, First Name
 permalink: /last-name-short-title or opus/number/
-document: png filename
+image: png filename
 ---
 
 - In * //type in the citation details about this composition based on the exact score used to create the incipits// *
