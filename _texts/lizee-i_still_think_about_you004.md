@@ -1,5 +1,5 @@
 ---
-layout: mei
+layout: post
 title: I still think about you, IV. Karaoke ballad 2
 author: Lizée, Nicole
 permalink: /lizee-think-about-you-kb2/
