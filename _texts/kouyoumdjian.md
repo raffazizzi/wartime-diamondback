@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kouyoumdjian, Mary
+title: Kouyoumdjian, Mary (1983-)
 category: incipits
 century: 20th
 permalink: /kouyoumdjian/
