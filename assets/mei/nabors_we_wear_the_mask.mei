@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>We Wear the Mask</title>
+            <respStmt>
+               <persName role="composer">Brian Raphael Nabors</persName>
+               <persName role="lyricist">Paul Laurence Dunbar </persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-21" type="encoding-date">2022-07-21</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-d84el5">
+         <appInfo xml:id="appinfo-82dg5u">
+            <application xml:id="application-mzpbb7" isodate="2022-07-21T15:15:33" version="3.10.0-845ab54">
+               <name xml:id="name-gups22">Verovio</name>
+               <p xml:id="p-cj3lu4">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mf3gkrq">
+            <score xml:id="sxglxcp">
+               <scoreDef xml:id="sw1ko6v">
+                  <pgHead xml:id="pg41md5">
+                     <rend xml:id="rfhlcoo" halign="center" valign="top">We Wear the Mask</rend>
+                     <rend xml:id="rx0k6vp" halign="right" valign="bottom">Brian Raphael Nabors</rend>
+                     <rend xml:id="ro3c6xk" halign="left" valign="bottom">Paul Laurence Dunbar </rend>
+                  </pgHead>
+                  <staffGrp xml:id="smo7fa8">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l9utexy">Tenor</label>
+                        <labelAbbr xml:id="lqong11">T.</labelAbbr>
+                        <instrDef xml:id="ichwy1y" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="ccnrxju" shape="G" line="2" dis="8" dis.place="below" />
+                        <keySig xml:id="kmx1hgt" sig="0" />
+                        <meterSig xml:id="mrad1mf" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1s83f7">
+                  <pb xml:id="pay16oj" />
+                  <measure xml:id="mq629ed" n="1">
+                     <staff xml:id="suoevji" n="1">
+                        <layer xml:id="lams34a" n="1">
+                           <mRest xml:id="mc9uo39" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tlmjfde" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="50.000000" mm="50.000000" mm.unit="4">
+                        <rend xml:id="rk5klsd" fontweight="bold">Pesante &#x1d15f; = 50</rend></tempo>
+                  </measure>
+                  <measure xml:id="m1lxh77" n="2">
+                     <staff xml:id="sn2pd7i" n="1">
+                        <layer xml:id="luyjkng" n="1">
+                           <mRest xml:id="mhve4jg" />
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fi2kyqs" staff="1" startid="#mhve4jg" form="norm" place="above" />
+                  </measure>
+                  <measure xml:id="mh7539k" n="3">
+                     <staff xml:id="snt0759" n="1">
+                        <layer xml:id="l5z9k17" n="1">
+                           <mRest xml:id="md0m1sh" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m66c8w6" n="4">
+                     <staff xml:id="sb8viwg" n="1">
+                        <layer xml:id="lc6shw8" n="1">
+                           <mRest xml:id="m8yb8ie" />
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fj85wsn" staff="1" startid="#m8yb8ie" form="norm" place="above" />
+                  </measure>
+                  <measure xml:id="mb4ooc3" n="5">
+                     <staff xml:id="s5pasoq" n="1">
+                        <layer xml:id="lla2b6h" n="1">
+                           <mRest xml:id="mcfirjp" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="muizbfo" n="6">
+                     <staff xml:id="sdmxyww" n="1">
+                        <layer xml:id="la1rlt3" n="1">
+                           <mRest xml:id="m8yh0w0" />
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fa4tkiu" staff="1" startid="#m8yh0w0" form="norm" place="above" />
+                  </measure>
+                  <measure xml:id="m6uajkz" n="7">
+                     <staff xml:id="s7fo7p4" n="1">
+                        <layer xml:id="lks6z6r" n="1">
+                           <multiRest xml:id="msc26ab" num="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s505h1t">
+                     <meterSig xml:id="magcok6" count="5" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mlb34vl" n="9">
+                     <staff xml:id="sj9e4mg" n="1">
+                        <layer xml:id="ln5skmh" n="1">
+                           <mRest xml:id="mkx7qq1" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="ss5eodo">
+                     <meterSig xml:id="m6jj01x" count="2" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m9e9uwa" n="10">
+                     <staff xml:id="ssa8k9w" n="1">
+                        <layer xml:id="lx1btun" n="1">
+                           <mRest xml:id="my3t17t" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s13ue7w">
+                     <meterSig xml:id="me7krim" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="me62eio" n="11">
+                     <staff xml:id="s2lnwu1" n="1">
+                        <layer xml:id="lv0433u" n="1">
+                           <mRest xml:id="mkn5xa5" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="sniatrj">
+                     <meterSig xml:id="m6n7eei" count="5" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mdhgutv" n="12">
+                     <staff xml:id="stbn7dr" n="1">
+                        <layer xml:id="lbaivo2" n="1">
+                           <mRest xml:id="mplrj1z" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="sup3fkm">
+                     <meterSig xml:id="mbnx6ms" count="2" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mnuzvu1" n="13">
+                     <staff xml:id="spu5c72" n="1">
+                        <layer xml:id="ld617g9" n="1">
+                           <mRest xml:id="mn9fvt8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s99td83">
+                     <meterSig xml:id="m20c5se" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="myzmbe" n="14">
+                     <staff xml:id="scwu38q" n="1">
+                        <layer xml:id="lialazr" n="1">
+                           <mRest xml:id="mhk5bs3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="ssj8ona" />
+                  <measure xml:id="mka4d5f" n="15">
+                     <staff xml:id="s2x6sqs" n="1">
+                        <layer xml:id="lrk4jor" n="1">
+                           <multiRest xml:id="mizl5t0" num="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="stov5c">
+                     <meterSig xml:id="mdtb5yq" count="5" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mj4h82h" n="18">
+                     <staff xml:id="s6re560" n="1">
+                        <layer xml:id="lghksz3" n="1">
+                           <mRest xml:id="mpmxm2x" />
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fkl5b8f" staff="1" startid="#mpmxm2x" form="norm" place="above" />
+                  </measure>
+                  <scoreDef xml:id="sf7vdck">
+                     <meterSig xml:id="mjt6xwz" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mecrnnn" n="19">
+                     <staff xml:id="sptiaka" n="1">
+                        <layer xml:id="l370lpk" n="1">
+                           <note xml:id="nxa08ap" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="down">
+                              <verse xml:id="v9wiaol" n="1">
+                                 <syl xml:id="s4kkq7x" con="u" wordpos="s">Oh</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nip4rxh" dots="1" dur.ppq="3" dur="4" oct="3" pname="a" stem.dir="up" />
+                           <beam xml:id="bhh2qb1">
+                              <note xml:id="np1w542" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="up">
+                                 <verse xml:id="vh45ou3" n="1">
+                                    <syl xml:id="s9apol9" con="u" wordpos="s">Oh</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="n8v1c5q" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="n2v06bi" dur.ppq="1" dur="8" oct="3" pname="b" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dkcl863" place="above" staff="1" tstamp="1.000000" val="80">mf</dynam>
+                     <dir xml:id="dhsrqyv" place="above" staff="1" tstamp="1.000000" vgrp="231">moaning</dir>
+                     <slur xml:id="sfmcqyb" startid="#nxa08ap" endid="#nip4rxh" curvedir="above" />
+                     <slur xml:id="sieo9rm" startid="#np1w542" endid="#n4mxwi5" curvedir="above" />
+                  </measure>
+                  <scoreDef xml:id="sgbqnvo">
+                     <meterSig xml:id="my4srig" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mwv2of6" n="20">
+                     <staff xml:id="sp1puyd" n="1">
+                        <layer xml:id="l5z01wu" n="1">
+                           <note xml:id="n3gefqc" dur.ppq="4" dur="2" oct="3" pname="f" stem.dir="up" accid="s" />
+                           <note xml:id="n5uvays" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="sp5q2kx">
+                     <meterSig xml:id="mq13jzi" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m9au4jq" n="21">
+                     <staff xml:id="s7lolsy" n="1">
+                        <layer xml:id="l2m40bs" n="1">
+                           <note xml:id="n9hocfx" dur.ppq="4" dur="2" oct="4" pname="c" stem.dir="down" />
+                           <note xml:id="nhedgdo" dur.ppq="4" dur="2" oct="3" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tbpc067" startid="#nhedgdo" endid="#n4mxwi5" />
+                  </measure>
+                  <scoreDef xml:id="sjn98gd">
+                     <meterSig xml:id="mfnabln" count="2" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m5i565m" n="22">
+                     <staff xml:id="sqowxfi" n="1">
+                        <layer xml:id="lm16g8b" n="1">
+                           <beam xml:id="bqwl7p1">
+                              <note xml:id="n4mxwi5" dur.ppq="1" dur="8" oct="3" pname="b" stem.dir="up" />
+                              <note xml:id="n7sv8k7" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="up">
+                                 <verse xml:id="vsrtzmn" n="1">
+                                    <syl xml:id="snijbvr" con="u" wordpos="s">Oh</syl>
+                                 </verse>
+                              </note>
+                           </beam>
+                           <beam xml:id="b13eu9i">
+                              <note xml:id="n3x6uh9" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="nymihkp" dur.ppq="1" dur="8" oct="3" pname="b" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="simy9av" startid="#n7sv8k7" endid="#nfjehmi" curvedir="below" />
+                  </measure>
+                  <scoreDef xml:id="scsrohz">
+                     <meterSig xml:id="mwn14d4" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="migkhz0" n="23">
+                     <staff xml:id="slq179q" n="1">
+                        <layer xml:id="l1krozm" n="1">
+                           <note xml:id="nushiel" dur.ppq="2" dur="4" oct="3" pname="f" stem.dir="up" accid="s" />
+                           <note xml:id="nfjehmi" dots="1" dur.ppq="6" dur="2" oct="3" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="ss5vgrp">
+                     <meterSig xml:id="m90d516" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mw0ztjt" n="24">
+                     <staff xml:id="sq6m5pv" n="1">
+                        <layer xml:id="lwt8l3a" n="1">
+                           <note xml:id="nt62ki4" dots="1" dur.ppq="6" dur="2" oct="3" pname="e" stem.dir="up">
+                              <verse xml:id="vrc10to" n="1">
+                                 <syl xml:id="slfvv3c" con="s" wordpos="s">Oh</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dedmwib" place="above" staff="1" tstamp="1.000000" val="64">mp</dynam>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

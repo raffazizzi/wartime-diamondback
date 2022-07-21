@@ -3,7 +3,7 @@ layout: mei
 title: We wear the mask
 author: Nabors, Brian
 permalink: /nabors-mask/
-document:
+document: nabors_we_wear_the_mask.mei
 ---
 
 - In *We wear the mask: for tenor, flute, bassoon, viola, percussion and piano (2019).* Verona, NJ: Raphael Press, 2019, 2021.

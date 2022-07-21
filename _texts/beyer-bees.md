@@ -3,7 +3,7 @@ layout: mei
 title: Bees
 author: Beyer, Johanna
 permalink: /beyer-bees/
-document:
+document: beyer_bees.mei
 ---
 
 - In *Bees: solo piano.* Lebanon, NH: Frog Peak Music, 1994.

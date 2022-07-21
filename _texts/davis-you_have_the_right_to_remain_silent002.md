@@ -3,7 +3,7 @@ layout: mei
 title: You have the right to remain silent, II. Loss
 author: Davis, Anthony
 permalink: /davis-silent-loss/
-document:
+document: davis_you_have_the_right_to_remain_silent002.mei
 ---
 
 - In *You have the right to remain silent: concerto for clarinet/contra-alto clarinet, Kurzweil synthesizer, and ensemble in four movements.* New York: Schott, 2011.
