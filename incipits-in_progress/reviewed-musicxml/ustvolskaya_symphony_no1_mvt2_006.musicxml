@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work>
+    <work-title>Symphony No. 1</work-title>
+    </work>
+  <identification>
+    <creator type="composer">Galina Ustvolskaya</creator>
+    <encoding>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2022-07-22</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99912</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1596.77</page-height>
+      <page-width>1233.87</page-width>
+      <page-margins type="even">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="FreeSerif" font-size="10"/>
+    <lyric-font font-family="FreeSerif" font-size="10"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">Symphony No. 1</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>subtitle</credit-type>
+    <credit-words default-x="616.935" default-y="1453.9" justify="center" valign="top" font-size="16">II, 6. Wartesaal (Waiting Room)</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Galina Ustvolskaya</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Voice</part-name>
+      <part-abbreviation>Vo.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Voice</instrument-name>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>53</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="275.33">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>0</fifths>
+          <mode>none</mode>
+          </key>
+        <time>
+          <beats>7</beats>
+          <beat-type>8</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no" default-x="-34.94" default-y="12.75" relative-y="20.00">
+            <beat-unit>eighth</beat-unit>
+            <per-minute>96</per-minute>
+            </metronome>
+          </direction-type>
+        <sound tempo="48"/>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <dynamics default-x="6.58" relative-y="15.00">
+            <p/>
+            </dynamics>
+          </direction-type>
+        <sound dynamics="54.44"/>
+        </direction>
+      <note default-x="78.14" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="-12.88" default-y="-52.42" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>1.Э</text>
+          </lyric>
+        <lyric number="2" default-x="-14.52" default-y="-74.16" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2.Сплю</text>
+          </lyric>
+        </note>
+      <note default-x="131.69" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>то</text>
+          </lyric>
+        <lyric number="2" default-x="8.46" default-y="-74.16" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>я.</text>
+          </lyric>
+        </note>
+      <note default-x="180.59" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="229.48" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>боль</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>синь</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="2" width="182.94">
+      <note default-x="19.82" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>шо</text>
+          </lyric>
+        <lyric number="2" default-x="8.66" default-y="-74.16" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>ор.</text>
+          </lyric>
+        </note>
+      <note default-x="60.33" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>е</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>не</text>
+          </lyric>
+        </note>
+      <note default-x="100.83" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="141.33" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>вок</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>бу</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="3" width="317.97">
+      <attributes>
+        <time>
+          <beats>6</beats>
+          <beat-type>8</beat-type>
+          </time>
+        </attributes>
+      <note default-x="34.24" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>заль</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>ди</text>
+          </lyric>
+        </note>
+      <note default-x="79.26" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>но</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>те</text>
+          </lyric>
+        </note>
+      <note default-x="124.28" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>е</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>ме</text>
+          </lyric>
+        </note>
+      <note default-x="169.30" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>зда</text>
+          </lyric>
+        <lyric number="2" default-x="9.13" default-y="-74.16" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>ня!</text>
+          </lyric>
+        </note>
+      <note default-x="226.33" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>ки</text>
+          </lyric>
+        </note>
+      <note default-x="271.35" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="8.66" default-y="-52.42" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>е.</text>
+          </lyric>
+        </note>
+      <backup>
+        <duration>6</duration>
+        </backup>
+      <forward>
+        <duration>3</duration>
+        </forward>
+      <note default-x="185.47" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="4" width="202.46">
+      <attributes>
+        <time>
+          <beats>7</beats>
+          <beat-type>8</beat-type>
+          </time>
+        </attributes>
+      <note default-x="34.24" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>зда</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>Толь</text>
+          </lyric>
+        <lyric number="3" default-x="-8.19" default-y="-95.90" relative-x="-14.77" relative-y="12.04">
+          <syllabic>single</syllabic>
+          <text>В</text>
+          </lyric>
+        </note>
+      <note default-x="79.04" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>нье</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>ко</text>
+          </lyric>
+        </note>
+      <note default-x="123.84" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="168.63" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.58" default-y="-52.42" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>и</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-74.16" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>не</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="5" width="486.38">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>243.95</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="58.20" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-40.00" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>ме</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-61.74" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>по</text>
+          </lyric>
+        </note>
+      <note default-x="175.88" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-y="-40.00" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>ет</text>
+          </lyric>
+        <lyric number="2" default-x="0.50" default-y="-61.74" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>ез.</text>
+          </lyric>
+        </note>
+      <note default-x="293.55" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="411.23" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-40.00" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>ся</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-61.74" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>да</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="6" width="542.32">
+      <attributes>
+        <time>
+          <beats>6</beats>
+          <beat-type>8</beat-type>
+          </time>
+        </attributes>
+      <note default-x="34.24" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-40.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>зал</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-61.74" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>жду</text>
+          </lyric>
+        </note>
+      <note default-x="118.65" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-40.00" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>о</text>
+          </lyric>
+        <lyric number="2" default-x="8.60" default-y="-61.74" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>я,</text>
+          </lyric>
+        </note>
+      <note default-x="203.07" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-40.00" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>жи</text>
+          </lyric>
+        <lyric number="2" default-x="6.58" default-y="-61.74" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>а</text>
+          </lyric>
+        </note>
+      <note default-x="287.48" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-40.00" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>да</text>
+          </lyric>
+        <lyric number="2" default-x="8.53" default-y="-61.74" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>дня.</text>
+          </lyric>
+        </note>
+      <note default-x="371.89" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-40.00" relative-y="-30.00">
+          <syllabic>middle</syllabic>
+          <text>ни</text>
+          </lyric>
+        </note>
+      <note default-x="456.31" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="8.46" default-y="-40.00" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>я.</text>
+          </lyric>
+        </note>
+      <backup>
+        <duration>6</duration>
+        </backup>
+      <forward>
+        <duration>3</duration>
+        </forward>
+      <note default-x="303.65" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem>down</stem>
+        </note>
+      </measure>
+    </part>
+  </score-partwise>
