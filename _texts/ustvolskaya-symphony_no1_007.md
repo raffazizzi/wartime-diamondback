@@ -3,7 +3,7 @@ layout: mei
 title: Symphony no. 1, II, 6. Wartesaal (Waiting room)
 author: Ustvolskaya, Galina
 permalink: /ustvolskaya-symphony-no1-ii-wartesaal/
-document:
+document: ustvolskaya_symphony_no1_mvt2_006.mei
 ---
 
 - In *Sinfonie nr. 1.* Hamburg: Sikorski, 2019.

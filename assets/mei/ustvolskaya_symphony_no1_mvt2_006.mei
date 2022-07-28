@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Symphony No. 1</title>
+            <respStmt>
+               <persName role="composer">Galina Ustvolskaya</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-22" type="encoding-date">2022-07-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-sgvc3x">
+         <appInfo xml:id="appinfo-rj4wu">
+            <application xml:id="application-naq7ws" isodate="2022-07-28T09:16:46" version="3.10.0-845ab54">
+               <name xml:id="name-8yt67b">Verovio</name>
+               <p xml:id="p-psg29v">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m5og59h">
+            <score xml:id="snv53ze">
+               <scoreDef xml:id="s1gptm0">
+                  <pgHead xml:id="p1olvzl">
+                     <rend xml:id="rdhhoce" halign="center" valign="top">Symphony No. 1</rend>
+                     <rend xml:id="ru2b4cl" halign="center" valign="top">II, 6. Wartesaal (Waiting Room)</rend>
+                     <rend xml:id="rx4kzbe" halign="right" valign="bottom">Galina Ustvolskaya</rend>
+                  </pgHead>
+                  <staffGrp xml:id="skp4poa">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="lhbonvr">Voice</label>
+                        <labelAbbr xml:id="lhxdttm">Vo.</labelAbbr>
+                        <instrDef xml:id="id9zahs" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cdjzgbv" shape="G" line="2" />
+                        <keySig xml:id="ks1pvtf" sig="0" />
+                        <meterSig xml:id="mr9p544" count="7" unit="8" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s7u57e2">
+                  <pb xml:id="poghitq" />
+                  <measure xml:id="m14o9w1" n="1">
+                     <staff xml:id="sxlgous" n="1">
+                        <layer xml:id="lxwrh3d" n="1">
+                           <note xml:id="nhck7wj" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vba9zbf" n="1">
+                                 <syl xml:id="s66f4bs" con="d" wordpos="i">1.Э</syl>
+                              </verse>
+                              <verse xml:id="vzar1cf" n="2">
+                                 <syl xml:id="sy4lqzz" con="s" wordpos="s">2.Сплю</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nmoa1rv" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vvgc2rm" n="1">
+                                 <syl xml:id="s8xoggj" con="s" wordpos="t">то</syl>
+                              </verse>
+                              <verse xml:id="vrg742w" n="2">
+                                 <syl xml:id="srkmihp" con="s" wordpos="s">я.</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nxrf2mi" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="ni4fgtp" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down">
+                              <verse xml:id="v44u4t0" n="1">
+                                 <syl xml:id="sd2riwz" con="d" wordpos="i">боль</syl>
+                              </verse>
+                              <verse xml:id="vqkyaab" n="2">
+                                 <syl xml:id="s13ticq" con="d" wordpos="i">синь</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tukoz1v" place="above" staff="1" tstamp="1.000000" midi.bpm="48.000000" mm="96.000000" mm.unit="8">
+                        <rend xml:id="rauxqos" fontname="VerovioText"></rend> = 96</tempo>
+                     <dynam xml:id="dqsrjsn" place="above" staff="1" tstamp="1.000000" val="49">p</dynam>
+                     <tie xml:id="t2rmjs7" startid="#nmoa1rv" endid="#nxrf2mi" />
+                  </measure>
+                  <measure xml:id="m8y7v2p" n="2">
+                     <staff xml:id="scwkhs" n="1">
+                        <layer xml:id="lcnusva" n="1">
+                           <note xml:id="nk04sfv" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vgacjlh" n="1">
+                                 <syl xml:id="s1em2et" con="d" wordpos="m">шо</syl>
+                              </verse>
+                              <verse xml:id="vj1skg1" n="2">
+                                 <syl xml:id="siub4en" con="s" wordpos="t">ор.</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nw41ral" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v391yky" n="1">
+                                 <syl xml:id="swszryp" con="s" wordpos="t">е</syl>
+                              </verse>
+                              <verse xml:id="v7lihvj" n="2">
+                                 <syl xml:id="s6w7tb5" con="s" wordpos="s">не</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n4qk4r" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="np8fffn" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vbjtxpg" n="1">
+                                 <syl xml:id="sefhf7n" con="d" wordpos="i">вок</syl>
+                              </verse>
+                              <verse xml:id="vg5xux0" n="2">
+                                 <syl xml:id="smew04w" con="d" wordpos="i">бу</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="tkyzbuj" startid="#nw41ral" endid="#n4qk4r" />
+                  </measure>
+                  <scoreDef xml:id="s4lm0ii">
+                     <meterSig xml:id="mkkzw1x" count="6" unit="8" />
+                  </scoreDef>
+                  <measure xml:id="m7rqo1a" n="3">
+                     <staff xml:id="skci8q5" n="1">
+                        <layer xml:id="l9ws74u" n="1">
+                           <note xml:id="ndhshht" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vouqebn" n="1">
+                                 <syl xml:id="shrryxv" con="d" wordpos="m">заль</syl>
+                              </verse>
+                              <verse xml:id="vi32u2j" n="2">
+                                 <syl xml:id="samx2js" con="d" wordpos="m">ди</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nt06shk" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="voatqxa" n="1">
+                                 <syl xml:id="s6mpj1g" con="d" wordpos="m">но</syl>
+                              </verse>
+                              <verse xml:id="vfend81" n="2">
+                                 <syl xml:id="swnght8" con="s" wordpos="t">те</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n3738bg" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="v63xhei" n="1">
+                                 <syl xml:id="s8g1zb6" con="s" wordpos="t">е</syl>
+                              </verse>
+                              <verse xml:id="vcqo37f" n="2">
+                                 <syl xml:id="s4afo4x" con="d" wordpos="i">ме</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nelya8n" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vhh3ber" n="1">
+                                 <syl xml:id="svhrx1u" con="d" wordpos="i">зда</syl>
+                              </verse>
+                              <verse xml:id="vyz39w2" n="2">
+                                 <syl xml:id="sg6ip6e" con="s" wordpos="t">ня!</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nos97ct" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vzdflho" n="1">
+                                 <syl xml:id="syf3zuq" con="d" wordpos="m">ки</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="np182g2" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vrvi3u7" n="1">
+                                 <syl xml:id="s9kw1qn" con="s" wordpos="t">е.</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                        <layer xml:id="lyz219b" n="2">
+                           <space xml:id="su4w8pi" dur.ppq="2" dur="4" />
+                           <space xml:id="sh0ryar" dur.ppq="1" dur="8" />
+                           <note xml:id="n4qnd78" dots="1" dur.ppq="3" dur="4" oct="4" pname="f" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="sa3tdtr">
+                     <meterSig xml:id="mq5t3lv" count="7" unit="8" />
+                  </scoreDef>
+                  <measure xml:id="mt3n47n" n="4">
+                     <staff xml:id="s73jmdk" n="1">
+                        <layer xml:id="l8af6a8" n="1">
+                           <note xml:id="n7l57v8" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v8i6f14" n="1">
+                                 <syl xml:id="sf8vejq" con="s" wordpos="s">зда</syl>
+                              </verse>
+                              <verse xml:id="vunhlq5" n="2">
+                                 <syl xml:id="sf3h6qa" con="d" wordpos="i">Толь</syl>
+                              </verse>
+                              <verse xml:id="vn66fjf" n="3">
+                                 <syl xml:id="s3yq5r8" con="s" wordpos="s">В</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nls5ug3" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v3dwieu" n="1">
+                                 <syl xml:id="sqj3sxk" con="s" wordpos="s">нье</syl>
+                              </verse>
+                              <verse xml:id="vfp52n7" n="2">
+                                 <syl xml:id="saiw5wi" con="s" wordpos="t">ко</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nx4noi3" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="newj21y" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down">
+                              <verse xml:id="vb2d780" n="1">
+                                 <syl xml:id="scczj79" con="d" wordpos="i">и</syl>
+                              </verse>
+                              <verse xml:id="v9zyzn4" n="2">
+                                 <syl xml:id="sjfugrk" con="s" wordpos="s">не</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="toqe6b5" startid="#nls5ug3" endid="#nx4noi3" />
+                  </measure>
+                  <sb xml:id="sjt3g9f" />
+                  <measure xml:id="mxk9p9i" n="5">
+                     <staff xml:id="sxggeau" n="1">
+                        <layer xml:id="liiocb1" n="1">
+                           <note xml:id="nt5t4fl" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vyd3g4o" n="1">
+                                 <syl xml:id="solsjre" con="d" wordpos="m">ме</syl>
+                              </verse>
+                              <verse xml:id="vtwmey" n="2">
+                                 <syl xml:id="s4vccka" con="d" wordpos="i">по</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nafezxr" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="vyhucyt" n="1">
+                                 <syl xml:id="sv0syl" con="d" wordpos="m">ет</syl>
+                              </verse>
+                              <verse xml:id="v9d93dr" n="2">
+                                 <syl xml:id="s5g9eft" con="d" wordpos="m">ез.</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n2do27r" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="nd5dm08" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="v9nj76t" n="1">
+                                 <syl xml:id="swtkzej" con="s" wordpos="t">ся</syl>
+                              </verse>
+                              <verse xml:id="vqzbh1j" n="2">
+                                 <syl xml:id="svpyldo" con="s" wordpos="t">да</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="tjhafof" startid="#nafezxr" endid="#n2do27r" />
+                  </measure>
+                  <scoreDef xml:id="sd8nr8">
+                     <meterSig xml:id="mnc8qd1" count="6" unit="8" />
+                  </scoreDef>
+                  <measure xml:id="my1l4vx" n="6">
+                     <staff xml:id="s1pphzz" n="1">
+                        <layer xml:id="lvmu7rk" n="1">
+                           <note xml:id="n6oc4u2" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="v5k6rwq" n="1">
+                                 <syl xml:id="se4bsqh" con="s" wordpos="s">зал</syl>
+                              </verse>
+                              <verse xml:id="vjm023p" n="2">
+                                 <syl xml:id="s4zj6cy" con="s" wordpos="s">жду</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="ndfgcky" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="vl2f1r" n="1">
+                                 <syl xml:id="s8hbuj7" con="d" wordpos="i">о</syl>
+                              </verse>
+                              <verse xml:id="vlc7m62" n="2">
+                                 <syl xml:id="s7aom2s" con="s" wordpos="s">я,</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n4fyflk" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vgf6r8q" n="1">
+                                 <syl xml:id="stlpoen" con="d" wordpos="m">жи</syl>
+                              </verse>
+                              <verse xml:id="vf2e6ro" n="2">
+                                 <syl xml:id="sf1f78r" con="s" wordpos="s">а</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nqowjkm" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vgqf7tl" n="1">
+                                 <syl xml:id="s93l9a6" con="d" wordpos="m">да</syl>
+                              </verse>
+                              <verse xml:id="vk623e9" n="2">
+                                 <syl xml:id="sjkjo0t" con="s" wordpos="s">дня.</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="npbxlfy" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vd37vh5" n="1">
+                                 <syl xml:id="spnvnhv" con="d" wordpos="m">ни</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="np9d86k" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="v742efb" n="1">
+                                 <syl xml:id="sx0z7rl" con="s" wordpos="t">я.</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                        <layer xml:id="lmfmrm6" n="2">
+                           <space xml:id="sstb6lq" dur.ppq="2" dur="4" />
+                           <space xml:id="sbt3ytw" dur.ppq="1" dur="8" />
+                           <note xml:id="nofisnr" dots="1" dur.ppq="3" dur="4" oct="4" pname="f" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

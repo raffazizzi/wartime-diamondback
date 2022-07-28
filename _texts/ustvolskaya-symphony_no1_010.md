@@ -3,7 +3,7 @@ layout: mei
 title: Symphony no. 1, III
 author: Ustvolskaya, Galina
 permalink: /ustvolskaya-symphony-no1-iii/
-document:
+document: ustvolskaya_symphony_no1_mvt3.mei
 ---
 
 - In *Sinfonie nr. 1.* Hamburg: Sikorski, 2019.

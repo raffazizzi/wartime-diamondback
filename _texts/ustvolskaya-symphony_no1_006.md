@@ -3,7 +3,7 @@ layout: mei
 title: Symphony no. 1, II, 5. "Kaufe trödel!" ("Buy jumber!")
 author: Ustvolskaya, Galina
 permalink: /ustvolskaya-symphony-no1-ii-trodel/
-document:
+document: ustvolskaya_symphony_no1_mvt2_005.mei
 ---
 
 - In *Sinfonie nr. 1.* Hamburg: Sikorski, 2019.

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Symphony No. 1</title>
+            <respStmt>
+               <persName role="composer">Galina Ustvolskaya</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-21" type="encoding-date">2022-07-21</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-21rq4y">
+         <appInfo xml:id="appinfo-6tuzxv">
+            <application xml:id="application-yhkw8l" isodate="2022-07-28T09:16:37" version="3.10.0-845ab54">
+               <name xml:id="name-pbpfjt">Verovio</name>
+               <p xml:id="p-izzhtc">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m7j28zx">
+            <score xml:id="sjfrv4a">
+               <scoreDef xml:id="sy6691a">
+                  <pgHead xml:id="p1sg2il">
+                     <rend xml:id="rqxl65q" halign="center" valign="top">Symphony No. 1</rend>
+                     <rend xml:id="ruh5ofc" halign="center" valign="top">I.</rend>
+                     <rend xml:id="rdccg2u" halign="right" valign="bottom">Galina Ustvolskaya </rend>
+                  </pgHead>
+                  <staffGrp xml:id="sj6fvux">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="ls00vc6">Flute</label>
+                        <labelAbbr xml:id="lyeigy3">Fl.</labelAbbr>
+                        <instrDef xml:id="ijbty1g" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                        <clef xml:id="chj3lkf" shape="G" line="2" />
+                        <keySig xml:id="kxkdkkc" sig="0" />
+                        <meterSig xml:id="m7xaa0y" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sp92m34">
+                  <measure xml:id="m4d4kcd" n="1">
+                     <staff xml:id="saxwll0" n="1">
+                        <layer xml:id="lugibm3" n="1">
+                           <note xml:id="nwl0rhq" dur.ppq="1" dur="4" oct="5" pname="g" stem.dir="down" />
+                           <note xml:id="nrdtmai" dur.ppq="2" dur="2" oct="5" pname="g" stem.dir="down" accid="f" />
+                           <note xml:id="n776vz1" dur.ppq="1" dur="4" oct="5" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dynam place="below" staff="1" tstamp="1.000000" val="49" vgrp="209">p espr.</dynam>
+                     <tempo xml:id="tz9i0h0" place="above" staff="1" tstamp="1.000000" midi.bpm="60.000000" mm="60.000000" mm.unit="4">
+                        <rend xml:id="roo82rr" fontname="VerovioText"></rend> = 60</tempo>
+                     <slur xml:id="sqi14bn" startid="#nwl0rhq" endid="#nrdtmai" curvedir="above" />
+                     <slur xml:id="s6mlqu1" startid="#n776vz1" endid="#nvk4p8l" curvedir="above" />
+                  </measure>
+                  <measure xml:id="mpl6dxa" n="2">
+                     <staff xml:id="swou2d" n="1">
+                        <layer xml:id="l2ae0u" n="1">
+                           <note xml:id="np9nxxi" dur.ppq="1" dur="4" oct="5" pname="g" stem.dir="down" accid="n" />
+                           <note xml:id="nsknxas" dur.ppq="1" dur="4" oct="5" pname="g" stem.dir="down" accid="f" />
+                           <note xml:id="ns3om0y" dur.ppq="1" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="njkazs6" dur.ppq="1" dur="4" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="seuxtez">
+                     <meterSig xml:id="my7w32r" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="myurxsk" n="3">
+                     <staff xml:id="spi44ab" n="1">
+                        <layer xml:id="l5iqhr9" n="1">
+                           <note xml:id="n9ng5qy" dur.ppq="2" dur="2" oct="5" pname="e" stem.dir="down" accid="f" />
+                           <note xml:id="nwqpfiv" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mhykrhs" n="4">
+                     <staff xml:id="s5obfmw" n="1">
+                        <layer xml:id="lw28jol" n="1">
+                           <note xml:id="nvk4p8l" dots="1" dur.ppq="3" dur="2" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

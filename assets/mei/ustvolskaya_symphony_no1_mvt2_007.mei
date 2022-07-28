@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Symphony No. 1</title>
+            <respStmt>
+               <persName role="composer">Galina Ustvolskaya</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-22" type="encoding-date">2022-07-22</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-ky1ldc">
+         <appInfo xml:id="appinfo-k7n004">
+            <application xml:id="application-stfl5a" isodate="2022-07-28T09:16:58" version="3.10.0-845ab54">
+               <name xml:id="name-sw7ypr">Verovio</name>
+               <p xml:id="p-vbyik3">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mwucv88">
+            <score xml:id="s938oy1">
+               <scoreDef xml:id="s1bgzah">
+                  <pgHead xml:id="p7sm1m">
+                     <rend xml:id="r6mabbx" halign="center" valign="top">Symphony No. 1</rend>
+                     <rend xml:id="rz2u99a" halign="center" valign="top">II, 7. Wenn die Fabrikschornsteine sterben (When factory chimneys die)</rend>
+                     <rend xml:id="rq96vj5" halign="right" valign="bottom">Galina Ustvolskaya</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sur29m">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="l477sbe">Voice</label>
+                        <labelAbbr xml:id="lyr8bb3">Vo.</labelAbbr>
+                        <instrDef xml:id="i9wzecm" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="caum1i8" shape="G" line="2" />
+                        <keySig xml:id="kcyxm5o" sig="0" />
+                        <meterSig xml:id="me78iqr" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s6eqb46">
+                  <pb xml:id="pfb1q6i" />
+                  <measure xml:id="m5etgfg" n="1">
+                     <staff xml:id="s2fnwdo" n="1">
+                        <layer xml:id="lsvg6n1" n="1">
+                           <note xml:id="n4adw1w" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up">
+                              <accid xml:id="ama1tws" accid="n" enclose="paren" />
+                              <verse xml:id="voyu5wj" n="1">
+                                 <syl xml:id="sskmuu7" con="d" wordpos="i">Тру</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="na4daum" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vbpc0yn" n="1">
+                                 <syl xml:id="s3u998q" con="s" wordpos="t">бы</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n4cgyu2" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vrl5vh4" n="1">
+                                 <syl xml:id="sdzpve4" con="d" wordpos="i">фаб</syl>
+                              </verse>
+                              <artic xml:id="a18aqjf" artic="acc" />
+                           </note>
+                           <note xml:id="nm3i1wk" dur.ppq="8" dur="2" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dlm6bt3" place="above" staff="1" tstamp="1.000000" val="126">fff</dynam>
+                     <tempo xml:id="tm22xcn" place="above" staff="1" tstamp="1.000000" midi.bpm="80.000000" mm="80.000000" mm.unit="4">
+                        <rend xml:id="rs0wxf7" fontname="VerovioText"></rend> = 80</tempo>
+                     <tie xml:id="tezrw2b" startid="#n4cgyu2" endid="#nm3i1wk" />
+                     <hairpin xml:id="hq8cy8g" staff="1" tstamp="2.000000" tstamp2="1m+1.0000" form="cres" place="above" vgrp="220" />
+                  </measure>
+                  <measure xml:id="mspvzqq" n="2">
+                     <staff xml:id="sz4jnh3" n="1">
+                        <layer xml:id="llpfe0" n="1">
+                           <note xml:id="ntqrugq" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="v8d3c52" n="1">
+                                 <syl xml:id="s99nxn2" con="s" wordpos="t">рик,</syl>
+                              </verse>
+                              <artic xml:id="ai6rzsa" artic="acc" />
+                           </note>
+                           <rest xml:id="r7zkq9e" dur.ppq="2" dur="8" />
+                           <rest xml:id="rsf68c0" dur.ppq="4" dur="4" />
+                           <rest xml:id="rtlzq1i" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mxhuf72" n="3">
+                     <staff xml:id="sdnlnbe" n="1">
+                        <layer xml:id="lveau6s" n="1">
+                           <note xml:id="nj7hfu" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up">
+                              <accid xml:id="as1yegb" accid="n" enclose="paren" />
+                              <verse xml:id="vj72e4h" n="1">
+                                 <syl xml:id="smo5u8r" con="d" wordpos="i">тру</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nt2mqqb" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vkpfvbr" n="1">
+                                 <syl xml:id="srwbm9e" con="s" wordpos="t">бы,</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="no4suz8" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="ve6jam8" n="1">
+                                 <syl xml:id="snglbbk" con="d" wordpos="i">тру</syl>
+                              </verse>
+                              <artic xml:id="apx8vm3" artic="acc" />
+                           </note>
+                           <note xml:id="n6uybxi" dur.ppq="8" dur="2" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="t2ks0l4" startid="#no4suz8" endid="#n6uybxi" />
+                     <hairpin xml:id="hbtxs8p" staff="1" tstamp="2.000000" tstamp2="1m+1.0000" form="cres" place="above" vgrp="220" />
+                  </measure>
+                  <measure xml:id="m8bmfwo" n="4">
+                     <staff xml:id="s7dejkn" n="1">
+                        <layer xml:id="laj7f46" n="1">
+                           <note xml:id="no7b720" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="v2ttuib" n="1">
+                                 <syl xml:id="sn558i2" con="s" wordpos="t">бы,</syl>
+                              </verse>
+                              <artic xml:id="a2pc6sm" artic="acc" />
+                           </note>
+                           <rest xml:id="rr9i7ux" dur.ppq="2" dur="8" />
+                           <rest xml:id="r2y5yau" dur.ppq="4" dur="4" />
+                           <rest xml:id="rwsshi5" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="sg9qvae">
+                     <meterSig xml:id="mgb8vfm" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mfkfap2" n="5">
+                     <staff xml:id="suweb0m" n="1">
+                        <layer xml:id="lalr9sq" n="1">
+                           <note xml:id="nhfk3ul" dots="1" dur.ppq="12" dur="2" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="vu6cpdq" n="1">
+                                 <syl xml:id="sb44ho8" con="d" wordpos="i">тру</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n7l8r5" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="v9dh5j" n="1">
+                                 <syl xml:id="sjkz7wj" con="s" wordpos="t">бы,</syl>
+                              </verse>
+                           </note>
+                           <rest xml:id="riq0zi" dur.ppq="2" dur="8" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dq7hrli" place="above" staff="1" tstamp="1.000000" val="96">f</dynam>
+                  </measure>
+                  <measure xml:id="m8bcw2i" n="6">
+                     <staff xml:id="scocp17" n="1">
+                        <layer xml:id="ldf8wl2" n="1">
+                           <note xml:id="nmpfun2" dots="1" dur.ppq="12" dur="2" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="vjmfw5i" n="1">
+                                 <syl xml:id="s9u12h0" con="d" wordpos="i">тру</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="niooc4w" dur.ppq="4" dur="4" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="vw2yhag" n="1">
+                                 <syl xml:id="syxfffu" con="s" wordpos="t">бы.</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="s5djyqo" />
+                  <scoreDef xml:id="s4hv7cq">
+                     <meterSig xml:id="mffe2j1" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mu4mzhn" n="7">
+                     <staff xml:id="sb31wec" n="1">
+                        <layer xml:id="lezipr5" n="1">
+                           <note xml:id="nrjihwd" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up">
+                              <accid xml:id="ai721vv" accid="n" enclose="paren" />
+                              <verse xml:id="vdo2muq" n="1">
+                                 <syl xml:id="swvuu26" con="d" wordpos="i">Тру</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="ncet8zm" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vtm9dyt" n="1">
+                                 <syl xml:id="skcd1tm" con="s" wordpos="t">бы</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n8g0z0j" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vrqyjen" n="1">
+                                 <syl xml:id="sez5d0f" con="d" wordpos="i">фаб</syl>
+                              </verse>
+                              <artic xml:id="axbsi1f" artic="acc" />
+                           </note>
+                           <note xml:id="n2l7y02" dur.ppq="8" dur="2" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="ddm0g3n" place="above" staff="1" tstamp="1.000000" val="126">fff</dynam>
+                     <tie xml:id="t4jztkv" startid="#n8g0z0j" endid="#n2l7y02" />
+                     <hairpin xml:id="ha2xqcv" staff="1" tstamp="2.000000" tstamp2="1m+1.0000" form="cres" place="above" vgrp="220" />
+                  </measure>
+                  <measure xml:id="mbgl19i" n="8">
+                     <staff xml:id="srakaqg" n="1">
+                        <layer xml:id="lch3tze" n="1">
+                           <note xml:id="n3pwjfn" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="vs6j2bj" n="1">
+                                 <syl xml:id="szfsxjb" con="s" wordpos="t">рик,</syl>
+                              </verse>
+                              <artic xml:id="ajewx3p" artic="acc" />
+                           </note>
+                           <rest xml:id="r54p141" dur.ppq="2" dur="8" />
+                           <rest xml:id="rh8dihm" dur.ppq="4" dur="4" />
+                           <rest xml:id="r1tu3c1" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
