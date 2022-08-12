@@ -131,7 +131,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dqrx2uk" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                     <dir xml:id="dqrx2uk" place="above" staff="1" tstamp="1.000000" vgrp="300">
                         <rend xml:id="r856mdm" fontstyle="italic">a tempo</rend>
                      </dir>
                      <dynam xml:id="d7nllr5" place="above" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" extender="true" lform="dashed" vgrp="211">
