@@ -5,7 +5,7 @@ permalink: /
 
 This open-access music data project aims to make works by un(der)-represented people more discoverable, decenter the musical canon, and make data-driven music scholarship more diverse and inclusive. The nature of this project is iterative, because it is being used as a way to teach students about transcription and encoding. The repository contains a growing dataset of music incipits and excerpts from a large historical period by an un(der)-represented group (primarily women and people of color) that has generally been left out of (big) data driven scholarship work. 
 
-<p style="text-align: center;"><b>View the <a href="https://rebalancing-music-canon.com/_pages/incipit-index/">incipit index</b></a></p>
+<p style="text-align: center;"><b>View the <a href="https://rebalancing-music-canon.com/_pages/incipit-index/">incipit index</a></b></p>
   
 Read more about the current and past iterations of this project on the [About page](https://rebalancing-music-canon.com/about/).
 
