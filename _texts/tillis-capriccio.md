@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Capriccio
-author: Tillis, Frederick
+author: Tillis, Frederick C.
 permalink: /tillis-capriccio/
 document:
 ---
