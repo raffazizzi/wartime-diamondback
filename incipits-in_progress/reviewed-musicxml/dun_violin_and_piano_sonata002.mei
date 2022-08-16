@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Violin and Piano Sonata (Hero)</title>
+            <respStmt>
+               <persName role="composer">Tan Dun</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-08-12" type="encoding-date">2022-08-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-rm7ph8">
+         <appInfo xml:id="appinfo-tfcaky">
+            <application xml:id="application-63kcv6" isodate="2022-08-16T10:11:17" version="3.7.0-a14ab1a">
+               <name xml:id="name-ei91z1">Verovio</name>
+               <p xml:id="p-og0l5z">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="migkw1n">
+            <score xml:id="s5tx1bg">
+               <scoreDef xml:id="sbat39s">
+                  <pgHead xml:id="pdvuaki">
+                     <rend xml:id="rf9a4jc" halign="center" valign="top">Violin and Piano Sonata (Hero)</rend>
+                     <rend xml:id="rf7d96l" halign="center" valign="top">II. Above Water</rend>
+                     <rend xml:id="r1r6tgw" halign="right" valign="bottom">Tan Dun</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s8hdpig">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="20">
+                        <label xml:id="lk5hij6">Violin</label>
+                        <labelAbbr xml:id="ljwczes">Vln.</labelAbbr>
+                        <instrDef xml:id="iksksk7" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="ce7k3z1" shape="G" line="2" />
+                        <keySig xml:id="ki2hja0" sig="0" />
+                        <meterSig xml:id="mxu1ge6" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sq2b2ru">
+                  <pb xml:id="pu5lkub" />
+                  <measure xml:id="m1ceckv" n="1">
+                     <staff xml:id="skoch67" n="1">
+                        <layer xml:id="l6yrxne" n="1">
+                           <beam xml:id="bt3fdjo">
+                              <tuplet xml:id="tgr9x1u" num="5" numbase="4" bracket.visible="false">
+                                 <note xml:id="nefpo1" dur.ppq="4" dur="16" oct="6" pname="c" stem.dir="down" accid="s">
+                                    <artic xml:id="abfhjre" artic="acc" />
+                                 </note>
+                                 <note xml:id="nok2u29" dur.ppq="4" dur="16" oct="5" pname="b" stem.dir="down" />
+                                 <note xml:id="n6q69vz" dur.ppq="4" dur="16" oct="5" pname="a" stem.dir="down" />
+                                 <note xml:id="ncikvin" dur.ppq="4" dur="16" oct="5" pname="g" stem.dir="down" />
+                                 <note xml:id="ngri8t1" dur.ppq="4" dur="16" oct="5" pname="e" stem.dir="down" />
+                              </tuplet>
+                           </beam>
+                           <note xml:id="nop1y9j" dur.ppq="10" dur="8" oct="4" pname="f" stem.dir="up" accid="n">
+                              <artic xml:id="agvu4c8" artic="acc" />
+                           </note>
+                           <note xml:id="naka5ee" dur.ppq="20" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="n9x76vg" dur.ppq="10" dur="8" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="n672y0d" dur.ppq="20" dur="4" oct="3" pname="a" stem.dir="up">
+                              <artic xml:id="aqu6769" artic="acc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dgfmsft" place="above" staff="1" tstamp="1.000000" vgrp="209">pizz.</dir>
+                     <tempo xml:id="tr7fmds" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="60.000000" mm="60.000000" mm.unit="4">
+                        <rend xml:id="r6m4gcc" fontweight="bold"></rend>Andante Molto (<rend xml:id="riwaebb" fontname="VerovioText"></rend> = 60)</tempo>
+                     <dynam xml:id="dffpihb" place="below" staff="1" tstamp="1.000000" val="96" vgrp="40">f</dynam>
+                     <slur xml:id="sjuu2f9" startid="#nefpo1" endid="#naka5ee" curvedir="above" />
+                     <dir xml:id="dxaxk9e" place="above" staff="1" tstamp="1.200000" vgrp="215">+</dir>
+                     <dir xml:id="dm4qxx9" place="above" staff="1" tstamp="1.400000" vgrp="210">+</dir>
+                     <dir xml:id="dg4rl6p" place="above" staff="1" tstamp="1.600000" vgrp="205">+</dir>
+                     <dir xml:id="db6ds8w" place="above" staff="1" tstamp="1.800000" vgrp="200">+</dir>
+                     <dir xml:id="dew7eg5" place="above" staff="1" tstamp="2.000000" vgrp="200">III</dir>
+                     <gliss xml:id="g64vf4n" type="slide" staff="1" startid="#nop1y9j" endid="#naka5ee" lform="solid" n="1" />
+                     <dir xml:id="dw5srt8" place="above" staff="1" tstamp="3.500000" vgrp="219">IV<lb xml:id="lxrujul" />arco</dir>
+                     <dynam xml:id="dze0ynt" place="below" staff="1" tstamp="3.500000" val="49" vgrp="90">p</dynam>
+                     <hairpin xml:id="hykbawp" staff="1" tstamp="3.500000" tstamp2="0m+3.5000" form="cres" place="below" vgrp="110" />
+                     <slur xml:id="sp56wf4" startid="#n9x76vg" endid="#n672y0d" curvedir="below" />
+                     <gliss xml:id="gbe4n4w" type="slide" staff="1" startid="#n9x76vg" endid="#n672y0d" lform="solid" n="1" />
+                     <dynam xml:id="ddu0q0q" place="below" staff="1" tstamp="4.000000" val="96" vgrp="90">fp</dynam>
+                     <dir xml:id="ddx4atz" place="above" staff="1" tstamp="4.000000" vgrp="200">(slow to fast)</dir>
+                     <hairpin xml:id="he6f0c2" staff="1" tstamp="4.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="110" />
+                     <tie xml:id="tu1wqy2" startid="#n672y0d" endid="#nj3bnr2" />
+                     <fermata xml:id="f7q0nus" staff="1" startid="#n672y0d" form="norm" place="above" />
+                     <trill xml:id="ttcvyve" staff="1" startid="#n672y0d" tstamp2="1m+5.0000" extender="true" n="1" />
+                  </measure>
+                  <measure xml:id="mlyzdij" n="2">
+                     <staff xml:id="s9jmxsc" n="1">
+                        <layer xml:id="lpi3w69" n="1">
+                           <space xml:id="stodedj" dur.ppq="80" dur="1" />
+                        </layer>
+                        <layer xml:id="lvf21gk" n="2">
+                           <note xml:id="nj3bnr2" dur.ppq="10" dur="8" oct="3" pname="a" stem.dir="down" />
+                           <rest xml:id="rzfn232" dur.ppq="10" dur="8" />
+                           <rest xml:id="r5jizs4" dur.ppq="20" dur="4" />
+                           <rest xml:id="rim8k63" dur.ppq="20" dur="4" />
+                           <rest xml:id="rxtxz4r" dur.ppq="20" dur="4" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hn5m6rd" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="cres" place="below" vgrp="110" />
+                     <breath xml:id="be57uu9" staff="1" tstamp="5.000000" />
+                     <hairpin xml:id="hec4re" staff="1" tstamp="3.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="110" />
+                     <fermata xml:id="fxk2j6y" staff="1" startid="#rim8k63" form="norm" place="above" />
+                  </measure>
+                  <sb xml:id="syfa9gm" />
+                  <measure xml:id="mf90zbz" n="3">
+                     <staff xml:id="si8aker" n="1">
+                        <layer xml:id="llbgbey" n="1">
+                           <tuplet xml:id="t3syy0m" num="5" numbase="4" bracket.visible="true">
+                              <rest xml:id="ro7ps9m" dur.ppq="4" dur="16" />
+                              <beam xml:id="b73nmpm">
+                                 <note xml:id="np0h70x" dur.ppq="4" dur="16" oct="5" pname="b" stem.dir="down">
+                                    <artic xml:id="art81jt" artic="acc" />
+                                 </note>
+                                 <note xml:id="n7i0vo6" dur.ppq="4" dur="16" oct="5" pname="a" stem.dir="down" />
+                                 <note xml:id="n6ayaz7" dur.ppq="4" dur="16" oct="5" pname="f" stem.dir="down" accid="s" />
+                                 <note xml:id="n2i5x6o" dur.ppq="4" dur="16" oct="5" pname="e" stem.dir="down" />
+                              </beam>
+                           </tuplet>
+                           <note xml:id="ninn53a" dur.ppq="10" dur="8" oct="5" pname="e" stem.dir="down">
+                              <artic xml:id="aqn51ia" artic="acc" />
+                           </note>
+                           <note xml:id="njcd3oj" dur.ppq="20" dur="4" oct="5" pname="c" stem.dir="down" accid="s" />
+                           <note xml:id="niup7nh" dur.ppq="10" dur="8" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="n5z5qly" dur.ppq="20" dur="4" oct="4" pname="d" stem.dir="up">
+                              <artic xml:id="aax8bia" artic="acc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="dfao0fr" place="above" staff="1" tstamp="1.000000" vgrp="200">pizz.</dir>
+                     <dynam xml:id="dpc5iui" place="below" staff="1" tstamp="1.200000" val="96" vgrp="52">f</dynam>
+                     <slur xml:id="sonhazc" startid="#np0h70x" endid="#njcd3oj" curvedir="above" />
+                     <dir xml:id="dhhtkfk" place="above" staff="1" tstamp="1.400000" vgrp="200">+</dir>
+                     <dir xml:id="d17xj3l" place="above" staff="1" tstamp="1.600000" vgrp="200">+</dir>
+                     <dir xml:id="dcnlswx" place="above" staff="1" tstamp="1.800000" vgrp="200">+</dir>
+                     <dir xml:id="dablvd5" place="above" staff="1" tstamp="2.000000" vgrp="224">II</dir>
+                     <gliss xml:id="gu2u6tn" type="slide" staff="1" startid="#ninn53a" endid="#njcd3oj" lform="solid" n="1" />
+                     <dir xml:id="dix9mbk" place="above" staff="1" tstamp="3.500000" vgrp="229">arco<lb xml:id="lvyu7if" />IV<lb xml:id="lspby0d" />
+                     </dir>
+                     <dynam xml:id="dmp6648" place="below" staff="1" tstamp="3.500000" val="49" vgrp="75">p</dynam>
+                     <hairpin xml:id="hqt7mto" staff="1" tstamp="3.500000" tstamp2="0m+3.5000" form="cres" place="below" vgrp="95" />
+                     <slur xml:id="sahu3s2" startid="#niup7nh" endid="#n5z5qly" curvedir="below" />
+                     <gliss xml:id="gl2no01" type="slide" staff="1" startid="#niup7nh" endid="#n5z5qly" lform="solid" n="1" />
+                     <dynam xml:id="duko9x9" place="below" staff="1" tstamp="4.000000" val="96" vgrp="75">fp</dynam>
+                     <dir xml:id="dmor8dh" place="above" staff="1" tstamp="4.000000" vgrp="200">(slow to fast)</dir>
+                     <hairpin xml:id="hjd7pm2" staff="1" tstamp="4.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="95" />
+                     <tie xml:id="tw2cgu4" startid="#n5z5qly" endid="#nvrktsc" />
+                     <fermata xml:id="fg7z119" staff="1" startid="#n5z5qly" form="norm" place="above" />
+                     <trill xml:id="tuyzdfa" staff="1" startid="#n5z5qly" tstamp2="1m+5.0000" extender="true" n="1" />
+                  </measure>
+                  <measure xml:id="mm1appv" n="4">
+                     <staff xml:id="sjviygy" n="1">
+                        <layer xml:id="ldl5o7n" n="1">
+                           <space xml:id="sgyi14c" dur.ppq="80" dur="1" />
+                        </layer>
+                        <layer xml:id="lcre4zq" n="2">
+                           <note xml:id="nvrktsc" dur.ppq="10" dur="8" oct="4" pname="d" stem.dir="down" />
+                           <rest xml:id="rvp0bft" dur.ppq="10" dur="8" />
+                           <rest xml:id="riyqsae" dur.ppq="20" dur="4" />
+                           <rest xml:id="rme76ke" dur.ppq="20" dur="4" />
+                           <rest xml:id="ra3jtqb" dur.ppq="20" dur="4" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="h5tmf97" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" form="cres" place="below" vgrp="95" />
+                     <breath xml:id="bxdcf5d" staff="1" tstamp="5.000000" />
+                     <hairpin xml:id="hsdcsw" staff="1" tstamp="3.000000" tstamp2="0m+3.5000" form="dim" place="below" vgrp="95" />
+                     <fermata xml:id="f1xxcog" staff="1" startid="#rme76ke" form="norm" place="above" />
+                  </measure>
+                  <scoreDef xml:id="snbf24d">
+                     <meterSig xml:id="mnalfy9" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mozlkpl" n="5">
+                     <staff xml:id="sdtjvv5" n="1">
+                        <layer xml:id="lnxvvep" n="1">
+                           <beam xml:id="b22s87n">
+                              <tuplet xml:id="t9zdzhd" num="5" numbase="4" bracket.visible="false">
+                                 <note xml:id="nbkoo6n" dur.ppq="4" dur="16" oct="5" pname="b" stem.dir="down">
+                                    <artic xml:id="a5ad4ru" artic="acc" />
+                                 </note>
+                                 <note xml:id="n81tir8" dur.ppq="4" dur="16" oct="5" pname="a" stem.dir="down" />
+                                 <note xml:id="ntzyybc" dur.ppq="4" dur="16" oct="5" pname="g" stem.dir="down" />
+                                 <note xml:id="n9j58pq" dur.ppq="4" dur="16" oct="5" pname="f" stem.dir="down" accid="s" />
+                                 <note xml:id="no53w1t" dur.ppq="4" dur="16" oct="5" pname="e" stem.dir="down" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="bhnsy2q">
+                              <note xml:id="nhtrump" dur.ppq="5" dur="16" oct="4" pname="d" stem.dir="up">
+                                 <artic xml:id="ada54ia" artic="acc" />
+                              </note>
+                              <note xml:id="n23mneg" breaksec="1" dur.ppq="5" dur="16" oct="4" pname="e" stem.dir="up" />
+                              <note xml:id="nl803sa" dur.ppq="10" dur="8" oct="4" pname="g" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="b15p5sa">
+                              <note xml:id="ntnxtxf" dur.ppq="5" dur="16" oct="3" pname="g" stem.dir="up">
+                                 <artic xml:id="ao4w6l3" artic="acc" />
+                              </note>
+                              <note xml:id="npeuos2" breaksec="1" dur.ppq="5" dur="16" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="na6t8r" dur.ppq="10" dur="8" oct="4" pname="c" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d5e8q7c" place="below" staff="1" tstamp="1.000000" val="96" vgrp="40">f</dynam>
+                     <dir xml:id="d29179e" place="above" staff="1" tstamp="1.000000" vgrp="246">pizz.</dir>
+                     <slur xml:id="stitui3" startid="#nbkoo6n" endid="#nl803sa" curvedir="above" />
+                     <dir xml:id="drr889" place="above" staff="1" tstamp="1.200000" vgrp="200">+</dir>
+                     <dir xml:id="dyeqvyl" place="above" staff="1" tstamp="1.400000" vgrp="203">+</dir>
+                     <dir xml:id="dnb8wqd" place="above" staff="1" tstamp="1.600000" vgrp="203">+</dir>
+                     <dir xml:id="df9mzv6" place="above" staff="1" tstamp="1.800000" vgrp="202">+</dir>
+                     <dir xml:id="d3wj6co" place="above" staff="1" tstamp="2.000000" vgrp="240">(only "pizz" the first note)</dir>
+                     <slur xml:id="sgq73o6" startid="#nhtrump" endid="#nl803sa" curvedir="below" />
+                     <gliss xml:id="ghbcdhq" type="slide" staff="1" startid="#n23mneg" endid="#nl803sa" lform="solid" n="1" />
+                     <fermata xml:id="fnwq8qu" staff="1" startid="#nl803sa" form="norm" place="above" />
+                     <slur xml:id="sdkejyc" startid="#ntnxtxf" endid="#na6t8r" curvedir="below" />
+                     <gliss xml:id="gvpv9dx" type="slide" staff="1" startid="#npeuos2" endid="#na6t8r" lform="solid" n="1" />
+                     <fermata xml:id="f3gogqu" staff="1" startid="#na6t8r" form="norm" place="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
