@@ -95,7 +95,7 @@
                      <slur xml:id="se2ea5p" startid="#n7xew1j" endid="#nsu0cf0" curvedir="below" />
                      <gliss xml:id="gjcrgfj" type="slide" staff="1" startid="#n7xew1j" endid="#nsu0cf0" lform="solid" n="1" />
                      <dynam xml:id="d1bjzjo" place="below" staff="1" tstamp="4.000000" val="96" vgrp="90">fp</dynam>
-                     <dir xml:id="dzwuj1" place="above" staff="1" tstamp="4.000000" vgrp="200">(slow to fast)</dir>
+                     <dir xml:id="dzwuj1" place="above" staff="1" tstamp="4.300000" vgrp="200">(slow to fast)</dir>
                      <hairpin xml:id="hywbdpt" staff="1" tstamp="4.000000" tstamp2="0m+4.5000" form="dim" place="below" vgrp="110" />
                      <tie xml:id="tpj8047" startid="#nsu0cf0" endid="#n5q800l" />
                      <fermata xml:id="fou6pu4" staff="1" startid="#nsu0cf0" form="norm" place="above" />
