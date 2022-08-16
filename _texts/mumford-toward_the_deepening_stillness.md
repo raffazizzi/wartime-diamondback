@@ -3,7 +3,7 @@ layout: mei
 title: toward the deepening stillness beyond visible light
 author: Mumford, Jeffrey
 permalink: /mumford-deepening-stillness/
-document:
+document: mumford_toward_the_deepening_stillness_beyond_visible_light.mei
 ---
 
 - In *Toward the deepening stillness beyond visible light: for piano and string quartet (2004).* S.l. : Jeffrey Mumford, 2022.
