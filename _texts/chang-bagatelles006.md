@@ -3,7 +3,7 @@ layout: mei
 title: Bagatelles, VI. Rhythm study no. 1.
 author: Chang, Dorothy
 permalink: /chang-bagatelles-study/
-document:
+document: chang_bagatelles006.mei
 ---
 
 - In *Bagatelles: for flute/alto flute, cello, and piano.* Toronto: Canadian Music Centre, 2016.

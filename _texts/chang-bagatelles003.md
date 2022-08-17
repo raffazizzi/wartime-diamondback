@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Bagatelles, III. Elixir
 author: Chang, Dorothy
 permalink: /chang-bagatelles-elixir/
-document:
+image: chang-bagatelles003.png
 ---
 
 - In *Bagatelles: for flute/alto flute, cello, and piano.* Toronto: Canadian Music Centre, 2016.

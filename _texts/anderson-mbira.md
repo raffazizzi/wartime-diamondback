@@ -3,7 +3,7 @@ layout: mei
 title: Mbira
 author: Anderson, T.J.
 permalink: /anderson-mbira/
-document:
+document: anderson_mbira.mei
 ---
 
 - In *Mbira: for violin and piano: 2020.* New York: American Composers Alliance, 2020.

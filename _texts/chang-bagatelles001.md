@@ -3,7 +3,7 @@ layout: mei
 title: Bagatelles, I. The palest of blues
 author: Chang, Dorothy
 permalink: /chang-bagatelles-blues/
-document:
+document: chang_bagatelles001.mei
 ---
 
 - In *Bagatelles: for flute/alto flute, cello, and piano.* Toronto: Canadian Music Centre, 2016.

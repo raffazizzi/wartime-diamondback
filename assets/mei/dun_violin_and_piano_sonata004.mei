@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Violin and Piano Sonata</title>
+            <respStmt>
+               <persName role="composer">Tan Dun</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-08-12" type="encoding-date">2022-08-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-f96i6h">
+         <appInfo xml:id="appinfo-gseus6">
+            <application xml:id="application-8d6edu" isodate="2022-08-17T09:51:04" version="3.10.0-845ab54">
+               <name xml:id="name-sq5m3i">Verovio</name>
+               <p xml:id="p-vvcvw1">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mfdi7a1">
+            <score xml:id="s5kcw3g">
+               <scoreDef xml:id="sxe5u56">
+                  <pgHead xml:id="ps7wk3r">
+                     <rend xml:id="rstc15g" halign="center" valign="top">Violin and Piano Sonata</rend>
+                     <rend xml:id="r7rgmtr" halign="center" valign="top">IV. Sorrow in the Desert</rend>
+                     <rend xml:id="r7ubio2" halign="right" valign="bottom">Tan Dun</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sg11ji8">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="lcvfm97">Violin</label>
+                        <labelAbbr xml:id="lmeea0b">Vln.</labelAbbr>
+                        <instrDef xml:id="iqx0lhz" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="csz7x5u" shape="G" line="2" />
+                        <keySig xml:id="khbtdo5" sig="0" />
+                        <meterSig xml:id="mh56wtb" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s5um8az">
+                  <measure xml:id="mkn4hjc" n="0">
+                     <mNum xml:id="mfv9t7g" />
+                     <staff xml:id="slfqded" n="1">
+                        <layer xml:id="l9ul89" n="1">
+                           <note xml:id="nydpirs" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dowlmuo" place="below" staff="1" tstamp="1.000000" val="80" vgrp="65">mf dolce</dynam>
+                     <tempo xml:id="tnpr852" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="70.000000" mm="70.000000" mm.unit="4">
+                        <rend xml:id="r1luwas" fontweight="bold">Malinconia (&#x1d15f; = 70-80)</rend></tempo>
+                     <slur xml:id="so5pv2s" startid="#nydpirs" endid="#nds50pj" curvedir="below" />
+                  </measure>
+                  <scoreDef xml:id="smklwq0">
+                     <meterSig xml:id="mm4er6j" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="me9v8z3" n="1">
+                     <staff xml:id="s4tcbjc" n="1">
+                        <layer xml:id="l12fn7h" n="1">
+                           <note xml:id="nds50pj" dots="1" dur.ppq="6" dur="2" oct="4" pname="e" stem.dir="up" />
+                           <beam xml:id="brqm8j1">
+                              <note xml:id="nl94vnt" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <artic xml:id="alb0fko" type="technical" artic="harm" />
+                                 <artic xml:id="ay3ygsb" type="technical" artic="upbow" />
+                              </note>
+                              <note xml:id="ncebjn3" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sgimy5t" startid="#nl94vnt" endid="#ncebjn3" curvedir="below" />
+                     <gliss xml:id="gj9mj2" type="slide" staff="1" startid="#nl94vnt" endid="#ncebjn3" lform="solid" n="1" />
+                  </measure>
+                  <measure xml:id="myzaosi" n="2">
+                     <staff xml:id="s994u4h" n="1">
+                        <layer xml:id="lhfbn4q" n="1">
+                           <note xml:id="n6sh8z" dots="1" dur.ppq="6" dur="2" oct="3" pname="a" stem.dir="up" />
+                           <beam xml:id="b1369lb">
+                              <note xml:id="n2jrrda" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="up">
+                                 <artic xml:id="adpm8nd" type="technical" artic="upbow" />
+                              </note>
+                              <note xml:id="nylxydy" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="s8mugge" startid="#n2jrrda" endid="#nn3yodh" curvedir="below" />
+                     <gliss xml:id="grc7rfb" type="slide" staff="1" startid="#nylxydy" endid="#nn3yodh" lform="solid" n="1" />
+                  </measure>
+                  <measure xml:id="mkskh75" n="3">
+                     <staff xml:id="s2qmx4u" n="1">
+                        <layer xml:id="lm584p1" n="1">
+                           <note xml:id="nn3yodh" dots="1" dur.ppq="3" dur="4" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="nuzxza0" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="noz434y" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="nvxkltv" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down">
+                              <artic xml:id="al1crov" type="technical" artic="harm" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="spewazp" startid="#nuzxza0" endid="#nvxkltv" curvedir="above" />
+                     <gliss xml:id="gphsewn" type="slide" staff="1" startid="#noz434y" endid="#nvxkltv" lform="solid" n="1" />
+                     <gliss xml:id="g88drnm" type="slide" staff="1" startid="#nvxkltv" endid="#nwkgjnl" lform="solid" n="2" />
+                  </measure>
+                  <measure xml:id="mxjov6r" n="4">
+                     <staff xml:id="s7frdp2" n="1">
+                        <layer xml:id="l15razm" n="1">
+                           <note xml:id="nwkgjnl" dots="1" dur.ppq="6" dur="2" oct="4" pname="e" stem.dir="up">
+                              <artic xml:id="ac1gya1" type="technical" artic="upbow" />
+                           </note>
+                           <beam xml:id="bp9odhr">
+                              <note xml:id="n5kpqc4" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="n4d684m" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sijyw5c" startid="#n5kpqc4" endid="#n4d684m" curvedir="below" />
+                     <gliss xml:id="g2acjxs" type="slide" staff="1" startid="#n5kpqc4" endid="#n4d684m" lform="solid" n="1" />
+                  </measure>
+                  <measure xml:id="mph6n9g" n="5">
+                     <staff xml:id="sv29jki" n="1">
+                        <layer xml:id="lc3clku" n="1">
+                           <note xml:id="nmj3svb" dots="1" dur.ppq="6" dur="2" oct="4" pname="a" stem.dir="up" />
+                           <beam xml:id="bgp5mxd">
+                              <note xml:id="nx8gujp" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up">
+                                 <artic xml:id="awrh2uf" type="technical" artic="dnbow" />
+                              </note>
+                              <note xml:id="nnuhwhh" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="s4i6knt" startid="#nx8gujp" endid="#nnuhwhh" curvedir="below" />
+                     <gliss xml:id="guo9n3d" type="slide" staff="1" startid="#nx8gujp" endid="#nnuhwhh" lform="solid" n="1" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

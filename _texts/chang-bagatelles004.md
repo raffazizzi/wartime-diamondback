@@ -3,7 +3,7 @@ layout: mei
 title: Bagatelles, IV. Still waters
 author: Chang, Dorothy
 permalink: /chang-bagatelles-waters/
-document:
+document: chang_bagatelles004.mei
 ---
 
 - In *Bagatelles: for flute/alto flute, cello, and piano.* Toronto: Canadian Music Centre, 2016.

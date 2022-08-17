@@ -3,7 +3,7 @@ layout: mei
 title: Bagatelles, V. Togetherness
 author: Chang, Dorothy
 permalink: /chang-bagatelles-togetherness/
-document:
+document: chang_bagatelles005.mei
 ---
 
 - In *Bagatelles: for flute/alto flute, cello, and piano.* Toronto: Canadian Music Centre, 2016.

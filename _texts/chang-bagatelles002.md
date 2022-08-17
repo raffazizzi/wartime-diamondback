@@ -3,7 +3,7 @@ layout: mei
 title: Bagatelles, II. Rondino
 author: Chang, Dorothy
 permalink: /chang-bagatelles-rondino/
-document:
+document: chang_bagatelles002.mei
 ---
 
 - In *Bagatelles: for flute/alto flute, cello, and piano.* Toronto: Canadian Music Centre, 2016.
