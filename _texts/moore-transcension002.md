@@ -3,7 +3,7 @@ layout: mei
 title: Transcension, II.
 author: Moore, Dorothy Rudd
 permalink: /moore-transcension-ii/
-document:
+document: moore_transcension002.mei
 ---
 
 - In *Transcension: "I have been to the mountaintop": for flute, oboe, clarinet in B♭, and strings 1986.* New York, NY: American Composers Alliance, Inc., 2021.

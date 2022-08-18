@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Transcension</title>
+            <respStmt>
+               <persName role="composer">Dorothy Rudd Moore</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-08-16" type="encoding-date">2022-08-16</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-9hotdy">
+         <appInfo xml:id="appinfo-tb9baa">
+            <application xml:id="application-ktudy8" isodate="2022-08-18T11:32:08" version="3.10.0-845ab54">
+               <name xml:id="name-e7p8uz">Verovio</name>
+               <p xml:id="p-aw6d4e">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mj3295c">
+            <score xml:id="sjxz9lc">
+               <scoreDef xml:id="syhdkad">
+                  <pgHead xml:id="pn4rfz2">
+                     <rend xml:id="r6mbrmc" halign="center" valign="top">Transcension: "I have been to the mountaintop"</rend>
+                     <rend xml:id="rw9s0po" halign="center" valign="top">I.</rend>
+                     <rend xml:id="rz83y3g" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
+                  </pgHead>
+                  <staffGrp xml:id="smwt5ht">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-1.000000" trans.semi="-2.000000">
+                        <label xml:id="li8hk20">B♭ Clarinet</label>
+                        <labelAbbr xml:id="l88up6k">B♭ Cl.</labelAbbr>
+                        <instrDef xml:id="iakj6sp" midi.channel="0" midi.instrnum="71" midi.volume="78.00%" />
+                        <clef xml:id="cyk929k" shape="G" line="2" />
+                        <keySig xml:id="kdlodui" sig="0" />
+                        <meterSig xml:id="mjssv6j" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="scnldst">
+                  <measure xml:id="msk5b8a" n="1">
+                     <staff xml:id="sbyqwla" n="1">
+                        <layer xml:id="lcufcne" n="1">
+                           <multiRest xml:id="mvprohc" num="8" />
+                        </layer>
+                     </staff>
+                     <tempo place="above" staff="1" tstamp="0">
+                        <rend>Lento &#x1d15f; = 80</rend></tempo>
+                  </measure>
+                  <measure xml:id="m3w4t6k" n="9">
+                     <staff xml:id="sqav7wl" n="1">
+                        <layer xml:id="lcwuog8" n="1">
+                           <rest xml:id="rbbwmsq" dur.ppq="4" dur="2" />
+                           <note xml:id="nemcjyn" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d4fnr96" place="below" staff="1" tstamp="3.000000" val="64" vgrp="41">mp</dynam>
+                     <dir xml:id="dl3cs67" place="above" staff="1" tstamp="3.000000" vgrp="200">Solo</dir>
+                  </measure>
+                  <measure xml:id="mriclfe" n="10">
+                     <staff xml:id="sdn02g9" n="1">
+                        <layer xml:id="lv1ykiz" n="1">
+                           <note xml:id="nr4sq9j" dots="1" dur.ppq="6" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nkr1bws" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r2asl6z" dur.ppq="1" dur="8" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tsqs2fy" startid="#nr4sq9j" endid="#nkr1bws" />
+                  </measure>
+                  <measure xml:id="msoxb1g" n="11">
+                     <staff xml:id="s26d2n5" n="1">
+                        <layer xml:id="llp3pet" n="1">
+                           <rest xml:id="rtawp93" dur.ppq="2" dur="4" />
+                           <note xml:id="ntxqd9q" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="no3tx3d" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="scajowk" startid="#ntxqd9q" endid="#no3tx3d" curvedir="above" />
+                  </measure>
+                  <measure xml:id="myv9nwr" n="12">
+                     <staff xml:id="sja0ga8" n="1">
+                        <layer xml:id="lfjycmr" n="1">
+                           <note xml:id="n5ctfu1" dur.ppq="8" dur="1" oct="5" pname="e" accid="f" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tz0a15z" startid="#n5ctfu1" endid="#n4kb532" />
+                  </measure>
+                  <measure xml:id="mlneytc" n="13">
+                     <staff xml:id="sjlu4s6" n="1">
+                        <layer xml:id="lyf0dp" n="1">
+                           <note xml:id="n4kb532" dur.ppq="4" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nyq0ky3" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                           <rest xml:id="rjjz227" dur.ppq="1" dur="8" />
+                           <rest xml:id="rkf45ju" dur.ppq="2" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

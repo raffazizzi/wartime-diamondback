@@ -3,7 +3,7 @@ layout: mei
 title: Sonata in one movement
 author: Day, Kevin
 permalink: /day-sonata/
-document:
+document: day_sonata.mei
 ---
 
 - In *Sonata in one movement: for tenor trombone and piano (2021).* McKinney, TX: Murphy Music Press, 2021.
