@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>American Vein</title>
+            <respStmt>
+               <persName role="composer">Valerie Coleman</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-08-12" type="encoding-date">2022-08-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-8wijbx">
+         <appInfo xml:id="appinfo-4j7mkh">
+            <application xml:id="application-wntsdz" isodate="2022-08-18T10:37:51" version="3.10.0-845ab54">
+               <name xml:id="name-ru7ior">Verovio</name>
+               <p xml:id="p-8hh59c">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mdsn62r">
+            <score xml:id="s1rle2n">
+               <scoreDef xml:id="scqcy1d">
+                  <pgHead xml:id="pnbuy31">
+                     <rend xml:id="rp87j44" halign="center" valign="top">American Vein</rend>
+                     <rend xml:id="rrkwpy" halign="center" valign="top">1. The Redwood Forest</rend>
+                     <rend xml:id="rxjoyxl" halign="right" valign="bottom">Valerie Coleman</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1w2m2q">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="6" trans.diat="-7.000000" trans.semi="-12.000000">
+                        <label xml:id="l8ic9bq">Contrabass</label>
+                        <labelAbbr xml:id="l3teluo">Cb.</labelAbbr>
+                        <instrDef xml:id="iove3c2" midi.channel="0" midi.instrnum="43" midi.volume="78.00%" />
+                        <clef xml:id="cnz014" shape="F" line="4" />
+                        <keySig xml:id="kj9r881" sig="0" />
+                        <meterSig xml:id="m4qd1fc" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s4pougb">
+                  <measure xml:id="m8f0m67" n="1">
+                     <staff xml:id="stchr8j" n="1">
+                        <layer xml:id="levxzo2" n="1">
+                           <note xml:id="niq6nui" dots="1" dur.ppq="9" dur="4" oct="2" pname="e" stem.dir="up" />
+                           <note xml:id="ny9uxc3" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up" accid="s" />
+                           <note xml:id="najx3lj" dur.ppq="12" dur="2" oct="2" pname="f" stem.dir="up" accid.ges="s" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dwflkwx" place="below" staff="1" tstamp="1.000000" val="64" vgrp="57">mp</dynam>
+                     <tempo xml:id="tdhnfhx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="60.000000" mm="60.000000" mm.unit="4">
+                        <rend xml:id="rph3zlp" fontweight="bold">SOLEMN. &#x1d15f; = 60</rend></tempo>
+                     <slur xml:id="sdxtoi" startid="#niq6nui" endid="#najx3lj" curvedir="below" />
+                     <tie xml:id="t5rl2sz" startid="#ny9uxc3" endid="#najx3lj" />
+                  </measure>
+                  <measure xml:id="mjmn1eg" n="2">
+                     <staff xml:id="se44lk2" n="1">
+                        <layer xml:id="lp08eq8" n="1">
+                           <note xml:id="n8j32yp" dur.ppq="6" dur="4" oct="3" pname="d" stem.dir="down" accid="s" />
+                           <note xml:id="n5hzuu2" dots="1" dur.ppq="18" dur="2" oct="2" pname="f" stem.dir="up" accid="s" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mr0rgbh" n="3">
+                     <staff xml:id="sfdj2i5" n="1">
+                        <layer xml:id="lxdkck0" n="1">
+                           <tuplet xml:id="t6m5ghe" num="3" numbase="2" bracket.visible="true">
+                              <rest xml:id="rm9pz9a" dur.ppq="4" dur="4" />
+                              <note xml:id="ngybi7s" dur.ppq="4" dur="4" oct="2" pname="e" stem.dir="up" />
+                              <note xml:id="n49zits" dur.ppq="4" dur="4" oct="2" pname="f" stem.dir="up" accid="s" />
+                           </tuplet>
+                           <tuplet xml:id="t8u9m9y" num="3" numbase="2" bracket.visible="true">
+                              <note xml:id="ns5d6pk" dur.ppq="4" dur="4" oct="2" pname="f" stem.dir="up" accid.ges="s" />
+                              <note xml:id="namztib" dur.ppq="4" dur="4" oct="3" pname="e" stem.dir="down" />
+                              <note xml:id="nfhfw8h" dur.ppq="4" dur="4" oct="3" pname="f" stem.dir="down" accid="s" />
+                           </tuplet>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sjwbub5" startid="#ngybi7s" endid="#ns5d6pk" curvedir="below" />
+                     <tie xml:id="txkawlm" startid="#n49zits" endid="#ns5d6pk" />
+                     <slur xml:id="sl302bk" startid="#namztib" endid="#nqya2t" curvedir="above" />
+                     <tie xml:id="to6t9kg" startid="#nfhfw8h" endid="#nqya2t" />
+                  </measure>
+                  <measure xml:id="mb8zo25" n="4">
+                     <staff xml:id="suums27" n="1">
+                        <layer xml:id="lal264k" n="1">
+                           <note xml:id="nqya2t" dur.ppq="6" dur="4" oct="3" pname="f" stem.dir="down" accid.ges="s" />
+                           <note xml:id="n9y1ekq" dots="1" dur.ppq="18" dur="2" oct="4" pname="d" stem.dir="down" accid="s" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mi2ox1c" n="5">
+                     <staff xml:id="sy89yl2" n="1">
+                        <layer xml:id="ltznya0" n="1">
+                           <note xml:id="ndlrykb" dur.ppq="6" dur="4" oct="4" pname="c" stem.dir="down" accid="s">
+                              <artic xml:id="am4ty9b" artic="ten" />
+                           </note>
+                           <note xml:id="n39p67o" dur.ppq="12" dur="2" oct="2" pname="g" stem.dir="up" accid="s">
+                              <artic xml:id="a15b352" artic="ten" />
+                           </note>
+                           <note xml:id="ntdv9v2" dur.ppq="6" dur="4" oct="2" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="sqel55k" startid="#n39p67o" endid="#ntdv9v2" curvedir="below" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

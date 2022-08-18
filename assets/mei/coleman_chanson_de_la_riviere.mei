@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Chanson de la Riviére</title>
+            <respStmt>
+               <persName role="composer">Valerie Coleman</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-08-12" type="encoding-date">2022-08-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-wklyy5">
+         <appInfo xml:id="appinfo-cpcmm">
+            <application xml:id="application-b1qn2a" isodate="2022-08-18T10:38:10" version="3.10.0-845ab54">
+               <name xml:id="name-kvue4s">Verovio</name>
+               <p xml:id="p-5mdncp">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mqfrl3l">
+            <score xml:id="stbphg6">
+               <scoreDef xml:id="srk0jz7">
+                  <pgHead xml:id="p3oifml">
+                     <rend xml:id="rslfic6" halign="center" valign="top">Chanson de la Riviére</rend>
+                     <rend xml:id="rdfj176" halign="right" valign="bottom">Valerie Coleman</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sltugf">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l4clxcs">Flute</label>
+                        <labelAbbr xml:id="lqrkb39">Fl.</labelAbbr>
+                        <instrDef xml:id="im45sf9" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                        <clef xml:id="ca5k8h7" shape="G" line="2" />
+                        <keySig xml:id="k67xsb2" sig="1f" />
+                        <meterSig xml:id="m7i9udd" count="6" unit="8" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="se7gtf8">
+                  <measure xml:id="mctmf7a" n="1">
+                     <staff xml:id="shr5oqv" n="1">
+                        <layer xml:id="lv384zc" n="1">
+                           <beam xml:id="bod5iow">
+                              <note xml:id="n9lkxyz" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="nl7o308" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="n6mw7ya" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="bvzch5m">
+                              <note xml:id="nnzhpf5" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="nxjiqyh" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="ndewvdl" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dwsbezu" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">p</dynam>
+                     <tempo xml:id="trux1fb" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="132.000000" mm="88.000000" mm.unit="4" mm.dots="1">SERENE. &#x1d15f; &#x1d16d; = 88</tempo>
+                     <slur xml:id="su5nnnd" startid="#n9lkxyz" endid="#ndewvdl" curvedir="below" />
+                  </measure>
+                  <measure xml:id="mxveoep" n="2">
+                     <staff xml:id="smg7kc" n="1">
+                        <layer xml:id="lpgbs2b" n="1">
+                           <beam xml:id="bb79lpr">
+                              <note xml:id="n1yzdc3" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="nxwhemq" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="n2jhw23" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="bgj3voe">
+                              <note xml:id="nw7tyey" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="njgtrb3" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="nr4czqb" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sptgisp" startid="#n1yzdc3" endid="#nk25gw" curvedir="below" />
+                     <tie xml:id="tbl5zxh" startid="#nr4czqb" endid="#nw7prob" />
+                     <tie startid="#nw7prob" endid="#nk25gw" />
+                  </measure>
+                  <measure xml:id="mbipmnd" n="3">
+                     <staff xml:id="sqo1ic7" n="1">
+                        <layer xml:id="ly1sl8r" n="1">
+                           <note xml:id="nw7prob" dots="1" dur.ppq="6" dur="2" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m756ikl" n="4">
+                     <staff xml:id="sk1rn5w" n="1">
+                        <layer xml:id="lew2f4d" n="1">
+                           <note xml:id="nk25gw" dots="1" dur.ppq="6" dur="2" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mn8pnsf" n="5">
+                     <staff xml:id="s9069px" n="1">
+                        <layer xml:id="lp6zozc" n="1">
+                           <beam xml:id="b1kew8r">
+                              <note xml:id="nj4xi3d" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="nommxxi" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="ng8gj24" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="brcy6m6">
+                              <note xml:id="n14lnu" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="ns8aias" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="nnu574n" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sd4kd" startid="#nj4xi3d" endid="#nnu574n" curvedir="below" />
+                  </measure>
+                  <measure xml:id="my1imo5" n="6">
+                     <staff xml:id="sm85t5p" n="1">
+                        <layer xml:id="l9nlfhq" n="1">
+                           <beam xml:id="b4hk2o">
+                              <note xml:id="nt2o8qq" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="n9xisdp" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="nq3hq8" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="bx674m8">
+                              <note xml:id="nuv2qic" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="nyqc5qo" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="nu64vrw" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="shk3q6z" startid="#nt2o8qq" endid="#nu64vrw" curvedir="below" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

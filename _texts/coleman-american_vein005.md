@@ -3,7 +3,7 @@ layout: mei
 title: American Vein, V. Barn Raising, Bourbon and Bluegrass (BB&B)
 author: Coleman, Valerie
 permalink: /coleman-american-vein-barn-raising/
-document:
+document: coleman_american_vein005.mei
 ---
 
 - In *American vein: for oboe (English horn), contrabass and narrator.* New York: Vcoleman Music Publishing, Inc., 2019, 2022.

@@ -3,7 +3,7 @@ layout: mei
 title: Chanson de La riviére
 author: Coleman, Valerie
 permalink: /coleman-chanson/
-document:
+document: coleman_chanson_de_la_riviere.mei
 ---
 
 - In *Chanson de La riviére: for two flutes.* New York: Vcoleman Music Publishing, Inc., 2012, 2022.

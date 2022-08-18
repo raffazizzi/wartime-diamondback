@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>American Vein</title>
+            <respStmt>
+               <persName role="composer">Valerie Coleman</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-08-12" type="encoding-date">2022-08-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-tlic0v">
+         <appInfo xml:id="appinfo-2da7hj">
+            <application xml:id="application-81jzmv" isodate="2022-08-18T10:37:53" version="3.10.0-845ab54">
+               <name xml:id="name-dtd4ey">Verovio</name>
+               <p xml:id="p-j2tw1x">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="ma2qqaj">
+            <score xml:id="s4yw2kp">
+               <scoreDef xml:id="skdhfyx">
+                  <pgHead xml:id="peg48tj">
+                     <rend xml:id="r6nslm" halign="center" valign="top">American Vein</rend>
+                     <rend xml:id="r9nvdhk" halign="center" valign="top">2. On Route 66</rend>
+                     <rend xml:id="rf15h5r" halign="right" valign="bottom">Valerie Coleman</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sjpw1qr">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="6" trans.diat="-7.000000" trans.semi="-12.000000">
+                        <label xml:id="lj54feu">Contrabass</label>
+                        <labelAbbr xml:id="lauht96">Cb.</labelAbbr>
+                        <instrDef xml:id="isg4u5g" midi.channel="0" midi.instrnum="43" midi.volume="78.00%" />
+                        <clef xml:id="c5ak9z5" shape="F" line="4" />
+                        <keySig xml:id="kihx6ll" sig="0" />
+                        <meterSig xml:id="ma1dq3k" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sped99r">
+                  <measure xml:id="myauer9" n="1">
+                     <staff xml:id="s2byife" n="1">
+                        <layer xml:id="lu2ksdi" n="1">
+                           <bTrem xml:id="bit1dmx" form="meas">
+                              <note xml:id="naeu5wn" dur.ppq="24" dur="1" oct="2" pname="f" stem.mod="3slash" accid="n" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tihohty" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="120.000000" mm.unit="4">
+                        <rend xml:id="rd80nwn" fontweight="bold">REVVING UP. &#x1d15f; = 120</rend></tempo>
+                     <dir xml:id="d8o0qet" place="below" staff="1" tstamp="1.000000" vgrp="54">
+                        <rend xml:id="rixgrzi" fontstyle="italic" fontweight="bold">like a car engine roaring, with swells</rend>
+                     </dir>
+                     <tie xml:id="t7zg1ps" startid="#naeu5wn" endid="#nhcfin6" />
+                  </measure>
+                  <measure xml:id="ms22clg" n="2">
+                     <staff xml:id="syqkfo3" n="1">
+                        <layer xml:id="lbdxo40" n="1">
+                           <tuplet xml:id="t5a3gzu" num="3" numbase="2" bracket.visible="true">
+                              <bTrem xml:id="bmshj9p" form="meas">
+                                 <note xml:id="nhcfin6" dur.ppq="8" dur="2" oct="2" pname="f" stem.dir="up" stem.mod="3slash" />
+                              </bTrem>
+                              <bTrem xml:id="b6gmxyw" form="meas">
+                                 <note xml:id="njj58zn" dur.ppq="8" dur="2" oct="2" pname="b" stem.dir="up" stem.mod="3slash" />
+                              </bTrem>
+                              <bTrem xml:id="bjli9" form="meas">
+                                 <note xml:id="nrp8znq" dur.ppq="8" dur="2" oct="2" pname="f" stem.dir="up" stem.mod="3slash" />
+                              </bTrem>
+                           </tuplet>
+                        </layer>
+                     </staff>
+                     <gliss xml:id="gejhvtj" type="slide" staff="1" startid="#nhcfin6" endid="#njj58zn" lform="solid" n="1" />
+                     <gliss xml:id="god5aak" type="slide" staff="1" startid="#njj58zn" endid="#nrp8znq" lform="solid" n="2" />
+                     <gliss xml:id="grifqm3" type="slide" staff="1" startid="#nrp8znq" endid="#nx13ii1" lform="solid" n="1" />
+                  </measure>
+                  <measure xml:id="mysh102" n="3">
+                     <staff xml:id="strp3q3" n="1">
+                        <layer xml:id="ldcygjh" n="1">
+                           <note xml:id="nx13ii1" dur.ppq="6" dur="4" oct="2" pname="b" stem.dir="up" />
+                           <bTrem xml:id="bc7iofv" form="meas">
+                              <note xml:id="nn93x7g" dots="1" dur.ppq="18" dur="2" oct="2" pname="f" stem.dir="up" stem.mod="3slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <gliss xml:id="gps45hi" type="slide" staff="1" startid="#nx13ii1" endid="#nn93x7g" lform="solid" n="2" />
+                     <gliss xml:id="gpm7myq" type="slide" staff="1" startid="#nn93x7g" endid="#nupwcp2" lform="solid" n="1" />
+                  </measure>
+                  <measure xml:id="m2bjtuh" n="4">
+                     <staff xml:id="sqeui0z" n="1">
+                        <layer xml:id="ls2e5e7" n="1">
+                           <bTrem xml:id="b70sx68" form="meas">
+                              <note xml:id="nupwcp2" dur.ppq="6" dur="4" oct="2" pname="b" stem.dir="up" stem.mod="3slash" accid="f" />
+                           </bTrem>
+                           <bTrem xml:id="ba32lbx" form="meas">
+                              <note xml:id="ndwcfbx" dots="1" dur.ppq="18" dur="2" oct="2" pname="f" stem.dir="up" stem.mod="3slash">
+                                 <artic xml:id="ado6awj" artic="acc" />
+                              </note>
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <gliss xml:id="gqh0px7" type="slide" staff="1" startid="#nupwcp2" endid="#ndwcfbx" lform="solid" n="2" />
+                  </measure>
+                  <scoreDef xml:id="s5urqzb">
+                     <meterSig xml:id="m1wmnct" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mjfsgkq" n="5">
+                     <staff xml:id="sil1y8b" n="1">
+                        <layer xml:id="lymth83" n="1">
+                           <bTrem xml:id="bbocgix" form="meas">
+                              <note xml:id="n738mkg" dots="1" dur.ppq="18" dur="2" oct="2" pname="f" stem.dir="up" stem.mod="3slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <gliss xml:id="gq76suc" type="slide" staff="1" startid="#n738mkg" endid="#neturv1" lform="solid" n="1" />
+                  </measure>
+                  <scoreDef xml:id="s5h0x17">
+                     <meterSig xml:id="mpydtbw" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mdewd3p" n="6">
+                     <staff xml:id="s1mopom" n="1">
+                        <layer xml:id="ldgpw1n" n="1">
+                           <bTrem xml:id="b8ey0sn" form="meas">
+                              <note xml:id="neturv1" dots="1" dur.ppq="18" dur="2" oct="3" pname="e" stem.dir="down" stem.mod="3slash" accid="f" />
+                           </bTrem>
+                           <note xml:id="ne3yo2q" dur.ppq="6" dur="4" oct="3" pname="e" stem.dir="down" accid="f">
+                              <artic xml:id="axhbppy" artic="acc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dvxmvcs" place="below" staff="1" tstamp="1.000000" val="112" vgrp="53">ff</dynam>
+                     <gliss xml:id="gitff3t" type="slide" staff="1" startid="#ne3yo2q" endid="#nrb0ja1" lform="solid" n="1" />
+                  </measure>
+                  <scoreDef xml:id="s684vfj">
+                     <meterSig xml:id="m29tjy3" count="5" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="ma48n89" n="7">
+                     <staff xml:id="s7qdbfd" n="1">
+                        <layer xml:id="lvetdm1" n="1">
+                           <bTrem xml:id="bmdov5a" form="meas">
+                              <note xml:id="nrb0ja1" dots="1" dur.ppq="9" dur="4" oct="2" pname="b" stem.dir="up" stem.mod="3slash" />
+                           </bTrem>
+                           <note xml:id="ntcp8pj" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up">
+                              <artic xml:id="aazpzsw" artic="stacc" />
+                              <artic xml:id="av7ts72" artic="acc" />
+                           </note>
+                           <beam xml:id="b4utmnb">
+                              <note xml:id="niw0j5e" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up">
+                                 <artic xml:id="a2tawfx" artic="stacc" />
+                                 <artic xml:id="a7gs3hh" artic="acc" />
+                              </note>
+                              <note xml:id="ngbmh4j" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up">
+                                 <artic xml:id="aaa3ywl" artic="stacc" />
+                                 <artic xml:id="arzqd9z" artic="acc" />
+                              </note>
+                           </beam>
+                           <beam xml:id="brmg943">
+                              <note xml:id="nors8zk" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up">
+                                 <artic xml:id="asob966" artic="stacc" />
+                                 <artic xml:id="ak9hqzo" artic="acc" />
+                              </note>
+                              <note xml:id="n9goe1q" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up">
+                                 <artic xml:id="a8fet5c" artic="stacc" />
+                                 <artic xml:id="a3ineyv" artic="acc" />
+                              </note>
+                           </beam>
+                           <beam xml:id="bw3xnxr">
+                              <note xml:id="n4rkqht" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up">
+                                 <artic xml:id="ab6qje8" artic="stacc" />
+                                 <artic xml:id="awnurw3" artic="acc" />
+                              </note>
+                              <note xml:id="nplzq32" dur.ppq="3" dur="8" oct="2" pname="f" stem.dir="up">
+                                 <artic xml:id="apsllrn" artic="stacc" />
+                                 <artic xml:id="ac48wvp" artic="acc" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hcgof4f" staff="1" tstamp="3.500000" tstamp2="0m+5.5000" form="cres" place="below" vgrp="85" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
