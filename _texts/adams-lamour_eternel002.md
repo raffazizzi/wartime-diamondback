@@ -3,7 +3,7 @@ layout: mei
 title: L'amour éternel, II. Andantino e poco agitato
 author: Adams, Leslie
 permalink: /adams-lamour-eternel-ii/
-document:
+document: adams_lamour_eternel002.mei
 ---
 
 - In *L'amour éternel: for flute and piano.* New York, NY: American Composers Alliance Inc., 2020.

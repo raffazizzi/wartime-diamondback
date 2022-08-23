@@ -3,7 +3,7 @@ layout: mei
 title: Voices from the light
 author: Moore, Dorothy Rudd
 permalink: /moore-voices-from-the-light/
-document:
+document: moore_voices_from_the_light.mei
 ---
 
 - In *Voices from the light: for women's chorus, oboe, string quartet and piano (1997).* New York, NY: American Composers Alliance, 2018.
