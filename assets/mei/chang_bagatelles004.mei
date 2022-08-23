@@ -147,7 +147,7 @@
                      <tie xml:id="t34mo0n" startid="#nizor21" endid="#n792jbl" />
                      <tie startid="#n792jbl" endid="#nqsmgm" curvedir="below" />
                      <dir xml:id="dw130k6" place="above" staff="1" tstamp="5.000000" tstamp2="0m+9.0000" lform="dashed" extender="true" vgrp="200">poco rit.</dir>
-                     <pedal xml:id="psdi3o2" staff="2" tstamp="1.000000" form="line" place="below" vgrp="1" />
+                     <pedal dir="down" staff="2" startid="#nqxxejx" place="below" vgrp="1" />
                      <beamSpan xml:id="bgnd36t" startid="#n6xqclj" endid="#nu44ly0" />
                   </measure>
                   <sb xml:id="s1mv51j" />
@@ -234,7 +234,8 @@
                      <dir xml:id="d2w8wxn" place="above" staff="1" tstamp="5.000000" lform="dashed" extender="true" vgrp="200">poco rit.</dir>
                      <slur xml:id="sn15c6o" startid="#n20sv1r" endid="#n65avxs" curvedir="above" />
                      <beamSpan xml:id="bfxv7uu" startid="#nmfafzo" endid="#njwnpd" />
-                     <pedal xml:id="pvfi3fx" staff="2" tstamp="7.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal dir="bounce" staff="2" startid="#nqzi0hr" place="below" vgrp="1" />
+                     <pedal dir="down" staff="2" endid="#n65avxs" place="below" vgrp="1" />
                   </measure>
                </section>
             </score>
