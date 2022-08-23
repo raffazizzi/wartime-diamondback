@@ -60,7 +60,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t1lyy8" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="ro1hjob" fontweight="bold">Allegro ( &#x1d15f; = ca. 120)</rend></tempo>
+                        <rend xml:id="ro1hjob" fontweight="bold">Allegro (&#x1d15f; = ca. 120)</rend></tempo>
                   </measure>
                   <measure xml:id="micnggi" n="1">
                      <staff xml:id="scssve7" n="1">
