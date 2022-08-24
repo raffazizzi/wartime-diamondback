@@ -3,7 +3,7 @@ layout: mei
 title: Three pieces, III. Caprice
 author: Moore, Dorothy Rudd
 permalink: /moore-three-pieces-caprice/
-document:
+document: moore_three_pieces003.mei
 ---
 
 - In *Three pieces for violin and piano.* New York, NY: American Composers Alliance Inc., 2021.

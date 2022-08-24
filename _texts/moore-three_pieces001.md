@@ -3,7 +3,7 @@ layout: mei
 title: Three pieces, I. Vignette
 author: Moore, Dorothy Rudd
 permalink: /moore-three-pieces-vignette/
-document:
+document: moore_three_pieces001.mei
 ---
 
 - In *Three pieces for violin and piano.* New York, NY: American Composers Alliance Inc., 2021.
