@@ -170,33 +170,39 @@
                               <tuplet xml:id="tc5h9qj" num="6" numbase="4" num.visible="false" bracket.visible="false">
                                  <note xml:id="nocksjg" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
                                     <verse xml:id="vpx5ne4" n="1">
-                                       <syl xml:id="s47gfsy" con="d" wordpos="i">t</syl>
+                                       <dir place="above" staff="1" tstamp="1.000000">
+                                            <syl xml:id="s47gfsy" con="d" wordpos="i">t</syl> </dir>
                                     </verse>
                                     <artic xml:id="af0k7yq" artic="acc" />
                                  </note>
                                  <note xml:id="n1hsdip" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
                                     <verse xml:id="vrzn982" n="1">
-                                       <syl xml:id="shsbmj0" con="d" wordpos="m">k</syl>
+                                       <dir place="above" staff="1" tstamp="1.500000">
+                                          <syl xml:id="shsbmj0" con="d" wordpos="m">k</syl></dir>
                                     </verse>
                                  </note>
                                  <note xml:id="n3w082l" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
                                     <verse xml:id="v33ng93" n="1">
-                                       <syl xml:id="s47o3pl" con="d" wordpos="m">t</syl>
+                                       <dir place="above" staff="1" tstamp="2.000000">
+                                          <syl xml:id="s47o3pl" con="d" wordpos="m">t</syl></dir>
                                     </verse>
                                  </note>
                                  <note xml:id="n61r755" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
                                     <verse xml:id="vkbul0e" n="1">
-                                       <syl xml:id="suzf9yl" con="d" wordpos="m">k</syl>
+                                       <dir place="above" staff="1" tstamp="2.500000">
+                                          <syl xml:id="suzf9yl" con="d" wordpos="m">k</syl></dir>
                                     </verse>
                                  </note>
                                  <note xml:id="nfblq2l" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
                                     <verse xml:id="vdfi8dv" n="1">
-                                       <syl xml:id="s6koy3k" con="d" wordpos="m">t</syl>
+                                       <dir place="above" staff="1" tstamp="3.000000">
+                                          <syl xml:id="s6koy3k" con="d" wordpos="m">t</syl></dir>
                                     </verse>
                                  </note>
                                  <note xml:id="nq7t5nj" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
                                     <verse xml:id="vhm228n" n="1">
-                                       <syl xml:id="sbavr4c" con="s" wordpos="t">k</syl>
+                                       <dir place="above" staff="1" tstamp="3.500000">
+                                          <syl xml:id="sbavr4c" con="s" wordpos="t">k</syl></dir>
                                     </verse>
                                  </note>
                               </tuplet>
