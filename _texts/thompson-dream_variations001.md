@@ -3,7 +3,7 @@ layout: mei
 title: Dream variations, I. I, too, sing America
 author: Thompson, Richard
 permalink: /thompson-dream-variations-sing/
-document:
+document: thompson_dream_variations001.mei
 ---
 
 - In *Dream variations: for tenor and piano: 2003.* New York, NY: American Composers Alliance Inc., 2020.

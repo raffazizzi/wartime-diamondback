@@ -3,7 +3,7 @@ layout: mei
 title: Dream variations, III. Monotony
 author: Thompson, Richard
 permalink: /thompson-dream-variations-monotony/
-document:
+document: thompson_dream_variations003.mei
 ---
 
 - In *Dream variations: for tenor and piano: 2003.* New York, NY: American Composers Alliance Inc., 2020.

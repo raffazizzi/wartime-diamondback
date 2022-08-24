@@ -3,7 +3,7 @@ layout: mei
 title: Dream variations, V. Dream Variations
 author: Thompson, Richard
 permalink: /thompson-dream-variations-variations/
-document:
+document: thompson_dream_variations005.mei
 ---
 
 - In *Dream variations: for tenor and piano: 2003.* New York, NY: American Composers Alliance Inc., 2020.

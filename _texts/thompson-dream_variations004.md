@@ -3,7 +3,7 @@ layout: mei
 title: Dream variations, IV. A Black Pierrot
 author: Thompson, Richard
 permalink: /thompson-dream-variations-pierrot/
-document:
+document: thompson_dream_variations004.mei
 ---
 
 - In *Dream variations: for tenor and piano: 2003.* New York, NY: American Composers Alliance Inc., 2020.

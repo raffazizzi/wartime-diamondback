@@ -3,7 +3,7 @@ layout: mei
 title: Dream variations, II. The Negro speaks of Rivers
 author: Thompson, Richard
 permalink: /thompson-dream-variations-rivers/
-document:
+document: thompson_dream_variations002.mei
 ---
 
 - In *Dream variations: for tenor and piano: 2003.* New York, NY: American Composers Alliance Inc., 2020.
