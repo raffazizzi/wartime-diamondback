@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>I Still Think About You</title>
+            <respStmt>
+               <persName role="composer">Nicole Lizée</persName>
+               <persName role="transcriber">Phillip Wright</persName>
+               <persName role="reviewer">Anna Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-07-14" type="encoding-date">2022-07-14</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-srnijk">
+         <appInfo xml:id="appinfo-q460oc">
+            <application xml:id="application-wtjlz8" isodate="2022-08-25T09:31:48" version="3.10.0-845ab54">
+               <name xml:id="name-2v7pj5">Verovio</name>
+               <p xml:id="p-5tw61z">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mnoh19h">
+            <score xml:id="smz73f2">
+               <scoreDef xml:id="saaochz">
+                  <pgHead xml:id="pitocg">
+                     <rend xml:id="rc12utl" halign="center" valign="top">I Still Think About You</rend>
+                     <rend xml:id="rq1hrp9" halign="center" valign="top">Karaoke Ballad 1</rend>
+                     <rend xml:id="rgiv5e6" halign="right" valign="bottom">Nicole Lizée</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sfg1rie">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l6dek9n">Karaoke Tape</label>
+                        <labelAbbr xml:id="lk0x74g">Tape</labelAbbr>
+                        <instrDef xml:id="ihe6t36" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                        <clef xml:id="cocgkem" shape="perc" />
+                        <keySig xml:id="k82ht0y" sig="0" />
+                        <meterSig xml:id="m5dfloj" count="4" unit="4" />
+                     </staffDef>
+                     <staffGrp xml:id="sccka20">
+                        <grpSym xml:id="gd5qmqq" symbol="bracketsq" />
+                        <staffGrp xml:id="P2" bar.thru="true">
+                           <label xml:id="lj31meg">Percussion</label>
+                           <labelAbbr xml:id="lkyuauk">Perc.</labelAbbr>
+                           <instrDef xml:id="ibabtiw" midi.channel="1" midi.instrnum="0" midi.volume="78.00%" />
+                           <staffDef xml:id="st8czcj" n="2" lines="5" ppq="2">
+                              <clef xml:id="cic6whz" shape="G" line="2" />
+                              <keySig xml:id="kl2poxz" sig="0" />
+                              <meterSig xml:id="mptsd7n" count="4" unit="4" />
+                           </staffDef>
+                           <staffDef xml:id="sqa22f9" n="3" lines="5" ppq="2">
+                              <clef xml:id="cno5k7q" shape="G" line="2" />
+                              <keySig xml:id="kgt4eol" sig="0" />
+                              <meterSig xml:id="mok7jt0" count="4" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="shofcp0">
+                  <pb xml:id="p4hqims" />
+                  <measure xml:id="mfug9qo" n="1">
+                     <staff xml:id="supbaax" n="1">
+                        <layer xml:id="l19dlce" n="1">
+                           <mRest xml:id="mkv8oqy" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sad1n8d" n="2">
+                        <layer xml:id="lsk4npc" n="1">
+                           <mRest xml:id="mxnv589" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="svy1tny" n="3">
+                        <layer xml:id="luln03m" n="5">
+                           <mRest xml:id="m3l2ldx" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dfm947q" place="above" staff="1" tstamp="1.000000" vgrp="221">Karaoke Tape 1:<lb xml:id="lp6t2oo" />Press play - wait for cue</dir>
+                  </measure>
+                  <measure xml:id="mghv09j" n="2">
+                     <staff xml:id="sliqaf0" n="1">
+                        <layer xml:id="lpb2ls2" n="1">
+                           <chord xml:id="ci997d9" dur.ppq="1" dur="8" stem.dir="up">
+                              <note xml:id="n6osg3l" oct="4" pname="e" />
+                              <note xml:id="nj8h3j3" oct="4" pname="g" />
+                              <note xml:id="n77xgo2" oct="5" pname="c" />
+                           </chord>
+                           <rest xml:id="rybz7ps" dur.ppq="1" dur="8" />
+                           <chord xml:id="c5xts0j" dur.ppq="1" dur="8" stem.dir="up">
+                              <note xml:id="ncwuv18" oct="4" pname="e" />
+                              <note xml:id="npavsri" oct="4" pname="g" />
+                              <note xml:id="njvkovm" oct="5" pname="c" />
+                           </chord>
+                           <rest xml:id="rfv1x1t" dur.ppq="1" dur="8" />
+                           <rest xml:id="rgsyuse" dur.ppq="4" dur="2" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sle5tec" n="2">
+                        <layer xml:id="l6xodwz" n="1">
+                           <mRest xml:id="m6zuq9f" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="suyfdh5" n="3">
+                        <layer xml:id="lhtgdtk" n="5">
+                           <mRest xml:id="mw34x6" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t75tty5" place="above" staff="1" tstamp="1.000000" midi.bpm="84.000000" mm="84.000000" mm.unit="4">
+                        <rend xml:id="rog5szu" fontname="VerovioText">&#x1d15f; = 84</rend></tempo>
+                     <dir xml:id="d62d85g" place="above" staff="1" tstamp="1.000000" vgrp="213">(Cue)</dir>
+                     <dynam xml:id="dn2uw55" place="below" staff="1" tstamp="1.000000" val="80" vgrp="42">mf</dynam>
+                     <dir xml:id="dmatc3y" place="above" staff="1" tstamp="2.000000" vgrp="214">Delay tail</dir>
+                     <dir place="above" staff="3" tstamp="0.5" vgrp="222">
+                        <rend xml:id="l9ilx61" />With delay ca. 600 ms - 2-3 repeats</dir>
+                     <dir place="above" staff="3" tstamp="0.5" vgrp="221">
+                        <rend xml:id="regm5d3">Stylophone - high 8ve setting - Vibarato ON</rend></dir>
+                  </measure>
+                  <measure xml:id="msy7xya" n="3">
+                     <staff xml:id="sbt447s" n="1">
+                        <layer xml:id="lisupcj" n="1">
+                           <mRest xml:id="mvvd8st" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sptbp3g" n="2">
+                        <layer xml:id="lt79sai" n="1">
+                           <rest xml:id="r9eynhx" dur.ppq="2" dur="4" />
+                           <beam xml:id="brdmyk3">
+                              <note xml:id="nsut704" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="nktb4fi" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" />
+                           </beam>
+                           <rest xml:id="r8kj3ac" dur.ppq="1" dur="8" />
+                           <note xml:id="nzbrkzm" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="nuczrf8" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sf1wzsj" n="3">
+                        <layer xml:id="lxc6gb9" n="5">
+                           <beam xml:id="bmbkjnt">
+                              <note xml:id="nu1y5w1" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="ncluxyz" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" />
+                           </beam>
+                           <rest xml:id="r354g7g" dur.ppq="2" dur="4" />
+                           <note xml:id="nq3yftd" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                              <artic xml:id="a2jrf7b" artic="stacc" />
+                           </note>
+                           <rest xml:id="rogwj3q" dur.ppq="1" dur="8" />
+                           <rest xml:id="r1rexzr" dur.ppq="1" dur="8" />
+                           <note xml:id="ncofehm" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                              <artic xml:id="aljo88e" artic="stacc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d5kfojr" place="below" staff="2" tstamp="1.5" val="80" vgrp="40">mf</dynam>
+                     <dir xml:id="d7awcr0" place="above" staff="2" tstamp="1.75" vgrp="200">
+                        <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>                     </dir>
+                     <dir xml:id="d4o5mlz" place="above" staff="2" tstamp="2" vgrp="200">Vibraphone Motor Fast</dir>
+                     <pedal xml:id="p58le9r" staff="2" tstamp="2.000000" dir="down" form="line" place="below" vgrp="89" />
+                     <gliss xml:id="gljsbjg" type="slide" staff="2" startid="#nsut704" endid="#nktb4fi" lform="solid" n="1" />
+                     <pedal xml:id="p9yy4i7" staff="2" tstamp="2.400000" dir="up" form="line" place="below" vgrp="200" />
+                     <dir xml:id="d4wypz2" place="below" staff="2" tstamp="2" vgrp="40">
+                        <rend xml:id="rts9i3y">Ped. (Change rarely - only when overly blurry)</rend></dir>
+                     <dynam xml:id="dtywoii" place="below" staff="3" tstamp="1.000000" val="80">mf</dynam>
+                     <gliss xml:id="g1c96as" type="slide" staff="3" startid="#nu1y5w1" endid="#ncluxyz" lform="solid" n="1" />
+                     <dir xml:id="ds6p2l5" place="below" staff="3" tstamp="3.000000" vgrp="49">(Tap stylus once on pitch)</dir>
+                  </measure>
+                  <measure xml:id="m7pwd7c" n="4">
+                     <staff xml:id="s475psr" n="1">
+                        <layer xml:id="l2c97en" n="1">
+                           <mRest xml:id="mt0rrck" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sxjmwnw" n="2">
+                        <layer xml:id="lfb46r8" n="1">
+                           <note xml:id="n3afpj5" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="nj74c9k" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
+                           <rest xml:id="rnier8t" dur.ppq="1" dur="8" />
+                           <note xml:id="nb8oh5" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                           <note xml:id="npbjgdh" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sxd3z4c" n="3">
+                        <layer xml:id="lnzgzq2" n="5">
+                           <note xml:id="nicunyd" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="n1z6z8i" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="n9jwuzu" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                              <artic xml:id="ayw43eg" artic="stacc" />
+                           </note>
+                           <rest xml:id="ra28mit" dur.ppq="1" dur="8" />
+                           <rest xml:id="rwpp19m" dur.ppq="1" dur="8" />
+                           <note xml:id="njknif2" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                              <artic xml:id="anvhhkj" artic="stacc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <gliss xml:id="gfef5ha" type="slide" staff="2" startid="#n3afpj5" endid="#nj74c9k" lform="solid" n="1" />
+                     <gliss xml:id="gnvqkr4" type="slide" staff="3" startid="#nicunyd" endid="#n1z6z8i" lform="solid" n="1" />
+                  </measure>
+                  <sb xml:id="s77k866" />
+                  <measure xml:id="mm970se" n="5">
+                     <staff xml:id="sxuoayj" n="1">
+                        <layer xml:id="le0m6d7" n="1">
+                           <mRest xml:id="mwvtt48" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s72j7tk" n="2">
+                        <layer xml:id="lbbwhct" n="1">
+                           <note xml:id="nv6tps" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="nw8yrhl" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="up" />
+                           <note xml:id="nkpkt7e" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
+                           <note xml:id="nc24hvp" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="si6ew3x" n="3">
+                        <layer xml:id="lexibmg" n="5">
+                           <note xml:id="nqoohsr" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="n8fcwqb" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" />
+                           <note xml:id="nd83ldx" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="nhskuwp" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <gliss xml:id="g4kwzle" type="slide" staff="2" startid="#nv6tps" endid="#nw8yrhl" lform="solid" n="1" />
+                     <dir xml:id="dgla176" place="above" staff="2" tstamp="3.000000" vgrp="214">(For short glisses connect notes as much as poss.)</dir>
+                     <gliss xml:id="gkb63b0" type="slide" staff="2" startid="#nkpkt7e" endid="#nc24hvp" lform="solid" n="1" />
+                     <gliss xml:id="g42t3cq" type="slide" staff="3" startid="#nqoohsr" endid="#n8fcwqb" lform="solid" n="1" />
+                     <gliss xml:id="gomn19k" type="slide" staff="3" startid="#nd83ldx" endid="#nhskuwp" lform="solid" n="1" />
+                  </measure>
+                  <measure xml:id="m6hipxl" n="6">
+                     <staff xml:id="sku2z49" n="1">
+                        <layer xml:id="l4nanw3" n="1">
+                           <mRest xml:id="ma480gi" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s51ncb1" n="2">
+                        <layer xml:id="l7gm3rj" n="1">
+                           <note xml:id="nq8ge7n" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" />
+                           <rest xml:id="rde91hm" dur.ppq="1" dur="8" />
+                           <note xml:id="nfkzmu2" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="nw7r8ji" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="n5bq5te" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="shia101" n="3">
+                        <layer xml:id="l6ckhs5" n="5">
+                           <note xml:id="nwbmtx6" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="nungwas" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="ajqt2ms" artic="stacc" />
+                           </note>
+                           <rest xml:id="re0n56l" dur.ppq="1" dur="8" />
+                           <note xml:id="nt78llq" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="nsxrne7" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dav46w0" place="above" staff="1" tstamp="1.000000" vgrp="200">(Background vocals fade in and out) </dir>
+                     <gliss xml:id="gktayfw" type="slide" staff="2" startid="#nw7r8ji" endid="#n5bq5te" lform="solid" n="1" />
+                     <gliss xml:id="g3lpej0" type="slide" staff="2" startid="#n5bq5te" endid="#nyvnbnx" lform="solid" n="2" />
+                     <gliss xml:id="g7kpd8o" type="slide" staff="3" startid="#nt78llq" endid="#nsxrne7" lform="solid" n="1" />
+                     <gliss xml:id="gk6ntgv" type="slide" staff="3" startid="#nsxrne7" endid="#nqcl4x4" lform="solid" n="3" />
+                  </measure>
+                  <measure xml:id="mmuzeco" n="7">
+                     <staff xml:id="sfgp5ge" n="1">
+                        <layer xml:id="lfi8hz1" n="1">
+                           <mRest xml:id="mfhyo9e" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sj5bx54" n="2">
+                        <layer xml:id="lh3bkgd" n="1">
+                           <note xml:id="nyvnbnx" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
+                           <rest xml:id="rzh0r9w" dur.ppq="1" dur="8" />
+                           <note xml:id="n4v0c8n" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                           <note xml:id="nv3yl34" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
+                           <note xml:id="nee716b" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sl7thmx" n="3">
+                        <layer xml:id="lr7sypa" n="5">
+                           <note xml:id="nqcl4x4" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="nul1a1x" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                              <artic xml:id="a5y4pee" artic="stacc" />
+                           </note>
+                           <rest xml:id="rqjjqiz" dur.ppq="1" dur="8" />
+                           <note xml:id="nmi54cw" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="npmnf4m" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <gliss xml:id="gu1ixei" type="slide" staff="2" startid="#nv3yl34" endid="#nee716b" lform="solid" n="1" />
+                     <gliss xml:id="g9l9tsx" type="slide" staff="3" startid="#nmi54cw" endid="#npmnf4m" lform="solid" n="1" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
