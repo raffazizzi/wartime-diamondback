@@ -236,12 +236,11 @@
                      <dir place="above" staff="3" tstamp="1.000000" vgrp="200">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
-                     <dir place="above" staff="3" tstamp="1.25" vgrp="200">
+                     <dir place="above" staff="3" tstamp="1.5" vgrp="200">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
                      <dir xml:id="d9aytrm" place="above" staff="3" tstamp="2.000000" vgrp="229">Vibraphone Motor Slow</dir>
-                     <pedal xml:id="p9jhg8j" staff="3" tstamp="2.000000" dir="down" form="line" place="below" vgrp="65" />
-                     <pedal xml:id="pdj0fpf" staff="3" tstamp="2.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="p9jhg8j" staff="3" tstamp="2.000000" dir="down" place="below" vgrp="65" />
                      <gliss xml:id="gqwpv81" type="slide" staff="3" startid="#n2klzns" endid="#nufjh1a" lform="solid" n="1" />
                   </measure>
                   <measure xml:id="molfkwg" n="6">
