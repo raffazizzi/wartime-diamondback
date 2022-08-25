@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantus</title>
+            <respStmt>
+               <persName role="composer">Mario Diaz de Leon</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+              <persName role="reviewer">Anna E. Kijas</persName>
+              </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-08-12" type="encoding-date">2022-08-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+           <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-wk62t5">
+         <appInfo xml:id="appinfo-mxpv0k">
+            <application xml:id="application-5don5v" isodate="2022-08-25T16:25:42" version="3.10.0-845ab54">
+               <name xml:id="name-in9kpn">Verovio</name>
+               <p xml:id="p-84f40m">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="membkpy">
+            <score xml:id="s2zv2iu">
+               <scoreDef xml:id="s8aopnc">
+                  <pgHead xml:id="p9e1yc">
+                     <rend xml:id="rgbfoo8" halign="center" valign="top">Cantus</rend>
+                     <rend xml:id="rso3k62" halign="right" valign="bottom">Mario Diaz de Leon</rend>
+                  </pgHead>
+                  <staffGrp xml:id="soo2ogb">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="lb2uk3">Violoncello</label>
+                        <labelAbbr xml:id="l43x831">Vc.</labelAbbr>
+                        <instrDef xml:id="ix0xcqu" midi.channel="0" midi.instrnum="42" midi.volume="78.00%" />
+                        <clef xml:id="coub8o8" shape="F" line="4" />
+                        <keySig xml:id="kvm13z" sig="0" />
+                        <meterSig xml:id="mdc3u19" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="slyutxn">
+                  <measure xml:id="mkgra2t" right="invis" n="1">
+                     <staff xml:id="sz24wkq" n="1">
+                        <layer xml:id="l66kk8v" n="1">
+                              <note xml:id="ncbzeqx" dur.ppq="1" dur="8" oct="4" pname="e" stem.visible="false" />
+                              <note xml:id="ng1gr54" dur.ppq="1" dur="8" oct="4" pname="d" stem.visible="false" />
+                              <note xml:id="n48n8yt" dur.ppq="1" dur="8" oct="4" pname="g" stem.visible="false" />
+                           <space xml:id="s583maj" dur.ppq="1" dur="8" />
+                              <note xml:id="ndj7plu" dur.ppq="1" dur="8" oct="3" pname="e" stem.visible="false" />
+                              <note xml:id="n8b6xb4" dur.ppq="1" dur="8" oct="3" pname="g" stem.visible="false" />
+                              <note xml:id="nlpuxqj" dur.ppq="1" dur="8" oct="3" pname="f" stem.visible="false" accid="s" />
+                              <note xml:id="nj23t7a" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="drh5zqx" place="above" staff="1" tstamp="1.000000" vgrp="234">
+                        <rend xml:id="r16sz0y" fontstyle="italic">expansive, gradual, &amp; ecstatic</rend>
+                     </dir>
+                     <breath xml:id="bg5hfpz" staff="1" tstamp="3.000000" />
+                  </measure>
+                  <measure xml:id="mqi6t88" right="invis" n="2">
+                     <staff xml:id="s2fysve" n="1">
+                        <layer xml:id="lqo325g" n="1">
+                           <space xml:id="sjt9gxs" dur.ppq="2" dur="4" />
+                           <space xml:id="skl3j3m" dur.ppq="2" dur="4" />
+                           <clef xml:id="cc791uy" shape="C" line="4" />
+                              <note xml:id="npzjgge" dur.ppq="1" dur="8" oct="4" pname="g" stem.visible="false" />
+                              <note xml:id="ngy5e8t" dur.ppq="1" dur="8" oct="4" pname="d" stem.visible="false" />
+                              <note xml:id="njoyv3e" dur.ppq="1" dur="8" oct="4" pname="a" stem.visible="false" />
+                              <note xml:id="n4k7oam" dur.ppq="1" dur="8" oct="4" pname="b" stem.visible="false" />
+                        </layer>
+                     </staff>
+                     <breath xml:id="bgk9c8d" staff="1" tstamp="2.000000" />
+                  </measure>
+                  <measure xml:id="m34p1xr" right="invis" n="3">
+                     <staff xml:id="s8o5mid" n="1">
+                        <layer xml:id="l603xe2" n="1">
+                           <space xml:id="svdfhjq" dur.ppq="2" dur="4" />
+                           <space xml:id="s82w803" dur.ppq="2" dur="4" />
+                           <clef xml:id="cyjs6j8" shape="F" line="4" />
+                              <note xml:id="n80drfn" dur.ppq="1" dur="8" oct="3" pname="g" stem.visible="false" />
+                              <note xml:id="n4l0bf5" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
+                              <note xml:id="no4a9zu" dur.ppq="1" dur="8" oct="3" pname="a" stem.visible="false" />
+                              <note xml:id="nwe1fpe" dur.ppq="1" dur="8" oct="4" pname="e" stem.visible="false" />
+                        </layer>
+                     </staff>
+                     <breath xml:id="biw48s5" staff="1" tstamp="2.000000" />
+                     <bracketSpan xml:id="bkf7ikt" staff="1" tstamp="4.500000" tstamp2="1m+1.5000" func="unclear" lendsym="none" lstartsym="none" lform="solid" />
+                  </measure>
+                  <measure xml:id="mptw0wj" right="invis" n="4">
+                     <staff xml:id="s8rvdas" n="1">
+                        <layer xml:id="ls8q170" n="1">
+
+                              <note xml:id="n6y6vmf" dur.ppq="1" dur="8" oct="3" pname="b" stem.visible="false" />
+                              <note xml:id="njcopjn" dur.ppq="1" dur="8" oct="4" pname="e" stem.visible="false" />
+                              <note xml:id="n6zblbq" dur.ppq="1" dur="8" oct="4" pname="d" stem.visible="false" />
+                              <note xml:id="naxvza7" dur.ppq="1" dur="8" oct="3" pname="a" stem.visible="false" />
+                              <note xml:id="nhmq9eg" dur.ppq="1" dur="8" oct="3" pname="b" stem.visible="false" />
+                              <note xml:id="n7ay5h7" dur.ppq="1" dur="8" oct="3" pname="g" stem.visible="false" />
+                              <note xml:id="n8qvqpd" dur.ppq="1" dur="8" oct="3" pname="f" stem.visible="false" accid="s" />
+                              <note xml:id="nnhiuqn" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="ml6iqqq" right="invis" n="5">
+                     <staff xml:id="sieu7tr" n="1">
+                        <layer xml:id="lg3649r" n="1">
+                              <note xml:id="nwbart7" dur.ppq="1" dur="8" oct="3" pname="e" stem.visible="false" />
+                              <note xml:id="nj2qef0" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
+                           <bTrem xml:id="b8a0so0" form="meas">
+                              <note xml:id="n25ta0o" dots="1" dur.ppq="6" dur="2" oct="3" pname="b" stem.dir="down" stem.mod="3slash" />
+                           </bTrem>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fw59llr" staff="1" startid="#na7ue09" form="norm" place="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
