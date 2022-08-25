@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: mei
 title: I still think about you, VI. Pocket operator 2
 author: Lizée, Nicole
 permalink: /lizee-think-about-you-po2/
-image: lizee_i_still_think_about_you006_pocket_operator_2.png
+document: lizee_i_still_think_about_you006_pocket_operator_2.mei
 ---
 
 - In *I still think about you.* Montréal Québec: Centre de Musique Canadienne, 2021.
