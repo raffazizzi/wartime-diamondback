@@ -263,8 +263,7 @@
                         <lb xml:id="la8oo7y" />
                         <rend xml:id="rcqjkw6" fontstyle="normal" fontweight="normal">(Sempre - change after each measure)</rend>
                      </dir>
-                     <pedal xml:id="phmzt5q" staff="2" tstamp="1.500000" dir="down" form="line" place="below" vgrp="65" />
-                     <pedal xml:id="pt76y72" staff="2" tstamp="1.650000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="phmzt5q" staff="2" tstamp="1.500000" dir="down"  place="below" vgrp="65" />
                   </measure>
                   <measure xml:id="mbcovyi" n="5">
                      <staff xml:id="s2rtkoe" n="1">
