@@ -236,7 +236,7 @@
                      <dir place="above" staff="3" tstamp="1.000000" vgrp="200">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
-                     <dir place="above" staff="3" tstamp="1.000000" vgrp="200">
+                     <dir place="above" staff="3" tstamp="1.25" vgrp="200">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
                      <dir xml:id="d9aytrm" place="above" staff="3" tstamp="2.000000" vgrp="229">Vibraphone Motor Slow</dir>
