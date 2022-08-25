@@ -245,16 +245,16 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir place="above" staff="2" tstamp="0" vgrp="200">
+                     <dir place="above" staff="2" tstamp="0">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
-                     <dir place="above" staff="2" tstamp="0.5" vgrp="200">
+                     <dir place="above" staff="2" tstamp="0.5">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
-                     <dir place="above" staff="2" tstamp="1" vgrp="200">
+                     <dir place="above" staff="2" tstamp="1">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
-                     <dir place="above" staff="2" tstamp="1.5" vgrp="200">
+                     <dir place="above" staff="2" tstamp="1.5">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
                      <dir xml:id="dc1nvb3" place="above" staff="2" tstamp="1.500000" vgrp="225">Vib. Motor Slow</dir>
