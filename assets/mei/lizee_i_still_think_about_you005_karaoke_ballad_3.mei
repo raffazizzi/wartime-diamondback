@@ -245,25 +245,26 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir place="above" staff="2" tstamp="0" vgrp="1">
+                     <dir place="above" staff="2" tstamp="1.00000" vgrp="1">
+                        <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
+                     </dir>    
+                     <dir place="above" staff="2" tstamp="1.20000" vgrp="1">
+                        <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
+                     </dir>    
+                      <dir place="above" staff="2" tstamp="1.40000" vgrp="1">
+                        <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
+                     </dir>  
+                       <dir place="above" staff="2" tstamp="1.50000" vgrp="1">
                         <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
                      </dir>
-                     <dir place="above" staff="2" tstamp="0.25" vgrp="1">
-                        <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
-                     </dir>
-                     <dir place="above" staff="2" tstamp="0.5" vgrp="1">
-                        <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
-                     </dir>
-                     <dir place="above" staff="2" tstamp="0.75" vgrp="1">
-                        <symbol glyph.auth="smufl" glyph.num="U+E774" glyph.name="pictBeaterMediumXylophoneUp"/>
-                     </dir>
-                     <dir xml:id="dc1nvb3" place="above" staff="2" tstamp="1.500000" vgrp="225">Vib. Motor Slow</dir>
+                     <dir xml:id="dc1nvb3" place="above" staff="2" tstamp="1.700000" vgrp="225">Vib. Motor Slow</dir>
                      <dir xml:id="d52pf7n" place="below" staff="2" tstamp="1.500000" vgrp="60">
                         <rend xml:id="rrmgdh7" fontstyle="italic" fontweight="bold">mf </rend>
-                        <lb xml:id="la8oo7y" />
-                        <rend xml:id="rcqjkw6" fontstyle="normal" fontweight="normal">(Sempre - change after each measure)</rend>
-                     </dir>
-                     <pedal xml:id="phmzt5q" staff="2" tstamp="1.500000" dir="down"  place="below" vgrp="65" />
+                        <lb xml:id="la8oo7y" /></dir>
+                                             <dir place="below" staff="2" tstamp="1.800000" vgrp="60">
+<rend xml:id="rcqjkw6" fontstyle="normal" fontweight="normal">(Sempre - change after each measure)</rend></dir>
+                    
+                     <pedal xml:id="phmzt5q" staff="2" tstamp="1.16000" dir="down"  place="below" vgrp="1" />
                   </measure>
                   <measure xml:id="mbcovyi" n="5">
                      <staff xml:id="s2rtkoe" n="1">
