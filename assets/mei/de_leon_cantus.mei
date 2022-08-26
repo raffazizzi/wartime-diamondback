@@ -97,7 +97,6 @@
                         </layer>
                      </staff>
                      <breath xml:id="biw48s5" staff="1" tstamp="2.000000" />
-                     <bracketSpan xml:id="bkf7ikt" staff="1" tstamp="4.500000" tstamp2="1m+1.5000" func="unclear" lendsym="none" lstartsym="none" lform="solid" />
                   </measure>
                   <measure xml:id="mptw0wj" right="invis" n="4">
                      <staff xml:id="s8rvdas" n="1">
@@ -124,7 +123,7 @@
                            </bTrem>
                         </layer>
                      </staff>
-                     <fermata xml:id="fw59llr" staff="1" startid="#na7ue09" form="norm" place="above" />
+                     <fermata xml:id="fw59llr" staff="1" startid="#n25ta0o" form="norm" place="above" />
                   </measure>
                </section>
             </score>
