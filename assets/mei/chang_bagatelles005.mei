@@ -169,35 +169,23 @@
                            <beam xml:id="b2ekc6r">
                               <tuplet xml:id="tc5h9qj" num="6" numbase="4" num.visible="false" bracket.visible="false">
                                  <note xml:id="nocksjg" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
-                                    <verse xml:id="vpx5ne4" n="1">
-                                       <syl xml:id="s47gfsy" con="d" wordpos="i">t</syl>
-                                    </verse>
-                                    <artic xml:id="af0k7yq" artic="acc" />
+                                    <artic xml:id="a1t3cpgo" artic="acc" />
                                  </note>
+
                                  <note xml:id="n1hsdip" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
-                                    <verse xml:id="vrzn982" n="1">
-                                       <syl xml:id="shsbmj0" con="d" wordpos="m">k</syl>
-                                    </verse>
+
                                  </note>
                                  <note xml:id="n3w082l" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
-                                    <verse xml:id="v33ng93" n="1">
-                                       <syl xml:id="s47o3pl" con="d" wordpos="m">t</syl>
-                                    </verse>
+
                                  </note>
                                  <note xml:id="n61r755" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
-                                    <verse xml:id="vkbul0e" n="1">
-                                       <syl xml:id="suzf9yl" con="d" wordpos="m">k</syl>
-                                    </verse>
+
                                  </note>
                                  <note xml:id="nfblq2l" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
-                                    <verse xml:id="vdfi8dv" n="1">
-                                       <syl xml:id="s6koy3k" con="d" wordpos="m">t</syl>
-                                    </verse>
+
                                  </note>
                                  <note xml:id="nq7t5nj" dur.ppq="4" dur="16" oct="4" pname="f" stem.dir="up">
-                                    <verse xml:id="vhm228n" n="1">
-                                       <syl xml:id="sbavr4c" con="s" wordpos="t">k</syl>
-                                    </verse>
+
                                  </note>
                               </tuplet>
                            </beam>
@@ -206,8 +194,19 @@
                         </layer>
                      </staff>
                      <dynam xml:id="d59qjzr" place="below" staff="1" tstamp="1.000000" val="64" vgrp="45">mp</dynam>
-                     <dir xml:id="ds2os37" place="above" staff="1" tstamp="1.000000" vgrp="201">* microtonal descent</dir>
-                     <dir xml:id="djbnaze" place="above" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" lform="dashed" extender="true" vgrp="200">rit. (each entrance delayed but gestures non rit.)</dir>
+                     <dir place="above" staff="1" tstamp="1.00000" vgrp="5">t</dir>
+                     <dir place="above" staff="1" tstamp="1.16000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.20000" vgrp="5">k</dir>
+                     <dir place="above" staff="1" tstamp="1.33000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.40000" vgrp="5">t</dir>
+                     <dir place="above" staff="1" tstamp="1.48000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.50000" vgrp="5">k</dir>
+                     <dir place="above" staff="1" tstamp="1.64000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.70000" vgrp="5">t</dir>
+                     <dir place="above" staff="1" tstamp="1.83000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.89000" vgrp="5">k</dir>
+                     <dir xml:id="ds2os37" place="above" staff="1" tstamp="0.000000" vgrp="1">* microtonal descent</dir>
+                     <dir xml:id="djbnaze" place="above" staff="1" tstamp="0.000000" tstamp2="0m+5.0000" lform="dashed" extender="true" vgrp="10">rit. (each entrance delayed but gestures non rit.)</dir>
                   </measure>
                </section>
             </score>
