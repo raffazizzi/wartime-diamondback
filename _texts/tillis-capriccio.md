@@ -3,7 +3,7 @@ layout: mei
 title: Capriccio
 author: Tillis, Frederick C.
 permalink: /tillis-capriccio/
-document:
+document: tillis_capriccio.mei
 ---
 
 - In *Capriccio for viola and piano, 1960.* New York, NY: American Composers Alliance Inc., 2020.
