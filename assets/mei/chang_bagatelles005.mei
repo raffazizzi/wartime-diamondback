@@ -195,11 +195,11 @@
                      </staff>
                      <dynam xml:id="d59qjzr" place="below" staff="1" tstamp="1.000000" val="64" vgrp="45">mp</dynam>
                      <dir place="above" staff="1" tstamp="1.00000" vgrp="5">t</dir>
-                     <dir place="above" staff="1" tstamp="1.16000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.10000" vgrp="5">-</dir>
                      <dir place="above" staff="1" tstamp="1.20000" vgrp="5">k</dir>
-                     <dir place="above" staff="1" tstamp="1.33000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.30000" vgrp="5">-</dir>
                      <dir place="above" staff="1" tstamp="1.40000" vgrp="5">t</dir>
-                     <dir place="above" staff="1" tstamp="1.48000" vgrp="5">-</dir>
+                     <dir place="above" staff="1" tstamp="1.45000" vgrp="5">-</dir>
                      <dir place="above" staff="1" tstamp="1.50000" vgrp="5">k</dir>
                      <dir place="above" staff="1" tstamp="1.64000" vgrp="5">-</dir>
                      <dir place="above" staff="1" tstamp="1.70000" vgrp="5">t</dir>
