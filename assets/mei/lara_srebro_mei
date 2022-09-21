@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Srebro</title>
+            <respStmt>
+               <persName role="composer">Ana Lara</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-09-21" type="encoding-date">2022-09-21</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1tyvpsb">
+         <appInfo xml:id="appinfo-1ody5ko">
+            <application xml:id="application-14mwacw" isodate="2022-09-21T09:35:45" version="3.12.0-dev-0e0c60c">
+               <name xml:id="name-17hzi8v">Verovio</name>
+               <p xml:id="p-21yme5">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m14v75yn">
+            <score xml:id="subiunv">
+               <scoreDef xml:id="shmaa8b">
+                  <pgHead xml:id="p1qxzd59">
+                     <rend xml:id="rtomceo" halign="center" valign="top">Srebro</rend>
+                     <rend xml:id="r174taeo" halign="center" valign="top">para tres flautas en do</rend>
+                     <rend xml:id="r1ftnijf" halign="right" valign="bottom">Ana Lara</rend>
+                  </pgHead>
+                  <staffGrp xml:id="su6ilbw">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="12">
+                        <label xml:id="la2y8eh">Flute</label>
+                        <labelAbbr xml:id="l35frr7">Fl.</labelAbbr>
+                        <instrDef xml:id="i144vvug" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                        <clef xml:id="c1un3eij" shape="G" line="2" />
+                        <keySig xml:id="k3h9rd3" sig="0" />
+                        <meterSig xml:id="m1a7dh8o" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s6flli6">
+                  <pb xml:id="p9he5w9" />
+                  <measure xml:id="m8m1rv1" n="1">
+                     <staff xml:id="scuvzk1" n="1">
+                        <layer xml:id="lp7myuv" n="1">
+                           <multiRest xml:id="m1vrwdbv" num="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mphfmif" n="5">
+                     <staff xml:id="szb1dp5" n="1">
+                        <layer xml:id="liffd4" n="1">
+                           <beam xml:id="b1oslnvh">
+                              <note xml:id="n1vjj2ne" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="aikuhm1" artic="ten" />
+                              </note>
+                              <note xml:id="nv4m864" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="apapb6a" artic="ten" />
+                              </note>
+                           </beam>
+                           <beam xml:id="bgkrvhx">
+                              <note xml:id="n78o461" dur.ppq="3" dur="16" oct="4" pname="c" stem.dir="up" />
+                              <note xml:id="nlz9zah" dots="1" dur.ppq="9" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="agv0ae3" artic="ten" />
+                              </note>
+                           </beam>
+                           <beam xml:id="b1481lt2">
+                              <note xml:id="nl3olyh" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="axrfyex" artic="ten" />
+                              </note>
+                              <note xml:id="nxzqmzq" dur.ppq="3" dur="16" oct="4" pname="c" stem.dir="up" />
+                              <note xml:id="n1m34gmn" dur.ppq="3" dur="16" oct="4" pname="c" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="b1k1hfz9">
+                              <note xml:id="n3zo3bh" dur.ppq="3" dur="16" oct="4" pname="c" stem.dir="up" />
+                              <note xml:id="n14hucon" dots="1" dur.ppq="9" dur="8" oct="4" pname="c" stem.dir="up" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d133cdrp" place="below" staff="1" tstamp="1.000000" val="80" vgrp="53">mf</dynam>
+                     <tie xml:id="t1j0ecc3" startid="#nv4m864" endid="#n78o461" />
+                     <tie xml:id="tth8slp" startid="#n1m34gmn" endid="#n3zo3bh" />
+                  </measure>
+                  <measure xml:id="m15tz6p1" n="6">
+                     <staff xml:id="s1794uf9" n="1">
+                        <layer xml:id="l1cka6oi" n="1">
+                           <beam xml:id="b14j1z6b">
+                              <note xml:id="npawysi" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="a1829by3" artic="ten" />
+                              </note>
+                              <note xml:id="n16bvmas" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="a1mand3z" artic="ten" />
+                              </note>
+                           </beam>
+                           <beam xml:id="bizojgw">
+                              <note xml:id="n1jc0tk8" dur.ppq="3" dur="16" oct="4" pname="c" stem.dir="up" />
+                              <note xml:id="n1psl9yv" dots="1" dur.ppq="9" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="a1hc6b4n" artic="ten" />
+                              </note>
+                           </beam>
+                           <beam xml:id="b1h82jwy">
+                              <note xml:id="n11r7erc" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="a1wj9533" artic="ten" />
+                              </note>
+                              <note xml:id="n1gxjbqe" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up" />
+                           </beam>
+                           <beam xml:id="bfgqdu3">
+                              <note xml:id="n1ci0vcs" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up" />
+                              <note xml:id="n10tzvgs" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="ag3mzi2" artic="ten" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tie xml:id="t151ygpl" startid="#n16bvmas" endid="#n1jc0tk8" />
+                     <tie xml:id="t188wgh0" startid="#n1gxjbqe" endid="#n1ci0vcs" />
+                  </measure>
+                  <sb xml:id="sac4hrf" />
+                  <measure xml:id="m1lq11mt" n="7">
+                     <staff xml:id="sszzsus" n="1">
+                        <layer xml:id="ltegegx" n="1">
+                           <beam xml:id="bluruib">
+                              <tuplet xml:id="t9bcpo0" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="nnk6ykg" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n1lg4con" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="nag18rg" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="b1etyt7m">
+                              <tuplet xml:id="t1eubt6d" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="n1xbb34u" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n1fmiwr6" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n2udci6" breaksec="1" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n8mt3ax" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="b1l1lh70">
+                              <tuplet xml:id="tanft7m" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="nywyhg1" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n1f6l683" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="ndu2e7d" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="bnnaw8c">
+                              <tuplet xml:id="ta3g8du" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="ncph3tb" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="ne4oxq3" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n4siyev" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1y8rvb3" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="r165lh8e" fontfam="FreeSerif" fontstyle="italic">sempre articolato</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mit3mh" n="8">
+                     <staff xml:id="s1mt59gv" n="1">
+                        <layer xml:id="l1qkocz6" n="1">
+                           <beam xml:id="bvef2o9">
+                              <tuplet xml:id="t117eohe" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="nugycph" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n1e5cv5v" breaksec="1" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n7xi0it" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="naq9cwj" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="b1y1m657">
+                              <tuplet xml:id="tv00zjm" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="n1jv8xuh" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n1ra1cjd" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n17293eg" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="bbcjrdc">
+                              <tuplet xml:id="t55pcw3" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="n8ff087" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="nal514b" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n1meh534" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n1gvyjbr" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="b44hzf2">
+                              <tuplet xml:id="t1t13b2f" num="3" numbase="2" bracket.visible="true" num.format="ratio">
+                                 <note xml:id="nghvnmb" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n81hdbg" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                                 <note xml:id="n169dam3" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="up" />
+                              </tuplet>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
