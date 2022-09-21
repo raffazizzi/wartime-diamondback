@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Scattered Winds / Uhutud Tuuled</title>
+            <respStmt>
+               <persName role="composer">Alisson Kruusmaa</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2022-09-21" type="encoding-date">2022-09-21</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-voq5s3">
+         <appInfo xml:id="appinfo-lbrody">
+            <application xml:id="application-1wrbfc1" isodate="2022-09-21T09:43:27" version="3.12.0-dev-0e0c60c">
+               <name xml:id="name-a5ojwf">Verovio</name>
+               <p xml:id="p-pjfpb7">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1s0qwcw">
+            <score xml:id="s13cq0ik">
+               <scoreDef xml:id="s12gttid">
+                  <pgHead xml:id="p197vafm">
+                     <rend xml:id="r1x8ir39" halign="center" valign="top">scattered winds / uhutud tuuled</rend>
+                     <rend xml:id="ref8pce" halign="center" valign="top">for bass clarinet solo / soolobassklarnetile</rend>
+                     <rend xml:id="r1yirp3a" halign="right" valign="bottom">Alisson Kruusmaa</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1atncj8">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="8" trans.diat="-9" trans.semi="-14">
+                        <label xml:id="l11e4ozu">Bass Clarinet</label>
+                        <labelAbbr xml:id="l9mayi6">B. Cl.</labelAbbr>
+                        <instrDef xml:id="ip9ktbv" midi.channel="0" midi.instrnum="71" midi.volume="78.00%" />
+                        <clef xml:id="c25qh4m" shape="G" line="2" />
+                        <keySig xml:id="kmbb38d" sig="0" />
+                        <meterSig xml:id="mq1aiev" count="12" unit="8" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="st7vnwg">
+                  <measure xml:id="m1fktftz" n="1">
+                     <staff xml:id="svdzypz" n="1">
+                        <layer xml:id="l1kq4cti" n="1">
+                           <note xml:id="nlih502" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n165h1tm" dots="1" dur.ppq="12" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r6alnvj" dots="1" dur.ppq="12" dur="4" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d13gjo8s" place="above" staff="1" tstamp="1.000000" vgrp="204">
+                        <rend xml:id="r15b5pzn" fontfam="FreeSerif">* </rend>
+                        <lb xml:id="l1yawmyb" />
+                        <rend xml:id="ryknm3k" fontstyle="italic">breath tone, </rend>
+                        <lb xml:id="ljlda9q" />very airy timbre with a slight pitch</dir>
+                     <dir xml:id="dg0ck37" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rimemao" fontfam="FreeSerif">*</rend>
+                     </dir>
+                     <tempo xml:id="t1ha9wuu" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4" mm.dots="1">
+                        <rend xml:id="r1tffx8l" fontfam="FreeSerif" fontweight="bold">ca 42</rend>
+                        <rend xml:id="re8mwyn" fontfam="smufl"></rend> = </tempo>
+                     <dir xml:id="d104bzyk" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rx34f3o" fontfam="FreeSerif" fontstyle="italic" fontweight="bold">molto cantabile, sempre con rubato</rend>
+                     </dir>
+                     <hairpin xml:id="h1fhut5i" staff="1" tstamp="1.000000" tstamp2="0m+6.5000" form="cres" place="below" vgrp="61" />
+                     <tie xml:id="tl4b5jx" startid="#nlih502" endid="#n165h1tm" />
+                     <dynam xml:id="dyqg2zh" place="below" staff="1" tstamp="7.000000" val="80" vgrp="41">mf</dynam>
+                     <hairpin xml:id="hegtgdw" staff="1" tstamp="7.000000" tstamp2="0m+12.5000" form="dim" place="below" vgrp="61" />
+                     <fermata xml:id="f1nxsmcx" staff="1" startid="#r6alnvj" form="norm" place="above" />
+                  </measure>
+                  <scoreDef xml:id="s1gfhfao">
+                     <meterSig xml:id="m1l3tgv0" count="9" unit="8" />
+                  </scoreDef>
+                  <measure xml:id="mbroqg2" n="2">
+                     <staff xml:id="s1w5dqkn" n="1">
+                        <layer xml:id="l2anj8b" n="1">
+                           <note xml:id="n142qtx9" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <fTrem xml:id="f9emy6r" beams="3" beams.float="3">
+                              <note xml:id="nx1279r" dots="1" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="nfq882e" dots="1" dur.ppq="6" dur="4" oct="5" pname="d" stem.dir="down" accid="f" />
+                           </fTrem>
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hib8bf7" staff="1" tstamp="1.000000" tstamp2="0m+8.0000" form="cres" place="below" vgrp="68" />
+                     <tie xml:id="t1edze3v" startid="#n142qtx9" endid="#nx1279r" />
+                     <slur xml:id="sqfgx8m" startid="#nx1279r" endid="#nfq882e" curvedir="above" />
+                     <dynam xml:id="d1vazm8o" place="below" staff="1" tstamp="8.500000" val="80" vgrp="48">mf</dynam>
+                  </measure>
+                  <measure xml:id="miyxlgl" n="3">
+                     <staff xml:id="s395873" n="1">
+                        <layer xml:id="l1g9clgo" n="1">
+                           <fTrem xml:id="foboz3g" beams="3" beams.float="2">
+                              <note xml:id="n1sm1l74" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="n1o2xr0x" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down" accid="f" />
+                           </fTrem>
+                           <note xml:id="na6qyk7" dur.ppq="8" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n16v7c3y" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d1l19mlm" place="below" staff="1" tstamp="1.000000" val="33" vgrp="40">pp</dynam>
+                     <dir xml:id="d1dhspd9" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                        <rend xml:id="rwkhu1z" fontfam="FreeSerif" fontstyle="italic">sub</rend>
+                     </dir>
+                     <dynam xml:id="dugerfc" place="below" staff="1" tstamp="2.000000" val="64" vgrp="40">mp</dynam>
+                     <dir xml:id="d1mj33i8" place="above" staff="1" tstamp="2.000000" vgrp="200">
+                        <rend xml:id="r1am9uk0" fontfam="FreeSerif" fontstyle="italic">bisbigliando</rend>
+                     </dir>
+                     <hairpin xml:id="hsuf6a" staff="1" tstamp="2.000000" tstamp2="0m+9.5000" form="dim" place="below" vgrp="60" />
+                     <tie xml:id="t1g8drd3" startid="#na6qyk7" endid="#n16v7c3y" />
+                     <trill xml:id="t5kfzlg" staff="1" startid="#na6qyk7" tstamp2="0m+4.0000" extender="true" n="1" />
+                     <trill xml:id="t1avmp0" staff="1" startid="#n16v7c3y" tstamp2="0m+10.0000" extender="true" n="1" />
+                  </measure>
+                  <scoreDef xml:id="s1y3q284">
+                     <meterSig xml:id="ms1odkz" count="12" unit="8" />
+                  </scoreDef>
+                  <measure xml:id="m1cavvoa" n="4">
+                     <staff xml:id="s1hm9kid" n="1">
+                        <layer xml:id="l1yf9109" n="1">
+                           <note xml:id="nskyo14" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n2mroyp" dots="1" dur.ppq="12" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r1afk3lm" dots="1" dur.ppq="12" dur="4" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="drhy5rk" place="below" staff="1" tstamp="1.000000" val="16" vgrp="40">ppp</dynam>
+                     <dir xml:id="d1ne7fki" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rw4ulpd" fontfam="FreeSerif" fontstyle="italic" fontweight="bold">molto rall.</rend>
+                        <lb xml:id="lvyx7kb" />
+                        <rend xml:id="r15ktabd" fontstyle="normal" fontweight="normal">- - - - - - - - - - - - - &gt;</rend>
+                        <lb xml:id="l1bnncr0" />
+                        <rend xml:id="rxo2xj8" fontstyle="italic">|</rend>
+                     </dir>
+                     <hairpin xml:id="h1l1s1q8" staff="1" tstamp="1.000000" tstamp2="0m+6.5000" form="cres" place="below" vgrp="60" />
+                     <dynam xml:id="d1jd9pmv" place="below" staff="1" tstamp="7.000000" val="64" vgrp="40">mp</dynam>
+                     <hairpin xml:id="h1ympat2" staff="1" tstamp="7.000000" tstamp2="0m+12.5000" form="dim" place="below" vgrp="60" />
+                     <fermata xml:id="f1iyvthj" staff="1" startid="#r1afk3lm" form="norm" place="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
