@@ -1,9 +1,9 @@
 ---
-layout: mei
+layout: post
 title: Scattered winds for bass clarinet
 author: Kruusmaa, Alisson
 permalink: /kruusmaa-scattered-winds/
-document: kruusmaa_scattered_winds_uhutud_tuuled.mei
+image: kruusmaa_scattered_winds
 
 ---
 
