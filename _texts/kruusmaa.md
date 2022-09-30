@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kruusmaa, Alisson
+title: Kruusmaa, Alisson (1992-)
 category: incipits
 century: 20th
 permalink: /kruusmaa/
