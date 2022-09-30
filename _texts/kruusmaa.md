@@ -6,8 +6,9 @@ century: 20th
 permalink: /kruusmaa/
 ---
 
-*Learn more about this composer at <a http://alissonkruusmaa.com/</a>*
+*Learn more about this composer at <a href="http://alissonkruusmaa.com/" target="_blank">http://alissonkruusmaa.com/</a>*
 <br/>
+
 
 ### Works with Incipits
 <ul class="texts">
