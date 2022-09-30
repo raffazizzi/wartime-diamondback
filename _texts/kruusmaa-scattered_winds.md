@@ -3,8 +3,7 @@ layout: post
 title: Scattered winds for bass clarinet
 author: Kruusmaa, Alisson
 permalink: /kruusmaa-scattered-winds/
-image: kruusmaa_scattered_winds
-
+image: kruusmaa_scattered_winds.png
 ---
 
 - In *Scattered winds: for bass clarinet.*  Tallinn: Estonian Music Information Centre 2021.
