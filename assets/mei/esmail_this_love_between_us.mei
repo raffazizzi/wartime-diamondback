@@ -84,7 +84,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tww5kja" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="63.000000" mm="63.000000" mm.unit="4">
-                        <rend xml:id="rqub5ka" fontname="VerovioText"> Serene (</rend> = 63)</tempo>
+                        <rend xml:id="rqub5ka" fontweight="bold"> Serene (&#x1d15f; = 63)</rend></tempo>
                      <dir xml:id="dsup4f7" place="above" staff="1" tstamp="1.500000" vgrp="234">
                         <rend xml:id="r61kj91" fontstyle="italic" fontweight="bold">mp</rend>
                      </dir>
