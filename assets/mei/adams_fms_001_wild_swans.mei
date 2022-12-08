@@ -65,7 +65,7 @@
                      <tempo xml:id="t402duq" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="138.000000" mm="92.000000" mm.unit="4" mm.dots="1">
                         <lb xml:id="l1fkfpo" />
                         <rend xml:id="r5n86e5" fontstyle="normal" fontweight="normal" />
-                        <rend xml:id="roclue9" fontname="VerovioText">Andantino portamento </rend> = 92</tempo>
+                        <rend xml:id="roclue9" fontweight="bold">Andantino portamento &#x1d15f; &#x1d16d; = 92</rend></tempo>
                   </measure>
                   <measure xml:id="msh9pjs" n="2">
                      <staff xml:id="sruiurp" n="1">
