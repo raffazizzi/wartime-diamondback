@@ -61,7 +61,7 @@
                         </layer>
                      </staff>
                      <tempo place="above" staff="1" tstamp="1.0000">
-             <rend fontname="VerovioText">Allegro Agitato</rend></tempo>
+             <rend fontweight="bold">Allegro Agitato</rend></tempo>
                   </measure>
                   <measure xml:id="measure-0000001205286071" n="7">
                      <staff xml:id="staff-0000001352205843" n="1">

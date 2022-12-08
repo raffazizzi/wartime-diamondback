@@ -61,7 +61,7 @@
                         </layer>
                      </staff>
                      <tempo place="above" staff="1" tstamp="1.0000">
-             <rend fontname="VerovioText">Andante con moto</rend></tempo>
+             <rend fontweight="bold">Andante con moto</rend></tempo>
                   </measure>
                   <measure xml:id="measure-0000001815734243" n="9">
                      <staff xml:id="staff-0000001496321764" n="1">

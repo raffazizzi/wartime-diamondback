@@ -61,7 +61,7 @@
                         </layer>
                      </staff>
                      <tempo place="above" staff="1" tstamp="1.0000">
-             <rend fontname="VerovioText">Larghetto</rend></tempo>
+             <rend fontweight="bold">Larghetto</rend></tempo>
 
                   </measure>
                   <scoreDef xml:id="scoredef-0000001072874348">
