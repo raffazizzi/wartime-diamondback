@@ -62,7 +62,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="t6mg8va" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="36.000000" mm="72.000000" mm.unit="8">
-                        <rend xml:id="rd1aiip" fontname="VerovioText">Lento </rend> = 72</tempo>
+                        <rend xml:id="rd1aiip" fontweight="bold">Lento &#x1d160; = 72</rend></tempo>
                   </measure>
                   <measure xml:id="mhqmvd5" n="2">
                      <staff xml:id="sjr58cs" n="1">

@@ -55,7 +55,7 @@
                      <tempo xml:id="tx2x828" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="99.000000" mm="66.000000" mm.unit="4" mm.dots="1">
                         <lb xml:id="lv6fim0" />
                         <rend xml:id="r30vz3p" fontfam="FreeSerif" fontstyle="normal" />
-                        <rend xml:id="r5wpbis" fontname="VerovioText">Adagio portamento </rend> = 66</tempo>
+                        <rend xml:id="r5wpbis" fontweight="bold">Adagio portamento &#x1d15f; &#x1d16d; = 66</rend></tempo>
                   </measure>
                   <measure xml:id="m4ekv4n" n="2">
                      <staff xml:id="sotci4a" n="1">
