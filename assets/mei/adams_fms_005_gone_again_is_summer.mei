@@ -63,7 +63,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tdf4bho" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="54.000000" mm="108.000000" mm.unit="8">
-                        <rend xml:id="rksp0cl" fontname="VerovioText">Allegretto tranquillo </rend> = 108</tempo>
+                        <rend xml:id="rksp0cl" fontweight="bold">Allegretto tranquillo &#x1d160; = 108</rend></tempo>
                   </measure>
                   <measure xml:id="mf4yw9w" n="9">
                      <staff xml:id="s3a84ck" n="1">

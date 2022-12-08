@@ -3,7 +3,7 @@ layout: mei
 title: Thirst and quenching
 author: Agócs, Kati
 permalink: /agocs-thirst-and-quenching/
-document: agosc_thirst_and_quenching.mei
+document: agocs_thirst_and_quenching.mei
 ---
 
 - In *Thirst and quenching: solo violin (2020).*  Needham, Massachusetts: Kati Agócs Music, 2020.
