@@ -63,7 +63,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="td1iyer" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120" mm.unit="4">
-                        <rend xml:id="rsup4f7" fontname="VerovioText"></rend> = c. 96</tempo>
+                        <rend xml:id="rsup4f7" >&#x1d15f;</rend> = c. 96</tempo>
                         <dynam place="below" staff="1" tstamp="1.000000" vgrp="49">
                            <rend fontweight="normal">f</rend>
                         </dynam>

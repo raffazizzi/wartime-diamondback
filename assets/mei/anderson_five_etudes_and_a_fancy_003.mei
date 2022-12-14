@@ -73,8 +73,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="ts5noxm" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="r2gwmkx" fontweight="bold">Allegro (</rend>
-                        <rend xml:id="rlzbj4k" fontname="VerovioText"></rend> = c. 112)</tempo>
+                        <rend xml:id="rlzbj4k" >Allegro (&#x1d15f; </rend> = c. 112)</tempo>
                      <dir xml:id="dbgbjpg" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="r2k2wzv" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>

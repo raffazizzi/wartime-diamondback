@@ -77,8 +77,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="ttwj176" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="r7v01ox" fontweight="bold">Andante (</rend>
-                        <rend xml:id="r2v8au1" fontname="VerovioText"></rend> = c. 72)</tempo>
+                        <rend xml:id="r2v8au1" >Andante (&#x1d15f;</rend> = c. 72)</tempo>
                      <dir xml:id="dwszpj5" place="below" staff="1" tstamp="3.000000" vgrp="40">
                         <rend xml:id="rrr3smn" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>

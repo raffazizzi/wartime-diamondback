@@ -147,7 +147,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tuqek3j" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
-                        <rend xml:id="rhhv88" fontname="VerovioText">Adagio </rend> = c.66</tempo>
+                        <rend xml:id="rhhv88" >Adagio &#x1d15f; </rend> = c.66</tempo>
                      <dir xml:id="dbzmdbi" place="below" staff="1" tstamp="2.000000" vgrp="54">
                         <rend xml:id="rkfaq25" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
