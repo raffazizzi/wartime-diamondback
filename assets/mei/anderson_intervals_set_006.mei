@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Intervals</title>
+              <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Phillip G. Wright</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2021-09-17" type="encoding-date">2021-09-17</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+         <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-lnf38d">
+         <appInfo xml:id="appinfo-1ngewzz">
+            <application xml:id="application-1r316l9" isodate="2022-12-14T11:57:18" version="3.13.1-010bd42">
+               <name xml:id="name-6e0ee">Verovio</name>
+               <p xml:id="p-1kno1kj">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1ql3e6f">
+            <score xml:id="s1e11t9j">
+               <scoreDef xml:id="s11e7vh9">
+                  <pgHead xml:id="p1y4dx9f">
+                     <rend xml:id="r1t79834" halign="center" valign="top">Intervals</rend>
+                     <rend xml:id="r7ds394" halign="center" valign="top">Set VI</rend>
+                     <rend xml:id="rnra60v" halign="right" valign="bottom">T. J. Anderson</rend>
+                  </pgHead>
+                  <staffGrp xml:id="skjuyze">
+                     <staffGrp xml:id="svaxin4">
+                        <grpSym xml:id="gr3i28g" symbol="bracket" />
+                        <staffGrp xml:id="swfdked">
+                           <grpSym xml:id="g13nvsnr" symbol="bracketsq" />
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-4" trans.semi="-7">
+                              <label xml:id="l5p1rtb">Horn in F 1</label>
+                              <labelAbbr xml:id="l18nb35u">F Hn. 1</labelAbbr>
+                              <instrDef xml:id="i6rsbtx" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
+                              <clef xml:id="ce0c2sd" shape="G" line="2" />
+                              <keySig xml:id="kuif9us" sig="0" />
+                              <meterSig xml:id="mru4zbi" count="6" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="stb354x">
+                  <measure xml:id="me4mxzh" right="dashed" n="1">
+                     <staff xml:id="sm2svho" n="1">
+                        <layer xml:id="lu8g53d" n="1">
+                           <space xml:id="s1llj79k" dur.ppq="8" dur="1" />
+                           <note xml:id="nbcltql" dur.ppq="8" dur="1" oct="4" pname="a" />
+                           <note xml:id="nhweeva" dur.ppq="16" dur="breve" oct="4" pname="a" />
+                           <rest xml:id="rwsqefk" dur.ppq="1" dur="8" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tcw7axv" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
+                        <rend xml:id="r1jyx2cf" >&#x1d15f; </rend> = c. 54</tempo>
+                 		<dynam place="below" staff="1" tstamp="5.000000" vgrp="1">
+                        <rend xml:id="r1wfzmc7" fontweight="normal">p; sempre grave</rend>
+                     </dynam>
+                     <slur xml:id="sc4nt7a" startid="#nbcltql" endid="#nhweeva" curvedir="below" />
+                     <slur xml:id="s171d01b" startid="#nhweeva" />
+                  </measure>
+                  <measure xml:id="mc00fzh" right="dashed" n="2">
+                     <staff xml:id="sp5yxwu" n="1">
+                        <layer xml:id="l1luxqhu" n="1">
+                           <note xml:id="n159aew3" dur.ppq="16" dur="breve" oct="4" pname="g" />
+                           <note xml:id="n8nyd5i" dur.ppq="16" dur="breve" oct="4" pname="g" />
+                           <rest xml:id="r6o34r9" dur.ppq="1" dur="8" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="sm15x0" startid="#n159aew3" endid="#n8nyd5i" curvedir="below" />
+                     <slur xml:id="s1555y5u" startid="#n8nyd5i" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
