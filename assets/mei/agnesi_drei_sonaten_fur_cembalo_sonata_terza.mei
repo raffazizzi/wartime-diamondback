@@ -58,12 +58,12 @@
                            <keySig xml:id="keysig-0000000857840945" sig="1s" />
                            <meterSig xml:id="msig-0000002063529933" count="2" unit="4" />
                         </staffDef>
+                        <grpSym xml:id="grpsym-0000001243131010" symbol="brace" />
                         <staffDef xml:id="staffdef-0000000691323895" n="2" lines="5" ppq="4">
                            <clef xml:id="clef-0000000326764008" shape="F" line="4" />
                            <keySig xml:id="keysig-0000000873397970" sig="1s" />
                            <meterSig xml:id="msig-0000000985702224" count="2" unit="4" />
                         </staffDef>
-                        <grpSym xml:id="grpsym-0000001452197873" symbol="brace" />
                      </staffGrp>
                   </staffGrp>
                </scoreDef>

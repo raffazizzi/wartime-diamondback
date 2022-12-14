@@ -50,8 +50,7 @@
 </rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000613227086">
-                     <staffGrp xml:id="staffgrp-0000001070403365">
-                        <grpSym xml:id="grpsym-0000001471452250" symbol="brace" />
+                     <staffGrp xml:id="P1" bar.thru="true">
                         <staffDef xml:id="P1" n="1" lines="5" ppq="12">
                            <labelAbbr xml:id="labelAbbr-0000002099315841">Pno.</labelAbbr>
                            <instrDef xml:id="instrdef-0000000913043931" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
@@ -59,8 +58,8 @@
                            <keySig xml:id="keysig-0000000841600129" sig="1f" />
                            <meterSig xml:id="msig-0000001563338482" count="2" unit="4" />
                         </staffDef>
+                        <grpSym xml:id="grpsym-0000001243131010" symbol="brace" />
                         <staffGrp xml:id="staffgrp-0000001657561493">
-                           <grpSym xml:id="grpsym-0000000402703184" symbol="brace" />
                            <staffDef xml:id="P2" n="2" lines="5" ppq="12">
                               <labelAbbr xml:id="labelAbbr-0000001370400839">Pno.</labelAbbr>
                               <instrDef xml:id="instrdef-0000000172224867" midi.channel="1" midi.instrnum="0" midi.volume="78.00%" />
