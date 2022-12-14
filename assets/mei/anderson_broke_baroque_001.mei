@@ -129,7 +129,7 @@
                      <dynam xml:id="dfdwbs0" place="above" staff="1" tstamp="2.250000" vgrp="1">
                         <rend xml:id="rgc0mly" fontstyle="italic" fontweight="bold">f</rend></dynam>
                      <dynam place="above" staff="1" tstamp="2.45" vgrp="1">
-                        <rend>; robsuto</rend></dynam>
+                        <rend>; robusto</rend></dynam>
                      <dir xml:id="das4jby" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="r8xatat" fontstyle="italic" fontweight="bold">f</rend>
                      </dir>
