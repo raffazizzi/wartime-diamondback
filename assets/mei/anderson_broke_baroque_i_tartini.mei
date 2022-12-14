@@ -125,7 +125,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tz3409j" place="above" staff="1" tstamp="0" xml:lang="it" midi.bpm="120.000000" mm.unit="2">
-                        <rend xml:id="ry61jl9" fontweight="bold">&#x1d15e; = c. 44</rend></tempo>
+                        <rend xml:id="ry61jl9" >&#x1d15e;</rend> = c. 44</tempo>
                      <dynam xml:id="dfdwbs0" place="above" staff="1" tstamp="2.250000" vgrp="1">
                         <rend xml:id="rgc0mly" fontstyle="italic" fontweight="bold">f</rend></dynam>
                      <dynam place="above" staff="1" tstamp="2.45" vgrp="1">
