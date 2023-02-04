@@ -77,7 +77,7 @@
                         </layer>
                      </staff>
                      <tempo place="above" staff="1" tstamp="1">
-                     <rend fontname="VerovioText">Andantino semplice M.M.  = 100</rend></tempo>
+                     <rend fontweight="normal">Andantino semplice &#x1d15f; = 100</rend></tempo>
                      <dynam xml:id="do0ln1t" place="below" staff="1" tstamp="1.000000" vgrp="1">
                         <rend xml:id="rykv9jt" fontstyle="italic" fontweight="bold">mp</rend>
                      </dynam>

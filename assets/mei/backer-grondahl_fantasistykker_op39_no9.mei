@@ -114,7 +114,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tf03ccw" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000">
-                        <rend xml:id="rl52jq" fontname="VerovioText">Allegretto </rend> = 144
+                        <rend xml:id="rl52jq" fontweight="normal">Allegretto &#x1d15f; = 144</rend>
                      </tempo>
                      <dynam xml:id="du6c3wm" place="above" staff="2" tstamp="1.000000" val="33" vgrp="56">pp</dynam>
                      <beamSpan xml:id="b5so4l9" startid="#nvhw1sk" endid="#n6sperl" />

@@ -87,7 +87,7 @@
                         </layer>
                      </staff>
                      <tempo place="above" staff="1" tstamp="1">
-                     <rend fontname="VerovioText">Allegretto non troppo (M.M.  = 108)</rend></tempo>
+                     <rend fontweight="normal">Allegretto non troppo (&#x1d15f; = 108)</rend></tempo>
                      <dir xml:id="d8a2a75" place="below" staff="1" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rzaahol" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>

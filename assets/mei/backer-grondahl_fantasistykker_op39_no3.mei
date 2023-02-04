@@ -79,7 +79,7 @@
                      </staff>
                      <dynam xml:id="dynam-0000002000353931" place="below" staff="1" tstamp="1.000000" val="33" vgrp="1">pp</dynam>
                      <tempo xml:id="tempo-0000000428234980" place="above" staff="1" tstamp="1.000000" midi.bpm="160" mm="160.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001915054576" fontname="VerovioText">Allegretto Leggiero </rend> = 160</tempo>
+                        <rend xml:id="rend-0000001915054576" fontweight="normal">Allegretto Leggiero &#x1d15f; = 160</rend></tempo>
                      <dir xml:id="dir-0000000064844517" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000000576543508" rend="none" fontstyle="italic">una corda</rend>
                      </dir>
