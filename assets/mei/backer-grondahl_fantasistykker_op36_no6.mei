@@ -113,7 +113,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000679639567" place="above" staff="1" tstamp="1.000000" midi.bpm="114" mm="76.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rend-0000000074152301" fontname="VerovioText">Andantino M.M. </rend> = 76</tempo>
+                        <rend xml:id="rend-0000000074152301" fontweight="normal">Andantino &#x1d15f &#x1d16d; = 76</rend></tempo>
                      <dynam xml:id="dynam-0000001836432696" place="below" staff="1" tstamp="1.000000" val="80" vgrp="1">mf</dynam>
                      <slur xml:id="slur-0000000937272741" startid="#note-0000000976806625" endid="#note-0000000380233170" curvedir="above" />
                      <slur xml:id="slur-0000001181695304" startid="#note-0000000976806625" endid="#note-0000000380233170" curvedir="below" />

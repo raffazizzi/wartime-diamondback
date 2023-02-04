@@ -113,7 +113,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000164444084" place="above" staff="1" tstamp="1.000000" midi.bpm="126" mm="126.000000" mm.unit="4">
-                        <rend xml:id="rend-0000002068416498" fontname="VerovioText">Tranquillo M.M. </rend> = 126</tempo>
+                        <rend xml:id="rend-0000002068416498" fontweight="normal">Tranquillo &#x1d15f; = 126</rend></tempo>
                   </measure>
                   <measure xml:id="measure-0000001459062282" n="2">
                      <staff xml:id="staff-0000000731892826" n="1">

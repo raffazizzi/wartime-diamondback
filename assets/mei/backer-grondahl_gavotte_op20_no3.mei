@@ -80,7 +80,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000952931404" place="above" staff="1" tstamp="1.000000" midi.bpm="112" mm="112.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001558549552" fontname="VerovioText">Allegretto </rend> = 112</tempo>
+                        <rend xml:id="rend-0000001558549552" fontweight="normal">Allegretto &#x1d15f; = 112</rend></tempo>
                      <dynam xml:id="dynam-0000000854008134" place="below" staff="1" tstamp="1.000000" val="80" vgrp="1">mf</dynam>
                   </measure>
                   <measure xml:id="measure-0000001276599025" n="1">
