@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Dream of the Cherry Blossoms</title>
+            <title>Dream of the Cherry Blossoms, 2</title>
             <respStmt>
                <persName role="composer">Keiko Abe</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s7j9vle">
                <scoreDef xml:id="siz2w8w">
                   <pgHead xml:id="p5wr455">
-                     <rend xml:id="rrfnyg7" halign="center" valign="top">Dream of the Cherry Blossoms</rend>
-                     <rend xml:id="re6powd" halign="center" valign="top">II.</rend>
                      <rend xml:id="repmloj" halign="right" valign="bottom">Keiko Abe</rend>
                   </pgHead>
                   <staffGrp xml:id="s9n70jn">

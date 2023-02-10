@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Contrasts</title>
+            <title>Contrasts, 4. Procession</title>
             <respStmt>
                <persName role="composer">H.  Leslie Adams</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sstipij">
                <scoreDef xml:id="sn2z467">
                   <pgHead xml:id="pdq8e3c">
-                     <rend xml:id="rociijv" halign="center" valign="top">Contrasts</rend>
-                     <rend xml:id="ru7essf" halign="center" valign="top">4.  Procession</rend>
                      <rend xml:id="r3qbqos" halign="right" valign="bottom">H.  Leslie Adams</rend>
                   </pgHead>
                   <staffGrp xml:id="se5t8ec">
