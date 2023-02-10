@@ -90,7 +90,7 @@
                         <rend xml:id="rend-0000001024179748" fontstyle="normal">as connected as possible throughout</rend>
                      </dir>
                      <dir xml:id="d8hfm3g" place="above" staff="1" tstamp="1.000000" vgrp="400">
-                        <rend xml:id="rend-0000000352019088" fontstyle="small" fontfam="smufl"> &#x1d15f; &#x1d16d; = 60; Fluid and elegant</rend>
+                        <rend xml:id="rend-0000000352019088" fontstyle="normal" <rend fontfam="smufl"> &#x1d15f; &#x1d16d;</rend> = 60; Fluid and elegant</rend>
                      </dir>
                      <dynam xml:id="dynam-0000000958761252" place="below" staff="1" tstamp="1.000000" val="49" vgrp="1">p</dynam>
                      <slur xml:id="slur-0000000216058106" startid="#note-0000000775287058" endid="#note-0000001967287605" curvedir="below" />
