@@ -84,10 +84,7 @@
                      </staff>
                      <tempo xml:id="tempo-0000001289743739" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="90.000000" mm="60.000000" mm.unit="4" mm.dots="1" />
                      <dir xml:id="dib4993" place="above" staff="1" tstamp="1.000000" vgrp="40">
-                        <rend xml:id="rend-0000000204894036" fontstyle="italic" fontweight="normal">molto sostenuto;</rend>
-                     </dir>
-                     <dir xml:id="db7pvkj" place="above" staff="1" tstamp="6.250000" vgrp="40">
-                        <rend xml:id="rend-0000001024179748" fontstyle="normal">as connected as possible throughout</rend>
+                        <rend xml:id="rend-0000000204894036" fontstyle="italic" fontweight="normal">molto sostenuto; as connected as possible throughout</rend>
                      </dir>
                      <tempo xml:id="d8hfm3g" place="above" staff="1" tstamp="1.000000" vgrp="400">
                         <rend xml:id="rend-0000000352019088" fontweight="normal" <rend fontfam="smufl"> &#x1d15f; &#x1d16d;</rend> = 60; Fluid and elegant</rend>
