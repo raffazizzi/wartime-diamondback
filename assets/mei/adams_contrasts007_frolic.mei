@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Frolic</title>
+            <title>Contrasts, 7. Frolic</title>
             <respStmt>
                <persName role="composer">H. Leslie Adams</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -37,7 +37,6 @@
             <score xml:id="sop2qq3">
                <scoreDef xml:id="s62dal4">
                   <pgHead xml:id="puxxe1t">
-                     <rend xml:id="runglu4" halign="center" valign="top">Frolic</rend>
                      <rend xml:id="rnpt1u7" halign="right" valign="bottom">H. Leslie Adams</rend>
                   </pgHead>
                   <staffGrp xml:id="ss0qs4e">

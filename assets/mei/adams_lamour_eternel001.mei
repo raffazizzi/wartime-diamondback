@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>L'Amour éternal</title>
+            <title>L'Amour éternal, Allegretto fluente</title>
             <respStmt>
                <persName role="composer">Leslie Adams</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s57x246">
                <scoreDef xml:id="sad3qlj">
                   <pgHead xml:id="pocdu99">
-                     <rend xml:id="rvj7qfn" halign="center" valign="top">L'Amour éternel</rend>
-                     <rend xml:id="ryhdchc" halign="center" valign="top">I. Allegretto fluente</rend>
                      <rend xml:id="rknsa24" halign="right" valign="bottom">Leslie Adams</rend>
                   </pgHead>
                   <staffGrp xml:id="sy269de">

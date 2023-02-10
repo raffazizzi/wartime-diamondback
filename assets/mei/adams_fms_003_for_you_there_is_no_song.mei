@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Millay Songs</title>
+            <title>Five Millay Songs: For you there is no song</title>
             <respStmt>
                <persName role="composer">H. Leslie Adams</persName>
                <persName role="lyricist">Edna St. Vincent Millay</persName>
@@ -29,8 +29,6 @@
             <score xml:id="sii0nzz">
                <scoreDef xml:id="s3ks4ww">
                   <pgHead xml:id="prgorqi">
-                     <rend xml:id="rrtgwkn" halign="center" valign="top">Five Millay Songs</rend>
-                     <rend xml:id="r57boni" halign="center" valign="top">3. For You There Is No Song</rend>
                      <rend xml:id="rlx27el" halign="right" valign="bottom">H. Leslie Adams</rend>
                      <rend xml:id="rmf8q7b" halign="left" valign="bottom">Edna St. Vincent Millay</rend>
                   </pgHead>

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Millay Songs</title>
+            <title>Five Millay Songs: Gone again is summer</title>
             <respStmt>
                <persName role="composer">H. Leslie Adams</persName>
                <persName role="lyricist">Edna St. Vincent Millay</persName>
@@ -38,8 +38,6 @@
             <score xml:id="s1fkfpo">
                <scoreDef xml:id="s5n86e5">
                   <pgHead xml:id="pb1osm2">
-                     <rend xml:id="rdxswtm" halign="center" valign="top">Five Millay Songs</rend>
-                     <rend xml:id="r43urk5" halign="center" valign="top">5. Gone Again Is Summer The Lovely </rend>
                      <rend xml:id="r7brbib" halign="right" valign="bottom">H. Leslie Adams</rend>
                      <rend xml:id="rd8r9b8" halign="left" valign="bottom">Edna St. Vincent Millay</rend>
                   </pgHead>

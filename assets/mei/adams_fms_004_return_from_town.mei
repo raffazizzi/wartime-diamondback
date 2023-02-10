@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Millay Songs</title>
+            <title>Five Millay Songs: Return from town</title>
             <respStmt>
                <persName role="composer">H. Leslie Adams</persName>
                <persName role="lyricist">Edna St. Vincent Millay</persName>
@@ -38,8 +38,6 @@
             <score xml:id="s1j5ag9">
                <scoreDef xml:id="sqx7mbn">
                   <pgHead xml:id="phef2ou">
-                     <rend xml:id="r72lqf9" halign="center" valign="top">Five Millay Songs</rend>
-                     <rend xml:id="rkntog3" halign="center" valign="top">4. The Return From Town</rend>
                      <rend xml:id="ranlrp8" halign="right" valign="bottom">H. Leslie Adams</rend>
                      <rend xml:id="r3ks4ww" halign="left" valign="bottom">Edna St. Vincent Millay</rend>
                   </pgHead>
