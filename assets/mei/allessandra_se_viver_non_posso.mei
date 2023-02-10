@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title> Se viver non posso</title>
+            <title>Se viver non posso</title>
             <respStmt>
                <persName role="composer">Caterina Allessandra</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -44,7 +44,7 @@
             <score xml:id="score-0000001644413744">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000124147285">
-                     <rend xml:id="rend-0000000674838707" halign="center" valign="top">Se viver non posso</rend>
+                     <rend xml:id="rend-0000000674838707" halign="center" valign="top"></rend>
                      <rend xml:id="rend-0000000518715155" halign="right" valign="bottom">Caterina Allessandra</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000406420398">
