@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Songs of Illumination </title>
+            <title>Songs of Illumination, VII. River to Cross</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="shvrzav">
                <scoreDef xml:id="s8l9iiy">
                   <pgHead xml:id="ptiauc0">
-                     <rend xml:id="r2itzn0" halign="center" valign="top">Songs of Illumination </rend>
-                     <rend xml:id="rzfcmw8" halign="center" valign="top">VII. River to Cross</rend>
                      <rend xml:id="rpbnh47" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="ssd8ib4">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Spirit Songs</title>
+            <title>Spirit Songs, VIII. Vamp II</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="sibwb4h">
                <scoreDef xml:id="s98xrjf">
                   <pgHead xml:id="prr0jjf">
-                     <rend xml:id="rt8k5nf" halign="center" valign="top">Spirit Songs</rend>
-                     <rend xml:id="ri2987d" halign="center" valign="top">Vamp II</rend>
                      <rend xml:id="rv3o1hm" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="s149jna">

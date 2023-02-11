@@ -37,7 +37,6 @@
             <score xml:id="score-0000001789016772">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000920913527">
-                     <rend xml:id="rend-0000000473518983" halign="center" valign="top">Vom Nachen getragen</rend>
                      <rend xml:id="rend-0000000268858337" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000000216110201" halign="left" valign="bottom">Achim von Arnim</rend>
                   </pgHead>

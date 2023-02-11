@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Intervals</title>
+            <title>Intervals, Set III</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -37,10 +37,7 @@
             <score xml:id="sbef6d">
                <scoreDef xml:id="spisyjw">
                   <pgHead xml:id="p3pd0i8">
-                     <rend xml:id="rxpx5p2" halign="center" valign="top">Intervals</rend>
-                     <rend xml:id="riqdqep" halign="center" valign="top">Set III</rend>
                      <rend xml:id="rnajo7l" halign="right" valign="bottom">T. J. Anderson</rend>
-                     <rend xml:id="rgrwnwj" halign="left" valign="top">English Horn</rend>
                   </pgHead>
                   <staffGrp xml:id="sc3wqsx">
                      <staffGrp xml:id="saqe7wp">

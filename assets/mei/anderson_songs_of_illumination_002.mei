@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Songs of Illumination</title>
+            <title>Songs of Illumination, II. Cody and the Chicken</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="shbzny8">
                <scoreDef xml:id="sytvryf">
                   <pgHead xml:id="p6c78p">
-                     <rend xml:id="rtslwyo" halign="center" valign="top">Songs of Illumination</rend>
-                     <rend xml:id="rd5w93o" halign="center" valign="top">II. Cody and the Chicken</rend>
                      <rend xml:id="re6qib5" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="sbflgxj">

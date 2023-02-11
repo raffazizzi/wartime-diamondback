@@ -37,7 +37,6 @@
             <score xml:id="score-0000000033055378">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001632294250">
-                     <rend xml:id="rend-0000001740654144" halign="center" valign="top">Ein Stern der Lieb' am Himmelslauf</rend>
                      <rend xml:id="rend-0000001943312790" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000001800746069" halign="left" valign="bottom">Achim von Arnim</rend>
                   </pgHead>

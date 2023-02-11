@@ -39,7 +39,6 @@
             <score xml:id="score-0000000518715155">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001578087275">
-                     <rend xml:id="rend-0000000276792650" halign="center" valign="top">Der Himmel ist oft hell</rend>
                      <rend xml:id="rend-0000000514600996" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000000228531864" halign="left" valign="bottom">Achim von Arnim</rend>
                   </pgHead>

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Songs of Illumination </title>
+            <title>Songs of Illumination, I. Living Below Van Gogh</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="se0tyio">
                <scoreDef xml:id="sa18urg">
                   <pgHead xml:id="pmfv22u">
-                     <rend xml:id="rb0trsr" halign="center" valign="top">Songs of Illumination </rend>
-                     <rend xml:id="r4y5pn8" halign="center" valign="top">I. Living Below Van Gogh</rend>
                      <rend xml:id="ri98u6e" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="sw7uewp">

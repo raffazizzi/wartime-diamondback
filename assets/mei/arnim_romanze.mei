@@ -37,7 +37,6 @@
             <score xml:id="score-0000000235380518">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000219667627">
-                     <rend xml:id="rend-0000000494751321" halign="center" valign="top">Romanze</rend>
                      <rend xml:id="rend-0000001233556008" halign="right" valign="bottom">Bettina von Arnim
 </rend>
                      <rend xml:id="rend-0000000276288853" halign="left" valign="bottom">Achim von Arnim</rend>

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony in Three Movements</title>
+            <title>Symphony in Three Movements, I. Allegro</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="s4khtud">
                <scoreDef xml:id="s39mxuh">
                   <pgHead xml:id="p8t3cob">
-                     <rend xml:id="rm0lazh" halign="center" valign="top">Symphony in Three Movements</rend>
-                     <rend xml:id="rqwawt8" halign="center" valign="top">I. Allegro</rend>
                      <rend xml:id="rruwzhw" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="s5rnhev">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Songs of Illumination</title>
+            <title>Songs of Illuminatio, X. Nina</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="sm5kuup">
                <scoreDef xml:id="snpoeb3">
                   <pgHead xml:id="pgaqpri">
-                     <rend xml:id="rrqtvbo" halign="center" valign="top">Songs of Illumination</rend>
-                     <rend xml:id="rxe28l3" halign="center" valign="top">X. Nina</rend>
                      <rend xml:id="rszlr2k" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="ssypb9z">

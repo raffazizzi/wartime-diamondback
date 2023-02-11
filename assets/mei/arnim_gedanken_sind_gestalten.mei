@@ -37,7 +37,6 @@
             <score xml:id="score-0000001477793338">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001410763391">
-                     <rend xml:id="rend-0000000585037733" halign="center" valign="top">Gedanken sind Gestalten</rend>
                      <rend xml:id="rend-0000000012577227" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000000503054274" halign="left" valign="bottom">Achim von Arnim</rend>
                   </pgHead>

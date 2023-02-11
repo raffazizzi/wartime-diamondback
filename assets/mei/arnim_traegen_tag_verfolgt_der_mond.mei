@@ -37,7 +37,6 @@
             <score xml:id="score-0000000629703127">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001505102270">
-                     <rend xml:id="rend-0000000098075461" halign="center" valign="top">Den trägen Tag verfolgt der Mond</rend>
                      <rend xml:id="rend-0000001250763648" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000000733334415" halign="left" valign="bottom">Achim von Arnim</rend>
                   </pgHead>

@@ -38,7 +38,6 @@
             <score xml:id="score-0000001738771443">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000002003068762">
-                     <rend xml:id="rend-0000000191852846" halign="center" valign="top">Piano Trio in G Minor, Finale, Rondo, Mvt. 3</rend>
                      <rend xml:id="rend-0000000304373385" halign="right" valign="bottom">Elfrida Andrée</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000811874683">

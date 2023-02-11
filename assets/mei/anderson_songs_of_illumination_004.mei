@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Songs of Illumination </title>
+            <title>Songs of Illumination, IV. Moon</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="s5rnhev">
                <scoreDef xml:id="st1mkdq">
                   <pgHead xml:id="p9ph45z">
-                     <rend xml:id="r49ae4b" halign="center" valign="top">Songs of Illumination </rend>
-                     <rend xml:id="rj80ou7" halign="center" valign="top">IV. Moon</rend>
                      <rend xml:id="rysq6cf" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="sefooyv">

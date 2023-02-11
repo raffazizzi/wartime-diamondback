@@ -37,7 +37,6 @@
             <score xml:id="score-0000001800746069">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000960150592">
-                     <rend xml:id="rend-0000000313855803" halign="center" valign="top">Mondenschein</rend>
                      <rend xml:id="rend-0000001204670147" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000000716429717" halign="left" valign="bottom">Achim von Arnim</rend>
                   </pgHead>

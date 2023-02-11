@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Spirit Songs</title>
+            <title>Spirit Song, VII. Serenade IV</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="spae7wr">
                <scoreDef xml:id="s8nrz2j">
                   <pgHead xml:id="pjwi5r4">
-                     <rend xml:id="r2a5nrp" halign="center" valign="top">Spirit Songs</rend>
-                     <rend xml:id="rfwd5ga" halign="center" valign="top">Serenade IV</rend>
                      <rend xml:id="rgrgoum" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="slxaig6">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Bagatelles</title>
+            <title>Five Bagatelles, V. Ballonchio</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="saioo3l">
                <scoreDef xml:id="sxivbla">
                   <pgHead xml:id="p98u0z9">
-                     <rend xml:id="rlv26ex" halign="center" valign="top">Five Bagatelles</rend>
-                     <rend xml:id="r7yzjfa" halign="center" valign="top">V. Ballonchio</rend>
                      <rend xml:id="rw7dwtx" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="spmuov4">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Etudes and a Fancy </title>
+            <title>Five Etudes and a Fancy, II. Complements</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,9 +37,7 @@
             <score xml:id="s5pbrsl">
                <scoreDef xml:id="sdxoqfi">
                   <pgHead xml:id="p5m7rm2">
-                     <rend xml:id="r8o1f4l" halign="center" valign="top">Five Etudes and a Fancy </rend>
                      <rend xml:id="r853wiw" halign="right" valign="bottom">T. J. Anderson</rend>
-                     <rend xml:id="ralctgv" halign="center" valign="top">II. Complements</rend>
                   </pgHead>
                   <staffGrp xml:id="swxsh1m">
                      <staffGrp xml:id="svmw6pv">

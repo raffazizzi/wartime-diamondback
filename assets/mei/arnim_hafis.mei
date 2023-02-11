@@ -37,7 +37,6 @@
             <score xml:id="score-0000000487207374">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001025383739">
-                     <rend xml:id="rend-0000002109810578" halign="center" valign="top">Hafis</rend>
                      <rend xml:id="rend-0000000576425894" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000002133601797" halign="left" valign="bottom">Georg Friedrich Daumer</rend>
                   </pgHead>

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>I. Call and Response</title>
+            <title>Spirit Songs, I. Call and Response</title>
             <respStmt>
                <persName role="composer">T.J. Anderson</persName>
                <persName role="transcriber">Ismenia Ginebra</persName>
@@ -38,8 +38,7 @@
             <score xml:id="sok83uv">
                <scoreDef xml:id="scvyn21">
                   <pgHead xml:id="pj0vzy">
-                     <rend xml:id="rqy6uvi" halign="center" valign="top">Spirit Songs, I. Call and Response</rend>
-                     <rend xml:id="rmvqywc" halign="right" valign="bottom">T.J. Anderson</rend>
+                     <rend xml:id="rmvqywc" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="se0n5zi">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">

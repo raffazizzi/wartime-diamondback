@@ -37,7 +37,6 @@
             <score xml:id="score-0000001339627057">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000985501422">
-                     <rend xml:id="rend-0000001677650388" halign="center" valign="top">Lied des Schülers</rend>
                      <rend xml:id="rend-0000002019002871" halign="right" valign="bottom">Bettina von Arnim</rend>
                      <rend xml:id="rend-0000001752854348" halign="left" valign="bottom">Achim von Arnim </rend>
                   </pgHead>

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony in Three Movements</title>
+            <title>Symphony in Three Movements, II. Adagio ciaccona</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="s4oiqu">
                <scoreDef xml:id="ss275pf">
                   <pgHead xml:id="pgb4m8a">
-                     <rend xml:id="rf7cogu" halign="center" valign="top">Symphony in Three Movements</rend>
-                     <rend xml:id="r4apjqt" halign="center" valign="top">II. Adagio ciaccona</rend>
                      <rend xml:id="r9j4ehs" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="sio1quc">
