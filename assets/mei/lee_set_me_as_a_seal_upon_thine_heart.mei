@@ -39,9 +39,7 @@
             <score xml:id="score-0000000523267343">
                <scoreDef xml:id="sj4wr19">
                   <pgHead xml:id="pghead-0000000673950675">
-                     <rend xml:id="rend-0000000679116130" halign="center" valign="top">Set Me As a Seal Upon Thine Heart</rend>
                      <rend xml:id="rend-0000000615758481" halign="right" valign="bottom">James Lee III</rend>
-                     <rend xml:id="rend-0000000258282125" halign="left" valign="bottom">Song of Solomon 8</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000974474026">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="4">

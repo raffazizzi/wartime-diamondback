@@ -36,8 +36,6 @@
             <score xml:id="score-0000001315399295">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001231476396">
-                     <rend xml:id="rend-0000001351228775" halign="center" valign="top">be still and know</rend>
-                     <rend xml:id="rend-0000001623750583" halign="center" valign="top" fontstyle="italic">for piano trio</rend>
                      <rend xml:id="rend-0000001719288096" halign="right" valign="top">Carlos Simon</rend>
                      <rend xml:id="rend-0000001764184995" halign="left" valign="top" />
                   </pgHead>

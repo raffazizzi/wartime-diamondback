@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Nora's Dance</title>
+            <title>Nora's Dance, op. 25, no. 1</title>
             <respStmt>
                <persName role="composer">Nora Douglas Holt</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -38,9 +38,7 @@
             <score xml:id="score-0000001830345367">
                <scoreDef xml:id="scoredef-0000001970444384">
                   <pgHead xml:id="pghead-0000001026714797">
-                     <rend xml:id="rend-0000001661016203" halign="center" valign="top">Nora's Dance</rend>
                      <rend xml:id="rend-0000000505141093" halign="right" valign="bottom">Nora Douglas Holt</rend>
-                     <rend xml:id="rend-0000001147309833" halign="center" valign="top">Op. 25, No. 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000348148906">
                      <staffGrp xml:id="P1" bar.thru="true">
