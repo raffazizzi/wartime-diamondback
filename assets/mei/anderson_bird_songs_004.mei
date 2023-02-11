@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Bird Songs</title>
+            <title>Bird Songs, IV. Firebird</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="score-0000002068416498">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000372705998">
-                     <rend xml:id="rend-0000001220288579" halign="center" valign="top">Bird Songs</rend>
-                     <rend xml:id="rend-0000001339627057" halign="center" valign="top">IV. Firebird</rend>
                      <rend xml:id="rend-0000000070399441" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000516761490">

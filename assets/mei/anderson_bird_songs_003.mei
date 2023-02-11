@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Bird Songs</title>
+            <title>Bird Songs, III. Pterodactyl</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="score-0000000108241160">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001474679209">
-                     <rend xml:id="rend-0000001969048543" halign="center" valign="top">Bird Songs</rend>
-                     <rend xml:id="rend-0000001694454087" halign="center" valign="top">III. Pterodactyl</rend>
                      <rend xml:id="rend-0000001475141758" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000002109038109">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Bagatelles</title>
+            <title>Five Bagatelles, III. Burletta</title>
             <respStmt>
                <persName role="composer">T. J. Anderson</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="sp09ia3">
                <scoreDef xml:id="sv3ymwn">
                   <pgHead xml:id="pwo8s4k">
-                     <rend xml:id="ryvmdr0" halign="center" valign="top">Five Bagatelles</rend>
-                     <rend xml:id="rdw071s" halign="center" valign="top">III. Burletta</rend>
                      <rend xml:id="r959jnk" halign="right" valign="bottom">T. J. Anderson</rend>
                   </pgHead>
                   <staffGrp xml:id="sssg4xz">
