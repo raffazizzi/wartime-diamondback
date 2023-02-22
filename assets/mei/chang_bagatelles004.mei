@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Bagatelles</title>
+            <title>Bagatelles, 4. still waters</title>
             <respStmt>
                <persName role="composer">Dorothy Chang</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s7ybxrc">
                <scoreDef xml:id="salbz5i">
                   <pgHead xml:id="pcghs0i">
-                     <rend xml:id="rbfuded" halign="center" valign="top">Bagatelles</rend>
-                     <rend xml:id="r2ip02g" halign="center" valign="top">4. still waters</rend>
                      <rend xml:id="rsb86w4" halign="right" valign="bottom">Dorothy Chang</rend>
                   </pgHead>
                   <staffGrp xml:id="syp6871">

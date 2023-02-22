@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Reflets</title>
+            <title>Chants, Reflets</title>
             <respStmt>
                <persName role="composer">Lili Boulanger</persName>
                <persName role="lyricist">Maurice Maeterlinck</persName>
@@ -37,7 +37,6 @@
             <score xml:id="score-0000001318418697">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001249339395">
-                     <rend xml:id="rend-0000001560200729" halign="center" valign="top">Reflets</rend>
                      <rend xml:id="rend-0000001544294122" halign="right" valign="bottom">Lili Boulanger</rend>
                      <rend xml:id="rend-0000001118655359" halign="left" valign="bottom">M. Maeterlinck</rend>
                   </pgHead>

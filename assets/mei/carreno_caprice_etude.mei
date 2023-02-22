@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Caprice Etude</title>
+            <title>Caprice Etude, op. 7, no. 3</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -35,8 +35,6 @@
             <score xml:id="score-0000001284394151">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001250110893">
-                     <rend xml:id="rend-0000001635121290" halign="center" valign="top">Caprice Étude</rend>
-                     <rend xml:id="rend-0000001557769433" halign="center" valign="top">op. 7, no. 3</rend>
                      <rend xml:id="rend-0000001095620619" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000171784131">

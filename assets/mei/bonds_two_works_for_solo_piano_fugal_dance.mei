@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Two Works for Solo Piano</title>
+            <title>Two Works for Solo Piano, Fugal Dance</title>
             <respStmt>
                <persName role="composer">Margaret Bonds</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -38,8 +38,6 @@
             <score xml:id="score-0000000239758386">
                <scoreDef xml:id="scoredef-0000001970444384">
                   <pgHead xml:id="pghead-0000000903124492">
-                     <rend xml:id="rend-0000001269087315" halign="center" valign="top">Two Works for Solo Piano</rend>
-                     <rend xml:id="rend-0000000392232622" halign="center" valign="top">Fugal Dance</rend>
                      <rend xml:id="rend-0000002133107784" halign="right" valign="bottom">Margaret Bonds</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001288951908">

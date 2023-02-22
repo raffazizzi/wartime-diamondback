@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Quintet</title>
+            <title>Quintet, mvt. 2</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
                <persName role="transcriber">Sebastian Tringale</persName>
@@ -38,8 +38,6 @@
             <score xml:id="s41ogpz">
                <scoreDef xml:id="socvrjc">
                   <pgHead xml:id="pe2ovw6">
-                     <rend xml:id="rtqwx38" halign="center" valign="top">Quintet</rend>
-                     <rend xml:id="ri9b5ve" halign="center" valign="top">II.</rend>
                      <rend xml:id="rilk63" halign="right" valign="bottom">Amy Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="swy4o7y">

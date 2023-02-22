@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Vida Misma, III  Homo Ludens</title>
+            <title>La Vida Misma, III Homo Ludens</title>
             <respStmt>
                <persName role="composer">Leo Brouwer</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -36,10 +36,7 @@
             <score xml:id="score-0000000876314340">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001634987740">
-                     <rend xml:id="rend-0000001702283324" halign="center" valign="top">La Vida Misma</rend>
-                     <rend xml:id="rend-0000000332759234" halign="center" valign="top">III  Homo Ludens</rend>
                      <rend xml:id="rend-0000000761005113" halign="right" valign="bottom">Leo Brouwer</rend>
-                     <rend xml:id="rend-0000000880909333" halign="left" valign="top">Percussion</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000629703127">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">

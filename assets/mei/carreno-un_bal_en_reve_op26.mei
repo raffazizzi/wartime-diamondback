@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Un Bal en Reve</title>
+            <title>Un Bal en Rêve</title>
             <title type="subordinate">op. 26</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
@@ -41,8 +41,6 @@
                <scoreDef xml:id="sshv3a0">
                   <pgHead xml:id="pv9l19e">
                      <rend xml:id="ruj06pd" halign="right" valign="top">Teresa Carreño</rend>
-                     <rend xml:id="rflvk8i" halign="center" valign="top">Un Bal en Rêve</rend>
-                     <rend xml:id="rtk4wk8" halign="center" valign="top">op. 26</rend>
                   </pgHead>
                   <staffGrp xml:id="sdr7699">
                      <staffGrp xml:id="P1" bar.thru="true">

@@ -37,7 +37,6 @@
             <score xml:id="score-0000000576167488">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001087326861">
-                     <rend xml:id="rend-0000001155397569" halign="center" valign="top">Par ce que j'ai souffert</rend>
                      <rend xml:id="rend-0000000817018380" halign="right" valign="bottom">Lili Boulanger</rend>
                      <rend xml:id="rend-0000002014556172" halign="left" valign="bottom">Francis Jammes</rend>
                   </pgHead>

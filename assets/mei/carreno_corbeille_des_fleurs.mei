@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Corbielle Des Fleurs</title>
+            <title>Corbielle Des Fleurs, op. 9</title>
             <respStmt />
             <persName role="composer">Teresa Carreño</persName>
             <persName role="transcriber">Sebastian Tringale</persName>
@@ -36,7 +36,6 @@
             <score xml:id="sfuwjy8">
                <scoreDef xml:id="skqgm9d">
                   <pgHead xml:id="pjdayb7">
-                     <rend xml:id="rz7tcqw" halign="center" valign="top">Le corbeille des fleurs, op. 9</rend>
                      <rend xml:id="ruzkj8t" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="syg1tlm">

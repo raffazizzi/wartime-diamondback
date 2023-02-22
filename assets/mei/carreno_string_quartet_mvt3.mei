@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>String quartet in C minor</title>
+            <title>String quartet in C minor, Mvt. 3</title>
             <respStmt>
                <persName role="composer">Teresa Carreno</persName>
                <persName role="transcriber">Sebastian Tringale</persName>
@@ -37,10 +37,7 @@
             <score xml:id="score-0000002077145550">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001842492582">
-                     <rend xml:id="rend-0000001765112812" halign="center" valign="top">String quartet in C minor</rend>
-                     <rend xml:id="rend-0000000735820711" halign="center" valign="top">III</rend>
                      <rend xml:id="rend-0000000471769352" halign="right" valign="bottom">Teresa Carreño</rend>
-                     <rend xml:id="rend-0000000930189675" halign="left" valign="top">Violin 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001889650736">
                      <staffGrp xml:id="staffgrp-0000001549907388">

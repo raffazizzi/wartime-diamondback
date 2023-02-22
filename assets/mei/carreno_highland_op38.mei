@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sketches of Scotland</title>
+            <title>Sketches of Scotland, op. 38</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
                <persName role="transcriber">Sebastian Tringale</persName>
@@ -37,8 +37,6 @@
             <score xml:id="score-0000001410763391">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001970960469">
-                     <rend xml:id="rend-0000000503054274" halign="center" valign="top">Highland</rend>
-                     <rend xml:id="rend-0000000159363182" halign="center" valign="top">Souvenir of Scotland</rend>
                      <rend xml:id="rend-0000001693114178" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000002079587357">

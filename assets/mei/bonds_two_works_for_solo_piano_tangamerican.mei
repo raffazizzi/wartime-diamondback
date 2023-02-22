@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Two Works for Solo Piano</title>
+            <title>Two Works for Solo Piano, Tangamerican</title>
             <respStmt>
                <persName role="composer">Margaret Bonds</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -38,8 +38,6 @@
             <score xml:id="score-0000000728640440">
                <scoreDef xml:id="scoredef-0000001970444384">
                   <pgHead xml:id="pghead-0000001163236193">
-                     <rend xml:id="rend-0000001427323570" halign="center" valign="top">Two Works for Solo Piano</rend>
-                     <rend xml:id="rend-0000001510618459" halign="center" valign="top">Tangamerican</rend>
                      <rend xml:id="rend-0000000081273529" halign="right" valign="bottom">Margaret Bonds</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001037929903">

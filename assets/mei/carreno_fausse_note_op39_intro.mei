@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Fausse Note</title>
+            <title>La Fausse Note, op. 29, Introduction</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
                <persName role="transcriber">Sebastian Tringale</persName>
@@ -36,8 +36,6 @@
             <score xml:id="s8nq2b1">
                <scoreDef xml:id="sq4090m">
                   <pgHead xml:id="pcyavva">
-                     <rend xml:id="rphzm6w" halign="center" valign="top">La Fausse Note</rend>
-                     <rend xml:id="rcn2mqm" halign="center" valign="top">op. 29, Introduction</rend>
                      <rend xml:id="rftm2ji" halign="right" valign="top">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="s6vinhl">

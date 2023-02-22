@@ -37,7 +37,6 @@
             <score xml:id="score-0000000614957745">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000052067834">
-                     <rend xml:id="rend-0000000774616102" halign="center" valign="top">Une revue à Prague</rend>
                      <rend xml:id="rend-0000001915920638" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000183309905">

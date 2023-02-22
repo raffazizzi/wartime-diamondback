@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>La Vida Misma, II  Homo Sapiens</title>
+            <title>La Vida Misma, II Homo Sapiens</title>
             <respStmt>
                <persName role="composer">Leo Brouwer</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -36,10 +36,7 @@
             <score xml:id="score-0000000240754902">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000973630378">
-                     <rend xml:id="rend-0000001455521293" halign="center" valign="top">La Vida Misma</rend>
                      <rend xml:id="rend-0000001969048543" halign="right" valign="bottom">Leo Brouwer</rend>
-                     <rend xml:id="rend-0000001474679209" halign="center" valign="top">II  Homo Sapiens</rend>
-                     <rend xml:id="rend-0000001741757252" halign="left" valign="top">Violin</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000907729032">
                      <staffGrp xml:id="staffgrp-0000002109038109">

@@ -37,7 +37,6 @@
             <score xml:id="score-0000000219976782">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001653035940">
-                     <rend xml:id="rend-0000001045325538" halign="center" valign="top">Kleiner Walzer</rend>
                      <rend xml:id="rend-0000001354129631" halign="right" valign="bottom">Teresa Carreño</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000131937862">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Gottschalk Waltz</title>
+            <title>Gottschalk Waltz, I. Introduction</title>
             <respStmt>
                <persName role="composer">Teresa Carreño</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -35,9 +35,7 @@
             <score xml:id="score-0000000985702224">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001890064936">
-                     <rend xml:id="rend-0000001249052435" halign="center" valign="top">Gottschalk Waltz</rend>
                      <rend xml:id="rend-0000000350065347" halign="right" valign="bottom">Teresa Carreño</rend>
-                     <rend xml:id="rend-0000001144518597" halign="center" valign="top">I. Introduction</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001265813133">
                      <staffGrp xml:id="P1" bar.thru="true">
