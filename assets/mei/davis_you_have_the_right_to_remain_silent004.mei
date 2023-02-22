@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>You Have the Right to Remain Silent</title>
+            <title>You Have the Right to Remain Silent, IV. Dance of the Other</title>
             <respStmt>
                <persName role="composer">Anthony Davis</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s3a3849">
                <scoreDef xml:id="stnebga">
                   <pgHead xml:id="pvjkkx1">
-                     <rend xml:id="ryjz9sz" halign="center" valign="top">You Have the Right to Remain Silent</rend>
-                     <rend xml:id="rybdjbn" halign="center" valign="top">IV. Dance of the Other</rend>
                      <rend xml:id="rie7vpk" halign="right" valign="bottom">Anthony Davis</rend>
                   </pgHead>
                   <staffGrp xml:id="sff6rb9">

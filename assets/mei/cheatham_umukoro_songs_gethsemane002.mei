@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>The Umukoro Songs</title>
+            <title>The Umukoro Songs, II. Gethsemane</title>
             <respStmt>
                <persName role="composer">Wallace McClain Cheatham</persName>
                <persName role="lyricist">Matthew Mevayerho Umukoro</persName>
@@ -39,8 +39,6 @@
             <score xml:id="score-0000001923709765">
                <scoreDef xml:id="scoredef-0000001952764767">
                   <pgHead xml:id="pghead-0000001450328906">
-                     <rend xml:id="rend-0000000375604584" halign="center" valign="top">The Umukoro Songs</rend>
-                     <rend xml:id="rend-0000002067592492" halign="center" valign="top">II. Gethsemane</rend>
                      <rend xml:id="rend-0000001745447721" halign="right" valign="bottom">Wallace McClain Cheatham</rend>
                      <rend xml:id="rend-0000001324995325" halign="left" valign="bottom">Matthew Mevayerho Umukoro</rend>
                   </pgHead>

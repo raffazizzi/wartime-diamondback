@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Violin and Piano Sonata (Hero)</title>
+            <title>Violin and Piano Sonata, III. Wind Sword</title>
             <respStmt>
                <persName role="composer">Tan Dun</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sxlzksl">
                <scoreDef xml:id="sk1sra4">
                   <pgHead xml:id="pne91u">
-                     <rend xml:id="rovqkxq" halign="center" valign="top">Violin and Piano Sonata (Hero)</rend>
-                     <rend xml:id="ramghdb" halign="center" valign="top">III. Wind Sword</rend>
                      <rend xml:id="rbjhi4y" halign="right" valign="bottom">Tan Dun</rend>
                   </pgHead>
                   <staffGrp xml:id="sjwyqgl">

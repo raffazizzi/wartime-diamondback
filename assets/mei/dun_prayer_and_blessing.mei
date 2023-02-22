@@ -37,10 +37,8 @@
             <score xml:id="score-0000000026328424">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001119361253">
-                     <rend xml:id="rend-0000001711159787" halign="center" valign="top">Prayer and Blessing</rend>
                      <rend xml:id="rend-0000000069968120" halign="right" valign="bottom">Tan Dun</rend>
                      <rend xml:id="rend-0000000417847271" halign="left" valign="bottom">Laozi</rend>
-                     <rend xml:id="rend-0000001059926060" halign="left" valign="top">Violin 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000115495778">
                      <staffGrp xml:id="staffgrp-0000001443365045">

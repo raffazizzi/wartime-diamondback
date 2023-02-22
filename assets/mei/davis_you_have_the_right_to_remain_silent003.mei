@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>You Have the Right to Remain Silent</title>
+            <title>You Have the Right to Remain Silent, III. Incarceration</title>
             <respStmt>
                <persName role="composer">Anthony Davis</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s5r8dm0">
                <scoreDef xml:id="sbxlf3o">
                   <pgHead xml:id="pez0vgc">
-                     <rend xml:id="r8y7ajx" halign="center" valign="top">You Have the Right to Remain Silent</rend>
-                     <rend xml:id="rtrxcld" halign="center" valign="top">III. Incarceration</rend>
                      <rend xml:id="rx1fleg" halign="right" valign="bottom">Anthony Davis</rend>
                   </pgHead>
                   <staffGrp xml:id="s2co3l8">

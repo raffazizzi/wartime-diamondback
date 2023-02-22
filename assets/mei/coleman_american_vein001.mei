@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>American Vein</title>
+            <title>American Vein, 1. The Redwood Forest</title>
             <respStmt>
                <persName role="composer">Valerie Coleman</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s1rle2n">
                <scoreDef xml:id="scqcy1d">
                   <pgHead xml:id="pnbuy31">
-                     <rend xml:id="rp87j44" halign="center" valign="top">American Vein</rend>
-                     <rend xml:id="rrkwpy" halign="center" valign="top">1. The Redwood Forest</rend>
                      <rend xml:id="rxjoyxl" halign="right" valign="bottom">Valerie Coleman</rend>
                   </pgHead>
                   <staffGrp xml:id="s1w2m2q">

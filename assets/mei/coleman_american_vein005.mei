@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>American Vein</title>
+            <title>American Vein, 5. Barn Raising, Bourbon and Bluegrass (BB&amp;B)</title>
             <respStmt>
                <persName role="composer">Valerie Coleman</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sg3lwet">
                <scoreDef xml:id="s1ce9p1">
                   <pgHead xml:id="pko5krs">
-                     <rend xml:id="rdad44w" halign="center" valign="top">American Vein</rend>
-                     <rend xml:id="rmg256k" halign="center" valign="top">5. Barn Raising, Bourbon and Bluegrass (BB&amp;B)</rend>
                      <rend xml:id="rgqbbz2" halign="right" valign="bottom">Valerie Coleman</rend>
                   </pgHead>
                   <staffGrp xml:id="s423bk">

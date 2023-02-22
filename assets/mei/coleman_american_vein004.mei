@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>American Vein</title>
+            <title>American Vein, 4. The Melting Pot</title>
             <respStmt>
                <persName role="composer">Valerie Coleman</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sg01uaq">
                <scoreDef xml:id="s49oh9l">
                   <pgHead xml:id="pq1l33x">
-                     <rend xml:id="rsxsno5" halign="center" valign="top">American Vein</rend>
-                     <rend xml:id="rjlbw72" halign="center" valign="top">4. The Melting Pot</rend>
                      <rend xml:id="rtu9hjf" halign="right" valign="bottom">Valerie Coleman</rend>
                   </pgHead>
                   <staffGrp xml:id="siwc2gg">

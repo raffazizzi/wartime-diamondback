@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>American Vein</title>
+            <title>American Vein, 2. On Route 66</title>
             <respStmt>
                <persName role="composer">Valerie Coleman</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s4yw2kp">
                <scoreDef xml:id="skdhfyx">
                   <pgHead xml:id="peg48tj">
-                     <rend xml:id="r6nslm" halign="center" valign="top">American Vein</rend>
-                     <rend xml:id="r9nvdhk" halign="center" valign="top">2. On Route 66</rend>
                      <rend xml:id="rf15h5r" halign="right" valign="bottom">Valerie Coleman</rend>
                   </pgHead>
                   <staffGrp xml:id="sjpw1qr">

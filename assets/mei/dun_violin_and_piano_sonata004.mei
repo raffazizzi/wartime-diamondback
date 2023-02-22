@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Violin and Piano Sonata</title>
+            <title>Violin and Piano Sonata, IV. Sorrow in the Desert</title>
             <respStmt>
                <persName role="composer">Tan Dun</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s5kcw3g">
                <scoreDef xml:id="sxe5u56">
                   <pgHead xml:id="ps7wk3r">
-                     <rend xml:id="rstc15g" halign="center" valign="top">Violin and Piano Sonata</rend>
-                     <rend xml:id="r7rgmtr" halign="center" valign="top">IV. Sorrow in the Desert</rend>
                      <rend xml:id="r7ubio2" halign="right" valign="bottom">Tan Dun</rend>
                   </pgHead>
                   <staffGrp xml:id="sg11ji8">

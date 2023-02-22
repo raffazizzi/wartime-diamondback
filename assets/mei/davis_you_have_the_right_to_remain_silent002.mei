@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>You Have the Right to Remain Silent</title>
+            <title>You Have the Right to Remain Silent, II. (Loss)</title>
             <respStmt>
                <persName role="composer">Anthony Davis</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sl9rqdw">
                <scoreDef xml:id="s3ukqf6">
                   <pgHead xml:id="p1k7agi">
-                     <rend xml:id="r779lw6" halign="center" valign="top">You Have the Right to Remain Silent</rend>
-                     <rend xml:id="rcv6z7g" halign="center" valign="top">II. (Loss)</rend>
                      <rend xml:id="rmfl5yh" halign="right" valign="bottom">Anthony Davis</rend>
                   </pgHead>
                   <staffGrp xml:id="s9mdddo">

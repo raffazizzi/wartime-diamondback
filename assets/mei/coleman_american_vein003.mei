@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>American Vein</title>
+            <title>American Vein, 3. Woodstock: Summer of 1952</title>
             <respStmt>
                <persName role="composer">Valerie Coleman</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s81rd3s">
                <scoreDef xml:id="srx38ku">
                   <pgHead xml:id="pt9ngb1">
-                     <rend xml:id="ror4qij" halign="center" valign="top">American Vein</rend>
-                     <rend xml:id="r2qls9c" halign="center" valign="top">3. Woodstock: Summer of 1952</rend>
                      <rend xml:id="r4cprvt" halign="right" valign="bottom">Valerie Coleman</rend>
                   </pgHead>
                   <staffGrp xml:id="sfhrxss">
