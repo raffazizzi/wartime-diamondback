@@ -36,7 +36,6 @@
             <score xml:id="score-0000000872872807">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001593144261">
-                     <rend xml:id="rend-0000000357141663" halign="center" valign="top">Grand Mass in E-flat Major Opus 5, Kyrie</rend>
                      <rend xml:id="rend-0000000607475861" halign="right" valign="top">Amy Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001059913455">

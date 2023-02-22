@@ -37,7 +37,6 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000416216982">
                      <rend xml:id="rend-0000001889650736" halign="right" valign="bottom">Amy Beach</rend>
-                     <rend xml:id="rend-0000002125143537" halign="center" valign="top">The candy lion, op. 75, no. 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000669697387">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="4">

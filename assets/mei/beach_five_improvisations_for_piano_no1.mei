@@ -5,8 +5,8 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Five Improvisations for Piano</title>
-            <title type="subordinate">1</title>
+            <title>Five Improvisations for Piano, op. 148</title>
+            <title type="subordinate">no. 1</title>
             <respStmt>
                <persName role="composer">Amy Beach</persName>
                <persName role="transcriber">Ismenia Ginebra</persName>
@@ -38,7 +38,6 @@
             <score xml:id="sc4bljq">
                <scoreDef xml:id="sa83nfh">
                   <pgHead xml:id="p84y8fx">
-                     <rend xml:id="rhv7jff" halign="center" valign="top">Five Improvisations for Piano, op. 148, no. 1</rend>
                      <rend xml:id="rw2kt6u" halign="right" valign="top">Mrs. H. H. A. Beach</rend>
                   </pgHead>
                   <staffGrp xml:id="sm223uv">

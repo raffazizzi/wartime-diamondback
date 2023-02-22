@@ -37,7 +37,6 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000920913527">
                      <rend xml:id="rend-0000000473518983" halign="right" valign="bottom">Amy Beach</rend>
-                     <rend xml:id="rend-0000000268858337" halign="center" valign="top">Dolladine, op. 75, no. 3</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000216110201">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">
