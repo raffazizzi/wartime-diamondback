@@ -47,4 +47,6 @@ Composer's names appear in alphabetical order and are organized chronologically 
       {% endif %}
     {% endfor %}
 </ul>
+
+
 </div>
