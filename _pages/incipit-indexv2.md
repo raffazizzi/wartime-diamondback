@@ -12,7 +12,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
 <h3>Solo Instrument</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.century == "solo" %}
+      {% if item.medium == "solo" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
