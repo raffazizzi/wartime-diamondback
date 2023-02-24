@@ -32,7 +32,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
         {{ item.author }} -
          {{ item.title }}
               </a>
-    <li>
+    </li>
       {% endif %}
     {% endfor %}
   </ul>
