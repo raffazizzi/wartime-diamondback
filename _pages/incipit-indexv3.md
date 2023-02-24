@@ -6,17 +6,16 @@ permanlink: /incipit-indexv3/
 The index is under development and additional composers and works will be added. Details about this project are available on this [page](https://annakijas1.github.io/rebalancing-music-canon/about/). Works can be viewed by composer or medium/work type.
 
 <div class="toc">
-  <h2>Incipit Index</h2>
   <ul class="post">
     
     <li class="text-title">
-      <a href="/rebalancing-music-canon.com/_pages/incipit-index/">
+      <a href="/_pages/incipit-index/">
         Composer Index
       </a>
     </li>
 
     <li class="text-title">
-      <a href=""rebalancing-music-canon.com/_pages/incipit-indexv2/">
+      <a href="/_pages/incipit-indexv2/">
         Medium Index
       </a>
     </li>
