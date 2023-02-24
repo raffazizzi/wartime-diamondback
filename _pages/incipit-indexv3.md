@@ -19,6 +19,6 @@ The index is under development and additional composers and works will be added.
        Browse by Medium or Work Type
       </a>
     </li>
-  
+
   </ul>
 </div>
