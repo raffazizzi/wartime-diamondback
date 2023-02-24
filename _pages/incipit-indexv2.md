@@ -15,7 +15,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
       {% if item.medium == "solo" %}
           <li class="text-author.text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }}
+        {{ item.author }} -
         {{ item.title }}
               </a>
     </li>
@@ -29,7 +29,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
       {% if item.medium == "chamber" %}
           <li class="text-author.text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }}
+        {{ item.author }} -
          {{ item.title }}
               </a>
     <li>
