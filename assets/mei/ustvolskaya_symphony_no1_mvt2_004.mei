@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony No. 1</title>
+            <title>Symphony No. 1, Mvt. II, 4. Der Knabe aus Modena (The boy from Modena)</title>
             <respStmt>
                <persName role="composer">Galina Ustvolskaya</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="syfjrq1">
                <scoreDef xml:id="sfxf0wa">
                   <pgHead xml:id="pur7j83">
-                     <rend xml:id="r3sxvow" halign="center" valign="top">Symphony No. 1</rend>
-                     <rend xml:id="rxw2win" halign="center" valign="top">II, 4. Der Knabe aus Modena (The boy from Modena)</rend>
                      <rend xml:id="rx56wdv" halign="right" valign="bottom">Galina Ustvolskaya</rend>
                   </pgHead>
                   <staffGrp xml:id="s6hovyk">

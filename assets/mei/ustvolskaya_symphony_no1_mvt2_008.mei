@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony No. 1</title>
+            <title>Symphony No. 1, Mvt. II, 8. Sonne (Sun)</title>
             <respStmt>
                <persName role="composer">Galina Ustvolskaya</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s4vrc1s">
                <scoreDef xml:id="sg3du28">
                   <pgHead xml:id="phgrxm0">
-                     <rend xml:id="rqmazmx" halign="center" valign="top">Symphony No. 1</rend>
-                     <rend xml:id="r51eepa" halign="center" valign="top">II, 8. Sonne (Sun)</rend>
                      <rend xml:id="r3c8dar" halign="right" valign="bottom">Galina Ustvolskaya</rend>
                   </pgHead>
                   <staffGrp xml:id="swhxwdc">

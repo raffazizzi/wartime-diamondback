@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony no. 1 in E minor</title>
+            <title>Symphony no. 1 in E minor, II. Largo, maestoso</title>
             <respStmt>
                <persName role="composer">Florence Price</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -36,10 +36,7 @@
             <score xml:id="score-0000000471769352">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001549907388">
-                     <rend xml:id="rend-0000002021537341" halign="center" valign="top">Symphony no. 1 in E minor</rend>
-                     <rend xml:id="rend-0000000416216982" halign="center" valign="top">II. Largo, maestoso</rend>
                      <rend xml:id="rend-0000001055422082" halign="right" valign="bottom">Florence Price</rend>
-                     <rend xml:id="rend-0000000794391702" halign="left" valign="top">Horn in F 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001227980260">
                      <staffGrp xml:id="staffgrp-0000000019148629">

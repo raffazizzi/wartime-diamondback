@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony No. 1</title>
+            <title>Symphony No. 1, Mvt. II, 5. "Kaufe Trödel!" ("Buy jumber!")</title>
             <respStmt>
                <persName role="composer">Galina Ustvolskaya</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sbxhxcj">
                <scoreDef xml:id="sk6ogcj">
                   <pgHead xml:id="pmcd4zg">
-                     <rend xml:id="rgca6ho" halign="center" valign="top">Symphony No. 1</rend>
-                     <rend xml:id="rd08418" halign="center" valign="top">II, 5. "Kaufe Trödel!" ("Buy jumber!")</rend>
                      <rend xml:id="rlz2kgu" halign="right" valign="bottom">Galina Ustvolskaya</rend>
                   </pgHead>
                   <staffGrp xml:id="sycl8vv">

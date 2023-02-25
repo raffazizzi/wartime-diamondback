@@ -6,6 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>Sonata for Violin</title>
+            <title type="subordinate">III</title>
             <respStmt>
                <persName role="composer">Grace Williams</persName>
                <persName role="transcriber">Anna Kijas</persName>
@@ -38,8 +39,6 @@
             <score xml:id="s3r05pi">
                <scoreDef xml:id="s63imsi">
                   <pgHead xml:id="pjr0vgj">
-                     <rend xml:id="r1x0220" halign="center" valign="top">Sonata for Violin</rend>
-                     <rend xml:id="raba21" halign="center" valign="top">III</rend>
                      <rend xml:id="r70hsbd" halign="right" valign="bottom">Grace Williams</rend>
                   </pgHead>
                   <staffGrp xml:id="s12qpyy">

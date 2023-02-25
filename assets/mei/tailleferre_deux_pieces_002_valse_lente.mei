@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Deux Pieces pour Piano</title>
+            <title>Deux Pieces pour Piano, Valse Lente</title>
             <respStmt>
                <persName role="composer">Germaine Taileferre</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="score-0000000063741782">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001226418232">
-                     <rend xml:id="rend-0000000994437979" halign="center" valign="top">Deux Pieces pour Piano</rend>
-                     <rend xml:id="rend-0000001020424087" halign="center" valign="top">Valse Lente</rend>
                      <rend xml:id="rend-0000001920694182" halign="right" valign="bottom">Germaine Tailleferre</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000144094004">

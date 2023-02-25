@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Primitive Echoes</title>
+            <title>Primitive Echoes, II. Ancient Whispers</title>
             <respStmt>
                <persName role="composer">Alice Gomez</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sz8b5pu">
                <scoreDef xml:id="spgrg0s">
                   <pgHead xml:id="p1tbny7">
-                     <rend xml:id="rdtygvd" halign="center" valign="top">Primitive Echoes</rend>
-                     <rend xml:id="rvd6s5i" halign="center" valign="top">II. Ancient Whispers</rend>
                      <rend xml:id="risxm78" halign="right" valign="bottom">Alice Gomez</rend>
                   </pgHead>
                   <staffGrp xml:id="s76t7xr">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Moods, 3</title>
+            <title>Moods, III</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -38,8 +38,6 @@
             <score xml:id="score-0000000835625074">
                <scoreDef xml:id="sag6a9g">
                   <pgHead xml:id="pghead-0000001791664457">
-                     <rend xml:id="rend-0000002118136190" halign="center" valign="top">Moods </rend>
-                     <rend xml:id="rend-0000000350404859" halign="center" valign="top">III</rend>
                      <rend xml:id="rend-0000000330503888" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001081400366">

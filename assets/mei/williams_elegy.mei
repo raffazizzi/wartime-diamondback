@@ -1,4 +1,4 @@
-a<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
@@ -37,7 +37,6 @@ a<?xml version="1.0" encoding="UTF-8"?>
             <score xml:id="sm0lazh">
                <scoreDef xml:id="scfaq9r">
                   <pgHead xml:id="pruwzhw">
-                     <rend xml:id="rqwawt8" halign="center" valign="top">Elegy for Strings</rend>
                      <rend xml:id="rmyzinq" halign="right" valign="bottom">Grace Williams</rend>
                   </pgHead>
                   <staffGrp xml:id="st1mkdq">

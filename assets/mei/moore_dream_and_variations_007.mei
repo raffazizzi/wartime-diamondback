@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Dream and Variations</title>
+            <title>Dream and Variations, 7</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="transcriber">Anna Kijas</persName>
@@ -37,7 +37,6 @@
             <score xml:id="spq3clb">
                <scoreDef xml:id="s7d6cdb">
                   <pgHead xml:id="parth5j">
-                     <rend xml:id="r1a3v2o" halign="center" valign="top">Dream and Variations</rend>
                      <rend xml:id="rfl2ay1" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                   </pgHead>
                   <staffGrp xml:id="sp0p6un">

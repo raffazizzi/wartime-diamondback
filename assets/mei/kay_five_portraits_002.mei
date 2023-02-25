@@ -38,8 +38,6 @@
             <score xml:id="syll0ty">
                <scoreDef xml:id="s9hex7y">
                   <pgHead xml:id="pu25wql">
-                     <rend xml:id="ridpjoa" halign="center" valign="top">Five Portraits</rend>
-                     <rend xml:id="rgiemmj" halign="center" valign="top">2. Adagio</rend>
                      <rend xml:id="radhro3" halign="right" valign="bottom">Ulysses Kay</rend>
                   </pgHead>
                   <staffGrp xml:id="sgrihry">

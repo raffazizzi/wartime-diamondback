@@ -5,8 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sonnets on Love, Rosebuds, and Death
-</title>
+            <title>Sonnets on Love, Rosebuds, and Death. V. Song for a Dark Girl</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="lyricist">Langston Hughes</persName>
@@ -39,9 +38,6 @@
             <score xml:id="so7uga2">
                <scoreDef xml:id="scfvf7j">
                   <pgHead xml:id="pwobde4">
-                     <rend xml:id="r89etyf" halign="center" valign="top">Sonnets on Love, Rosebuds, and Death
-</rend>
-                     <rend xml:id="rdmymzg" halign="center" valign="top">V. Song for a Dark Girl</rend>
                      <rend xml:id="roocvn1" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                      <rend xml:id="r3zcbcz" halign="left" valign="bottom">Langston Hughes</rend>
                   </pgHead>

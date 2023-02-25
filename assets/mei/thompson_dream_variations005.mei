@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Dream Variations</title>
+            <title>Dream Variations. Dream Variations</title>
             <respStmt>
                <persName role="composer">Richard Thompson</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="ss6h8c">
                <scoreDef xml:id="skvtwnh">
                   <pgHead xml:id="phtz6dv">
-                     <rend xml:id="rqe10mi" halign="center" valign="top">Dream Variations</rend>
-                     <rend xml:id="r5oh9jb" halign="center" valign="top">Dream Variations</rend>
                      <rend xml:id="rnuzmk5" halign="right" valign="bottom">Richard Thompson</rend>
                   </pgHead>
                   <staffGrp xml:id="sut8hlc">

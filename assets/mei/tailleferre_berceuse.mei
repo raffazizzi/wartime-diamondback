@@ -38,7 +38,6 @@
             <score xml:id="score-0000001490320508">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001152582071">
-                     <rend xml:id="rend-0000000712217599" halign="center" valign="top">Berceuse</rend>
                      <rend xml:id="rend-0000001610755243" halign="right" valign="bottom">Germaine Tailleferre</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000910813000">

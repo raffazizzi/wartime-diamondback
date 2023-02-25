@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony no. 1 in E minor</title>
+            <title>Symphony no. 1 in E minor, III. Juba Dance</title>
             <respStmt>
                <persName role="composer">Florence Price</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -36,10 +36,7 @@
             <score xml:id="score-0000001130540495">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000688365937">
-                     <rend xml:id="rend-0000000240754902" halign="center" valign="top">Symphony no. 1 in E minor</rend>
-                     <rend xml:id="rend-0000001455521293" halign="center" valign="top">III. Juba Dance</rend>
                      <rend xml:id="rend-0000000973630378" halign="right" valign="bottom">Florence Price</rend>
-                     <rend xml:id="rend-0000000309656644" halign="left" valign="top">Violin 1</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001694454087">
                      <staffGrp xml:id="staffgrp-0000001741757252">

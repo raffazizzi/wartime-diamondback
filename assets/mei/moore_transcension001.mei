@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Transcension</title>
+            <title>Transcension, I. "I have been to the mountaintop"</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sjxz9lc">
                <scoreDef xml:id="syhdkad">
                   <pgHead xml:id="pn4rfz2">
-                     <rend xml:id="r6mbrmc" halign="center" valign="top">Transcension: "I have been to the mountaintop"</rend>
-                     <rend xml:id="rw9s0po" halign="center" valign="top">I.</rend>
                      <rend xml:id="rz83y3g" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                   </pgHead>
                   <staffGrp xml:id="smwt5ht">

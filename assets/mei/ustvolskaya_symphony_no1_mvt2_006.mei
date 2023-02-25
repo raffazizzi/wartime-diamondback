@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony No. 1</title>
+            <title>Symphony No. 1, Mvt. II, 6. Wartesaal (Waiting Room)</title>
             <respStmt>
                <persName role="composer">Galina Ustvolskaya</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="snv53ze">
                <scoreDef xml:id="s1gptm0">
                   <pgHead xml:id="p1olvzl">
-                     <rend xml:id="rdhhoce" halign="center" valign="top">Symphony No. 1</rend>
-                     <rend xml:id="ru2b4cl" halign="center" valign="top">II, 6. Wartesaal (Waiting Room)</rend>
                      <rend xml:id="rx4kzbe" halign="right" valign="bottom">Galina Ustvolskaya</rend>
                   </pgHead>
                   <staffGrp xml:id="skp4poa">

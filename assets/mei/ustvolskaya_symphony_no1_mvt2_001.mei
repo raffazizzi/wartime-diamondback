@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony No. 1</title>
+            <title>Symphony No. 1, Mvt. II, 1. Ciccio</title>
             <respStmt>
                <persName role="composer">Galina Ustvolskaya</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s5zcayt">
                <scoreDef xml:id="sf2sxw0">
                   <pgHead xml:id="pr23n7q">
-                     <rend xml:id="rwl7l0q" halign="center" valign="top">Symphony No. 1</rend>
-                     <rend xml:id="r7dwjgi" halign="center" valign="top">II, 1. Ciccio</rend>
                      <rend xml:id="ra2s9ub" halign="right" valign="bottom">Galina Ustvolskaya </rend>
                   </pgHead>
                   <staffGrp xml:id="scim1ek">

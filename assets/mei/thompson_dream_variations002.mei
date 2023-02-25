@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Dream Variations</title>
+            <title>Dream Variations. The Negro speaks of Rivers</title>
             <respStmt>
                <persName role="composer">Richard Thompson</persName>
                <persName role="lyricist">Langston Hughes</persName>
@@ -38,10 +38,8 @@
             <score xml:id="sxy0xal">
                <scoreDef xml:id="sqwwkwj">
                   <pgHead xml:id="p4z7pyt">
-                     <rend xml:id="r6lky1z" halign="center" valign="top">Dream Variations</rend>
                      <rend xml:id="rf9550t" halign="right" valign="bottom">Richard Thompson</rend>
                      <rend xml:id="rs0teey" halign="left" valign="bottom">Langston Hughes</rend>
-                     <rend xml:id="rpi7lds" halign="center" valign="top">The Negro speaks of Rivers</rend>
                   </pgHead>
                   <staffGrp xml:id="stmkvrc">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="12">

@@ -36,7 +36,6 @@
             <score xml:id="score-0000001560200729">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001118655359">
-                     <rend xml:id="rend-0000001544294122" halign="center" valign="top">The brave man</rend>
                      <rend xml:id="rend-0000000216303584" halign="right" valign="bottom">Louise Talma</rend>
                      <rend xml:id="rend-0000001682084327" halign="left" valign="bottom">Wallace Stevens</rend>
                   </pgHead>

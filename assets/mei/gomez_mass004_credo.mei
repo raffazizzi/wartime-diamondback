@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Mass for Justice and Peace</title>
+            <title>Mass for Justice and Peace, IV. Credo</title>
             <respStmt>
                <persName role="composer">Alice Gomez</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sudvbmd">
                <scoreDef xml:id="stojwcy">
                   <pgHead xml:id="pjig3uc">
-                     <rend xml:id="r625ukx" halign="center" valign="top">Mass for Justice and Peace</rend>
-                     <rend xml:id="rft0q0" halign="center" valign="top">IV. Credo</rend>
                      <rend xml:id="rm5dzsp" halign="right" valign="bottom">Alice Gomez</rend>
                   </pgHead>
                   <staffGrp xml:id="smjq198">

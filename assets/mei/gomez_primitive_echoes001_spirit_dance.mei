@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Primitive Echoes</title>
+            <title>Primitive Echoes, I. Spirit Dance</title>
             <respStmt>
                <persName role="composer">Alice Gomez</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s4cedmt">
                <scoreDef xml:id="safl1yi">
                   <pgHead xml:id="pl36rpo">
-                     <rend xml:id="r66zu2v" halign="center" valign="top">Primitive Echoes</rend>
-                     <rend xml:id="rgm1glg" halign="center" valign="top">I. Spirit Dance</rend>
                      <rend xml:id="raxyrz7" halign="right" valign="bottom">Alice Gomez</rend>
                   </pgHead>
                   <staffGrp xml:id="shenj98">

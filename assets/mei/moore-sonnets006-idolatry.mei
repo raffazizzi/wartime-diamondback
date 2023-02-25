@@ -5,8 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sonnets on Love, Rosebuds, and Death
-</title>
+            <title>Sonnets on Love, Rosebuds, and Death. VI. Idolatry</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="lyricist">Arna Bontemps</persName>
@@ -39,9 +38,6 @@
             <score xml:id="sjdaqy">
                <scoreDef xml:id="s41r9ev">
                   <pgHead xml:id="pia581r">
-                     <rend xml:id="ry2noy3" halign="center" valign="top">Sonnets on Love, Rosebuds, and Death
-</rend>
-                     <rend xml:id="rffni40" halign="center" valign="top">VI. Idolatry</rend>
                      <rend xml:id="rdmofv2" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                      <rend xml:id="rtvv2ff" halign="left" valign="bottom">Arna Bontemps</rend>
                   </pgHead>

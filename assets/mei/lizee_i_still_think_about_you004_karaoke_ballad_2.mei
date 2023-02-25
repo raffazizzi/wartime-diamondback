@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>I Still Think About You</title>
+            <title>I Still Think About You, Karakoe Ballad 2</title>
             <respStmt>
                <persName role="composer">Nicole Lizée</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sqpw7dj">
                <scoreDef xml:id="sugopv1">
                   <pgHead xml:id="p33s5vz">
-                     <rend xml:id="rnxw6pj" halign="center" valign="top">I Still Think About You</rend>
-                     <rend xml:id="rbnv2qg" halign="center" valign="top">Karaoke Ballad 2</rend>
                      <rend xml:id="rn6btxl" halign="right" valign="bottom">Nicole Lizée</rend>
                   </pgHead>
                   <staffGrp xml:id="smrkns9">

@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Movement for String Trio</title>
             <respStmt>
                <persName role="composer">Coleridge-Taylor Perkinson</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sbsz20q">
                <scoreDef xml:id="sx3dr4a">
                   <pgHead xml:id="po1o3we">
-                     <rend xml:id="rk6mgvn" halign="center" valign="top">Movement for String Trio
-</rend>
                      <rend xml:id="rsq6t5f" halign="right" valign="bottom">Coleridge-Taylor Perkinson</rend>
                   </pgHead>
                   <staffGrp xml:id="syhkgsd">

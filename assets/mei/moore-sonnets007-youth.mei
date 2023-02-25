@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sonnets on Love, Rosebuds, and Death</title>
+            <title>Sonnets on Love, Rosebuds, and Death. VII. Youth Sings a Song of Rosebuds</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="lyricist">Countee Cullen</persName>
@@ -38,8 +38,6 @@
             <score xml:id="sga382k">
                <scoreDef xml:id="sfzbzsy">
                   <pgHead xml:id="pc38n2m">
-                     <rend xml:id="rn2ser0" halign="center" valign="top">Sonnets on Love, Rosebuds, and Death</rend>
-                     <rend xml:id="rygx3mj" halign="center" valign="top">VII. Youth Sings a Song of Rosebuds</rend>
                      <rend xml:id="ru65p6q" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                      <rend xml:id="rgh1lyk" halign="left" valign="bottom">Countee Cullen</rend>
                   </pgHead>

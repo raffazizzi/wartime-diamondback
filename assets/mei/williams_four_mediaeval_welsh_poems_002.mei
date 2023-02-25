@@ -37,8 +37,6 @@
             <score xml:id="score-0000000585156456">
                <scoreDef xml:id="scoredef-0000002125242283">
                   <pgHead xml:id="pghead-0000002095888225">
-                     <rend xml:id="rend-0000000044313801" halign="center" valign="top">Four Mediaeval Welsh Poems</rend>
-                     <rend xml:id="rend-0000002057530752" halign="center" valign="top">II. Hwiangerdd</rend>
                      <rend xml:id="rend-0000001510064388" halign="right" valign="bottom">Grace Williams</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001003676273">

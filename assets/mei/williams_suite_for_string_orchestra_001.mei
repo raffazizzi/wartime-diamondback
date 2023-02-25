@@ -37,9 +37,7 @@
             <score xml:id="score-0000000335924139">
                <scoreDef xml:id="svhmu9j">
                   <pgHead xml:id="pghead-0000001740912960">
-                     <rend xml:id="rend-0000001447540486" halign="center" valign="top">Suite for String Orchestra (The Dark Island)</rend>
                      <rend xml:id="rend-0000001227248120" halign="right" valign="bottom">Grace Williams</rend>
-                     <rend xml:id="rend-0000001113710884" halign="center" valign="top">I. Prologue</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001130256499">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="1">

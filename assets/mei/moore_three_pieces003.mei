@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Three Pieces</title>
+            <title>Three Pieces, III. Caprice</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="suxhain">
                <scoreDef xml:id="sf40ww7">
                   <pgHead xml:id="prxv21l">
-                     <rend xml:id="rcbg5yn" halign="center" valign="top">Three Pieces</rend>
-                     <rend xml:id="r6v7ppt" halign="center" valign="top">III. Caprice</rend>
                      <rend xml:id="roadtj3" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                   </pgHead>
                   <staffGrp xml:id="s531i33">

@@ -5,8 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sonnets on Love, Rosebuds, and Death
-</title>
+            <title>Sonnets on Love, Rosebuds, and Death. II. Joy</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="lyricist">Clarissa Scott Delaney</persName>
@@ -39,9 +38,6 @@
             <score xml:id="s3pqqzm">
                <scoreDef xml:id="sbkc4ke">
                   <pgHead xml:id="pvv3vqi">
-                     <rend xml:id="rx12ij6" halign="center" valign="top">Sonnets on Love, Rosebuds, and Death
-</rend>
-                     <rend xml:id="rvtj4s7" halign="center" valign="top">II. Joy</rend>
                      <rend xml:id="r49cku1" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                      <rend xml:id="r2z8o9w" halign="left" valign="bottom">Clarissa Scott Delaney</rend>
                   </pgHead>

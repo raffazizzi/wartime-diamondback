@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Mass for Justice and Peace </title>
+            <title>Mass for Justice and Peace, VI. Agnus Dei</title>
             <respStmt>
                <persName role="composer">Alice Gomez</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="su04rxd">
                <scoreDef xml:id="skv25cf">
                   <pgHead xml:id="p1knaxd">
-                     <rend xml:id="r97lpfp" halign="center" valign="top">Mass for Justice and Peace </rend>
-                     <rend xml:id="r54ajcc" halign="center" valign="top">VI. Agnus Dei</rend>
                      <rend xml:id="rl4zza1" halign="right" valign="bottom">Alice Gomez</rend>
                   </pgHead>
                   <staffGrp xml:id="sy0pu3b">

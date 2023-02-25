@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Mass for Justice and Peace</title>
+            <title>Mass for Justice and Peace, II. Kyrie</title>
             <respStmt>
                <persName role="composer">Alice Gomez</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="syoqd5a">
                <scoreDef xml:id="se298oj">
                   <pgHead xml:id="pezeo01">
-                     <rend xml:id="rj1u0k" halign="center" valign="top">Mass for Justice and Peace</rend>
-                     <rend xml:id="rcormuy" halign="center" valign="top">II. Kyrie</rend>
                      <rend xml:id="rcxvcji" halign="right" valign="bottom">Alice Gomez</rend>
                   </pgHead>
                   <staffGrp xml:id="suokpo5">

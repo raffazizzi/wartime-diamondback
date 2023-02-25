@@ -36,7 +36,6 @@
             <score xml:id="score-0000001832677295">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000676162387">
-                     <rend xml:id="rend-0000000157163156" halign="center" valign="top">Domination of black</rend>
                      <rend xml:id="rend-0000001060533750" halign="right" valign="bottom">Louise Talma</rend>
                      <rend xml:id="rend-0000001422960681" halign="left" valign="bottom">Wallace Stevens</rend>
                   </pgHead>

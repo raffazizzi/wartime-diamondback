@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Dream Variations</title>
+            <title>Dream Variations. Monotony</title>
             <respStmt>
                <persName role="composer">Richard Thompson</persName>
                <persName role="lyricist">Langston Hughes</persName>
@@ -38,8 +38,6 @@
             <score xml:id="s1tipvs">
                <scoreDef xml:id="sjjm6o">
                   <pgHead xml:id="pcqtxpy">
-                     <rend xml:id="rwcuuaw" halign="center" valign="top">Dream Variations</rend>
-                     <rend xml:id="rg81kef" halign="center" valign="top">Monotony</rend>
                      <rend xml:id="rswimi8" halign="right" valign="bottom">Richard Thompson</rend>
                      <rend xml:id="roxa2so" halign="left" valign="bottom">Langston Hughes</rend>
                   </pgHead>

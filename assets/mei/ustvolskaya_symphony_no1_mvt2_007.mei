@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Symphony No. 1</title>
+            <title>Symphony No. 1, Mvt. II, 7. Wenn die Fabrikschornsteine sterben (When factory chimneys die)</title>
             <respStmt>
                <persName role="composer">Galina Ustvolskaya</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s938oy1">
                <scoreDef xml:id="s1bgzah">
                   <pgHead xml:id="p7sm1m">
-                     <rend xml:id="r6mabbx" halign="center" valign="top">Symphony No. 1</rend>
-                     <rend xml:id="rz2u99a" halign="center" valign="top">II, 7. Wenn die Fabrikschornsteine sterben (When factory chimneys die)</rend>
                      <rend xml:id="rq96vj5" halign="right" valign="bottom">Galina Ustvolskaya</rend>
                   </pgHead>
                   <staffGrp xml:id="sur29m">

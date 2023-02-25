@@ -5,8 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sonnets on Love, Rosebuds, and Death
-</title>
+            <title>Sonnets on Love, Rosebuds, and Death. III. Some Things Are Very Dear to Me</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="lyricist">Gwendolyn B. Bennett</persName>
@@ -39,9 +38,6 @@
             <score xml:id="sw7vbb1">
                <scoreDef xml:id="syf0uw2">
                   <pgHead xml:id="pb2myrt">
-                     <rend xml:id="rnze5qt" halign="center" valign="top">Sonnets on Love, Rosebuds, and Death
-</rend>
-                     <rend xml:id="rhmessx" halign="center" valign="top">III. Some Things Are Very Dear to Me</rend>
                      <rend xml:id="rpm90qu" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                      <rend xml:id="rrrjogq" halign="left" valign="bottom">Gwendolyn B. Bennett</rend>
                   </pgHead>

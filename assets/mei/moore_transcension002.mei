@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Transcension</title>
+            <title>Transcension, II</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="sfk8e50">
                <scoreDef xml:id="sp76vfw">
                   <pgHead xml:id="pyove8f">
-                     <rend xml:id="r2n7uu6" halign="center" valign="top">Transcension</rend>
-                     <rend xml:id="rym586i" halign="center" valign="top">II.</rend>
                      <rend xml:id="rfyib5h" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                   </pgHead>
                   <staffGrp xml:id="s1ydyzd">

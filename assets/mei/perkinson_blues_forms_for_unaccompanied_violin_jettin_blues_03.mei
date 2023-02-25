@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Blue/s Forms for Unaccompanied Violin</title>
+            <title>Blue/s Forms for Unaccompanied Violin. III. Jettin' Blue/s</title>
             <respStmt>
                <persName role="composer">Coleridge-Taylor Perkinson</persName>
                <persName role="transcriber">Joanna Strogatz</persName>
@@ -37,8 +37,6 @@
             <score xml:id="score-0000001213759712">
                <scoreDef xml:id="scoredef-0000001970444384">
                   <pgHead xml:id="pghead-0000001421034721">
-                     <rend xml:id="rend-0000000538882687" halign="center" valign="top">Blue/s Forms for Unaccompanied Violin</rend>
-                     <rend xml:id="rend-0000000140639032" halign="center" valign="top">III. Jettin' Blue/s</rend>
                      <rend xml:id="rend-0000000933140093" halign="right" valign="bottom">Coleridge-Taylor Perkinson</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001755913184">

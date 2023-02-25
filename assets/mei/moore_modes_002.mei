@@ -37,10 +37,7 @@
             <score xml:id="s12af4d">
                <scoreDef xml:id="sda27ly">
                   <pgHead xml:id="pbclei5">
-                     <rend xml:id="rruiurp" halign="center" valign="top">Modes for String Quartet</rend>
-                     <rend xml:id="rjen8ys" halign="center" valign="top">II</rend>
                      <rend xml:id="roq2zjg" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
-                     <rend xml:id="rb4466v" halign="left" valign="top">Violin 1</rend>
                   </pgHead>
                   <staffGrp xml:id="sfkvd6t">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">

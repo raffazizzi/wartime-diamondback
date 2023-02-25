@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Sonnets on Love, Rosebuds, and Death</title>
+            <title>Sonnets on Love, Rosebuds, and Death. Introduction</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="spf7nds">
                <scoreDef xml:id="sycxpl4">
                   <pgHead xml:id="p28o19y">
-                     <rend xml:id="r2q76k8" halign="center" valign="top">Sonnets on Love, Rosebuds, and Death</rend>
-                     <rend xml:id="r35jgmc" halign="center" valign="top">Introduction</rend>
                      <rend xml:id="rtmjod7" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                   </pgHead>
                   <staffGrp xml:id="smtypwp">

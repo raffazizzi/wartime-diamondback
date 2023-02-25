@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Bombs of Beirut</title>
+            <title>Bombs of Beirut, ii. The War</title>
             <respStmt>
                <persName role="composer">Mary Kouyoumdjian</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s46iyhh">
                <scoreDef xml:id="ss6khha">
                   <pgHead xml:id="ptib4uf">
-                     <rend xml:id="rt2582o" halign="center" valign="top">Bombs of Beirut</rend>
-                     <rend xml:id="raps6wx" halign="center" valign="top">ii. The War</rend>
                      <rend xml:id="rfr6fw2" halign="right" valign="bottom">Mary Kouyoumdjian</rend>
                   </pgHead>
                   <staffGrp xml:id="shgjwii">

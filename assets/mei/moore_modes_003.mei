@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Modes for String Quartet</title>
+            <title>Modes for String Quartet, III</title>
             <respStmt>
                <persName role="composer">Dorothy Rudd Moore</persName>
                <persName role="transcriber">Phillip G. Wright</persName>
@@ -37,10 +37,7 @@
             <score xml:id="s1sfzew">
                <scoreDef xml:id="sg3oa0a">
                   <pgHead xml:id="ps0u153">
-                     <rend xml:id="r54d0lg" halign="center" valign="top">Modes for String Quartet</rend>
-                     <rend xml:id="rsszwhw" halign="center" valign="top">III</rend>
                      <rend xml:id="rf0fs7c" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
-                     <rend xml:id="rq3on2f" halign="left" valign="top">Violin 1</rend>
                   </pgHead>
                   <staffGrp xml:id="sjfxt4x">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">

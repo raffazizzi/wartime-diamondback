@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>I Still Think About You</title>
+            <title>I Still Think About You, Pocket Operator 1</title>
             <respStmt>
                <persName role="composer">Nicole Lizée</persName>
                <persName role="transcriber">Phillip Wright</persName>
@@ -37,8 +37,6 @@
             <score xml:id="s369bur">
                <scoreDef xml:id="sqcazd5">
                   <pgHead xml:id="pwbx3kd">
-                     <rend xml:id="r1xclw5" halign="center" valign="top">I Still Think About You</rend>
-                     <rend xml:id="r3o0b9n" halign="center" valign="top">Pocket Operator 1</rend>
                      <rend xml:id="r7809qe" halign="right" valign="bottom">Nicole Lizée</rend>
                   </pgHead>
                   <staffGrp xml:id="s1q2si9">
