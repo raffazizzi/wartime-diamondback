@@ -37,7 +37,7 @@
             <score xml:id="s99sd1g">
                <scoreDef xml:id="s10fhxn">
                   <pgHead xml:id="pjlxsz4">
-                     <rend xml:id="ruhuvpv" halign="center" valign="top">Dream of the Cherry Blossoms</rend>
+                     <rend xml:id="ruhuvpv" halign="center" valign="top"></rend>
                      <rend xml:id="rrt8ise" halign="center" valign="top"></rend>
                      <rend xml:id="r73f6lq" halign="right" valign="bottom">Keiko Abe</rend>
                   </pgHead>
