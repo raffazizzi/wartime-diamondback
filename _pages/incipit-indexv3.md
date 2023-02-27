@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Incipit Index
-permalink: /incipit-indexv3/
+permanlink: /incipit-indexv3/
 ---
 The index is under development and additional composers and works will be added. Details about this project are available on this [page](https://annakijas1.github.io/rebalancing-music-canon/about/). Works can be viewed by composer or medium/work type.
 
