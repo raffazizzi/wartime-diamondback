@@ -16,7 +16,7 @@ The index is under development and additional composers and works will be added.
 
     <li class="text-title">
       <a href="/_pages/incipit-indexv2/">
-       Browse by Medium or Work Type
+       Browse by Ensemble Type
       </a>
     </li>
 
