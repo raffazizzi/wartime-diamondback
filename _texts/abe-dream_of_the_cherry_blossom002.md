@@ -2,7 +2,7 @@
 layout: mei
 title: Dream of the cherry blossoms, II.
 author: Abe, Keiko
-ensemble: marimba
+ensemble: solo
 permalink: /abe-dream-of-the-cherry-blossoms-ii/
 document: abe_dream_of_the_cherry_blossom002.mei
 ---
