@@ -13,7 +13,7 @@ Works can be currently viewed by composer.
   <ul class="post">
     
     <li class="text-title">
-      <a href="/_pages/incipit-index/">
+      <a href="/_pages/incipit-indexv3/">
         Browse by Composer
       </a>
     </li>
