@@ -1,24 +1,50 @@
 ---
 layout: page
-title: Incipit Index
+title: Browse by Composer
 permanlink: /incipit-indexv3/
 ---
-The index is under development and additional composers and works will be added. Details about this project are available on this [page](https://annakijas1.github.io/rebalancing-music-canon/about/). Works can be viewed by composer or medium/work type.
+Composer's names appear in alphabetical order and are organized chronologically by century of their birth.
 
 <div class="toc">
-  <ul class="post">
-    
-    <li class="text-title">
-      <a href="/_pages/incipit-index/">
-        Browse by Composer
-      </a>
-    </li>
 
-    <li class="text-title">
-      <a href="/_pages/incipit-indexv2/">
-       Browse by Medium or Work Type
-      </a>
+<h3>18th century</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.century == "18th" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
     </li>
+      {% endif %}
+    {% endfor %}
+</ul>
 
-  </ul>
+ <h3>19th century</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.century == "19th" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+  <h3>20th century</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.century == "20th" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+
 </div>

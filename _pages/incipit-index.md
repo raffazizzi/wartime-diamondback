@@ -3,50 +3,26 @@ layout: page
 title: Incipit Index
 permanlink: /incipit-index/
 ---
-This index is under development and additional composers and works will be added. Details about this project are available on this [page](https://annakijas1.github.io/rebalancing-music-canon/about/).
+The index is under development and additional composers and works will be added. Details about this project are available on this [page](https://annakijas1.github.io/rebalancing-music-canon/about/). Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. Incipits are being added regularly and there may be titles in the index that do not yet have a corresponding incipit.
 
-Composer's names appear in alphabetical order and are organized chronologically by century of their birth. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. Incipits are being added regularly and there may be titles in the index that do not yet have a corresponding incipit.
+Works can be currently viewed by composer. 
+
+(Please Note: We are in the process of adding ensemble type metadata which will then be pulled into the browse by ensemble type page linked below) 
 
 <div class="toc">
-
-<h3>18th century</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.century == "18th" %}
-          <li class="text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
+  <ul class="post">
+    
+    <li class="text-title">
+      <a href="/_pages/incipit-indexv3/">
+        Browse by Composer
+      </a>
     </li>
-      {% endif %}
-    {% endfor %}
-</ul>
 
- <h3>19th century</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.century == "19th" %}
-          <li class="text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
+    <li class="text-title">
+      <a href="/_pages/incipit-indexv2/">
+       Browse by Ensemble Type
+      </a>
     </li>
-      {% endif %}
-    {% endfor %}
-</ul>
 
-  <h3>20th century</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.century == "20th" %}
-          <li class="text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-
+  </ul>
 </div>
