@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Incipit Index
+title: Browse by Composer
 permanlink: /incipit-indexv3/
 ---
-Composer's names appear in alphabetical order and are organized chronologically by century of their birth. Incipits are transcribed from scores housed in the Lilly Music Library, unless otherwise noted. Incipits are being added regularly and there may be titles in the index that do not yet have a corresponding incipit.
+Composer's names appear in alphabetical order and are organized chronologically by century of their birth.
 
 <div class="toc">
 
