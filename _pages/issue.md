@@ -7,7 +7,7 @@ permalink: /1943-12-17/
 ## Articles in the collection
 
 Selection of articles from *The diamondback (College Park, Md.), 1943-12-17*
-See full issue on the [University Library website](https://www.lib.umd.edu/univarchives/student-newspapers/id/fbe8564d-426c-456b-aff2-b19c0caaaeb8)
+See full issue on the [University Library website](https://digital.lib.umd.edu/student-newspapers/id/fbe8564d-426c-456b-aff2-b19c0caaaeb8)
 
 <div>
 {% assign texts_list = site.texts | sort:"url" %}
