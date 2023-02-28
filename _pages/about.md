@@ -9,9 +9,9 @@ The current project is focused on encoding musical incipits (initial melodic lin
 
 The incipits are transcribed and reviewed by student contributors (listed below) under the direction of music librarian, Anna Kijas (Head, Lilly Music Library). In addition to making works by underrepresented composers in our collection more visible and discoverable, the students are developing expertise in transcription and editing methods, as well as expanding their knowledge of a diverse music repertoire.
 
-### Contributors
+### Current Contributors
+- Jordan Good (Spring 2023-current), graduate
 - Joanna Strogatz (Spring 2021-current), undergraduate
-- Phillip G. Wright (Spring 2021-current), graduate
 
 ### Past contributors
 - Ismenia Ginebra (Spring 2020-2022), undergraduate
@@ -22,6 +22,7 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 - Victoria K. Rose (Spring 2021), undergraduate
 - Sebastian Tringale (Spring 2020-2021), undergraduate
 - Hailing Wang (Spring 2020), undergraduate
+- Phillip G. Wright (Spring 2021-2022), graduate
 
 
 ---
