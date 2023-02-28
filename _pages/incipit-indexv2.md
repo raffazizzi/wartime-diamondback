@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Browse by Ensemble Type
-permanlink: /incipit-indexv2/
+permalink: /incipit-indexv2/
 ---
 <div class="toc">
 
