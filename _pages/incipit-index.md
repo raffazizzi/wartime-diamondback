@@ -13,13 +13,13 @@ Works can be currently viewed by composer.
   <ul class="post">
     
     <li class="text-title">
-      <a href="/_pages/incipit-indexv3/">
+      <a href="/incipit-indexv3/">
         Browse by Composer
       </a>
     </li>
 
     <li class="text-title">
-      <a href="/_pages/incipit-indexv2/">
+      <a href="/incipit-indexv2/">
        Browse by Ensemble Type
       </a>
     </li>
