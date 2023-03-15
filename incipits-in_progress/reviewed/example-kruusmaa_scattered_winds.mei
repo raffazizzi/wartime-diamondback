@@ -8,9 +8,24 @@
             <title>Scattered Winds / Uhutud Tuuled</title>
             <respStmt>
                <persName role="composer">Alisson Kruusmaa</persName>
+               <persName role="transcriber"></persName>
+               <persName role="reviewer"></persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2023-02-10" type="encoding-date">2023-02-10</date>
+         <pubStmt>
+         <publisher>Rebalancing the Music Canon</publisher>
+<date isodate="2023-02-10" type="encoding-date">2023-02-10</date>
+<availability>
+
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+
+       </availability>
+
+       <identifier>
+
+       <ref target="https://rebalancing-music-canon.com/"/>
+
+       </identifier>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-1npmzus">
@@ -28,8 +43,6 @@
             <score xml:id="su3dmo1">
                <scoreDef xml:id="sj2j0fw">
                   <pgHead xml:id="pgamsah">
-                     <rend xml:id="r1r9oc3m" halign="center" valign="top">scattered winds / uhutud tuuled</rend>
-                     <rend xml:id="r1s5hruh" halign="center" valign="top">for bass clarinet solo / soolobassklarnetile</rend>
                      <rend xml:id="r1qoxt73" halign="right" valign="bottom">Alisson Kruusmaa</rend>
                   </pgHead>
                   <staffGrp xml:id="s14303lg">
